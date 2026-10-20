@@ -1,0 +1,442 @@
+[
+  {
+    "id": "q061",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le permis B1 permet de conduire :",
+    "question_uk": "Посвідчення категорії B1 дозволяє керувати:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "des quadricycles lourds à moteur",
+        "uk": "важкими моторизованими квадрициклами"
+      },
+      {
+        "id": "B",
+        "fr": "des camions de plus de 3,5 tonnes",
+        "uk": "вантажівками понад 3,5 тонни"
+      },
+      {
+        "id": "C",
+        "fr": "des autocars",
+        "uk": "автобусами"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La catégorie B1 concerne les quadricycles lourds à moteur. Elle est accessible dès 16 ans.",
+    "explanation_uk": "Категорія B1 — це важкі моторизовані квадрицикли. Її можна отримати з 16 років."
+  },
+  {
+    "id": "q062",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "L'âge minimum pour obtenir le permis B1 est de :",
+    "question_uk": "Мінімальний вік для отримання категорії B1:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "14 ans",
+        "uk": "14 років"
+      },
+      {
+        "id": "B",
+        "fr": "16 ans",
+        "uk": "16 років"
+      },
+      {
+        "id": "C",
+        "fr": "18 ans",
+        "uk": "18 років"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Le permis B1 (quadricycles lourds) peut être obtenu à partir de 16 ans.",
+    "explanation_uk": "Категорію B1 (важкі квадрицикли) можна отримати з 16 років."
+  },
+  {
+    "id": "q063",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "La durée normale de la période probatoire est de :",
+    "question_uk": "Звичайна тривалість пробного періоду:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 an",
+        "uk": "1 рік"
+      },
+      {
+        "id": "B",
+        "fr": "3 ans",
+        "uk": "3 роки"
+      },
+      {
+        "id": "C",
+        "fr": "5 ans",
+        "uk": "5 років"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "La période probatoire dure 3 ans, ou 2 ans après un apprentissage anticipé de la conduite (conduite accompagnée).",
+    "explanation_uk": "Пробний період триває 3 роки, або 2 роки після раннього навчання з супроводом (conduite accompagnée)."
+  },
+  {
+    "id": "q064",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le permis de conduire à points compte au maximum :",
+    "question_uk": "Максимальна кількість балів на посвідченні водія:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "10 points",
+        "uk": "10 балів"
+      },
+      {
+        "id": "B",
+        "fr": "12 points",
+        "uk": "12 балів"
+      },
+      {
+        "id": "C",
+        "fr": "15 points",
+        "uk": "15 балів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Le capital maximal est de 12 points. Si le solde tombe à zéro, le permis est invalidé.",
+    "explanation_uk": "Максимум — 12 балів. Якщо баланс падає до нуля, посвідчення анулюють."
+  },
+  {
+    "id": "q065",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Ne pas respecter un feu rouge entraîne un retrait de :",
+    "question_uk": "Проїзд на червоне світло карається зняттям:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "2 points",
+        "uk": "2 балів"
+      },
+      {
+        "id": "B",
+        "fr": "4 points",
+        "uk": "4 балів"
+      },
+      {
+        "id": "C",
+        "fr": "6 points",
+        "uk": "6 балів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Franchir un feu rouge ou ne pas marquer l'arrêt au STOP coûte 4 points et une amende de 135 €.",
+    "explanation_uk": "Проїзд на червоне або незупинка біля знака STOP — мінус 4 бали та штраф 135 €."
+  },
+  {
+    "id": "q066",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Lors d'un contrôle routier, je dois pouvoir présenter :",
+    "question_uk": "Під час перевірки на дорозі я маю пред'явити:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "mon permis de conduire",
+        "uk": "своє посвідчення водія"
+      },
+      {
+        "id": "B",
+        "fr": "le certificat d'immatriculation du véhicule",
+        "uk": "свідоцтво про реєстрацію авто"
+      },
+      {
+        "id": "C",
+        "fr": "la facture d'achat du véhicule",
+        "uk": "рахунок про купівлю авто"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le conducteur doit présenter son permis et le certificat d'immatriculation (carte grise). La facture d'achat n'est pas demandée.",
+    "explanation_uk": "Водій має пред'явити посвідчення та свідоцтво про реєстрацію (carte grise). Рахунок про купівлю не вимагають."
+  },
+  {
+    "id": "q067",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Rouler sans assurance :",
+    "question_uk": "Їздити без страховки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est autorisé pour les petits trajets",
+        "uk": "дозволено для коротких поїздок"
+      },
+      {
+        "id": "B",
+        "fr": "est un délit",
+        "uk": "є кримінальним правопорушенням (délit)"
+      },
+      {
+        "id": "C",
+        "fr": "est seulement déconseillé",
+        "uk": "лише не рекомендується"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "L'assurance responsabilité civile est obligatoire pour tout véhicule terrestre à moteur. Circuler sans assurance est un délit.",
+    "explanation_uk": "Страхування цивільної відповідальності обов'язкове для будь-якого моторного транспорту. Їзда без страховки — délit."
+  },
+  {
+    "id": "q068",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le premier contrôle technique d'une voiture neuve doit être fait :",
+    "question_uk": "Перший техогляд нового авто треба пройти:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "avant ses 4 ans",
+        "uk": "до 4 років від першої реєстрації"
+      },
+      {
+        "id": "B",
+        "fr": "chaque année",
+        "uk": "щороку"
+      },
+      {
+        "id": "C",
+        "fr": "avant ses 10 ans",
+        "uk": "до 10 років"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le premier contrôle technique a lieu dans les 6 mois précédant le 4e anniversaire de la première immatriculation, puis tous les 2 ans.",
+    "explanation_uk": "Перший техогляд проходять протягом 6 місяців до 4-ї річниці першої реєстрації, далі — кожні 2 роки."
+  },
+  {
+    "id": "q069",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Je suis impliqué dans un accident matériel sans blessé. Je peux :",
+    "question_uk": "Я потрапив у ДТП без постраждалих, лише пошкодження. Я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "remplir un constat amiable avec l'autre conducteur",
+        "uk": "заповнити з іншим водієм європротокол (constat amiable)"
+      },
+      {
+        "id": "B",
+        "fr": "partir sans m'arrêter",
+        "uk": "поїхати не зупиняючись"
+      },
+      {
+        "id": "C",
+        "fr": "dégager les véhicules si possible pour éviter un sur-accident",
+        "uk": "прибрати авто з дороги, якщо можливо, щоб уникнути нової аварії"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Le constat amiable sert à décrire l'accident pour les assurances. Quitter les lieux sans s'arrêter est un délit de fuite.",
+    "explanation_uk": "Європротокол описує аварію для страхових компаній. Поїхати з місця ДТП — délit de fuite (втеча з місця аварії)."
+  },
+  {
+    "id": "q070",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Quel équipement doit obligatoirement se trouver dans ma voiture ?",
+    "question_uk": "Яке спорядження обов'язково має бути в авто?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un gilet de haute visibilité",
+        "uk": "світловідбивний жилет"
+      },
+      {
+        "id": "B",
+        "fr": "un triangle de présignalisation",
+        "uk": "знак аварійної зупинки"
+      },
+      {
+        "id": "C",
+        "fr": "un extincteur",
+        "uk": "вогнегасник"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le gilet (accessible sans sortir du véhicule) et le triangle sont obligatoires. L'extincteur est recommandé mais pas obligatoire pour une voiture particulière.",
+    "explanation_uk": "Жилет (щоб дістати, не виходячи з авто) і трикутник обов'язкові. Вогнегасник рекомендований, але для легкового авто не обов'язковий."
+  },
+  {
+    "id": "q071",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Pendant la période probatoire, si je ne commets aucune infraction, mon permis gagne chaque année :",
+    "question_uk": "Протягом пробного періоду без порушень мої права щороку отримують:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 point",
+        "uk": "1 бал"
+      },
+      {
+        "id": "B",
+        "fr": "2 points",
+        "uk": "2 бали"
+      },
+      {
+        "id": "C",
+        "fr": "6 points",
+        "uk": "6 балів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Sans infraction, le permis probatoire gagne 2 points par an (3 points par an après une conduite accompagnée) jusqu'à 12.",
+    "explanation_uk": "Без порушень пробні права отримують 2 бали на рік (3 бали — після супровідного водіння), до 12."
+  },
+  {
+    "id": "q072",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Ne pas porter sa ceinture de sécurité entraîne :",
+    "question_uk": "За непристебнутий пасок безпеки передбачено:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une amende de 135 € et un retrait de 3 points",
+        "uk": "штраф 135 € і мінус 3 бали"
+      },
+      {
+        "id": "B",
+        "fr": "un simple avertissement",
+        "uk": "лише попередження"
+      },
+      {
+        "id": "C",
+        "fr": "une amende sans retrait de points",
+        "uk": "штраф без зняття балів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le défaut de port de la ceinture est puni d'une amende forfaitaire de 135 € et d'un retrait de 3 points.",
+    "explanation_uk": "За непристебнутий пасок — фіксований штраф 135 € і мінус 3 бали."
+  },
+  {
+    "id": "q073",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un stage de sensibilisation à la sécurité routière permet de récupérer :",
+    "question_uk": "Курс з безпеки дорожнього руху (stage) дає змогу повернути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "jusqu'à 4 points",
+        "uk": "до 4 балів"
+      },
+      {
+        "id": "B",
+        "fr": "tous les points",
+        "uk": "усі бали"
+      },
+      {
+        "id": "C",
+        "fr": "1 point",
+        "uk": "1 бал"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un stage volontaire permet de récupérer jusqu'à 4 points, dans la limite du capital maximal.",
+    "explanation_uk": "Добровільний курс повертає до 4 балів, але не більше максимального ліміту."
+  },
+  {
+    "id": "q074",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un véhicule laissé en stationnement au même endroit sur la voie publique plus de 7 jours :",
+    "question_uk": "Авто, що стоїть на одному місці на вулиці понад 7 днів:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est en stationnement abusif",
+        "uk": "вважається зловживанням паркуванням"
+      },
+      {
+        "id": "B",
+        "fr": "peut être mis en fourrière",
+        "uk": "може бути евакуйоване на штрафмайданчик"
+      },
+      {
+        "id": "C",
+        "fr": "ne pose aucun problème",
+        "uk": "не порушує жодних правил"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le stationnement ininterrompu de plus de 7 jours au même endroit est abusif et peut entraîner une mise en fourrière.",
+    "explanation_uk": "Безперервна стоянка понад 7 днів на одному місці вважається зловживанням і може закінчитися евакуацією."
+  },
+  {
+    "id": "q075",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Les forces de l'ordre me font signe de m'arrêter :",
+    "question_uk": "Поліція подає мені знак зупинитися:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je dois obéir et m'arrêter",
+        "uk": "я маю підкоритися й зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "je peux continuer si je suis pressé",
+        "uk": "я можу їхати далі, якщо поспішаю"
+      },
+      {
+        "id": "C",
+        "fr": "leurs indications priment sur les feux et panneaux",
+        "uk": "їхні вказівки важливіші за світлофори та знаки"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Les injonctions des agents de la circulation s'imposent et passent avant les feux et la signalisation. Refuser d'obtempérer est un délit.",
+    "explanation_uk": "Вказівки регулювальника обов'язкові й мають пріоритет над світлофорами та знаками. Відмова зупинитися — délit."
+  }
+]

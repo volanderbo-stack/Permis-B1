@@ -1,0 +1,439 @@
+[
+  {
+    "id": "q016",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Pour un conducteur expérimenté, le taux d'alcool maximal autorisé dans le sang est de :",
+    "question_uk": "Для досвідченого водія максимально допустимий рівень алкоголю в крові становить:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "0,2 g/l",
+        "uk": "0,2 г/л"
+      },
+      {
+        "id": "B",
+        "fr": "0,5 g/l",
+        "uk": "0,5 г/л"
+      },
+      {
+        "id": "C",
+        "fr": "0,8 g/l",
+        "uk": "0,8 г/л"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Le taux maximal est de 0,5 g d'alcool par litre de sang (0,25 mg/l d'air expiré). À partir de 0,8 g/l, c'est un délit.",
+    "explanation_uk": "Максимум — 0,5 г алкоголю на літр крові (0,25 мг/л у видихуваному повітрі). Від 0,8 г/л це вже кримінальне правопорушення (délit)."
+  },
+  {
+    "id": "q017",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Je suis en permis probatoire. Le taux d'alcool maximal autorisé dans le sang est de :",
+    "question_uk": "У мене пробні права. Максимально допустимий рівень алкоголю в крові:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "0,2 g/l",
+        "uk": "0,2 г/л"
+      },
+      {
+        "id": "B",
+        "fr": "0,5 g/l",
+        "uk": "0,5 г/л"
+      },
+      {
+        "id": "C",
+        "fr": "0,3 g/l",
+        "uk": "0,3 г/л"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Pour les conducteurs en période probatoire, le taux est abaissé à 0,2 g/l, ce qui correspond pratiquement à zéro verre.",
+    "explanation_uk": "Для водіїв на пробному періоді ліміт знижено до 0,2 г/л, тобто практично жодної склянки."
+  },
+  {
+    "id": "q018",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Pour faire baisser plus vite mon taux d'alcool, je peux :",
+    "question_uk": "Щоб рівень алкоголю знизився швидше, я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "boire un café fort",
+        "uk": "випити міцної кави"
+      },
+      {
+        "id": "B",
+        "fr": "prendre une douche froide",
+        "uk": "прийняти холодний душ"
+      },
+      {
+        "id": "C",
+        "fr": "attendre : seul le temps élimine l'alcool",
+        "uk": "чекати: алкоголь виводить лише час"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Aucun « truc » n'accélère l'élimination. L'organisme élimine environ 0,10 à 0,15 g/l par heure.",
+    "explanation_uk": "Жоден «лайфхак» не пришвидшує виведення алкоголю. Організм виводить приблизно 0,10–0,15 г/л на годину."
+  },
+  {
+    "id": "q019",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Sur un long trajet, il est recommandé de faire une pause :",
+    "question_uk": "У довгій поїздці рекомендується робити перерву:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "toutes les 2 heures",
+        "uk": "кожні 2 години"
+      },
+      {
+        "id": "B",
+        "fr": "toutes les 4 heures",
+        "uk": "кожні 4 години"
+      },
+      {
+        "id": "C",
+        "fr": "seulement quand je me sens fatigué",
+        "uk": "лише коли відчуваю втому"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Il faut s'arrêter au moins toutes les 2 heures, et dès les premiers signes de fatigue.",
+    "explanation_uk": "Зупинятися потрібно щонайменше кожні 2 години, а також одразу при перших ознаках втоми."
+  },
+  {
+    "id": "q020",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Quels sont des signes de fatigue au volant ?",
+    "question_uk": "Які ознаки втоми за кермом?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "des bâillements répétés",
+        "uk": "часте позіхання"
+      },
+      {
+        "id": "B",
+        "fr": "des picotements dans les yeux",
+        "uk": "печіння в очах"
+      },
+      {
+        "id": "C",
+        "fr": "une envie de rouler plus vite",
+        "uk": "бажання їхати швидше"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Bâillements, yeux qui piquent, raideur dans la nuque, difficulté à garder une trajectoire : il faut s'arrêter et se reposer.",
+    "explanation_uk": "Позіхання, печіння в очах, затерплість шиї, важко тримати траєкторію — треба зупинитися і відпочити."
+  },
+  {
+    "id": "q021",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "En conduisant, je peux téléphoner :",
+    "question_uk": "Під час руху я можу телефонувати:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en tenant le téléphone à la main",
+        "uk": "тримаючи телефон у руці"
+      },
+      {
+        "id": "B",
+        "fr": "avec des écouteurs ou une oreillette",
+        "uk": "з навушниками чи гарнітурою в вусі"
+      },
+      {
+        "id": "C",
+        "fr": "aucune de ces deux façons",
+        "uk": "жодним із цих способів"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Le téléphone tenu en main est interdit (135 € et 3 points), tout comme les écouteurs et oreillettes. Le mieux est de s'arrêter pour téléphoner.",
+    "explanation_uk": "Телефон у руці заборонено (135 € і 3 бали), так само як навушники й гарнітура у вусі. Найкраще — зупинитися, щоб поговорити."
+  },
+  {
+    "id": "q022",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Un médicament porte un pictogramme rouge de niveau 3 :",
+    "question_uk": "На ліках червона піктограма 3-го рівня:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux conduire en étant prudent",
+        "uk": "я можу їхати, якщо буду обережним"
+      },
+      {
+        "id": "B",
+        "fr": "je ne dois pas conduire",
+        "uk": "я не повинен сідати за кермо"
+      },
+      {
+        "id": "C",
+        "fr": "je peux conduire seulement de jour",
+        "uk": "я можу їхати лише вдень"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Niveau 1 (jaune) : soyez prudent. Niveau 2 (orange) : soyez très prudent. Niveau 3 (rouge) : attention danger, ne pas conduire.",
+    "explanation_uk": "Рівень 1 (жовтий): будьте обережні. Рівень 2 (помаранчевий): будьте дуже обережні. Рівень 3 (червоний): небезпечно, не керувати авто."
+  },
+  {
+    "id": "q023",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Le temps de réaction d'un conducteur en bonne forme est d'environ :",
+    "question_uk": "Час реакції водія в доброму стані становить приблизно:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 seconde",
+        "uk": "1 секунду"
+      },
+      {
+        "id": "B",
+        "fr": "3 secondes",
+        "uk": "3 секунди"
+      },
+      {
+        "id": "C",
+        "fr": "0,1 seconde",
+        "uk": "0,1 секунди"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Il faut environ 1 seconde pour percevoir un danger et commencer à freiner. Ce temps augmente avec la fatigue, l'alcool ou le téléphone.",
+    "explanation_uk": "Щоб помітити небезпеку і почати гальмувати, треба близько 1 секунди. Втома, алкоголь чи телефон збільшують цей час."
+  },
+  {
+    "id": "q024",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "À 90 km/h, pendant mon temps de réaction d'une seconde, je parcours environ :",
+    "question_uk": "На швидкості 90 км/год за 1 секунду реакції я проїжджаю приблизно:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "9 mètres",
+        "uk": "9 метрів"
+      },
+      {
+        "id": "B",
+        "fr": "25 mètres",
+        "uk": "25 метрів"
+      },
+      {
+        "id": "C",
+        "fr": "50 mètres",
+        "uk": "50 метрів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Distance parcourue en 1 seconde ≈ chiffre des dizaines × 3 : 9 × 3 = 27 m, soit environ 25 m.",
+    "explanation_uk": "Відстань за 1 секунду ≈ кількість десятків × 3: 9 × 3 = 27 м, тобто приблизно 25 м."
+  },
+  {
+    "id": "q025",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Quand la vitesse augmente, mon champ de vision :",
+    "question_uk": "Коли швидкість зростає, моє поле зору:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "s'élargit",
+        "uk": "розширюється"
+      },
+      {
+        "id": "B",
+        "fr": "se rétrécit",
+        "uk": "звужується"
+      },
+      {
+        "id": "C",
+        "fr": "reste identique",
+        "uk": "не змінюється"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Plus on roule vite, plus le champ visuel se réduit (effet tunnel) : on perçoit moins bien ce qui arrive sur les côtés.",
+    "explanation_uk": "Чим вища швидкість, тим вужче поле зору (ефект тунелю): гірше видно те, що відбувається збоку."
+  },
+  {
+    "id": "q026",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Au début de la période probatoire, mon permis compte :",
+    "question_uk": "На початку пробного періоду мої права мають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "6 points",
+        "uk": "6 балів"
+      },
+      {
+        "id": "B",
+        "fr": "12 points",
+        "uk": "12 балів"
+      },
+      {
+        "id": "C",
+        "fr": "8 points",
+        "uk": "8 балів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le permis probatoire débute avec 6 points. Sans infraction, il gagne 2 points par an (3 après une conduite accompagnée) jusqu'à 12.",
+    "explanation_uk": "Пробні права починаються з 6 балів. Без порушень додається 2 бали на рік (3 — після супровідного водіння), до 12."
+  },
+  {
+    "id": "q027",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "La conduite après usage de stupéfiants (cannabis, etc.) :",
+    "question_uk": "Керування після вживання наркотиків (канабіс тощо):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est autorisée si l'usage date de la veille",
+        "uk": "дозволене, якщо вживання було напередодні"
+      },
+      {
+        "id": "B",
+        "fr": "est un délit",
+        "uk": "є кримінальним правопорушенням (délit)"
+      },
+      {
+        "id": "C",
+        "fr": "est tolérée en petite quantité",
+        "uk": "допускається в малій кількості"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Conduire après avoir fait usage de stupéfiants est un délit, quelle que soit la quantité. Le cannabis peut être détecté plusieurs jours après.",
+    "explanation_uk": "Керування після вживання наркотиків — délit, незалежно від кількості. Канабіс можуть виявити навіть через кілька днів."
+  },
+  {
+    "id": "q028",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Un verre standard servi dans un bar (bière, vin, pastis) fait monter le taux d'alcool d'environ :",
+    "question_uk": "Стандартна порція в барі (пиво, вино, пастис) підвищує рівень алкоголю приблизно на:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "0,05 g/l",
+        "uk": "0,05 г/л"
+      },
+      {
+        "id": "B",
+        "fr": "0,20 à 0,25 g/l",
+        "uk": "0,20–0,25 г/л"
+      },
+      {
+        "id": "C",
+        "fr": "0,50 g/l",
+        "uk": "0,50 г/л"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Chaque verre standard contient la même quantité d'alcool (environ 10 g) et fait monter le taux d'environ 0,20 à 0,25 g/l.",
+    "explanation_uk": "Кожна стандартна порція містить однакову кількість алкоголю (близько 10 г) і підвищує рівень приблизно на 0,20–0,25 г/л."
+  },
+  {
+    "id": "q029",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Je suis énervé après une dispute. Avant de prendre le volant :",
+    "question_uk": "Я роздратований після сварки. Перш ніж сісти за кермо:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je prends le temps de me calmer",
+        "uk": "я даю собі час заспокоїтися"
+      },
+      {
+        "id": "B",
+        "fr": "je roule plus vite pour me détendre",
+        "uk": "їду швидше, щоб розслабитися"
+      },
+      {
+        "id": "C",
+        "fr": "je conduis normalement, cela n'a pas d'effet",
+        "uk": "їду як завжди, це ні на що не впливає"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le stress et la colère diminuent l'attention et poussent à prendre des risques. Mieux vaut attendre d'être calme.",
+    "explanation_uk": "Стрес і злість знижують увагу та штовхають на ризик. Краще почекати, поки заспокоїшся."
+  },
+  {
+    "id": "q030",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Regarder un écran (GPS, téléphone) en conduisant :",
+    "question_uk": "Дивитися на екран (навігатор, телефон) під час руху:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "détourne mon regard de la route",
+        "uk": "відволікає мій погляд від дороги"
+      },
+      {
+        "id": "B",
+        "fr": "n'est dangereux qu'en ville",
+        "uk": "небезпечно лише в місті"
+      },
+      {
+        "id": "C",
+        "fr": "augmente le risque d'accident",
+        "uk": "збільшує ризик аварії"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Quitter la route des yeux 2 secondes à 50 km/h, c'est parcourir près de 30 m « à l'aveugle ». Le GPS se règle à l'arrêt.",
+    "explanation_uk": "Відвести очі від дороги на 2 секунди на 50 км/год — це проїхати майже 30 м «наосліп». Навігатор налаштовують на зупинці."
+  }
+]

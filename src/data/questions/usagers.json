@@ -1,0 +1,444 @@
+[
+  {
+    "id": "q046",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Un piéton manifeste clairement son intention de traverser sur un passage piéton :",
+    "question_uk": "Пішохід явно показує, що хоче перейти по пішохідному переходу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je dois m'arrêter pour le laisser passer",
+        "uk": "я маю зупинитися й пропустити його"
+      },
+      {
+        "id": "B",
+        "fr": "je klaxonne pour le prévenir",
+        "uk": "я сигналю, щоб попередити його"
+      },
+      {
+        "id": "C",
+        "fr": "je passe si j'arrive avant lui",
+        "uk": "я проїжджаю, якщо встигаю раніше за нього"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le conducteur doit céder le passage au piéton qui s'engage ou manifeste clairement l'intention de traverser. Ne pas le faire coûte 6 points.",
+    "explanation_uk": "Водій має поступитися пішоходу, який уже йде або явно збирається переходити. За порушення знімають 6 балів."
+  },
+  {
+    "id": "q047",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Hors agglomération, pour dépasser un cycliste, je laisse un espace latéral d'au moins :",
+    "question_uk": "Поза населеним пунктом, обганяючи велосипедиста, я залишаю бічний інтервал щонайменше:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "0,5 mètre",
+        "uk": "0,5 метра"
+      },
+      {
+        "id": "B",
+        "fr": "1 mètre",
+        "uk": "1 метр"
+      },
+      {
+        "id": "C",
+        "fr": "1,5 mètre",
+        "uk": "1,5 метра"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Pour dépasser un cycliste ou un piéton, il faut laisser au moins 1 m en agglomération et 1,5 m hors agglomération.",
+    "explanation_uk": "При обгоні велосипедиста чи пішохода треба залишити щонайменше 1 м у населеному пункті й 1,5 м поза ним."
+  },
+  {
+    "id": "q048",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Je suis derrière un poids lourd qui va tourner à droite :",
+    "question_uk": "Я за вантажівкою, яка збирається повернути праворуч:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je me place dans ses angles morts, à sa droite",
+        "uk": "я стаю праворуч від неї, у її сліпій зоні"
+      },
+      {
+        "id": "B",
+        "fr": "je reste derrière lui, à distance",
+        "uk": "я залишаюся позаду на відстані"
+      },
+      {
+        "id": "C",
+        "fr": "je le dépasse rapidement par la droite",
+        "uk": "я швидко обганяю її справа"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Un poids lourd a de grands angles morts (signalés par un autocollant) et peut se déporter à gauche avant de tourner à droite. Je reste derrière, visible dans ses rétroviseurs.",
+    "explanation_uk": "Вантажівка має великі сліпі зони (позначені наліпкою) і перед поворотом праворуч може зміститися ліворуч. Я лишаюся позаду, щоб водій бачив мене в дзеркалах."
+  },
+  {
+    "id": "q049",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "En agglomération, un bus signale son intention de quitter son arrêt :",
+    "question_uk": "У населеному пункті автобус показує, що від'їжджає від зупинки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je dois lui laisser la possibilité de repartir",
+        "uk": "я маю дати йому змогу від'їхати"
+      },
+      {
+        "id": "B",
+        "fr": "j'accélère pour passer avant lui",
+        "uk": "я прискорююся, щоб проїхати перед ним"
+      },
+      {
+        "id": "C",
+        "fr": "il doit attendre que la voie soit libre",
+        "uk": "він має чекати, поки смуга звільниться"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En agglomération, je dois ralentir et au besoin m'arrêter pour permettre aux transports en commun de quitter leur arrêt.",
+    "explanation_uk": "У населеному пункті я маю пригальмувати, а за потреби зупинитися, щоб громадський транспорт міг від'їхати від зупинки."
+  },
+  {
+    "id": "q050",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Un car de ramassage scolaire est arrêté avec ses feux de détresse allumés :",
+    "question_uk": "Шкільний автобус стоїть з увімкненою аварійною сигналізацією:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ralentis fortement",
+        "uk": "я сильно знижую швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "je fais attention aux enfants qui pourraient traverser",
+        "uk": "я стежу за дітьми, які можуть вибігти на дорогу"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne pour prévenir les enfants",
+        "uk": "я сигналю, щоб попередити дітей"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Des enfants descendent et peuvent traverser de façon imprévisible, souvent devant ou derrière le car. Je ralentis et je suis prêt à m'arrêter.",
+    "explanation_uk": "Діти виходять і можуть несподівано переходити дорогу, часто перед автобусом або за ним. Я пригальмовую й готовий зупинитися."
+  },
+  {
+    "id": "q051",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "À une intersection, un tramway arrive. En règle générale :",
+    "question_uk": "На перехресті під'їжджає трамвай. Як правило:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le tramway est prioritaire",
+        "uk": "трамвай має перевагу"
+      },
+      {
+        "id": "B",
+        "fr": "la priorité à droite s'applique aussi au tramway",
+        "uk": "правило «перешкоди справа» діє і для трамвая"
+      },
+      {
+        "id": "C",
+        "fr": "le tramway doit s'arrêter pour me laisser passer",
+        "uk": "трамвай має зупинитися й пропустити мене"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le tramway ne peut pas se dérouter et freine mal : il est prioritaire, sauf signalisation contraire (feux).",
+    "explanation_uk": "Трамвай не може об'їхати перешкоду і довго гальмує, тому має перевагу, якщо світлофор не регулює інакше."
+  },
+  {
+    "id": "q052",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Un sas vélo est tracé devant un feu rouge :",
+    "question_uk": "Перед світлофором розмічено велосипедну зону (sas vélo):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'arrête avant le sas, sur la première ligne d'arrêt",
+        "uk": "я зупиняюся перед цією зоною, на першій стоп-лінії"
+      },
+      {
+        "id": "B",
+        "fr": "je peux m'arrêter dans le sas",
+        "uk": "я можу зупинитися в цій зоні"
+      },
+      {
+        "id": "C",
+        "fr": "le sas est réservé aux cyclistes",
+        "uk": "ця зона призначена для велосипедистів"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Le sas vélo permet aux cyclistes de se placer devant les voitures pour être visibles. S'y arrêter en voiture est interdit.",
+    "explanation_uk": "Велозона дає змогу велосипедистам стати попереду машин, щоб їх було видно. Автомобілю зупинятися там заборонено."
+  },
+  {
+    "id": "q053",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Avant d'ouvrir ma portière côté chaussée, je dois :",
+    "question_uk": "Перш ніж відчинити двері з боку дороги, я маю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "vérifier dans le rétroviseur et par-dessus l'épaule",
+        "uk": "подивитися в дзеркало й через плече"
+      },
+      {
+        "id": "B",
+        "fr": "ouvrir rapidement pour gêner le moins longtemps",
+        "uk": "відчинити швидко, щоб менше заважати"
+      },
+      {
+        "id": "C",
+        "fr": "faire attention aux cyclistes",
+        "uk": "стежити за велосипедистами"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Une portière ouverte sans regarder peut renverser un cycliste ou un motard. On peut ouvrir avec la main opposée (main droite) : cela oblige à tourner la tête.",
+    "explanation_uk": "Двері, відчинені без перевірки, можуть збити велосипедиста чи мотоцикліста. Можна відчиняти дальньою (правою) рукою: так мимоволі повертаєш голову."
+  },
+  {
+    "id": "q054",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Les trottinettes électriques peuvent circuler sur le trottoir :",
+    "question_uk": "Електросамокати можуть їздити тротуаром:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "oui, toujours",
+        "uk": "так, завжди"
+      },
+      {
+        "id": "B",
+        "fr": "non, sauf autorisation locale",
+        "uk": "ні, якщо місцева влада окремо не дозволила"
+      },
+      {
+        "id": "C",
+        "fr": "oui, à moins de 6 km/h",
+        "uk": "так, зі швидкістю до 6 км/год"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Les engins de déplacement personnel motorisés (trottinettes électriques) doivent circuler sur les pistes cyclables ou la chaussée, pas sur le trottoir.",
+    "explanation_uk": "Моторизовані засоби особистого пересування (електросамокати) мають їздити велодоріжками або проїжджою частиною, а не тротуаром."
+  },
+  {
+    "id": "q055",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Des enfants jouent au bord de la route :",
+    "question_uk": "Діти граються біля дороги:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ralentis",
+        "uk": "я пригальмовую"
+      },
+      {
+        "id": "B",
+        "fr": "je m'attends à ce qu'un enfant traverse sans regarder",
+        "uk": "я готовий до того, що дитина вибіжить, не дивлячись"
+      },
+      {
+        "id": "C",
+        "fr": "je continue normalement, ils m'ont vu",
+        "uk": "їду як звичайно, вони мене бачили"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les enfants sont imprévisibles et évaluent mal la vitesse des véhicules. Je ralentis et je reste prêt à freiner.",
+    "explanation_uk": "Діти непередбачувані й погано оцінюють швидкість машин. Я пригальмовую й готовий загальмувати."
+  },
+  {
+    "id": "q056",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Un troupeau d'animaux occupe la route devant moi :",
+    "question_uk": "Попереду на дорозі стадо тварин:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ralentis et je passe doucement",
+        "uk": "я пригальмовую й проїжджаю повільно"
+      },
+      {
+        "id": "B",
+        "fr": "je klaxonne pour les faire bouger",
+        "uk": "я сигналю, щоб вони відійшли"
+      },
+      {
+        "id": "C",
+        "fr": "je suis les indications du conducteur du troupeau",
+        "uk": "я виконую вказівки погонича"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Je ralentis fortement, au besoin je m'arrête, sans klaxonner pour ne pas effrayer les animaux, et je suis les indications de la personne qui les conduit.",
+    "explanation_uk": "Я сильно пригальмовую, за потреби зупиняюся, не сигналю, щоб не налякати тварин, і виконую вказівки людини, яка їх жене."
+  },
+  {
+    "id": "q057",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Une personne âgée traverse lentement devant moi alors que mon feu passe au vert :",
+    "question_uk": "Літня людина повільно переходить дорогу, а мені вже загорівся зелений:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la laisse finir de traverser",
+        "uk": "я даю їй закінчити перехід"
+      },
+      {
+        "id": "B",
+        "fr": "je klaxonne pour qu'elle se dépêche",
+        "uk": "я сигналю, щоб вона поквапилася"
+      },
+      {
+        "id": "C",
+        "fr": "je la contourne",
+        "uk": "я її об'їжджаю"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Même au feu vert, je dois laisser terminer leur traversée aux piétons déjà engagés. Les personnes âgées ont besoin de plus de temps.",
+    "explanation_uk": "Навіть на зелений я маю дати закінчити перехід пішоходам, які вже йдуть. Літнім людям потрібно більше часу."
+  },
+  {
+    "id": "q058",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Les motards sont particulièrement vulnérables car :",
+    "question_uk": "Мотоциклісти особливо вразливі, тому що:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ils sont moins visibles",
+        "uk": "їх гірше видно"
+      },
+      {
+        "id": "B",
+        "fr": "ils n'ont pas de carrosserie pour les protéger",
+        "uk": "їх не захищає кузов"
+      },
+      {
+        "id": "C",
+        "fr": "ils roulent toujours lentement",
+        "uk": "вони завжди їдуть повільно"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un deux-roues motorisé est étroit, donc moins visible, et son conducteur n'est protégé que par son équipement. Je contrôle bien mes rétroviseurs et angles morts.",
+    "explanation_uk": "Мотоцикл вузький, тому його гірше видно, а водія захищає лише екіпіровка. Я уважно перевіряю дзеркала й сліпі зони."
+  },
+  {
+    "id": "q059",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Un cycliste roule devant moi sur une route étroite, une ligne continue m'empêche de laisser 1,5 m :",
+    "question_uk": "Попереду вузькою дорогою їде велосипедист, а суцільна лінія не дає залишити 1,5 м:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je reste derrière lui en attendant de pouvoir dépasser",
+        "uk": "я їду за ним, доки не зможу обігнати"
+      },
+      {
+        "id": "B",
+        "fr": "je le dépasse en le frôlant",
+        "uk": "я обганяю його впритул"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne pour qu'il se range",
+        "uk": "я сигналю, щоб він з'їхав убік"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Si je ne peux pas dépasser en respectant l'écart latéral et la signalisation, je patiente derrière le cycliste.",
+    "explanation_uk": "Якщо не можу обігнати з дотриманням бічного інтервалу й розмітки, я терпляче їду позаду."
+  },
+  {
+    "id": "q060",
+    "theme": "usagers",
+    "image": null,
+    "question_fr": "Je sors d'un parking en marche arrière sur un trottoir :",
+    "question_uk": "Я виїжджаю заднім ходом з парковки через тротуар:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je cède le passage aux piétons",
+        "uk": "я поступаюся пішоходам"
+      },
+      {
+        "id": "B",
+        "fr": "je manœuvre lentement",
+        "uk": "я маневрую повільно"
+      },
+      {
+        "id": "C",
+        "fr": "les piétons doivent s'arrêter pour moi",
+        "uk": "пішоходи мають зупинитися заради мене"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "En quittant un accès privé ou un parking, je cède le passage à tous les usagers, en particulier aux piétons sur le trottoir.",
+    "explanation_uk": "Виїжджаючи з приватної території чи парковки, я поступаюся всім учасникам руху, особливо пішоходам на тротуарі."
+  }
+]
