@@ -1,0 +1,446 @@
+[
+  {
+    "id": "q076",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Face à un accident, dans quel ordre dois-je agir ?",
+    "question_uk": "У якому порядку діяти на місці ДТП?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Alerter, Protéger, Secourir",
+        "uk": "Повідомити, Захистити, Допомогти"
+      },
+      {
+        "id": "B",
+        "fr": "Protéger, Alerter, Secourir",
+        "uk": "Захистити, Повідомити, Допомогти"
+      },
+      {
+        "id": "C",
+        "fr": "Secourir, Alerter, Protéger",
+        "uk": "Допомогти, Повідомити, Захистити"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "La règle P.A.S. : d'abord Protéger pour éviter un sur-accident, puis Alerter les secours, enfin Secourir les victimes.",
+    "explanation_uk": "Правило P.A.S.: спершу Захистити (щоб не сталося нової аварії), потім Повідомити рятувальників, і лише тоді Допомагати постраждалим."
+  },
+  {
+    "id": "q077",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Le numéro d'appel d'urgence européen, valable dans toute l'Union européenne, est le :",
+    "question_uk": "Єдиний європейський номер екстреного виклику — це:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "112",
+        "uk": "112"
+      },
+      {
+        "id": "B",
+        "fr": "911",
+        "uk": "911"
+      },
+      {
+        "id": "C",
+        "fr": "114",
+        "uk": "114"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le 112 fonctionne dans tous les pays de l'UE, depuis un fixe ou un portable. En France, on peut aussi appeler le 15, le 17 ou le 18.",
+    "explanation_uk": "112 працює в усіх країнах ЄС, зі стаціонарного чи мобільного. У Франції також можна дзвонити 15, 17 або 18."
+  },
+  {
+    "id": "q078",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Pour joindre le SAMU, je compose le :",
+    "question_uk": "Щоб викликати швидку допомогу (SAMU), я набираю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "15",
+        "uk": "15"
+      },
+      {
+        "id": "B",
+        "fr": "17",
+        "uk": "17"
+      },
+      {
+        "id": "C",
+        "fr": "18",
+        "uk": "18"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "15 : SAMU (urgence médicale). 17 : police / gendarmerie. 18 : sapeurs-pompiers. 114 : par SMS, pour les personnes sourdes ou malentendantes.",
+    "explanation_uk": "15 — SAMU (медична допомога), 17 — поліція/жандармерія, 18 — пожежники, 114 — SMS для людей з порушеннями слуху."
+  },
+  {
+    "id": "q079",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Pour protéger les lieux d'un accident, je peux :",
+    "question_uk": "Щоб убезпечити місце ДТП, я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "allumer mes feux de détresse",
+        "uk": "увімкнути аварійну сигналізацію"
+      },
+      {
+        "id": "B",
+        "fr": "mettre mon gilet de haute visibilité avant de sortir",
+        "uk": "одягнути жилет до того, як вийти з авто"
+      },
+      {
+        "id": "C",
+        "fr": "placer le triangle à au moins 30 m de l'accident",
+        "uk": "поставити трикутник щонайменше за 30 м від місця ДТП"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "Feux de détresse, gilet enfilé dans le véhicule, triangle placé à 30 m au moins (ou avant un virage) : tout cela évite un sur-accident.",
+    "explanation_uk": "Аварійка, жилет (вдягнути ще в авто), трикутник щонайменше за 30 м (або перед поворотом) — все це запобігає новій аварії."
+  },
+  {
+    "id": "q080",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Lors de l'alerte, je dois indiquer aux secours :",
+    "question_uk": "Під час виклику я маю повідомити рятувальникам:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le lieu précis de l'accident",
+        "uk": "точне місце аварії"
+      },
+      {
+        "id": "B",
+        "fr": "le nombre de victimes et leur état",
+        "uk": "кількість постраждалих і їхній стан"
+      },
+      {
+        "id": "C",
+        "fr": "les marques des véhicules",
+        "uk": "марки автомобілів"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le message d'alerte comprend : le numéro d'appel, la localisation précise, la nature de l'accident, le nombre de victimes et leur état. Je raccroche seulement quand on me le dit.",
+    "explanation_uk": "Повідомлення містить: номер, з якого дзвонять, точне місце, характер аварії, кількість постраждалих і їхній стан. Кладу слухавку лише тоді, коли скажуть."
+  },
+  {
+    "id": "q081",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Un blessé est conscient et se trouve dans son véhicule, sans danger d'incendie :",
+    "question_uk": "Постраждалий при свідомості, сидить в авто, загрози пожежі немає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je le sors rapidement du véhicule",
+        "uk": "я швидко витягаю його з авто"
+      },
+      {
+        "id": "B",
+        "fr": "je ne le déplace pas",
+        "uk": "я його не переміщую"
+      },
+      {
+        "id": "C",
+        "fr": "je lui parle et je le rassure",
+        "uk": "я розмовляю з ним і заспокоюю"
+      }
+    ],
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation_fr": "On ne déplace pas un blessé, sauf danger réel et immédiat (incendie, risque d'être percuté). On le rassure et on surveille son état en attendant les secours.",
+    "explanation_uk": "Постраждалого не переміщують, якщо немає реальної й негайної небезпеки (пожежа, ризик наїзду). Його заспокоюють і стежать за станом до приїзду рятувальників."
+  },
+  {
+    "id": "q082",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Un motard blessé est allongé sur la route. Son casque :",
+    "question_uk": "Травмований мотоцикліст лежить на дорозі. Його шолом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je le retire pour qu'il respire mieux",
+        "uk": "я знімаю, щоб йому легше дихалося"
+      },
+      {
+        "id": "B",
+        "fr": "je ne le retire pas",
+        "uk": "я не знімаю"
+      },
+      {
+        "id": "C",
+        "fr": "je le retire seulement s'il me le demande",
+        "uk": "я знімаю, лише якщо він попросить"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Retirer le casque peut aggraver une blessure à la colonne vertébrale. Seuls les secouristes formés le retirent si nécessaire.",
+    "explanation_uk": "Зняття шолома може погіршити травму хребта. Знімати його, якщо треба, мають лише підготовлені рятувальники."
+  },
+  {
+    "id": "q083",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime est inconsciente mais respire. En attendant les secours :",
+    "question_uk": "Постраждалий непритомний, але дихає. До приїзду рятувальників:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la place en position latérale de sécurité (PLS)",
+        "uk": "я кладу його в безпечне бокове положення (PLS)"
+      },
+      {
+        "id": "B",
+        "fr": "je lui donne à boire",
+        "uk": "я даю йому попити"
+      },
+      {
+        "id": "C",
+        "fr": "je surveille sa respiration",
+        "uk": "я стежу за його диханням"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "La PLS évite que la victime s'étouffe avec sa langue ou des vomissements. On ne donne jamais à boire à une victime.",
+    "explanation_uk": "Бокове положення не дає людині захлинутися язиком чи блювотою. Постраждалим ніколи не дають пити."
+  },
+  {
+    "id": "q084",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime est inconsciente et ne respire pas :",
+    "question_uk": "Постраждалий непритомний і не дихає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'alerte les secours",
+        "uk": "я викликаю рятувальників"
+      },
+      {
+        "id": "B",
+        "fr": "je pratique un massage cardiaque",
+        "uk": "я роблю непрямий масаж серця"
+      },
+      {
+        "id": "C",
+        "fr": "j'utilise un défibrillateur s'il y en a un",
+        "uk": "я використовую дефібрилятор, якщо він є"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "En cas d'arrêt cardiaque : alerter, masser (compressions au centre de la poitrine) et défibriller dès que possible. Chaque minute compte.",
+    "explanation_uk": "При зупинці серця: викликати допомогу, робити масаж (натискання в центр грудної клітки) й якнайшвидше застосувати дефібрилятор. Кожна хвилина важлива."
+  },
+  {
+    "id": "q085",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime saigne abondamment d'une plaie :",
+    "question_uk": "Постраждалий сильно кровоточить з рани:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'appuie fortement sur la plaie",
+        "uk": "я сильно притискаю рану"
+      },
+      {
+        "id": "B",
+        "fr": "je laisse saigner pour nettoyer la plaie",
+        "uk": "я даю крові текти, щоб рана очистилася"
+      },
+      {
+        "id": "C",
+        "fr": "je l'allonge et j'alerte les secours",
+        "uk": "я кладу його та викликаю рятувальників"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Pour arrêter un saignement abondant, on fait une compression directe sur la plaie (avec un tissu ou en protégeant sa main), on allonge la victime et on alerte.",
+    "explanation_uk": "Щоб зупинити сильну кровотечу, роблять пряме притискання рани (через тканину або захистивши руку), кладуть постраждалого й викликають допомогу."
+  },
+  {
+    "id": "q086",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime présente une brûlure :",
+    "question_uk": "У постраждалого опік:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je refroidis la brûlure avec de l'eau tempérée",
+        "uk": "я охолоджую опік прохолодною водою"
+      },
+      {
+        "id": "B",
+        "fr": "j'applique du beurre ou de la crème",
+        "uk": "я змащую маслом чи кремом"
+      },
+      {
+        "id": "C",
+        "fr": "je perce les cloques",
+        "uk": "я проколюю пухирі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "On arrose la brûlure avec de l'eau tempérée pendant plusieurs minutes. On ne met aucun produit gras et on ne perce pas les cloques.",
+    "explanation_uk": "Опік поливають прохолодною водою кілька хвилин. Жирних засобів не наносять і пухирі не проколюють."
+  },
+  {
+    "id": "q087",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "J'arrive sur un accident où les secours sont déjà présents :",
+    "question_uk": "Я під'їжджаю до ДТП, де вже працюють рятувальники:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'arrête pour regarder",
+        "uk": "я зупиняюся подивитися"
+      },
+      {
+        "id": "B",
+        "fr": "je ralentis et je passe sans gêner les secours",
+        "uk": "я пригальмовую й проїжджаю, не заважаючи рятувальникам"
+      },
+      {
+        "id": "C",
+        "fr": "je prends des photos",
+        "uk": "я фотографую"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "S'arrêter par curiosité gêne les secours et peut provoquer un sur-accident. Je reste concentré sur ma conduite.",
+    "explanation_uk": "Зупинка з цікавості заважає рятувальникам і може спричинити нову аварію. Я зосереджуюся на дорозі."
+  },
+  {
+    "id": "q088",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Sur autoroute, après un accident ou une panne, les passagers doivent :",
+    "question_uk": "На автомагістралі після ДТП чи поломки пасажири мають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sortir par le côté droit du véhicule",
+        "uk": "виходити з правого боку авто"
+      },
+      {
+        "id": "B",
+        "fr": "se mettre à l'abri derrière la glissière de sécurité",
+        "uk": "сховатися за відбійником"
+      },
+      {
+        "id": "C",
+        "fr": "rester dans le véhicule ceinture détachée",
+        "uk": "залишатися в авто з відстебнутими пасками"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Sur autoroute, le danger vient des véhicules qui passent très vite. On sort côté droit, gilet enfilé, et on se met derrière la glissière.",
+    "explanation_uk": "На автомагістралі небезпека — машини, що мчать повз. Виходять з правого боку, у жилеті, і стають за відбійником."
+  },
+  {
+    "id": "q089",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime consciente a froid et tremble :",
+    "question_uk": "Постраждалий при свідомості змерз і тремтить:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la couvre",
+        "uk": "я накриваю його"
+      },
+      {
+        "id": "B",
+        "fr": "je lui donne de l'alcool pour la réchauffer",
+        "uk": "я даю йому алкоголю, щоб зігрівся"
+      },
+      {
+        "id": "C",
+        "fr": "je lui fais faire quelques pas",
+        "uk": "я змушую його пройтися"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "On protège la victime du froid avec une couverture ou un vêtement, sans la déplacer, et sans lui donner à boire.",
+    "explanation_uk": "Постраждалого захищають від холоду ковдрою чи одягом, не переміщуючи його й не даючи пити."
+  },
+  {
+    "id": "q090",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Je suis témoin d'un accident. Si je ne porte pas secours ni n'alerte, alors que je le pourrais sans danger :",
+    "question_uk": "Я свідок ДТП. Якщо я не допоможу й не викличу допомогу, хоча міг би безпечно це зробити:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je commets le délit de non-assistance à personne en danger",
+        "uk": "я скою правопорушення «ненадання допомоги людині в небезпеці»"
+      },
+      {
+        "id": "B",
+        "fr": "je ne risque rien",
+        "uk": "мені нічого не загрожує"
+      },
+      {
+        "id": "C",
+        "fr": "je reçois seulement une contravention",
+        "uk": "я отримаю лише штраф"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Toute personne doit porter assistance à une personne en danger, au minimum en alertant les secours, si elle peut le faire sans risque.",
+    "explanation_uk": "Кожен зобов'язаний допомогти людині в небезпеці — щонайменше викликати рятувальників, якщо це безпечно."
+  }
+]

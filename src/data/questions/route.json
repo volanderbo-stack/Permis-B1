@@ -1,0 +1,443 @@
+[
+  {
+    "id": "q031",
+    "theme": "route",
+    "image": "signs/AB2.svg",
+    "question_fr": "Ce panneau m'indique :",
+    "question_uk": "Цей знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une intersection où je suis prioritaire",
+        "uk": "перехрестя, на якому я маю перевагу"
+      },
+      {
+        "id": "B",
+        "fr": "une intersection avec priorité à droite",
+        "uk": "перехрестя з перевагою транспорту справа"
+      },
+      {
+        "id": "C",
+        "fr": "un hôpital",
+        "uk": "лікарню"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau AB2 annonce une intersection où les usagers de la route que je vais croiser doivent me céder le passage. La priorité ne vaut que pour cette intersection.",
+    "explanation_uk": "Знак AB2 попереджає про перехрестя, де учасники руху з другорядної дороги мають поступитися мені. Перевага діє лише на цьому перехресті."
+  },
+  {
+    "id": "q032",
+    "theme": "route",
+    "image": "signs/A4.svg",
+    "question_fr": "Ce panneau signale :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une chaussée glissante",
+        "uk": "слизьку дорогу"
+      },
+      {
+        "id": "B",
+        "fr": "un virage dangereux",
+        "uk": "небезпечний поворот"
+      },
+      {
+        "id": "C",
+        "fr": "un risque de sortie de route si je roule trop vite sur chaussée mouillée",
+        "uk": "ризик з'їхати з дороги, якщо їхати надто швидко по мокрому"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Le panneau A4 annonce une chaussée particulièrement glissante : je réduis ma vitesse et j'évite les freinages brusques.",
+    "explanation_uk": "Знак A4 попереджає про особливо слизьку дорогу: я знижую швидкість і уникаю різкого гальмування."
+  },
+  {
+    "id": "q033",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur autoroute, il est interdit :",
+    "question_uk": "На автомагістралі заборонено:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de faire demi-tour",
+        "uk": "розвертатися"
+      },
+      {
+        "id": "B",
+        "fr": "de faire marche arrière",
+        "uk": "їхати заднім ходом"
+      },
+      {
+        "id": "C",
+        "fr": "de dépasser par la gauche",
+        "uk": "обганяти зліва"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Demi-tour et marche arrière sont strictement interdits sur autoroute, y compris sur la bande d'arrêt d'urgence. Le dépassement se fait par la gauche.",
+    "explanation_uk": "Розворот і рух заднім ходом на автомагістралі суворо заборонені, навіть на смузі аварійної зупинки. Обганяють зліва."
+  },
+  {
+    "id": "q034",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Pour m'insérer sur l'autoroute :",
+    "question_uk": "Щоб виїхати на автомагістраль:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'utilise la voie d'accélération pour adapter ma vitesse",
+        "uk": "я використовую смугу розгону, щоб набрати потрібну швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "je cède le passage aux véhicules circulant sur l'autoroute",
+        "uk": "я поступаюся транспорту, що рухається автомагістраллю"
+      },
+      {
+        "id": "C",
+        "fr": "je m'arrête au bout de la voie d'accélération",
+        "uk": "я зупиняюся в кінці смуги розгону"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La voie d'accélération sert à atteindre une vitesse proche de celle du trafic. Je m'insère sans gêner les véhicules déjà présents, qui sont prioritaires.",
+    "explanation_uk": "Смуга розгону потрібна, щоб набрати швидкість, близьку до швидкості потоку. Я вливаюся, не заважаючи тим, хто вже їде: вони мають перевагу."
+  },
+  {
+    "id": "q035",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Par temps de pluie, la distance de freinage :",
+    "question_uk": "Під час дощу гальмівний шлях:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ne change pas",
+        "uk": "не змінюється"
+      },
+      {
+        "id": "B",
+        "fr": "augmente nettement",
+        "uk": "помітно збільшується"
+      },
+      {
+        "id": "C",
+        "fr": "diminue",
+        "uk": "зменшується"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Sur route mouillée, l'adhérence baisse : la distance de freinage augmente fortement (environ 1,5 fois et plus). Il faut ralentir et augmenter les distances.",
+    "explanation_uk": "На мокрій дорозі зчеплення гірше: гальмівний шлях сильно зростає (приблизно в 1,5 раза і більше). Треба знизити швидкість і збільшити дистанцію."
+  },
+  {
+    "id": "q036",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Je sens que ma voiture fait de l'aquaplaning (elle « flotte » sur l'eau) :",
+    "question_uk": "Я відчуваю, що авто «пливе» по воді (аквапланування):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je freine fort",
+        "uk": "різко гальмую"
+      },
+      {
+        "id": "B",
+        "fr": "je lève le pied de l'accélérateur",
+        "uk": "відпускаю педаль газу"
+      },
+      {
+        "id": "C",
+        "fr": "je tiens fermement le volant sans geste brusque",
+        "uk": "міцно тримаю кермо без різких рухів"
+      }
+    ],
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation_fr": "En aquaplaning, les pneus ne touchent plus la route : on ne freine pas, on relâche l'accélérateur et on garde les roues droites jusqu'à retrouver l'adhérence.",
+    "explanation_uk": "Під час аквапланування шини не торкаються дороги: не гальмуємо, відпускаємо газ і тримаємо колеса прямо, поки зчеплення не відновиться."
+  },
+  {
+    "id": "q037",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Avant d'aborder un virage :",
+    "question_uk": "Перед поворотом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ralentis avant d'entrer dans le virage",
+        "uk": "я пригальмовую до в'їзду в поворот"
+      },
+      {
+        "id": "B",
+        "fr": "je freine fort au milieu du virage",
+        "uk": "я різко гальмую посередині повороту"
+      },
+      {
+        "id": "C",
+        "fr": "je serre à droite de ma voie",
+        "uk": "я тримаюся правої частини своєї смуги"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "On adapte sa vitesse avant le virage, en ligne droite. Freiner fort en plein virage peut faire perdre le contrôle. On reste bien à droite, surtout sans visibilité.",
+    "explanation_uk": "Швидкість знижують ще на прямій, до повороту. Різке гальмування в повороті може призвести до втрати керування. Тримаються правіше, особливо коли погано видно."
+  },
+  {
+    "id": "q038",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Dans un tunnel :",
+    "question_uk": "У тунелі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'allume mes feux de croisement",
+        "uk": "я вмикаю ближнє світло"
+      },
+      {
+        "id": "B",
+        "fr": "je garde une distance de sécurité suffisante",
+        "uk": "я тримаю достатню безпечну дистанцію"
+      },
+      {
+        "id": "C",
+        "fr": "je peux faire demi-tour si je me suis trompé",
+        "uk": "я можу розвернутися, якщо помилився"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Dans un tunnel, les feux de croisement sont obligatoires, même éclairé. Le demi-tour et la marche arrière y sont interdits.",
+    "explanation_uk": "У тунелі ближнє світло обов'язкове, навіть якщо він освітлений. Розворот і задній хід там заборонені."
+  },
+  {
+    "id": "q039",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Une ligne discontinue à traits longs et intervalles courts (ligne d'avertissement) annonce :",
+    "question_uk": "Переривчаста лінія з довгими штрихами і короткими проміжками (попереджувальна) означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'approche d'une ligne continue",
+        "uk": "наближення суцільної лінії"
+      },
+      {
+        "id": "B",
+        "fr": "la fin d'une autoroute",
+        "uk": "кінець автомагістралі"
+      },
+      {
+        "id": "C",
+        "fr": "une place de stationnement",
+        "uk": "місце для паркування"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La ligne d'avertissement prévient qu'une ligne continue arrive : il faut éviter de commencer un dépassement.",
+    "explanation_uk": "Попереджувальна лінія повідомляє, що скоро буде суцільна: не варто починати обгін."
+  },
+  {
+    "id": "q040",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur une route de montagne étroite, deux véhicules se croisent difficilement. En principe :",
+    "question_uk": "На вузькій гірській дорозі двом авто важко роз'їхатися. Як правило:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le véhicule qui descend doit faciliter le passage, au besoin en reculant",
+        "uk": "авто, що їде вниз, має пропустити, за потреби здавши назад"
+      },
+      {
+        "id": "B",
+        "fr": "le véhicule qui monte doit reculer",
+        "uk": "авто, що їде вгору, має здати назад"
+      },
+      {
+        "id": "C",
+        "fr": "le plus rapide passe en premier",
+        "uk": "першим проїжджає швидший"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En montagne, c'est le véhicule descendant qui doit se ranger et, si nécessaire, reculer, car redémarrer en montée est plus difficile.",
+    "explanation_uk": "У горах поступається авто, що їде вниз, і за потреби здає назад, бо рушати вгору складніше."
+  },
+  {
+    "id": "q041",
+    "theme": "route",
+    "image": "signs/B26.svg",
+    "question_fr": "Ce panneau signifie :",
+    "question_uk": "Цей знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "chaînes à neige obligatoires",
+        "uk": "снігові ланцюги обов'язкові"
+      },
+      {
+        "id": "B",
+        "fr": "route fermée en hiver",
+        "uk": "дорогу закрито взимку"
+      },
+      {
+        "id": "C",
+        "fr": "risque de verglas",
+        "uk": "ризик ожеледиці"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Panneau rond bleu B26 : les chaînes à neige (ou équipements équivalents autorisés) sont obligatoires sur au moins deux roues motrices.",
+    "explanation_uk": "Круглий синій знак B26: снігові ланцюги (або дозволені аналоги) обов'язкові щонайменше на двох ведучих колесах."
+  },
+  {
+    "id": "q042",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Dans une zone de rencontre, la vitesse est limitée à :",
+    "question_uk": "У зоні зустрічі (zone de rencontre) швидкість обмежена:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "10 km/h",
+        "uk": "10 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "20 km/h",
+        "uk": "20 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "30 km/h",
+        "uk": "30 км/год"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "En zone de rencontre, la vitesse est limitée à 20 km/h et les piétons sont prioritaires ; ils peuvent circuler sur la chaussée.",
+    "explanation_uk": "У зоні зустрічі швидкість обмежена 20 км/год, пішоходи мають перевагу й можуть ходити проїжджою частиною."
+  },
+  {
+    "id": "q043",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Hors agglomération, sur une route à deux chaussées séparées par un terre-plein central, la vitesse maximale (temps sec, conducteur expérimenté) est de :",
+    "question_uk": "Поза населеним пунктом, на дорозі з двома проїжджими частинами, розділеними смугою, максимальна швидкість (суха погода, досвідчений водій):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "90 km/h",
+        "uk": "90 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "110 km/h",
+        "uk": "110 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "130 km/h",
+        "uk": "130 км/год"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Les routes à chaussées séparées (hors autoroutes) sont limitées à 110 km/h, ramenées à 100 km/h par temps de pluie.",
+    "explanation_uk": "Дороги з розділеними проїжджими частинами (крім автомагістралей) обмежені 110 км/год, у дощ — 100 км/год."
+  },
+  {
+    "id": "q044",
+    "theme": "route",
+    "image": null,
+    "question_fr": "La nuit, sur une route non éclairée, sans véhicule devant ni en face, j'utilise :",
+    "question_uk": "Уночі на неосвітленій дорозі, коли попереду й назустріч нікого немає, я вмикаю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les feux de route",
+        "uk": "дальнє світло"
+      },
+      {
+        "id": "B",
+        "fr": "les feux de position seuls",
+        "uk": "лише габаритні вогні"
+      },
+      {
+        "id": "C",
+        "fr": "les feux antibrouillard arrière",
+        "uk": "задні протитуманні фари"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les feux de route éclairent à environ 100 m. Je repasse en feux de croisement dès que je croise ou suis un autre véhicule, pour ne pas l'éblouir.",
+    "explanation_uk": "Дальнє світло освітлює приблизно на 100 м. Я перемикаюся на ближнє, щойно хтось їде назустріч або попереду, щоб не засліпити."
+  },
+  {
+    "id": "q045",
+    "theme": "route",
+    "image": "signs/A3.svg",
+    "question_fr": "Ce panneau annonce :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une chaussée rétrécie",
+        "uk": "звуження дороги"
+      },
+      {
+        "id": "B",
+        "fr": "un pont",
+        "uk": "міст"
+      },
+      {
+        "id": "C",
+        "fr": "une route à sens unique",
+        "uk": "дорогу з одностороннім рухом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau A3 annonce un rétrécissement de la chaussée. Je ralentis et je serre à droite, en restant attentif aux véhicules venant en face.",
+    "explanation_uk": "Знак A3 попереджає про звуження дороги. Я пригальмовую й тримаюся правіше, стежачи за зустрічним транспортом."
+  }
+]

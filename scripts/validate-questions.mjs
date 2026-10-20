@@ -4,6 +4,9 @@ import { join } from 'node:path'
 
 const THEMES = ['circulation', 'conducteur', 'route', 'usagers', 'reglementation', 'secours', 'vehicule', 'mecanique', 'securite', 'environnement']
 const dir = new URL('../src/data/questions/', import.meta.url).pathname
+const signCodes = new Set(
+  JSON.parse(readFileSync(new URL('../src/data/signs.json', import.meta.url), 'utf8')).map((s) => s.code),
+)
 const ids = new Set()
 const errors = []
 const perTheme = {}
@@ -22,6 +25,8 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     if (!q.correct.length) errors.push(`${where} — немає правильної відповіді`)
     for (const c of q.correct) if (!answerIds.includes(c)) errors.push(`${where} — correct "${c}" не існує`)
     for (const a of q.answers) if (!a.fr?.trim() || !a.uk?.trim()) errors.push(`${where} — відповідь ${a.id} без тексту`)
+    const sign = q.image?.match(/^signs\/(.+)\.svg$/)?.[1]
+    if (sign && !signCodes.has(sign)) errors.push(`${where} — знака ${sign} немає в signs.json`)
     perTheme[q.theme] = (perTheme[q.theme] ?? 0) + 1
   }
 }

@@ -11,17 +11,27 @@ export interface QuestionStat {
   lastAt: number
 }
 
+export interface ExamResult {
+  date: number
+  score: number
+  total: number
+  durationSec: number
+  /** результат по темах: [правильно, всього] */
+  themes: Partial<Record<ThemeId, [number, number]>>
+}
+
 export interface Progress {
   version: 1
   questions: Record<string, QuestionStat>
   /** дні, коли користувач тренувався (YYYY-MM-DD) */
   activeDays: string[]
   lastTheme?: ThemeId
+  exams: ExamResult[]
 }
 
 const KEY = 'permis-b1:progress'
 
-const empty = (): Progress => ({ version: 1, questions: {}, activeDays: [] })
+const empty = (): Progress => ({ version: 1, questions: {}, activeDays: [], exams: [] })
 
 function load(): Progress {
   try {
@@ -77,6 +87,14 @@ export function recordAnswer(questionId: string, isCorrect: boolean) {
     : [...state.activeDays, today]
   save({ ...state, questions: { ...state.questions, [questionId]: stat }, activeDays })
 }
+
+export function saveExam(result: ExamResult) {
+  save({ ...state, exams: [...state.exams, result] })
+}
+
+/** Питання, де користувач помилявся і ще не дав 3 правильні відповіді поспіль */
+export const MASTERY_STREAK = 3
+export const isMistake = (stat?: QuestionStat) => !!stat && stat.wrong > 0 && stat.streak < MASTERY_STREAK
 
 export function setLastTheme(theme: ThemeId) {
   if (state.lastTheme !== theme) save({ ...state, lastTheme: theme })

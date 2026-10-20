@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "check:data": "node scripts/validate-questions.mjs"
+    "check:data": "node scripts/validate-questions.mjs",
+    "fetch:signs": "node scripts/fetch-signs.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",

@@ -1,7 +1,10 @@
 import { HashRouter, Navigate, Route, Routes } from 'react-router-dom'
 import { Layout } from './components/Layout'
-import { ComingSoon } from './pages/ComingSoon'
+import { Exam } from './pages/Exam'
 import { Home } from './pages/Home'
+import { Mistakes } from './pages/Mistakes'
+import { Signs } from './pages/Signs'
+import { Stats } from './pages/Stats'
 import { Themes } from './pages/Themes'
 import { ThemeStudy } from './pages/ThemeStudy'
 
@@ -14,10 +17,10 @@ export default function App() {
           <Route index element={<Home />} />
           <Route path="themes" element={<Themes />} />
           <Route path="themes/:themeId" element={<ThemeStudy />} />
-          <Route path="examen" element={<ComingSoon title="Examen blanc" stage={2} />} />
-          <Route path="erreurs" element={<ComingSoon title="Mes erreurs" stage={3} />} />
-          <Route path="stats" element={<ComingSoon title="Statistiques" stage={3} />} />
-          <Route path="panneaux" element={<ComingSoon title="Panneaux" stage={4} />} />
+          <Route path="examen" element={<Exam />} />
+          <Route path="erreurs" element={<Mistakes />} />
+          <Route path="stats" element={<Stats />} />
+          <Route path="panneaux" element={<Signs />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>

@@ -22,22 +22,34 @@ async function suggest(code) {
   }
 }
 
+/** Завантаження з повторними спробами: Wikimedia відповідає 429, якщо запитів забагато */
+async function download(url) {
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url, { headers: { 'User-Agent': UA } })
+    if (res.status === 429 && attempt < 5) {
+      const wait = Number(res.headers.get('retry-after')) * 1000 || 2000 * 2 ** attempt
+      await sleep(wait)
+      continue
+    }
+    const body = await res.text()
+    if (!res.ok || !body.includes('<svg')) throw new Error(`HTTP ${res.status}`)
+    return body
+  }
+}
+
 const failed = []
 for (const s of signs) {
   const target = new URL(`${s.code}.svg`, outDir)
   if (existsSync(target)) continue
   const url = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(s.file.replaceAll(' ', '_'))}`
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA } })
-    const body = await res.text()
-    if (!res.ok || !body.includes('<svg')) throw new Error(`HTTP ${res.status}`)
-    writeFileSync(target, body)
+    writeFileSync(target, await download(url))
     console.log(`✓ ${s.code}`)
   } catch (e) {
     failed.push(s.code)
     console.warn(`✗ ${s.code} (${s.file}): ${e.message}. Можливі назви: ${await suggest(s.code)}`)
   }
-  await sleep(150)
+  await sleep(700)
 }
 
 console.log(`Готово: ${signs.length - failed.length}/${signs.length}`)

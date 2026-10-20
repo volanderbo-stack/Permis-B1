@@ -1,0 +1,445 @@
+[
+  {
+    "id": "q121",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "La ceinture de sécurité est obligatoire :",
+    "question_uk": "Пасок безпеки обов'язковий:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à l'avant uniquement",
+        "uk": "лише спереду"
+      },
+      {
+        "id": "B",
+        "fr": "à l'avant et à l'arrière",
+        "uk": "спереду й ззаду"
+      },
+      {
+        "id": "C",
+        "fr": "seulement sur autoroute",
+        "uk": "лише на автомагістралі"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Tous les occupants doivent être attachés, à l'avant comme à l'arrière, quel que soit le trajet, même très court.",
+    "explanation_uk": "Пристебнутися мають усі, хто в авто, — спереду й ззаду, на будь-якій, навіть дуже короткій поїздці."
+  },
+  {
+    "id": "q122",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un passager de 15 ans n'a pas attaché sa ceinture :",
+    "question_uk": "15-річний пасажир не пристебнувся:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "c'est le conducteur qui est sanctionné",
+        "uk": "покарають водія"
+      },
+      {
+        "id": "B",
+        "fr": "c'est le passager qui paie l'amende",
+        "uk": "штраф платить пасажир"
+      },
+      {
+        "id": "C",
+        "fr": "ce n'est pas une infraction",
+        "uk": "це не порушення"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le conducteur est responsable du port de la ceinture (ou du siège adapté) par les passagers mineurs.",
+    "explanation_uk": "Водій відповідає за те, щоб неповнолітні пасажири були пристебнуті (або сиділи в автокріслі)."
+  },
+  {
+    "id": "q123",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un enfant de 6 ans voyage dans ma voiture. Il doit être installé :",
+    "question_uk": "У моєму авто їде 6-річна дитина. Її треба посадити:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "dans un dispositif de retenue adapté à sa taille et à son poids",
+        "uk": "в утримувальний пристрій, що відповідає її зросту й вазі"
+      },
+      {
+        "id": "B",
+        "fr": "sur les genoux d'un adulte",
+        "uk": "на коліна дорослого"
+      },
+      {
+        "id": "C",
+        "fr": "avec une simple ceinture adulte",
+        "uk": "просто з дорослим пасом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Jusqu'à 10 ans, l'enfant doit être attaché dans un siège ou réhausseur homologué, adapté à sa morphologie.",
+    "explanation_uk": "До 10 років дитина має бути пристебнута в сертифікованому кріслі чи бустері, що підходить під її зріст і вагу."
+  },
+  {
+    "id": "q124",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "J'installe un siège bébé dos à la route à l'avant :",
+    "question_uk": "Я встановлюю дитяче крісло проти руху на передньому сидінні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je désactive l'airbag passager",
+        "uk": "я вимикаю подушку безпеки пасажира"
+      },
+      {
+        "id": "B",
+        "fr": "je laisse l'airbag activé pour plus de sécurité",
+        "uk": "я лишаю подушку ввімкненою для більшої безпеки"
+      },
+      {
+        "id": "C",
+        "fr": "c'est interdit dans tous les cas",
+        "uk": "це заборонено в будь-якому разі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un airbag frontal qui se déclenche contre un siège dos à la route peut gravement blesser le bébé : il doit être désactivé.",
+    "explanation_uk": "Фронтальна подушка, що спрацює в крісло, встановлене проти руху, може тяжко травмувати немовля, тому її треба вимкнути."
+  },
+  {
+    "id": "q125",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "L'appui-tête est bien réglé quand :",
+    "question_uk": "Підголівник налаштовано правильно, коли:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "son haut est au niveau du haut de la tête",
+        "uk": "його верх на рівні верхівки голови"
+      },
+      {
+        "id": "B",
+        "fr": "il est au niveau de la nuque",
+        "uk": "він на рівні шиї"
+      },
+      {
+        "id": "C",
+        "fr": "il est le plus bas possible",
+        "uk": "він опущений якнайнижче"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Bien réglé (haut de l'appui-tête au niveau du sommet du crâne, proche de la tête), il limite le « coup du lapin » en cas de choc arrière.",
+    "explanation_uk": "Правильно налаштований підголівник (верх на рівні маківки, близько до голови) зменшує хлистову травму шиї при ударі ззаду."
+  },
+  {
+    "id": "q126",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Une femme enceinte :",
+    "question_uk": "Вагітна жінка:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "doit porter la ceinture",
+        "uk": "має пристібатися"
+      },
+      {
+        "id": "B",
+        "fr": "place la sangle basse sous le ventre, sur les hanches",
+        "uk": "розміщує нижню стрічку паса під животом, на стегнах"
+      },
+      {
+        "id": "C",
+        "fr": "est dispensée de ceinture",
+        "uk": "звільнена від паса"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La ceinture reste obligatoire pendant la grossesse. La sangle basse passe sous le ventre, la sangle haute entre les seins.",
+    "explanation_uk": "Пасок обов'язковий і під час вагітності. Нижня стрічка проходить під животом, верхня — між грудьми."
+  },
+  {
+    "id": "q127",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Des objets lourds non attachés sur la plage arrière :",
+    "question_uk": "Важкі незакріплені речі на задній полиці:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peuvent devenir des projectiles en cas de choc",
+        "uk": "при ударі можуть перетворитися на снаряди"
+      },
+      {
+        "id": "B",
+        "fr": "ne présentent aucun danger",
+        "uk": "не становлять небезпеки"
+      },
+      {
+        "id": "C",
+        "fr": "doivent être rangés dans le coffre",
+        "uk": "мають лежати в багажнику"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Lors d'un choc, un objet pèse plusieurs dizaines de fois son poids. Le chargement doit être rangé et arrimé.",
+    "explanation_uk": "Під час зіткнення предмет «важить» у десятки разів більше. Вантаж треба покласти в багажник і закріпити."
+  },
+  {
+    "id": "q128",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Mon véhicule est très chargé :",
+    "question_uk": "Моє авто сильно завантажене:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la distance de freinage augmente",
+        "uk": "гальмівний шлях збільшується"
+      },
+      {
+        "id": "B",
+        "fr": "je vérifie la pression des pneus (charge)",
+        "uk": "я перевіряю тиск у шинах (під навантаження)"
+      },
+      {
+        "id": "C",
+        "fr": "je règle la hauteur des feux si nécessaire",
+        "uk": "за потреби регулюю нахил фар"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "Une forte charge allonge le freinage, modifie la tenue de route et relève l'avant : on adapte la pression des pneus et la hauteur des faisceaux.",
+    "explanation_uk": "Важкий вантаж подовжує гальмівний шлях, погіршує стійкість і піднімає передню частину: треба відкоригувати тиск у шинах і нахил фар."
+  },
+  {
+    "id": "q129",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un porte-vélos arrière masque ma plaque d'immatriculation et mes feux :",
+    "question_uk": "Задній велобагажник закриває номерний знак і ліхтарі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je dois ajouter une plaque et des feux sur le porte-vélos",
+        "uk": "я маю встановити номер і ліхтарі на велобагажник"
+      },
+      {
+        "id": "B",
+        "fr": "ce n'est pas grave",
+        "uk": "це не страшно"
+      },
+      {
+        "id": "C",
+        "fr": "je peux rouler seulement de jour",
+        "uk": "я можу їздити лише вдень"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La plaque et les feux doivent toujours rester visibles : un porte-vélos qui les masque doit les reproduire.",
+    "explanation_uk": "Номерний знак і ліхтарі завжди мають бути видимими: якщо велобагажник їх закриває, на ньому мають бути дублікати."
+  },
+  {
+    "id": "q130",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Mon chien voyage avec moi en voiture :",
+    "question_uk": "Мій собака їде зі мною в авто:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il ne doit pas gêner la conduite",
+        "uk": "він не повинен заважати керуванню"
+      },
+      {
+        "id": "B",
+        "fr": "il peut voyager sur mes genoux",
+        "uk": "він може сидіти в мене на колінах"
+      },
+      {
+        "id": "C",
+        "fr": "il est conseillé de l'attacher ou de le placer dans une caisse",
+        "uk": "його бажано пристебнути або посадити в переноску"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Un animal libre peut gêner le conducteur et être projeté lors d'un freinage. Harnais, grille ou caisse de transport sont recommandés.",
+    "explanation_uk": "Вільна тварина може заважати водієві й полетіти вперед під час гальмування. Радять шлейку, сітку або переноску."
+  },
+  {
+    "id": "q131",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "En cas de choc à 50 km/h sans ceinture, la violence du choc est comparable à :",
+    "question_uk": "Удар на 50 км/год без паса за силою можна порівняти з:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une chute d'un étage",
+        "uk": "падінням з першого поверху"
+      },
+      {
+        "id": "B",
+        "fr": "une chute d'environ 3 étages",
+        "uk": "падінням приблизно з 3-го поверху"
+      },
+      {
+        "id": "C",
+        "fr": "un simple freinage",
+        "uk": "звичайним гальмуванням"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "À 50 km/h, un choc équivaut à une chute d'environ 10 m (3 étages). Les bras ne suffisent pas à retenir le corps.",
+    "explanation_uk": "На 50 км/год удар дорівнює падінню приблизно з 10 м (3-й поверх). Утримати тіло руками неможливо."
+  },
+  {
+    "id": "q132",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "La ceinture de sécurité est bien portée quand :",
+    "question_uk": "Пасок безпеки пристебнуто правильно, коли:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la sangle passe sur l'épaule, sans toucher le cou",
+        "uk": "стрічка проходить через плече, не торкаючись шиї"
+      },
+      {
+        "id": "B",
+        "fr": "la sangle est passée sous le bras",
+        "uk": "стрічка пропущена під рукою"
+      },
+      {
+        "id": "C",
+        "fr": "elle est bien serrée, sans jeu",
+        "uk": "він щільно прилягає, без провисання"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "La sangle diagonale passe sur la clavicule, la sangle basse sur les hanches, sans jeu. Un manteau épais réduit son efficacité.",
+    "explanation_uk": "Діагональна стрічка — через ключицю, нижня — по стегнах, без провисання. Товста куртка знижує ефективність паса."
+  },
+  {
+    "id": "q133",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Combien de personnes au maximum peut transporter une voiture particulière (permis B), conducteur compris ?",
+    "question_uk": "Скільки людей максимум може перевозити легкове авто (категорія B), разом із водієм?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le nombre de places prévu par le constructeur",
+        "uk": "кількість місць, передбачена виробником"
+      },
+      {
+        "id": "B",
+        "fr": "autant de personnes que l'on veut si les enfants sont sur les genoux",
+        "uk": "скільки завгодно, якщо діти сидять на колінах"
+      },
+      {
+        "id": "C",
+        "fr": "au maximum 9 places au total",
+        "uk": "щонайбільше 9 місць загалом"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "On ne transporte pas plus de passagers que de places assises équipées de ceintures. Le permis B est limité aux véhicules de 9 places au plus, conducteur compris.",
+    "explanation_uk": "Пасажирів не може бути більше, ніж обладнаних пасками місць. Категорія B обмежена авто до 9 місць разом із водієм."
+  },
+  {
+    "id": "q134",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Pour éviter le vol de mon véhicule :",
+    "question_uk": "Щоб авто не викрали:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ferme les vitres et je verrouille les portes",
+        "uk": "я закриваю вікна й замикаю двері"
+      },
+      {
+        "id": "B",
+        "fr": "je ne laisse pas d'objets de valeur en vue",
+        "uk": "я не залишаю цінні речі на видноті"
+      },
+      {
+        "id": "C",
+        "fr": "je laisse les papiers du véhicule dans la boîte à gants",
+        "uk": "я залишаю документи на авто в бардачку"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Portes verrouillées, vitres fermées, rien de visible à l'intérieur. Laisser la carte grise dans la voiture facilite la revente d'un véhicule volé.",
+    "explanation_uk": "Двері замкнені, вікна зачинені, нічого цінного на видноті. Свідоцтво про реєстрацію в салоні полегшує злодіям перепродаж авто."
+  },
+  {
+    "id": "q135",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un enfant de 8 ans peut-il voyager à l'avant ?",
+    "question_uk": "Чи може 8-річна дитина їхати на передньому сидінні?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en principe non, sauf exceptions prévues par le Code",
+        "uk": "в принципі ні, крім винятків, передбачених правилами"
+      },
+      {
+        "id": "B",
+        "fr": "oui, toujours",
+        "uk": "так, завжди"
+      },
+      {
+        "id": "C",
+        "fr": "oui, s'il est attaché avec la ceinture adulte",
+        "uk": "так, якщо пристебнута дорослим пасом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Avant 10 ans, un enfant voyage à l'arrière, sauf exceptions (bébé dos à la route airbag désactivé, absence de places arrière, places arrière occupées par d'autres enfants…).",
+    "explanation_uk": "До 10 років дитина їде ззаду, крім винятків (немовля в кріслі проти руху з вимкненою подушкою, відсутні або зайняті іншими дітьми задні місця тощо)."
+  }
+]
