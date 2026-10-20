@@ -1,0 +1,227 @@
+[
+  {
+    "id": "q001",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "En agglomération, sauf signalisation contraire, la vitesse maximale autorisée est de :",
+    "question_uk": "У населеному пункті, якщо знаки не вказують інше, максимальна дозволена швидкість становить:",
+    "answers": [
+      { "id": "A", "fr": "30 km/h", "uk": "30 км/год" },
+      { "id": "B", "fr": "50 km/h", "uk": "50 км/год" },
+      { "id": "C", "fr": "70 km/h", "uk": "70 км/год" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "En agglomération, la vitesse est limitée à 50 km/h, sauf si un panneau indique une autre limite (zone 30, par exemple).",
+    "explanation_uk": "У населеному пункті швидкість обмежена 50 км/год, якщо знак не встановлює інше обмеження (наприклад, зона 30)."
+  },
+  {
+    "id": "q002",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Sur autoroute, par temps de pluie, un conducteur titulaire du permis depuis plus de 3 ans peut rouler au maximum à :",
+    "question_uk": "На автомагістралі під час дощу водій зі стажем понад 3 роки може їхати щонайбільше:",
+    "answers": [
+      { "id": "A", "fr": "130 km/h", "uk": "130 км/год" },
+      { "id": "B", "fr": "110 km/h", "uk": "110 км/год" },
+      { "id": "C", "fr": "100 km/h", "uk": "100 км/год" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "Par temps de pluie ou autres précipitations, la vitesse maximale sur autoroute passe de 130 à 110 km/h.",
+    "explanation_uk": "Під час дощу чи інших опадів максимальна швидкість на автомагістралі знижується зі 130 до 110 км/год."
+  },
+  {
+    "id": "q003",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je suis en permis probatoire. Sur autoroute, par temps sec, ma vitesse maximale est de :",
+    "question_uk": "У мене пробні права (permis probatoire). На автомагістралі в суху погоду моя максимальна швидкість:",
+    "answers": [
+      { "id": "A", "fr": "130 km/h", "uk": "130 км/год" },
+      { "id": "B", "fr": "110 km/h", "uk": "110 км/год" },
+      { "id": "C", "fr": "90 km/h", "uk": "90 км/год" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "Pendant la période probatoire, la vitesse est limitée à 110 km/h sur autoroute (au lieu de 130 km/h).",
+    "explanation_uk": "Під час пробного періоду швидкість на автомагістралі обмежена 110 км/год (замість 130 км/год)."
+  },
+  {
+    "id": "q004",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Par brouillard, lorsque la visibilité est inférieure à 50 mètres, la vitesse est limitée à :",
+    "question_uk": "У туман, коли видимість менше 50 метрів, швидкість обмежена:",
+    "answers": [
+      { "id": "A", "fr": "50 km/h sur toutes les routes", "uk": "50 км/год на всіх дорогах" },
+      { "id": "B", "fr": "70 km/h sur autoroute uniquement", "uk": "70 км/год лише на автомагістралі" },
+      { "id": "C", "fr": "80 km/h hors agglomération", "uk": "80 км/год поза населеним пунктом" }
+    ],
+    "correct": ["A"],
+    "explanation_fr": "Quand la visibilité est inférieure à 50 m, la vitesse maximale est de 50 km/h sur toutes les routes, y compris sur autoroute.",
+    "explanation_uk": "Коли видимість менше 50 м, максимальна швидкість — 50 км/год на всіх дорогах, включно з автомагістраллю."
+  },
+  {
+    "id": "q005",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "J'arrive à une intersection sans aucune signalisation. Je dois céder le passage :",
+    "question_uk": "Я під'їжджаю до перехрестя без жодних знаків. Я маю поступитися дорогою:",
+    "answers": [
+      { "id": "A", "fr": "aux véhicules venant de ma droite", "uk": "транспорту, що наближається справа" },
+      { "id": "B", "fr": "aux véhicules venant de ma gauche", "uk": "транспорту, що наближається зліва" },
+      { "id": "C", "fr": "au véhicule le plus gros", "uk": "найбільшому транспортному засобу" }
+    ],
+    "correct": ["A"],
+    "explanation_fr": "En l'absence de signalisation, la règle est la priorité à droite : je cède le passage aux véhicules venant de ma droite.",
+    "explanation_uk": "Якщо знаків немає, діє правило «перешкоди справа» (priorité à droite): я поступаюся транспорту, що їде справа."
+  },
+  {
+    "id": "q006",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "J'arrive à un giratoire signalé par un panneau « Cédez le passage » :",
+    "question_uk": "Я під'їжджаю до кільця (giratoire) зі знаком «Дати дорогу»:",
+    "answers": [
+      { "id": "A", "fr": "je cède le passage aux véhicules déjà engagés sur l'anneau", "uk": "я поступаюся транспорту, який уже рухається по кільцю" },
+      { "id": "B", "fr": "les véhicules sur l'anneau doivent me céder le passage", "uk": "транспорт на кільці має поступитися мені" },
+      { "id": "C", "fr": "je mets mon clignotant droit avant de sortir", "uk": "перед виїздом я вмикаю правий поворот" }
+    ],
+    "correct": ["A", "C"],
+    "explanation_fr": "À l'entrée d'un giratoire, les véhicules circulant sur l'anneau sont prioritaires. Pour sortir, j'annonce ma manœuvre avec le clignotant droit.",
+    "explanation_uk": "На в'їзді на кільце перевагу мають ті, хто вже їде по кільцю. Щоб виїхати, я попереджаю про маневр правим поворотником."
+  },
+  {
+    "id": "q007",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Le feu passe à l'orange fixe alors que je suis encore à distance du carrefour :",
+    "question_uk": "Світлофор перемикається на постійний жовтий, коли я ще на відстані від перехрестя:",
+    "answers": [
+      { "id": "A", "fr": "je m'arrête, sauf si cela est dangereux", "uk": "я зупиняюся, якщо це не небезпечно" },
+      { "id": "B", "fr": "j'accélère pour passer avant le rouge", "uk": "я прискорююся, щоб проїхати до червоного" },
+      { "id": "C", "fr": "je peux passer comme au feu vert", "uk": "я можу проїхати, як на зелений" }
+    ],
+    "correct": ["A"],
+    "explanation_fr": "Le feu orange fixe impose l'arrêt, sauf si le conducteur ne peut plus s'arrêter dans des conditions de sécurité suffisantes.",
+    "explanation_uk": "Постійний жовтий сигнал вимагає зупинитися, крім випадку, коли водій уже не може безпечно зупинитися."
+  },
+  {
+    "id": "q008",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Devant un passage à niveau, deux feux rouges clignotent en alternance :",
+    "question_uk": "Перед залізничним переїздом поперемінно блимають два червоні сигнали:",
+    "answers": [
+      { "id": "A", "fr": "je dois m'arrêter", "uk": "я повинен зупинитися" },
+      { "id": "B", "fr": "je peux passer si aucun train n'est visible", "uk": "я можу проїхати, якщо потяга не видно" },
+      { "id": "C", "fr": "je ralentis et je passe prudemment", "uk": "я пригальмовую і обережно проїжджаю" }
+    ],
+    "correct": ["A"],
+    "explanation_fr": "Le feu rouge clignotant impose un arrêt absolu : un train approche. Il est interdit de franchir le passage à niveau.",
+    "explanation_uk": "Червоний миготливий сигнал означає обов'язкову зупинку: наближається потяг. Перетинати переїзд заборонено."
+  },
+  {
+    "id": "q009",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Une ligne blanche continue est tracée au milieu de la chaussée :",
+    "question_uk": "Посередині дороги нанесена суцільна біла лінія:",
+    "answers": [
+      { "id": "A", "fr": "je ne dois pas la franchir pour dépasser", "uk": "я не можу перетинати її для обгону" },
+      { "id": "B", "fr": "je peux la chevaucher si la voie d'en face est libre", "uk": "я можу наїжджати на неї, якщо зустрічна смуга вільна" },
+      { "id": "C", "fr": "je ne dois pas la franchir pour faire demi-tour", "uk": "я не можу перетинати її для розвороту" }
+    ],
+    "correct": ["A", "C"],
+    "explanation_fr": "Une ligne continue ne doit être ni franchie ni chevauchée, quelle que soit la manœuvre (dépassement, demi-tour, changement de direction).",
+    "explanation_uk": "Суцільну лінію не можна ні перетинати, ні наїжджати на неї, незалежно від маневру (обгін, розворот, поворот)."
+  },
+  {
+    "id": "q010",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je peux dépasser par la droite :",
+    "question_uk": "Я можу обганяти справа:",
+    "answers": [
+      { "id": "A", "fr": "un véhicule dont le conducteur a signalé qu'il tourne à gauche et s'est porté à gauche", "uk": "авто, водій якого показав поворот ліворуч і змістився ліворуч" },
+      { "id": "B", "fr": "un véhicule lent sur une route à double sens", "uk": "повільне авто на дорозі з двостороннім рухом" },
+      { "id": "C", "fr": "un tramway en mouvement, lorsque l'espace est suffisant", "uk": "трамвай, що рухається, якщо місця достатньо" }
+    ],
+    "correct": ["A", "C"],
+    "explanation_fr": "Le dépassement se fait normalement par la gauche. Exceptions : un véhicule qui tourne à gauche, et un tramway en mouvement (par la droite si l'espace le permet).",
+    "explanation_uk": "Обгін зазвичай виконують зліва. Винятки: авто, що повертає ліворуч, і трамвай, що рухається (справа, якщо дозволяє місце)."
+  },
+  {
+    "id": "q011",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "La distance de sécurité minimale avec le véhicule qui me précède correspond à au moins :",
+    "question_uk": "Мінімальна безпечна дистанція до авто попереду відповідає щонайменше:",
+    "answers": [
+      { "id": "A", "fr": "1 seconde", "uk": "1 секунді" },
+      { "id": "B", "fr": "2 secondes", "uk": "2 секундам" },
+      { "id": "C", "fr": "5 secondes", "uk": "5 секундам" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "Le Code de la route impose une distance correspondant à au moins 2 secondes de parcours. Sur autoroute, cela représente environ deux traits de la bande d'arrêt d'urgence.",
+    "explanation_uk": "Правила вимагають дистанцію, яку авто проїжджає щонайменше за 2 секунди. На автомагістралі це приблизно дві риски розмітки на узбіччі."
+  },
+  {
+    "id": "q012",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Stationner sur un trottoir est :",
+    "question_uk": "Паркування на тротуарі:",
+    "answers": [
+      { "id": "A", "fr": "autorisé si je laisse un passage d'un mètre aux piétons", "uk": "дозволене, якщо я залишаю пішоходам прохід 1 метр" },
+      { "id": "B", "fr": "interdit, sauf signalisation l'autorisant", "uk": "заборонене, якщо знак або розмітка цього не дозволяють" },
+      { "id": "C", "fr": "toléré la nuit", "uk": "допускається вночі" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "Le stationnement sur trottoir est considéré comme « très gênant » et puni d'une amende de 135 €, sauf emplacements matérialisés.",
+    "explanation_uk": "Паркування на тротуарі вважається «дуже заважаючим» і карається штрафом 135 €, крім спеціально позначених місць."
+  },
+  {
+    "id": "q013",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "J'arrive à un panneau STOP :",
+    "question_uk": "Я під'їжджаю до знака STOP:",
+    "answers": [
+      { "id": "A", "fr": "je marque un arrêt complet à la limite de la chaussée abordée", "uk": "я повністю зупиняюся на межі дороги, яку перетинаю" },
+      { "id": "B", "fr": "je peux ne pas m'arrêter si personne n'arrive", "uk": "я можу не зупинятися, якщо ніхто не їде" },
+      { "id": "C", "fr": "je cède le passage aux usagers de la route abordée", "uk": "я поступаюся учасникам руху на дорозі, яку перетинаю" }
+    ],
+    "correct": ["A", "C"],
+    "explanation_fr": "Au STOP, l'arrêt est obligatoire même si la voie est libre (roues immobilisées), puis je cède le passage à tous les usagers.",
+    "explanation_uk": "Біля знака STOP зупинка обов'язкова навіть на вільній дорозі (колеса повністю зупинені), після чого я поступаюся всім учасникам руху."
+  },
+  {
+    "id": "q014",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Sur autoroute, je peux utiliser la bande d'arrêt d'urgence :",
+    "question_uk": "На автомагістралі я можу користуватися смугою аварійної зупинки:",
+    "answers": [
+      { "id": "A", "fr": "pour dépasser dans un embouteillage", "uk": "щоб об'їхати затор" },
+      { "id": "B", "fr": "en cas de panne ou d'urgence", "uk": "у разі поломки чи надзвичайної ситуації" },
+      { "id": "C", "fr": "pour passer un appel téléphonique", "uk": "щоб зателефонувати" }
+    ],
+    "correct": ["B"],
+    "explanation_fr": "La bande d'arrêt d'urgence est réservée aux arrêts en cas de nécessité absolue (panne, malaise, accident). Y circuler ou s'y arrêter pour téléphoner est interdit.",
+    "explanation_uk": "Смуга аварійної зупинки — лише для крайньої необхідності (поломка, погане самопочуття, ДТП). Їхати нею чи зупинятися, щоб поговорити по телефону, заборонено."
+  },
+  {
+    "id": "q015",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un véhicule de pompiers arrive derrière moi, gyrophare et sirène en marche :",
+    "question_uk": "Позаду мене їде пожежна машина з увімкненими маячком і сиреною:",
+    "answers": [
+      { "id": "A", "fr": "je facilite son passage en serrant à droite", "uk": "я полегшую їй проїзд, притискаючись праворуч" },
+      { "id": "B", "fr": "je garde ma trajectoire et ma vitesse", "uk": "я зберігаю свою траєкторію і швидкість" },
+      { "id": "C", "fr": "je freine brusquement au milieu de la voie", "uk": "я різко гальмую посеред смуги" }
+    ],
+    "correct": ["A"],
+    "explanation_fr": "Les véhicules d'intérêt général prioritaires (pompiers, police, SAMU) en intervention ont la priorité : je dois faciliter leur passage, sans manœuvre brusque.",
+    "explanation_uk": "Пріоритетні спецмашини (пожежники, поліція, SAMU) під час виклику мають перевагу: я маю звільнити їм дорогу, без різких маневрів."
+  }
+]
