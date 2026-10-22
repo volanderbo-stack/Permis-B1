@@ -26,7 +26,11 @@
       "A"
     ],
     "explanation_fr": "La catégorie B1 concerne les quadricycles lourds à moteur. Elle est accessible dès 16 ans.",
-    "explanation_uk": "Категорія B1 — це важкі моторизовані квадрицикли. Її можна отримати з 16 років."
+    "explanation_uk": "Категорія B1 — це важкі моторизовані квадрицикли. Її можна отримати з 16 років.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q062",
@@ -55,7 +59,11 @@
       "B"
     ],
     "explanation_fr": "Le permis B1 (quadricycles lourds) peut être obtenu à partir de 16 ans.",
-    "explanation_uk": "Категорію B1 (важкі квадрицикли) можна отримати з 16 років."
+    "explanation_uk": "Категорію B1 (важкі квадрицикли) можна отримати з 16 років.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q063",
@@ -84,7 +92,12 @@
       "B"
     ],
     "explanation_fr": "La période probatoire dure 3 ans, ou 2 ans après un apprentissage anticipé de la conduite (conduite accompagnée).",
-    "explanation_uk": "Пробний період триває 3 роки, або 2 роки після раннього навчання з супроводом (conduite accompagnée)."
+    "explanation_uk": "Пробний період триває 3 роки, або 2 роки після раннього навчання з супроводом (conduite accompagnée).",
+    "tags": [
+      "documents",
+      "sanctions"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q064",
@@ -113,7 +126,11 @@
       "B"
     ],
     "explanation_fr": "Le capital maximal est de 12 points. Si le solde tombe à zéro, le permis est invalidé.",
-    "explanation_uk": "Максимум — 12 балів. Якщо баланс падає до нуля, посвідчення анулюють."
+    "explanation_uk": "Максимум — 12 балів. Якщо баланс падає до нуля, посвідчення анулюють.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 3
   },
   {
     "id": "q065",
@@ -142,7 +159,12 @@
       "B"
     ],
     "explanation_fr": "Franchir un feu rouge ou ne pas marquer l'arrêt au STOP coûte 4 points et une amende de 135 €.",
-    "explanation_uk": "Проїзд на червоне або незупинка біля знака STOP — мінус 4 бали та штраф 135 €."
+    "explanation_uk": "Проїзд на червоне або незупинка біля знака STOP — мінус 4 бали та штраф 135 €.",
+    "tags": [
+      "sanctions",
+      "signalisation"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q066",
@@ -172,7 +194,11 @@
       "B"
     ],
     "explanation_fr": "Le conducteur doit présenter son permis et le certificat d'immatriculation (carte grise). La facture d'achat n'est pas demandée.",
-    "explanation_uk": "Водій має пред'явити посвідчення та свідоцтво про реєстрацію (carte grise). Рахунок про купівлю не вимагають."
+    "explanation_uk": "Водій має пред'явити посвідчення та свідоцтво про реєстрацію (carte grise). Рахунок про купівлю не вимагають.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q067",
@@ -201,7 +227,11 @@
       "B"
     ],
     "explanation_fr": "L'assurance responsabilité civile est obligatoire pour tout véhicule terrestre à moteur. Circuler sans assurance est un délit.",
-    "explanation_uk": "Страхування цивільної відповідальності обов'язкове для будь-якого моторного транспорту. Їзда без страховки — délit."
+    "explanation_uk": "Страхування цивільної відповідальності обов'язкове для будь-якого моторного транспорту. Їзда без страховки — délit.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q068",
@@ -230,7 +260,11 @@
       "A"
     ],
     "explanation_fr": "Le premier contrôle technique a lieu dans les 6 mois précédant le 4e anniversaire de la première immatriculation, puis tous les 2 ans.",
-    "explanation_uk": "Перший техогляд проходять протягом 6 місяців до 4-ї річниці першої реєстрації, далі — кожні 2 роки."
+    "explanation_uk": "Перший техогляд проходять протягом 6 місяців до 4-ї річниці першої реєстрації, далі — кожні 2 роки.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q069",
@@ -260,7 +294,12 @@
       "C"
     ],
     "explanation_fr": "Le constat amiable sert à décrire l'accident pour les assurances. Quitter les lieux sans s'arrêter est un délit de fuite.",
-    "explanation_uk": "Європротокол описує аварію для страхових компаній. Поїхати з місця ДТП — délit de fuite (втеча з місця аварії)."
+    "explanation_uk": "Європротокол описує аварію для страхових компаній. Поїхати з місця ДТП — délit de fuite (втеча з місця аварії).",
+    "tags": [
+      "accident",
+      "documents"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q070",
@@ -290,7 +329,12 @@
       "B"
     ],
     "explanation_fr": "Le gilet (accessible sans sortir du véhicule) et le triangle sont obligatoires. L'extincteur est recommandé mais pas obligatoire pour une voiture particulière.",
-    "explanation_uk": "Жилет (щоб дістати, не виходячи з авто) і трикутник обов'язкові. Вогнегасник рекомендований, але для легкового авто не обов'язковий."
+    "explanation_uk": "Жилет (щоб дістати, не виходячи з авто) і трикутник обов'язкові. Вогнегасник рекомендований, але для легкового авто не обов'язковий.",
+    "tags": [
+      "equipements",
+      "accident"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q071",
@@ -319,7 +363,11 @@
       "B"
     ],
     "explanation_fr": "Sans infraction, le permis probatoire gagne 2 points par an (3 points par an après une conduite accompagnée) jusqu'à 12.",
-    "explanation_uk": "Без порушень пробні права отримують 2 бали на рік (3 бали — після супровідного водіння), до 12."
+    "explanation_uk": "Без порушень пробні права отримують 2 бали на рік (3 бали — після супровідного водіння), до 12.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q072",
@@ -348,7 +396,12 @@
       "A"
     ],
     "explanation_fr": "Le défaut de port de la ceinture est puni d'une amende forfaitaire de 135 € et d'un retrait de 3 points.",
-    "explanation_uk": "За непристебнутий пасок — фіксований штраф 135 € і мінус 3 бали."
+    "explanation_uk": "За непристебнутий пасок — фіксований штраф 135 € і мінус 3 бали.",
+    "tags": [
+      "ceinture",
+      "sanctions"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q073",
@@ -377,7 +430,11 @@
       "A"
     ],
     "explanation_fr": "Un stage volontaire permet de récupérer jusqu'à 4 points, dans la limite du capital maximal.",
-    "explanation_uk": "Добровільний курс повертає до 4 балів, але не більше максимального ліміту."
+    "explanation_uk": "Добровільний курс повертає до 4 балів, але не більше максимального ліміту.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 3
   },
   {
     "id": "q074",
@@ -407,7 +464,11 @@
       "B"
     ],
     "explanation_fr": "Le stationnement ininterrompu de plus de 7 jours au même endroit est abusif et peut entraîner une mise en fourrière.",
-    "explanation_uk": "Безперервна стоянка понад 7 днів на одному місці вважається зловживанням і може закінчитися евакуацією."
+    "explanation_uk": "Безперервна стоянка понад 7 днів на одному місці вважається зловживанням і може закінчитися евакуацією.",
+    "tags": [
+      "stationnement"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q075",
@@ -437,6 +498,845 @@
       "C"
     ],
     "explanation_fr": "Les injonctions des agents de la circulation s'imposent et passent avant les feux et la signalisation. Refuser d'obtempérer est un délit.",
-    "explanation_uk": "Вказівки регулювальника обов'язкові й мають пріоритет над світлофорами та знаками. Відмова зупинитися — délit."
+    "explanation_uk": "Вказівки регулювальника обов'язкові й мають пріоритет над світлофорами та знаками. Відмова зупинитися — délit.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q251",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Pour réussir l'examen du code, il faut au moins :",
+    "question_uk": "Щоб скласти іспит з теорії, потрібно щонайменше:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "30 bonnes réponses sur 40",
+        "uk": "30 правильних із 40"
+      },
+      {
+        "id": "B",
+        "fr": "35 bonnes réponses sur 40",
+        "uk": "35 правильних із 40"
+      },
+      {
+        "id": "C",
+        "fr": "40 bonnes réponses sur 40",
+        "uk": "40 із 40"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "L'épreuve théorique générale (ETG) comporte 40 questions ; il faut au moins 35 bonnes réponses.",
+    "explanation_uk": "Теоретичний іспит (ETG) має 40 питань; треба щонайменше 35 правильних відповідей.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q252",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Après réussite, l'examen du code est valable :",
+    "question_uk": "Складений іспит з теорії дійсний:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "2 ans",
+        "uk": "2 роки"
+      },
+      {
+        "id": "B",
+        "fr": "5 ans",
+        "uk": "5 років"
+      },
+      {
+        "id": "C",
+        "fr": "toute la vie",
+        "uk": "все життя"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Le code est valable 5 ans, dans la limite de 5 présentations à l'examen pratique.",
+    "explanation_uk": "Теорія дійсна 5 років, але не більше ніж на 5 спроб практичного іспиту.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q253",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Quel véhicule puis-je conduire avec le permis B1 dès 16 ans ?",
+    "question_uk": "Яким транспортом я можу керувати з правами B1 з 16 років?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un quadricycle lourd à moteur",
+        "uk": "важким моторизованим квадрициклом"
+      },
+      {
+        "id": "B",
+        "fr": "une voiture particulière classique",
+        "uk": "звичайним легковим авто"
+      },
+      {
+        "id": "C",
+        "fr": "un camping-car de 3,5 t",
+        "uk": "автобудинком на 3,5 т"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le B1 est limité aux quadricycles lourds. Pour une voiture particulière, il faut le permis B (à partir de 17 ans).",
+    "explanation_uk": "B1 обмежена важкими квадрициклами. Для звичайного легкового авто потрібна категорія B (з 17 років).",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q254",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Pendant la période probatoire, une infraction entraînant la perte de 3 points ou plus :",
+    "question_uk": "Під час пробного періоду порушення з втратою 3 і більше балів:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "oblige à suivre un stage de sensibilisation",
+        "uk": "зобов'язує пройти курс безпеки"
+      },
+      {
+        "id": "B",
+        "fr": "n'a pas de conséquence particulière",
+        "uk": "не має особливих наслідків"
+      },
+      {
+        "id": "C",
+        "fr": "annule automatiquement le permis",
+        "uk": "автоматично анулює права"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En probatoire, une infraction avec retrait d'au moins 3 points impose un stage de sensibilisation, à faire dans les 4 mois.",
+    "explanation_uk": "На пробних правах порушення з мінусом щонайменше 3 бали зобов'язує пройти курс безпеки протягом 4 місяців.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q255",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Avec la conduite accompagnée (AAC), la période probatoire dure :",
+    "question_uk": "Після супровідного водіння (AAC) пробний період триває:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 an",
+        "uk": "1 рік"
+      },
+      {
+        "id": "B",
+        "fr": "2 ans",
+        "uk": "2 роки"
+      },
+      {
+        "id": "C",
+        "fr": "3 ans",
+        "uk": "3 роки"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "La période probatoire est réduite à 2 ans après un apprentissage anticipé de la conduite, avec un gain de 3 points par an.",
+    "explanation_uk": "Після раннього навчання з супроводом пробний період скорочується до 2 років, і щороку додається 3 бали.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q256",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le disque « A » à l'arrière d'une voiture indique :",
+    "question_uk": "Наліпка «A» ззаду на авто означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un conducteur en période probatoire",
+        "uk": "водія на пробному періоді"
+      },
+      {
+        "id": "B",
+        "fr": "une voiture automatique",
+        "uk": "авто з автоматичною коробкою"
+      },
+      {
+        "id": "C",
+        "fr": "un véhicule d'auto-école",
+        "uk": "авто автошколи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le disque « A » (lettre rouge sur fond blanc) signale un jeune conducteur en période probatoire.",
+    "explanation_uk": "Наліпка «A» (червона літера на білому) позначає молодого водія на пробному періоді.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q257",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Mon solde de points tombe à zéro :",
+    "question_uk": "Мій баланс балів упав до нуля:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "mon permis est invalidé",
+        "uk": "мої права анулюють"
+      },
+      {
+        "id": "B",
+        "fr": "je reçois automatiquement 6 nouveaux points",
+        "uk": "мені автоматично дають 6 нових балів"
+      },
+      {
+        "id": "C",
+        "fr": "je peux continuer à conduire 1 an",
+        "uk": "я можу ще рік керувати"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Avec un solde nul, le permis perd sa validité. Il faut le restituer, attendre un délai et repasser l'examen.",
+    "explanation_uk": "Коли балів не лишилося, права втрачають силу. Їх треба здати, почекати певний строк і скласти іспит знову.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q258",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "J'ai perdu 1 point pour une petite infraction. Je le récupère :",
+    "question_uk": "Я втратив 1 бал за дрібне порушення. Я поверну його:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "après 6 mois sans nouvelle infraction",
+        "uk": "через 6 місяців без нових порушень"
+      },
+      {
+        "id": "B",
+        "fr": "après 1 mois",
+        "uk": "через 1 місяць"
+      },
+      {
+        "id": "C",
+        "fr": "jamais",
+        "uk": "ніколи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un point perdu pour une contravention à 1 point est restitué après 6 mois sans nouvelle infraction.",
+    "explanation_uk": "Бал, утрачений за порушення на 1 бал, повертається через 6 місяців без нових порушень.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q259",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Sans nouvelle infraction pendant 2 ans (hors délit), mon permis :",
+    "question_uk": "Якщо 2 роки без нових порушень (крім délit), мої права:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "retrouve ses 12 points",
+        "uk": "знову мають 12 балів"
+      },
+      {
+        "id": "B",
+        "fr": "gagne 1 point",
+        "uk": "отримують 1 бал"
+      },
+      {
+        "id": "C",
+        "fr": "est renouvelé",
+        "uk": "переоформлюються"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Après 2 ans sans infraction entraînant un retrait de points, le capital initial est rétabli (3 ans en cas de délit ou de contravention grave).",
+    "explanation_uk": "Через 2 роки без порушень із зняттям балів відновлюється початковий запас (3 роки, якщо був délit чи тяжке порушення).",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q260",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un stage volontaire de sensibilisation permet de récupérer :",
+    "question_uk": "Добровільний курс безпеки дає змогу повернути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "jusqu'à 4 points, une fois par an",
+        "uk": "до 4 балів, раз на рік"
+      },
+      {
+        "id": "B",
+        "fr": "tous les points perdus",
+        "uk": "усі втрачені бали"
+      },
+      {
+        "id": "C",
+        "fr": "2 points par jour de stage",
+        "uk": "по 2 бали за день курсу"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le stage (2 jours) rend jusqu'à 4 points, sans dépasser le maximum, et ne peut être suivi qu'une fois par an pour récupérer des points.",
+    "explanation_uk": "Курс (2 дні) повертає до 4 балів, але не більше максимуму, і для відновлення балів його можна проходити раз на рік.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q261",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Franchir une ligne continue fait perdre :",
+    "question_uk": "За перетин суцільної лінії знімають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 point",
+        "uk": "1 бал"
+      },
+      {
+        "id": "B",
+        "fr": "3 points",
+        "uk": "3 бали"
+      },
+      {
+        "id": "C",
+        "fr": "6 points",
+        "uk": "6 балів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Franchir une ligne continue : 3 points et 135 €. La chevaucher (rouler à cheval dessus) : 1 point.",
+    "explanation_uk": "Перетин суцільної: мінус 3 бали й 135 €. Наїзд на неї (їхати по лінії): мінус 1 бал.",
+    "tags": [
+      "sanctions",
+      "marquage"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q262",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un excès de vitesse de moins de 20 km/h hors agglomération entraîne le retrait de :",
+    "question_uk": "Перевищення менш ніж на 20 км/год поза містом — мінус:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "1 point",
+        "uk": "1 бал"
+      },
+      {
+        "id": "B",
+        "fr": "2 points",
+        "uk": "2 бали"
+      },
+      {
+        "id": "C",
+        "fr": "4 points",
+        "uk": "4 бали"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Moins de 20 km/h : 1 point. De 20 à 29 : 2 points. De 30 à 39 : 3 points. De 40 à 49 : 4 points. 50 et plus : 6 points.",
+    "explanation_uk": "Менш ніж на 20 км/год — 1 бал; 20–29 — 2; 30–39 — 3; 40–49 — 4; від 50 — 6 балів.",
+    "tags": [
+      "sanctions",
+      "vitesse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q263",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Ne pas respecter la distance de sécurité coûte :",
+    "question_uk": "Недотримання безпечної дистанції коштує:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "3 points et 135 €",
+        "uk": "мінус 3 бали й 135 €"
+      },
+      {
+        "id": "B",
+        "fr": "1 point et 35 €",
+        "uk": "мінус 1 бал і 35 €"
+      },
+      {
+        "id": "C",
+        "fr": "aucun point",
+        "uk": "без зняття балів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Une distance de sécurité insuffisante est une contravention de 4e classe : 135 € et 3 points.",
+    "explanation_uk": "Замала дистанція — порушення 4-го класу: 135 € і мінус 3 бали.",
+    "tags": [
+      "sanctions",
+      "distances"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q264",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Quitter les lieux d'un accident sans s'arrêter, c'est :",
+    "question_uk": "Поїхати з місця ДТП, не зупинившись, — це:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un délit de fuite",
+        "uk": "втеча з місця ДТП (délit de fuite)"
+      },
+      {
+        "id": "B",
+        "fr": "une simple contravention",
+        "uk": "звичайне порушення"
+      },
+      {
+        "id": "C",
+        "fr": "autorisé si personne n'est blessé",
+        "uk": "дозволено, якщо немає постраждалих"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le délit de fuite est puni de 3 ans de prison, 75 000 € d'amende et 6 points, même pour un accident matériel.",
+    "explanation_uk": "Втеча з місця ДТП карається до 3 років ув'язнення, 75 000 € штрафу й мінус 6 балів, навіть якщо лише пошкоджено майно.",
+    "tags": [
+      "sanctions",
+      "accident"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q265",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Une amende forfaitaire de 135 € est minorée à 90 € si je la paie :",
+    "question_uk": "Фіксований штраф 135 € зменшується до 90 €, якщо я сплачу його:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "rapidement (dans les 15 jours, 30 jours en ligne)",
+        "uk": "швидко (протягом 15 днів, 30 — онлайн)"
+      },
+      {
+        "id": "B",
+        "fr": "dans les 3 mois",
+        "uk": "протягом 3 місяців"
+      },
+      {
+        "id": "C",
+        "fr": "jamais",
+        "uk": "ніколи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "L'amende forfaitaire minorée s'applique si on paie rapidement : 15 jours (30 jours en paiement dématérialisé).",
+    "explanation_uk": "Зменшений штраф діє при швидкій оплаті: 15 днів (30 днів при оплаті онлайн).",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q266",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le certificat d'immatriculation doit être mis à jour quand :",
+    "question_uk": "Свідоцтво про реєстрацію треба оновити, коли:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je déménage",
+        "uk": "я переїжджаю"
+      },
+      {
+        "id": "B",
+        "fr": "j'achète un véhicule d'occasion",
+        "uk": "я купую вживане авто"
+      },
+      {
+        "id": "C",
+        "fr": "je fais le plein",
+        "uk": "я заправляюся"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Changement d'adresse ou de propriétaire : le certificat d'immatriculation doit être modifié (démarche en ligne).",
+    "explanation_uk": "При зміні адреси чи власника свідоцтво про реєстрацію треба змінити (онлайн).",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q267",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "L'assurance obligatoire minimale d'un véhicule couvre :",
+    "question_uk": "Мінімальна обов'язкова страховка авто покриває:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les dommages causés aux autres (responsabilité civile)",
+        "uk": "шкоду, заподіяну іншим (цивільна відповідальність)"
+      },
+      {
+        "id": "B",
+        "fr": "les dégâts sur mon propre véhicule",
+        "uk": "пошкодження мого авто"
+      },
+      {
+        "id": "C",
+        "fr": "le vol du véhicule",
+        "uk": "крадіжку авто"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "L'assurance « au tiers » (responsabilité civile) est obligatoire : elle indemnise les dommages causés aux autres. Les autres garanties sont facultatives.",
+    "explanation_uk": "Страховка «третіх осіб» (цивільна відповідальність) обов'язкова: вона покриває шкоду, заподіяну іншим. Інші гарантії — за бажанням.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q268",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Après un contrôle technique avec défaillance majeure, je dois faire la contre-visite dans :",
+    "question_uk": "Після техогляду з серйозним дефектом повторний огляд треба пройти протягом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "2 mois",
+        "uk": "2 місяців"
+      },
+      {
+        "id": "B",
+        "fr": "1 an",
+        "uk": "1 року"
+      },
+      {
+        "id": "C",
+        "fr": "2 ans",
+        "uk": "2 років"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En cas de défaillance majeure, les réparations et la contre-visite doivent être faites dans les 2 mois.",
+    "explanation_uk": "При серйозному дефекті ремонт і повторний огляд — протягом 2 місяців.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q269",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le constat amiable doit être envoyé à mon assureur dans un délai de :",
+    "question_uk": "Європротокол треба надіслати страховику протягом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "5 jours ouvrés",
+        "uk": "5 робочих днів"
+      },
+      {
+        "id": "B",
+        "fr": "1 mois",
+        "uk": "1 місяця"
+      },
+      {
+        "id": "C",
+        "fr": "1 an",
+        "uk": "1 року"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le constat amiable doit être transmis à l'assureur dans les 5 jours ouvrés suivant l'accident.",
+    "explanation_uk": "Європротокол передають страховику протягом 5 робочих днів після ДТП.",
+    "tags": [
+      "documents",
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q270",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Sur un constat amiable :",
+    "question_uk": "У європротоколі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ne modifie rien après l'avoir signé",
+        "uk": "нічого не змінюю після підпису"
+      },
+      {
+        "id": "B",
+        "fr": "je fais un croquis de l'accident",
+        "uk": "роблю схему ДТП"
+      },
+      {
+        "id": "C",
+        "fr": "je peux le remplir seul plus tard",
+        "uk": "можу заповнити сам пізніше"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le constat se remplit ensemble sur place, avec un croquis, puis chacun signe. On ne modifie plus rien ensuite.",
+    "explanation_uk": "Європротокол заповнюють разом на місці, зі схемою, і кожен підписує. Потім нічого не змінюють.",
+    "tags": [
+      "documents",
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q271",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Refuser de s'arrêter à la demande des forces de l'ordre, c'est :",
+    "question_uk": "Відмова зупинитися на вимогу поліції — це:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un refus d'obtempérer, puni comme un délit",
+        "uk": "непокора (refus d'obtempérer), яка карається як délit"
+      },
+      {
+        "id": "B",
+        "fr": "une contravention de 35 €",
+        "uk": "порушення на 35 €"
+      },
+      {
+        "id": "C",
+        "fr": "autorisé si je suis pressé",
+        "uk": "дозволено, якщо поспішаю"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le refus d'obtempérer est un délit grave : prison, amende élevée, retrait de 6 points, suspension ou annulation du permis.",
+    "explanation_uk": "Непокора — тяжкий délit: ув'язнення, великий штраф, мінус 6 балів, позбавлення чи анулювання прав.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q272",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Conduire pendant une suspension de permis :",
+    "question_uk": "Керувати, коли права тимчасово відібрані:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est un délit",
+        "uk": "є кримінальним правопорушенням (délit)"
+      },
+      {
+        "id": "B",
+        "fr": "est toléré pour aller au travail",
+        "uk": "допускається, щоб доїхати на роботу"
+      },
+      {
+        "id": "C",
+        "fr": "n'est puni que d'une amende de 35 €",
+        "uk": "карається лише штрафом 35 €"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Conduire malgré une suspension est un délit (jusqu'à 2 ans de prison et 4 500 €) et peut entraîner la confiscation du véhicule.",
+    "explanation_uk": "Керування попри позбавлення прав — délit (до 2 років ув'язнення й 4 500 €), можлива конфіскація авто.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q273",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le permis de conduire numérique :",
+    "question_uk": "Цифрове посвідчення водія:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut être présenté lors d'un contrôle via l'application officielle",
+        "uk": "можна показати під час перевірки через офіційний застосунок"
+      },
+      {
+        "id": "B",
+        "fr": "remplace l'examen du code",
+        "uk": "замінює іспит з теорії"
+      },
+      {
+        "id": "C",
+        "fr": "est une simple photo du permis",
+        "uk": "це просто фото прав"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le permis peut être présenté sous forme numérique avec l'application officielle de l'État. Une simple photo n'a pas de valeur.",
+    "explanation_uk": "Права можна показати в цифровому вигляді через офіційний державний застосунок. Просте фото не має сили.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q274",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un excès de vitesse de 40 km/h entraîne :",
+    "question_uk": "Перевищення швидкості на 40 км/год тягне за собою:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un retrait de 4 points",
+        "uk": "мінус 4 бали"
+      },
+      {
+        "id": "B",
+        "fr": "une possible suspension du permis",
+        "uk": "можливе позбавлення прав"
+      },
+      {
+        "id": "C",
+        "fr": "seulement un avertissement",
+        "uk": "лише попередження"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "De 40 à 49 km/h au-dessus de la limite : 4 points, 135 € et rétention/suspension du permis possible.",
+    "explanation_uk": "Перевищення на 40–49 км/год: мінус 4 бали, 135 € і можливе вилучення/позбавлення прав.",
+    "tags": [
+      "sanctions",
+      "vitesse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q275",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Avec un permis B (catégorie voiture), je peux transporter au maximum :",
+    "question_uk": "З правами B (легкові авто) я можу перевозити максимум:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "8 passagers en plus du conducteur",
+        "uk": "8 пасажирів, крім водія"
+      },
+      {
+        "id": "B",
+        "fr": "12 passagers",
+        "uk": "12 пасажирів"
+      },
+      {
+        "id": "C",
+        "fr": "4 passagers",
+        "uk": "4 пасажири"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le permis B est limité aux véhicules de 9 places au maximum, conducteur compris, et à un PTAC de 3,5 t.",
+    "explanation_uk": "Категорія B — авто до 9 місць разом з водієм і з дозволеною максимальною масою до 3,5 т.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 2
   }
 ]

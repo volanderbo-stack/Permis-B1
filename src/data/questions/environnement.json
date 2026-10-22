@@ -27,7 +27,11 @@
       "B"
     ],
     "explanation_fr": "Changer de rapport tôt (vers 2 000 à 2 500 tr/min) et anticiper permet d'économiser jusqu'à 15 % de carburant.",
-    "explanation_uk": "Раннє перемикання передач (близько 2000–2500 об/хв) і передбачення ситуації дають змогу заощадити до 15 % пального."
+    "explanation_uk": "Раннє перемикання передач (близько 2000–2500 об/хв) і передбачення ситуації дають змогу заощадити до 15 % пального.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q137",
@@ -56,7 +60,12 @@
       "A"
     ],
     "explanation_fr": "La consommation augmente fortement avec la vitesse. Rouler 10 km/h moins vite fait économiser du carburant pour un temps perdu très faible.",
-    "explanation_uk": "Витрата пального сильно зростає зі швидкістю. Якщо їхати на 10 км/год повільніше, економиться пальне, а час у дорозі майже не змінюється."
+    "explanation_uk": "Витрата пального сильно зростає зі швидкістю. Якщо їхати на 10 км/год повільніше, економиться пальне, а час у дорозі майже не змінюється.",
+    "tags": [
+      "eco",
+      "vitesse"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q138",
@@ -85,7 +94,11 @@
       "A"
     ],
     "explanation_fr": "Un coffre ou des barres de toit augmentent la résistance à l'air et donc la consommation. On les retire quand on ne s'en sert pas.",
-    "explanation_uk": "Багажник чи рейлінги на даху збільшують опір повітря, а отже й витрату пального. Їх знімають, коли не користуються."
+    "explanation_uk": "Багажник чи рейлінги на даху збільшують опір повітря, а отже й витрату пального. Їх знімають, коли не користуються.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q139",
@@ -115,7 +128,11 @@
       "B"
     ],
     "explanation_fr": "La climatisation peut augmenter la consommation de manière importante, surtout en ville. On évite un écart trop grand avec l'extérieur.",
-    "explanation_uk": "Кондиціонер може помітно збільшити витрату пального, особливо в місті. Не варто робити велику різницю з температурою надворі."
+    "explanation_uk": "Кондиціонер може помітно збільшити витрату пального, особливо в місті. Не варто робити велику різницю з температурою надворі.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q140",
@@ -144,7 +161,11 @@
       "A"
     ],
     "explanation_fr": "Un litre d'huile peut polluer une très grande surface d'eau. Elle doit être récupérée dans des points de collecte.",
-    "explanation_uk": "Один літр оливи може забруднити дуже велику площу води. Її треба здавати в пункти збору."
+    "explanation_uk": "Один літр оливи може забруднити дуже велику площу води. Її треба здавати в пункти збору.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q141",
@@ -173,7 +194,11 @@
       "B"
     ],
     "explanation_fr": "En ville, l'avertisseur sonore est réservé au danger immédiat. Les nuisances sonores sont une pollution.",
-    "explanation_uk": "У місті звуковий сигнал — лише для безпосередньої небезпеки. Шум — теж забруднення."
+    "explanation_uk": "У місті звуковий сигнал — лише для безпосередньої небезпеки. Шум — теж забруднення.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q142",
@@ -202,7 +227,12 @@
       "B"
     ],
     "explanation_fr": "La nuit, les avertissements se font par appels lumineux (feux de croisement / feux de route en alternance) plutôt qu'au klaxon.",
-    "explanation_uk": "Уночі попереджають блиманням фар (почергово ближнє/дальнє), а не клаксоном."
+    "explanation_uk": "Уночі попереджають блиманням фар (почергово ближнє/дальнє), а не клаксоном.",
+    "tags": [
+      "pollution",
+      "nuit"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q143",
@@ -232,7 +262,11 @@
       "C"
     ],
     "explanation_fr": "Le certificat Crit'Air classe les véhicules en fonction de leur niveau de pollution. Il peut servir à restreindre la circulation dans certaines zones ou lors de pics.",
-    "explanation_uk": "Сертифікат Crit'Air поділяє авто на класи за рівнем забруднення. За ним можуть обмежувати рух у певних зонах або під час пікового забруднення."
+    "explanation_uk": "Сертифікат Crit'Air поділяє авто на класи за рівнем забруднення. За ним можуть обмежувати рух у певних зонах або під час пікового забруднення.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q144",
@@ -262,7 +296,12 @@
       "B"
     ],
     "explanation_fr": "Lors d'un épisode de pollution, des mesures comme la baisse des vitesses autorisées ou la circulation différenciée peuvent être prises.",
-    "explanation_uk": "Під час епізоду забруднення можуть знизити дозволену швидкість або запровадити диференційований рух (за класами авто)."
+    "explanation_uk": "Під час епізоду забруднення можуть знизити дозволену швидкість або запровадити диференційований рух (за класами авто).",
+    "tags": [
+      "pollution",
+      "vitesse"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q145",
@@ -292,7 +331,12 @@
       "C"
     ],
     "explanation_fr": "En descente, garder une vitesse engagée sans accélérer utilise le frein moteur : les freins ne surchauffent pas et la consommation est quasi nulle.",
-    "explanation_uk": "На спуску, коли передача ввімкнена, а газ не натиснуто, гальмує двигун: гальма не перегріваються, а витрата пального майже нульова."
+    "explanation_uk": "На спуску, коли передача ввімкнена, а газ не натиснуто, гальмує двигун: гальма не перегріваються, а витрата пального майже нульова.",
+    "tags": [
+      "eco",
+      "montagne"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q146",
@@ -322,7 +366,11 @@
       "B"
     ],
     "explanation_fr": "Partager un véhicule réduit la pollution, les embouteillages et le coût du trajet pour chacun.",
-    "explanation_uk": "Спільне авто зменшує забруднення, затори й вартість поїздки для кожного."
+    "explanation_uk": "Спільне авто зменшує забруднення, затори й вартість поїздки для кожного.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q147",
@@ -352,7 +400,12 @@
       "C"
     ],
     "explanation_fr": "Un moteur froid consomme et pollue davantage. Il est inutile de le faire chauffer à l'arrêt : on démarre doucement. Pour les petits trajets, la marche ou le vélo sont idéaux.",
-    "explanation_uk": "Холодний двигун більше споживає й забруднює. Прогрівати його на місці немає сенсу: треба просто плавно рушити. На короткі відстані найкраще пішки чи велосипедом."
+    "explanation_uk": "Холодний двигун більше споживає й забруднює. Прогрівати його на місці немає сенсу: треба просто плавно рушити. На короткі відстані найкраще пішки чи велосипедом.",
+    "tags": [
+      "eco",
+      "pollution"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q148",
@@ -381,7 +434,11 @@
       "A"
     ],
     "explanation_fr": "Un échappement modifié ou défectueux est interdit : le bruit des véhicules est une nuisance réglementée.",
-    "explanation_uk": "Змінений або несправний вихлоп заборонений: шум від авто — регульоване правилами порушення."
+    "explanation_uk": "Змінений або несправний вихлоп заборонений: шум від авто — регульоване правилами порушення.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q149",
@@ -411,7 +468,12 @@
       "B"
     ],
     "explanation_fr": "Pneus bien gonflés, véhicule allégé et conduite souple réduisent la consommation. Les accélérations brutales font l'inverse.",
-    "explanation_uk": "Правильний тиск у шинах, полегшене авто й плавна їзда зменшують витрату. Різкі прискорення — навпаки."
+    "explanation_uk": "Правильний тиск у шинах, полегшене авто й плавна їзда зменшують витрату. Різкі прискорення — навпаки.",
+    "tags": [
+      "eco",
+      "pneus"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q150",
@@ -441,6 +503,857 @@
       "B"
     ],
     "explanation_fr": "Le Stop & Start arrête automatiquement le moteur à l'arrêt (feu rouge, bouchon) et le relance au démarrage, ce qui réduit consommation et émissions.",
-    "explanation_uk": "Stop & Start автоматично глушить двигун на зупинці (світлофор, затор) і запускає його, коли рушаєш, — це зменшує витрату й викиди."
+    "explanation_uk": "Stop & Start автоматично глушить двигун на зупинці (світлофор, затор) і запускає його, коли рушаєш, — це зменшує витрату й викиди.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q376",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Une conduite souple et anticipée permet d'économiser jusqu'à :",
+    "question_uk": "Плавна й передбачлива їзда дає змогу заощадити до:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "2 % de carburant",
+        "uk": "2 % пального"
+      },
+      {
+        "id": "B",
+        "fr": "15 % de carburant",
+        "uk": "15 % пального"
+      },
+      {
+        "id": "C",
+        "fr": "60 % de carburant",
+        "uk": "60 % пального"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "L'éco-conduite (anticipation, rapports élevés, pas d'à-coups) réduit la consommation jusqu'à 15 % environ et diminue les risques d'accident.",
+    "explanation_uk": "Еко-водіння (передбачення, вищі передачі, без ривків) зменшує витрату приблизно до 15 % і знижує ризик аварії.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q377",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Pour économiser du carburant, à l'approche d'un feu rouge, je :",
+    "question_uk": "Щоб заощадити пальне, наближаючись до червоного, я:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "lève le pied tôt et utilise le frein moteur",
+        "uk": "рано відпускаю газ і гальмую двигуном"
+      },
+      {
+        "id": "B",
+        "fr": "garde ma vitesse jusqu'au dernier moment",
+        "uk": "тримаю швидкість до останнього"
+      },
+      {
+        "id": "C",
+        "fr": "passe au point mort",
+        "uk": "вмикаю нейтраль"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En décélération avec une vitesse engagée, l'injection est coupée : la consommation est nulle. Au point mort, le moteur consomme pour tourner au ralenti.",
+    "explanation_uk": "Під час гальмування двигуном подача пального вимикається: витрата нульова. На нейтралі двигун витрачає пальне на холостому ходу.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q378",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le compte-tours permet de :",
+    "question_uk": "Тахометр допомагає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "changer de rapport au bon moment",
+        "uk": "перемикати передачі вчасно"
+      },
+      {
+        "id": "B",
+        "fr": "connaître ma vitesse",
+        "uk": "знати швидкість"
+      },
+      {
+        "id": "C",
+        "fr": "mesurer le niveau d'huile",
+        "uk": "вимірювати рівень оливи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le compte-tours affiche le régime moteur (tr/min). Passer le rapport supérieur vers 2 000 – 2 500 tr/min limite la consommation.",
+    "explanation_uk": "Тахометр показує оберти двигуна (об/хв). Перемикання на вищу передачу близько 2 000–2 500 об/хв зменшує витрату.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q379",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Rouler avec les fenêtres ouvertes à grande vitesse :",
+    "question_uk": "Їзда з відчиненими вікнами на великій швидкості:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente la consommation",
+        "uk": "збільшує витрату"
+      },
+      {
+        "id": "B",
+        "fr": "diminue la consommation",
+        "uk": "зменшує витрату"
+      },
+      {
+        "id": "C",
+        "fr": "n'a aucun effet",
+        "uk": "ні на що не впливає"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Fenêtres ouvertes, la résistance à l'air augmente : sur route rapide, la consommation monte.",
+    "explanation_uk": "Через відчинені вікна зростає опір повітря: на швидкій дорозі витрата збільшується.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q380",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Un véhicule électrique :",
+    "question_uk": "Електромобіль:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "n'émet pas de gaz d'échappement en roulant",
+        "uk": "не має вихлопу під час руху"
+      },
+      {
+        "id": "B",
+        "fr": "est classé Crit'Air 0",
+        "uk": "має клас Crit'Air 0"
+      },
+      {
+        "id": "C",
+        "fr": "peut circuler sans permis",
+        "uk": "можна водити без прав"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les véhicules 100 % électriques n'émettent pas de polluants à l'échappement et obtiennent la vignette Crit'Air verte (0). Le permis reste obligatoire.",
+    "explanation_uk": "Повністю електричні авто не мають вихлопу й отримують зелену наліпку Crit'Air (0). Права все одно потрібні.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q381",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le silence d'un véhicule électrique à basse vitesse :",
+    "question_uk": "Тиша електромобіля на малій швидкості:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut surprendre les piétons",
+        "uk": "може заскочити пішоходів"
+      },
+      {
+        "id": "B",
+        "fr": "impose une vigilance particulière en ville",
+        "uk": "вимагає особливої уваги в місті"
+      },
+      {
+        "id": "C",
+        "fr": "permet de ne pas regarder les piétons",
+        "uk": "дозволяє не дивитися на пішоходів"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les piétons n'entendent pas toujours un véhicule électrique arriver ; ces véhicules émettent un son d'alerte à basse vitesse, mais le conducteur reste vigilant.",
+    "explanation_uk": "Пішоходи не завжди чують електромобіль; такі авто на малій швидкості видають попереджувальний звук, але водій усе одно має бути уважним.",
+    "tags": [
+      "pollution",
+      "pietons"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q382",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le dioxyde de carbone (CO2) émis par les véhicules :",
+    "question_uk": "Вуглекислий газ (CO2) від автомобілів:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "contribue au réchauffement climatique",
+        "uk": "сприяє глобальному потеплінню"
+      },
+      {
+        "id": "B",
+        "fr": "est proportionnel à la consommation de carburant",
+        "uk": "пропорційний витраті пального"
+      },
+      {
+        "id": "C",
+        "fr": "n'a pas d'effet sur l'environnement",
+        "uk": "не впливає на довкілля"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le CO2 est un gaz à effet de serre : moins je consomme, moins j'en émets.",
+    "explanation_uk": "CO2 — парниковий газ: що менше пального витрачаю, то менше викидаю.",
+    "tags": [
+      "pollution",
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q383",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Les oxydes d'azote et les particules fines :",
+    "question_uk": "Оксиди азоту й дрібні частинки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sont nocifs pour la santé",
+        "uk": "шкідливі для здоров'я"
+      },
+      {
+        "id": "B",
+        "fr": "sont surtout émis en ville et dans les embouteillages",
+        "uk": "найбільше викидаються в місті й заторах"
+      },
+      {
+        "id": "C",
+        "fr": "sont sans danger",
+        "uk": "безпечні"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ces polluants provoquent des maladies respiratoires et cardiovasculaires. Les épisodes de pollution déclenchent des mesures de restriction.",
+    "explanation_uk": "Ці забруднювачі спричиняють хвороби дихання й серця. Під час епізодів забруднення вводять обмеження.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q384",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Lors d'un pic de pollution, le préfet peut décider :",
+    "question_uk": "Під час піку забруднення префект може:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "d'abaisser les vitesses maximales autorisées",
+        "uk": "знизити максимальні швидкості"
+      },
+      {
+        "id": "B",
+        "fr": "de mettre en place la circulation différenciée selon la vignette Crit'Air",
+        "uk": "ввести рух за класами Crit'Air"
+      },
+      {
+        "id": "C",
+        "fr": "de supprimer les limitations de vitesse",
+        "uk": "скасувати обмеження швидкості"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "En cas d'épisode de pollution, les vitesses peuvent être réduites et seuls certains véhicules (selon leur vignette) autorisés à circuler.",
+    "explanation_uk": "Під час епізоду забруднення можуть знизити швидкості й дозволити рух лише окремим авто (залежно від наліпки).",
+    "tags": [
+      "pollution",
+      "vitesse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q385",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Les zones à faibles émissions (ZFE) :",
+    "question_uk": "Зони з низькими викидами (ZFE):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peuvent restreindre l'accès de certains véhicules selon leur vignette Crit'Air",
+        "uk": "можуть обмежувати в'їзд певних авто за наліпкою Crit'Air"
+      },
+      {
+        "id": "B",
+        "fr": "sont réservées aux piétons",
+        "uk": "лише для пішоходів"
+      },
+      {
+        "id": "C",
+        "fr": "n'existent pas en France",
+        "uk": "у Франції не існують"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Certaines agglomérations peuvent restreindre l'accès des véhicules les plus polluants. Les règles locales évoluent : je me renseigne avant de partir.",
+    "explanation_uk": "Деякі міста можуть обмежувати в'їзд найбільш забруднювальних авто. Місцеві правила змінюються — дізнавайся перед поїздкою.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q386",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "L'entretien régulier du véhicule :",
+    "question_uk": "Регулярне обслуговування авто:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "limite la consommation et la pollution",
+        "uk": "зменшує витрату й забруднення"
+      },
+      {
+        "id": "B",
+        "fr": "augmente la sécurité",
+        "uk": "підвищує безпеку"
+      },
+      {
+        "id": "C",
+        "fr": "est inutile si le véhicule est récent",
+        "uk": "непотрібне для нового авто"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un moteur bien réglé, des filtres propres et des pneus bien gonflés consomment et polluent moins.",
+    "explanation_uk": "Добре налаштований двигун, чисті фільтри й правильно накачані шини означають меншу витрату й менше забруднення.",
+    "tags": [
+      "eco",
+      "voyants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q387",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Que faire de pneus usagés ?",
+    "question_uk": "Що робити зі старими шинами?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les laisser au garage ou en déchetterie",
+        "uk": "залишити в сервісі або на пункті прийому"
+      },
+      {
+        "id": "B",
+        "fr": "les brûler",
+        "uk": "спалити"
+      },
+      {
+        "id": "C",
+        "fr": "les abandonner en forêt",
+        "uk": "викинути в лісі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les pneus usagés sont collectés et recyclés. Les brûler ou les abandonner pollue et est interdit.",
+    "explanation_uk": "Старі шини збирають і переробляють. Спалювати чи викидати їх заборонено й шкідливо.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q388",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le liquide de refroidissement usagé :",
+    "question_uk": "Відпрацьована охолоджувальна рідина:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est toxique et se recycle",
+        "uk": "токсична й підлягає переробці"
+      },
+      {
+        "id": "B",
+        "fr": "peut être versé dans l'évier",
+        "uk": "її можна вилити в раковину"
+      },
+      {
+        "id": "C",
+        "fr": "est inoffensif",
+        "uk": "нешкідлива"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Liquides de refroidissement, de frein et huiles sont toxiques : ils se déposent en déchetterie ou au garage.",
+    "explanation_uk": "Охолоджувальна, гальмівна рідини й оливи токсичні: їх здають на пункт прийому чи в сервіс.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q389",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le bruit de la circulation :",
+    "question_uk": "Шум від транспорту:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est une source de stress et de troubles du sommeil",
+        "uk": "спричиняє стрес і порушення сну"
+      },
+      {
+        "id": "B",
+        "fr": "augmente avec la vitesse et les accélérations brusques",
+        "uk": "зростає зі швидкістю й різкими прискореннями"
+      },
+      {
+        "id": "C",
+        "fr": "n'a aucun effet sur la santé",
+        "uk": "не впливає на здоров'я"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le bruit routier est la première nuisance sonore. Une conduite souple et le respect des vitesses le réduisent.",
+    "explanation_uk": "Шум доріг — головне шумове забруднення. Плавна їзда й дотримання швидкості його зменшують.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q390",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le moteur thermique pollue davantage :",
+    "question_uk": "Двигун внутрішнього згоряння забруднює більше:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à froid, dans les premiers kilomètres",
+        "uk": "коли холодний, у перші кілометри"
+      },
+      {
+        "id": "B",
+        "fr": "lors des accélérations brutales",
+        "uk": "під час різких прискорень"
+      },
+      {
+        "id": "C",
+        "fr": "à vitesse stabilisée sur un rapport adapté",
+        "uk": "на сталій швидкості на правильній передачі"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Moteur froid et accélérations fortes augmentent consommation et émissions. Les trajets très courts sont les plus polluants par kilomètre.",
+    "explanation_uk": "Холодний двигун і різкі прискорення збільшують витрату й викиди. Дуже короткі поїздки найбрудніші на кілометр.",
+    "tags": [
+      "pollution",
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q391",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Pour un trajet de 1 km en ville, la solution la plus écologique est souvent :",
+    "question_uk": "Для поїздки на 1 км містом найекологічніше зазвичай:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la marche ou le vélo",
+        "uk": "пішки або велосипедом"
+      },
+      {
+        "id": "B",
+        "fr": "la voiture",
+        "uk": "автомобілем"
+      },
+      {
+        "id": "C",
+        "fr": "le taxi",
+        "uk": "таксі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Sur des trajets très courts, le moteur reste froid et pollue beaucoup : marcher ou pédaler est plus propre et souvent aussi rapide.",
+    "explanation_uk": "На дуже коротких відстанях двигун не встигає прогрітися й сильно забруднює: пішки чи велосипедом — чистіше й часто так само швидко.",
+    "tags": [
+      "eco",
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q392",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "La climatisation utilisée à fond en ville :",
+    "question_uk": "Кондиціонер на максимумі в місті:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente nettement la consommation",
+        "uk": "помітно збільшує витрату"
+      },
+      {
+        "id": "B",
+        "fr": "ne consomme rien",
+        "uk": "нічого не споживає"
+      },
+      {
+        "id": "C",
+        "fr": "réduit la pollution",
+        "uk": "зменшує забруднення"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En ville, la climatisation peut augmenter la consommation de façon importante. On l'utilise avec modération.",
+    "explanation_uk": "У місті кондиціонер може помітно збільшити витрату пального. Ним користуються помірно.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q393",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "La voie réservée au covoiturage (signalée par un losange) peut être utilisée par :",
+    "question_uk": "Смугою для спільних поїздок (позначена ромбом) можуть їхати:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les véhicules transportant au moins 2 personnes, selon la signalisation",
+        "uk": "авто щонайменше з 2 людьми, згідно зі знаками"
+      },
+      {
+        "id": "B",
+        "fr": "tous les véhicules à tout moment",
+        "uk": "усі авто будь-коли"
+      },
+      {
+        "id": "C",
+        "fr": "seulement les camions",
+        "uk": "лише вантажівки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ces voies sont réservées aux véhicules avec un nombre minimal d'occupants (souvent 2), aux taxis et parfois aux véhicules à très faibles émissions, selon les panneaux.",
+    "explanation_uk": "Ці смуги для авто з мінімальною кількістю людей (часто 2), таксі й іноді авто з дуже низькими викидами — згідно зі знаками.",
+    "tags": [
+      "eco",
+      "signalisation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q394",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Planifier son itinéraire avant de partir :",
+    "question_uk": "Спланувати маршрут перед виїздом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "évite des kilomètres inutiles",
+        "uk": "допомагає уникнути зайвих кілометрів"
+      },
+      {
+        "id": "B",
+        "fr": "permet d'éviter les bouchons",
+        "uk": "допомагає оминути затори"
+      },
+      {
+        "id": "C",
+        "fr": "augmente la consommation",
+        "uk": "збільшує витрату"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un itinéraire préparé limite les détours, les embouteillages et donc la consommation et le stress.",
+    "explanation_uk": "Підготовлений маршрут зменшує об'їзди, затори, а отже, і витрату пального та стрес.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q395",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Faire chauffer le moteur à l'arrêt avant de partir en hiver :",
+    "question_uk": "Прогрівати двигун на місці перед виїздом узимку:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est inutile et pollue",
+        "uk": "даремно й забруднює повітря"
+      },
+      {
+        "id": "B",
+        "fr": "est indispensable pour le moteur",
+        "uk": "обов'язково для двигуна"
+      },
+      {
+        "id": "C",
+        "fr": "peut être remplacé par un démarrage en douceur",
+        "uk": "можна замінити плавним початком руху"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Les moteurs modernes chauffent plus vite en roulant doucement qu'au ralenti. Faire tourner le moteur à l'arrêt consomme et pollue sans bénéfice.",
+    "explanation_uk": "Сучасні двигуни швидше прогріваються в русі на малих обертах, ніж на холостому ходу. Працювати на місці — марно витрачати пальне й забруднювати.",
+    "tags": [
+      "eco",
+      "pollution"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q396",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Rouler en 4e à 50 km/h plutôt qu'en 2e :",
+    "question_uk": "Їхати 50 км/год на 4-й передачі замість 2-ї:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "diminue la consommation",
+        "uk": "зменшує витрату"
+      },
+      {
+        "id": "B",
+        "fr": "abîme le moteur",
+        "uk": "шкодить двигуну"
+      },
+      {
+        "id": "C",
+        "fr": "augmente le bruit",
+        "uk": "збільшує шум"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "À vitesse égale, un rapport plus élevé réduit le régime moteur, donc la consommation et le bruit, tant que le moteur ne « broute » pas.",
+    "explanation_uk": "На тій самій швидкості вища передача знижує оберти, а отже, витрату й шум, поки двигун не «смикається».",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q397",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Garder un coffre de toit ou des barres vides en permanence :",
+    "question_uk": "Постійно возити порожній багажник чи рейлінги на даху:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente inutilement la consommation",
+        "uk": "даремно збільшує витрату"
+      },
+      {
+        "id": "B",
+        "fr": "est obligatoire",
+        "uk": "обов'язково"
+      },
+      {
+        "id": "C",
+        "fr": "améliore la stabilité",
+        "uk": "покращує стійкість"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les équipements de toit augmentent la résistance à l'air : on les retire quand ils ne servent pas.",
+    "explanation_uk": "Обладнання на даху збільшує опір повітря: його знімають, коли не потрібне.",
+    "tags": [
+      "eco",
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q398",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Un véhicule qui fume noir à l'échappement :",
+    "question_uk": "Авто, що чадить чорним димом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "a probablement un problème moteur à faire réparer",
+        "uk": "імовірно має несправність двигуна, яку треба усунути"
+      },
+      {
+        "id": "B",
+        "fr": "est normal en hiver",
+        "uk": "взимку це нормально"
+      },
+      {
+        "id": "C",
+        "fr": "peut être sanctionné",
+        "uk": "може бути оштрафоване"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Une fumée excessive révèle un mauvais réglage ou une panne et pollue : c'est une infraction et un point de contrôle technique.",
+    "explanation_uk": "Надмірний дим свідчить про погане налаштування чи поломку й забруднює повітря: це порушення й пункт техогляду.",
+    "tags": [
+      "pollution",
+      "voyants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q399",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le gaspillage de carburant en conduisant vient surtout de :",
+    "question_uk": "Найбільше пального марнується через:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "accélérations et freinages brusques",
+        "uk": "різкі прискорення й гальмування"
+      },
+      {
+        "id": "B",
+        "fr": "vitesse élevée",
+        "uk": "високу швидкість"
+      },
+      {
+        "id": "C",
+        "fr": "conduite anticipée",
+        "uk": "передбачливу їзду"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Accélérer fort pour freiner ensuite, c'est perdre de l'énergie. Anticiper et rouler à vitesse modérée économisent du carburant.",
+    "explanation_uk": "Різко розігнатися, щоб потім гальмувати, — марнувати енергію. Передбачення й помірна швидкість економлять пальне.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q400",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "En agglomération, j'utilise l'avertisseur sonore :",
+    "question_uk": "У населеному пункті я користуюся звуковим сигналом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "seulement en cas de danger immédiat",
+        "uk": "лише при безпосередній небезпеці"
+      },
+      {
+        "id": "B",
+        "fr": "pour saluer un ami",
+        "uk": "щоб привітати друга"
+      },
+      {
+        "id": "C",
+        "fr": "pour presser le véhicule devant au feu vert",
+        "uk": "щоб поквапити авто попереду на зелений"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En ville, le klaxon est réservé aux dangers immédiats. Son usage abusif est sanctionné et crée des nuisances.",
+    "explanation_uk": "У місті клаксон — лише для безпосередньої небезпеки. Зловживання ним карається й створює шум.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
   }
 ]

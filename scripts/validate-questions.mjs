@@ -7,6 +7,11 @@ const dir = new URL('../src/data/questions/', import.meta.url).pathname
 const signCodes = new Set(
   JSON.parse(readFileSync(new URL('../src/data/signs.json', import.meta.url), 'utf8')).map((s) => s.code),
 )
+// дозволені теги беремо прямо з src/data/tags.ts
+const tagIds = new Set(
+  [...readFileSync(new URL('../src/data/tags.ts', import.meta.url), 'utf8').matchAll(/^  (\w+): \{/gm)].map((m) => m[1]),
+)
+const texts = new Map()
 const ids = new Set()
 const errors = []
 const perTheme = {}
@@ -25,6 +30,13 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     if (!q.correct.length) errors.push(`${where} — немає правильної відповіді`)
     for (const c of q.correct) if (!answerIds.includes(c)) errors.push(`${where} — correct "${c}" не існує`)
     for (const a of q.answers) if (!a.fr?.trim() || !a.uk?.trim()) errors.push(`${where} — відповідь ${a.id} без тексту`)
+    for (const t of q.tags ?? []) if (!tagIds.has(t)) errors.push(`${where} — невідомий тег ${t}`)
+    if (q.difficulty !== undefined && ![1, 2, 3].includes(q.difficulty)) errors.push(`${where} — складність має бути 1–3`)
+    if (q.answers.length > 4) errors.push(`${where} — більше 4 відповідей`)
+    if (answerIds.join('') !== 'ABCD'.slice(0, answerIds.length)) errors.push(`${where} — відповіді мають іти A, B, C, D`)
+    const text = q.question_fr.trim().toLowerCase()
+    if (texts.has(text) && !q.image) errors.push(`${where} — такий самий текст, як у ${texts.get(text)}`)
+    texts.set(text, q.id)
     const sign = q.image?.match(/^signs\/(.+)\.svg$/)?.[1]
     if (sign && !signCodes.has(sign)) errors.push(`${where} — знака ${sign} немає в signs.json`)
     perTheme[q.theme] = (perTheme[q.theme] ?? 0) + 1

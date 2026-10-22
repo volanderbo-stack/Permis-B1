@@ -32,6 +32,7 @@ export const TAGS: Record<string, { fr: string; uk: string }> = {
   pollution: { fr: 'Pollution et bruit', uk: 'Забруднення й шум' },
   manoeuvres: { fr: 'Manœuvres et installation', uk: 'Маневри та посадка' },
   montagne: { fr: 'Montagne et tunnels', uk: 'Гори й тунелі' },
+  animaux: { fr: 'Animaux', uk: 'Тварини' },
 }
 
 export const tagLabel = (id: string) => TAGS[id]?.fr ?? id

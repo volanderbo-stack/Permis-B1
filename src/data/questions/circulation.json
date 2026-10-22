@@ -6,13 +6,31 @@
     "question_fr": "En agglomération, sauf signalisation contraire, la vitesse maximale autorisée est de :",
     "question_uk": "У населеному пункті, якщо знаки не вказують інше, максимальна дозволена швидкість становить:",
     "answers": [
-      { "id": "A", "fr": "30 km/h", "uk": "30 км/год" },
-      { "id": "B", "fr": "50 km/h", "uk": "50 км/год" },
-      { "id": "C", "fr": "70 km/h", "uk": "70 км/год" }
+      {
+        "id": "A",
+        "fr": "30 km/h",
+        "uk": "30 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "50 km/h",
+        "uk": "50 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "70 km/h",
+        "uk": "70 км/год"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "En agglomération, la vitesse est limitée à 50 km/h, sauf si un panneau indique une autre limite (zone 30, par exemple).",
-    "explanation_uk": "У населеному пункті швидкість обмежена 50 км/год, якщо знак не встановлює інше обмеження (наприклад, зона 30)."
+    "explanation_uk": "У населеному пункті швидкість обмежена 50 км/год, якщо знак не встановлює інше обмеження (наприклад, зона 30).",
+    "tags": [
+      "vitesse"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q002",
@@ -21,13 +39,33 @@
     "question_fr": "Sur autoroute, par temps de pluie, un conducteur titulaire du permis depuis plus de 3 ans peut rouler au maximum à :",
     "question_uk": "На автомагістралі під час дощу водій зі стажем понад 3 роки може їхати щонайбільше:",
     "answers": [
-      { "id": "A", "fr": "130 km/h", "uk": "130 км/год" },
-      { "id": "B", "fr": "110 km/h", "uk": "110 км/год" },
-      { "id": "C", "fr": "100 km/h", "uk": "100 км/год" }
+      {
+        "id": "A",
+        "fr": "130 km/h",
+        "uk": "130 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "110 km/h",
+        "uk": "110 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "100 km/h",
+        "uk": "100 км/год"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "Par temps de pluie ou autres précipitations, la vitesse maximale sur autoroute passe de 130 à 110 km/h.",
-    "explanation_uk": "Під час дощу чи інших опадів максимальна швидкість на автомагістралі знижується зі 130 до 110 км/год."
+    "explanation_uk": "Під час дощу чи інших опадів максимальна швидкість на автомагістралі знижується зі 130 до 110 км/год.",
+    "tags": [
+      "vitesse",
+      "meteo",
+      "autoroute"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q003",
@@ -36,13 +74,32 @@
     "question_fr": "Je suis en permis probatoire. Sur autoroute, par temps sec, ma vitesse maximale est de :",
     "question_uk": "У мене пробні права (permis probatoire). На автомагістралі в суху погоду моя максимальна швидкість:",
     "answers": [
-      { "id": "A", "fr": "130 km/h", "uk": "130 км/год" },
-      { "id": "B", "fr": "110 km/h", "uk": "110 км/год" },
-      { "id": "C", "fr": "90 km/h", "uk": "90 км/год" }
+      {
+        "id": "A",
+        "fr": "130 km/h",
+        "uk": "130 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "110 km/h",
+        "uk": "110 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "90 km/h",
+        "uk": "90 км/год"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "Pendant la période probatoire, la vitesse est limitée à 110 km/h sur autoroute (au lieu de 130 km/h).",
-    "explanation_uk": "Під час пробного періоду швидкість на автомагістралі обмежена 110 км/год (замість 130 км/год)."
+    "explanation_uk": "Під час пробного періоду швидкість на автомагістралі обмежена 110 км/год (замість 130 км/год).",
+    "tags": [
+      "vitesse",
+      "autoroute"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q004",
@@ -51,13 +108,32 @@
     "question_fr": "Par brouillard, lorsque la visibilité est inférieure à 50 mètres, la vitesse est limitée à :",
     "question_uk": "У туман, коли видимість менше 50 метрів, швидкість обмежена:",
     "answers": [
-      { "id": "A", "fr": "50 km/h sur toutes les routes", "uk": "50 км/год на всіх дорогах" },
-      { "id": "B", "fr": "70 km/h sur autoroute uniquement", "uk": "70 км/год лише на автомагістралі" },
-      { "id": "C", "fr": "80 km/h hors agglomération", "uk": "80 км/год поза населеним пунктом" }
+      {
+        "id": "A",
+        "fr": "50 km/h sur toutes les routes",
+        "uk": "50 км/год на всіх дорогах"
+      },
+      {
+        "id": "B",
+        "fr": "70 km/h sur autoroute uniquement",
+        "uk": "70 км/год лише на автомагістралі"
+      },
+      {
+        "id": "C",
+        "fr": "80 km/h hors agglomération",
+        "uk": "80 км/год поза населеним пунктом"
+      }
     ],
-    "correct": ["A"],
+    "correct": [
+      "A"
+    ],
     "explanation_fr": "Quand la visibilité est inférieure à 50 m, la vitesse maximale est de 50 km/h sur toutes les routes, y compris sur autoroute.",
-    "explanation_uk": "Коли видимість менше 50 м, максимальна швидкість — 50 км/год на всіх дорогах, включно з автомагістраллю."
+    "explanation_uk": "Коли видимість менше 50 м, максимальна швидкість — 50 км/год на всіх дорогах, включно з автомагістраллю.",
+    "tags": [
+      "meteo",
+      "vitesse"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q005",
@@ -66,13 +142,32 @@
     "question_fr": "J'arrive à une intersection sans aucune signalisation. Je dois céder le passage :",
     "question_uk": "Я під'їжджаю до перехрестя без жодних знаків. Я маю поступитися дорогою:",
     "answers": [
-      { "id": "A", "fr": "aux véhicules venant de ma droite", "uk": "транспорту, що наближається справа" },
-      { "id": "B", "fr": "aux véhicules venant de ma gauche", "uk": "транспорту, що наближається зліва" },
-      { "id": "C", "fr": "au véhicule le plus gros", "uk": "найбільшому транспортному засобу" }
+      {
+        "id": "A",
+        "fr": "aux véhicules venant de ma droite",
+        "uk": "транспорту, що наближається справа"
+      },
+      {
+        "id": "B",
+        "fr": "aux véhicules venant de ma gauche",
+        "uk": "транспорту, що наближається зліва"
+      },
+      {
+        "id": "C",
+        "fr": "au véhicule le plus gros",
+        "uk": "найбільшому транспортному засобу"
+      }
     ],
-    "correct": ["A"],
+    "correct": [
+      "A"
+    ],
     "explanation_fr": "En l'absence de signalisation, la règle est la priorité à droite : je cède le passage aux véhicules venant de ma droite.",
-    "explanation_uk": "Якщо знаків немає, діє правило «перешкоди справа» (priorité à droite): я поступаюся транспорту, що їде справа."
+    "explanation_uk": "Якщо знаків немає, діє правило «перешкоди справа» (priorité à droite): я поступаюся транспорту, що їде справа.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q006",
@@ -81,13 +176,33 @@
     "question_fr": "J'arrive à un giratoire signalé par un panneau « Cédez le passage » :",
     "question_uk": "Я під'їжджаю до кільця (giratoire) зі знаком «Дати дорогу»:",
     "answers": [
-      { "id": "A", "fr": "je cède le passage aux véhicules déjà engagés sur l'anneau", "uk": "я поступаюся транспорту, який уже рухається по кільцю" },
-      { "id": "B", "fr": "les véhicules sur l'anneau doivent me céder le passage", "uk": "транспорт на кільці має поступитися мені" },
-      { "id": "C", "fr": "je mets mon clignotant droit avant de sortir", "uk": "перед виїздом я вмикаю правий поворот" }
+      {
+        "id": "A",
+        "fr": "je cède le passage aux véhicules déjà engagés sur l'anneau",
+        "uk": "я поступаюся транспорту, який уже рухається по кільцю"
+      },
+      {
+        "id": "B",
+        "fr": "les véhicules sur l'anneau doivent me céder le passage",
+        "uk": "транспорт на кільці має поступитися мені"
+      },
+      {
+        "id": "C",
+        "fr": "je mets mon clignotant droit avant de sortir",
+        "uk": "перед виїздом я вмикаю правий поворот"
+      }
     ],
-    "correct": ["A", "C"],
+    "correct": [
+      "A",
+      "C"
+    ],
     "explanation_fr": "À l'entrée d'un giratoire, les véhicules circulant sur l'anneau sont prioritaires. Pour sortir, j'annonce ma manœuvre avec le clignotant droit.",
-    "explanation_uk": "На в'їзді на кільце перевагу мають ті, хто вже їде по кільцю. Щоб виїхати, я попереджаю про маневр правим поворотником."
+    "explanation_uk": "На в'їзді на кільце перевагу мають ті, хто вже їде по кільцю. Щоб виїхати, я попереджаю про маневр правим поворотником.",
+    "tags": [
+      "intersection",
+      "priorite"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q007",
@@ -96,13 +211,31 @@
     "question_fr": "Le feu passe à l'orange fixe alors que je suis encore à distance du carrefour :",
     "question_uk": "Світлофор перемикається на постійний жовтий, коли я ще на відстані від перехрестя:",
     "answers": [
-      { "id": "A", "fr": "je m'arrête, sauf si cela est dangereux", "uk": "я зупиняюся, якщо це не небезпечно" },
-      { "id": "B", "fr": "j'accélère pour passer avant le rouge", "uk": "я прискорююся, щоб проїхати до червоного" },
-      { "id": "C", "fr": "je peux passer comme au feu vert", "uk": "я можу проїхати, як на зелений" }
+      {
+        "id": "A",
+        "fr": "je m'arrête, sauf si cela est dangereux",
+        "uk": "я зупиняюся, якщо це не небезпечно"
+      },
+      {
+        "id": "B",
+        "fr": "j'accélère pour passer avant le rouge",
+        "uk": "я прискорююся, щоб проїхати до червоного"
+      },
+      {
+        "id": "C",
+        "fr": "je peux passer comme au feu vert",
+        "uk": "я можу проїхати, як на зелений"
+      }
     ],
-    "correct": ["A"],
+    "correct": [
+      "A"
+    ],
     "explanation_fr": "Le feu orange fixe impose l'arrêt, sauf si le conducteur ne peut plus s'arrêter dans des conditions de sécurité suffisantes.",
-    "explanation_uk": "Постійний жовтий сигнал вимагає зупинитися, крім випадку, коли водій уже не може безпечно зупинитися."
+    "explanation_uk": "Постійний жовтий сигнал вимагає зупинитися, крім випадку, коли водій уже не може безпечно зупинитися.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q008",
@@ -111,13 +244,31 @@
     "question_fr": "Devant un passage à niveau, deux feux rouges clignotent en alternance :",
     "question_uk": "Перед залізничним переїздом поперемінно блимають два червоні сигнали:",
     "answers": [
-      { "id": "A", "fr": "je dois m'arrêter", "uk": "я повинен зупинитися" },
-      { "id": "B", "fr": "je peux passer si aucun train n'est visible", "uk": "я можу проїхати, якщо потяга не видно" },
-      { "id": "C", "fr": "je ralentis et je passe prudemment", "uk": "я пригальмовую і обережно проїжджаю" }
+      {
+        "id": "A",
+        "fr": "je dois m'arrêter",
+        "uk": "я повинен зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "je peux passer si aucun train n'est visible",
+        "uk": "я можу проїхати, якщо потяга не видно"
+      },
+      {
+        "id": "C",
+        "fr": "je ralentis et je passe prudemment",
+        "uk": "я пригальмовую і обережно проїжджаю"
+      }
     ],
-    "correct": ["A"],
+    "correct": [
+      "A"
+    ],
     "explanation_fr": "Le feu rouge clignotant impose un arrêt absolu : un train approche. Il est interdit de franchir le passage à niveau.",
-    "explanation_uk": "Червоний миготливий сигнал означає обов'язкову зупинку: наближається потяг. Перетинати переїзд заборонено."
+    "explanation_uk": "Червоний миготливий сигнал означає обов'язкову зупинку: наближається потяг. Перетинати переїзд заборонено.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q009",
@@ -126,13 +277,32 @@
     "question_fr": "Une ligne blanche continue est tracée au milieu de la chaussée :",
     "question_uk": "Посередині дороги нанесена суцільна біла лінія:",
     "answers": [
-      { "id": "A", "fr": "je ne dois pas la franchir pour dépasser", "uk": "я не можу перетинати її для обгону" },
-      { "id": "B", "fr": "je peux la chevaucher si la voie d'en face est libre", "uk": "я можу наїжджати на неї, якщо зустрічна смуга вільна" },
-      { "id": "C", "fr": "je ne dois pas la franchir pour faire demi-tour", "uk": "я не можу перетинати її для розвороту" }
+      {
+        "id": "A",
+        "fr": "je ne dois pas la franchir pour dépasser",
+        "uk": "я не можу перетинати її для обгону"
+      },
+      {
+        "id": "B",
+        "fr": "je peux la chevaucher si la voie d'en face est libre",
+        "uk": "я можу наїжджати на неї, якщо зустрічна смуга вільна"
+      },
+      {
+        "id": "C",
+        "fr": "je ne dois pas la franchir pour faire demi-tour",
+        "uk": "я не можу перетинати її для розвороту"
+      }
     ],
-    "correct": ["A", "C"],
+    "correct": [
+      "A",
+      "C"
+    ],
     "explanation_fr": "Une ligne continue ne doit être ni franchie ni chevauchée, quelle que soit la manœuvre (dépassement, demi-tour, changement de direction).",
-    "explanation_uk": "Суцільну лінію не можна ні перетинати, ні наїжджати на неї, незалежно від маневру (обгін, розворот, поворот)."
+    "explanation_uk": "Суцільну лінію не можна ні перетинати, ні наїжджати на неї, незалежно від маневру (обгін, розворот, поворот).",
+    "tags": [
+      "marquage"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q010",
@@ -141,13 +311,33 @@
     "question_fr": "Je peux dépasser par la droite :",
     "question_uk": "Я можу обганяти справа:",
     "answers": [
-      { "id": "A", "fr": "un véhicule dont le conducteur a signalé qu'il tourne à gauche et s'est porté à gauche", "uk": "авто, водій якого показав поворот ліворуч і змістився ліворуч" },
-      { "id": "B", "fr": "un véhicule lent sur une route à double sens", "uk": "повільне авто на дорозі з двостороннім рухом" },
-      { "id": "C", "fr": "un tramway en mouvement, lorsque l'espace est suffisant", "uk": "трамвай, що рухається, якщо місця достатньо" }
+      {
+        "id": "A",
+        "fr": "un véhicule dont le conducteur a signalé qu'il tourne à gauche et s'est porté à gauche",
+        "uk": "авто, водій якого показав поворот ліворуч і змістився ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "un véhicule lent sur une route à double sens",
+        "uk": "повільне авто на дорозі з двостороннім рухом"
+      },
+      {
+        "id": "C",
+        "fr": "un tramway en mouvement, lorsque l'espace est suffisant",
+        "uk": "трамвай, що рухається, якщо місця достатньо"
+      }
     ],
-    "correct": ["A", "C"],
+    "correct": [
+      "A",
+      "C"
+    ],
     "explanation_fr": "Le dépassement se fait normalement par la gauche. Exceptions : un véhicule qui tourne à gauche, et un tramway en mouvement (par la droite si l'espace le permet).",
-    "explanation_uk": "Обгін зазвичай виконують зліва. Винятки: авто, що повертає ліворуч, і трамвай, що рухається (справа, якщо дозволяє місце)."
+    "explanation_uk": "Обгін зазвичай виконують зліва. Винятки: авто, що повертає ліворуч, і трамвай, що рухається (справа, якщо дозволяє місце).",
+    "tags": [
+      "depassement",
+      "lourds"
+    ],
+    "difficulty": 3
   },
   {
     "id": "q011",
@@ -156,13 +346,31 @@
     "question_fr": "La distance de sécurité minimale avec le véhicule qui me précède correspond à au moins :",
     "question_uk": "Мінімальна безпечна дистанція до авто попереду відповідає щонайменше:",
     "answers": [
-      { "id": "A", "fr": "1 seconde", "uk": "1 секунді" },
-      { "id": "B", "fr": "2 secondes", "uk": "2 секундам" },
-      { "id": "C", "fr": "5 secondes", "uk": "5 секундам" }
+      {
+        "id": "A",
+        "fr": "1 seconde",
+        "uk": "1 секунді"
+      },
+      {
+        "id": "B",
+        "fr": "2 secondes",
+        "uk": "2 секундам"
+      },
+      {
+        "id": "C",
+        "fr": "5 secondes",
+        "uk": "5 секундам"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "Le Code de la route impose une distance correspondant à au moins 2 secondes de parcours. Sur autoroute, cela représente environ deux traits de la bande d'arrêt d'urgence.",
-    "explanation_uk": "Правила вимагають дистанцію, яку авто проїжджає щонайменше за 2 секунди. На автомагістралі це приблизно дві риски розмітки на узбіччі."
+    "explanation_uk": "Правила вимагають дистанцію, яку авто проїжджає щонайменше за 2 секунди. На автомагістралі це приблизно дві риски розмітки на узбіччі.",
+    "tags": [
+      "distances"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q012",
@@ -171,13 +379,32 @@
     "question_fr": "Stationner sur un trottoir est :",
     "question_uk": "Паркування на тротуарі:",
     "answers": [
-      { "id": "A", "fr": "autorisé si je laisse un passage d'un mètre aux piétons", "uk": "дозволене, якщо я залишаю пішоходам прохід 1 метр" },
-      { "id": "B", "fr": "interdit, sauf signalisation l'autorisant", "uk": "заборонене, якщо знак або розмітка цього не дозволяють" },
-      { "id": "C", "fr": "toléré la nuit", "uk": "допускається вночі" }
+      {
+        "id": "A",
+        "fr": "autorisé si je laisse un passage d'un mètre aux piétons",
+        "uk": "дозволене, якщо я залишаю пішоходам прохід 1 метр"
+      },
+      {
+        "id": "B",
+        "fr": "interdit, sauf signalisation l'autorisant",
+        "uk": "заборонене, якщо знак або розмітка цього не дозволяють"
+      },
+      {
+        "id": "C",
+        "fr": "toléré la nuit",
+        "uk": "допускається вночі"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "Le stationnement sur trottoir est considéré comme « très gênant » et puni d'une amende de 135 €, sauf emplacements matérialisés.",
-    "explanation_uk": "Паркування на тротуарі вважається «дуже заважаючим» і карається штрафом 135 €, крім спеціально позначених місць."
+    "explanation_uk": "Паркування на тротуарі вважається «дуже заважаючим» і карається штрафом 135 €, крім спеціально позначених місць.",
+    "tags": [
+      "stationnement",
+      "pietons"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q013",
@@ -186,13 +413,34 @@
     "question_fr": "J'arrive à un panneau STOP :",
     "question_uk": "Я під'їжджаю до знака STOP:",
     "answers": [
-      { "id": "A", "fr": "je marque un arrêt complet à la limite de la chaussée abordée", "uk": "я повністю зупиняюся на межі дороги, яку перетинаю" },
-      { "id": "B", "fr": "je peux ne pas m'arrêter si personne n'arrive", "uk": "я можу не зупинятися, якщо ніхто не їде" },
-      { "id": "C", "fr": "je cède le passage aux usagers de la route abordée", "uk": "я поступаюся учасникам руху на дорозі, яку перетинаю" }
+      {
+        "id": "A",
+        "fr": "je marque un arrêt complet à la limite de la chaussée abordée",
+        "uk": "я повністю зупиняюся на межі дороги, яку перетинаю"
+      },
+      {
+        "id": "B",
+        "fr": "je peux ne pas m'arrêter si personne n'arrive",
+        "uk": "я можу не зупинятися, якщо ніхто не їде"
+      },
+      {
+        "id": "C",
+        "fr": "je cède le passage aux usagers de la route abordée",
+        "uk": "я поступаюся учасникам руху на дорозі, яку перетинаю"
+      }
     ],
-    "correct": ["A", "C"],
+    "correct": [
+      "A",
+      "C"
+    ],
     "explanation_fr": "Au STOP, l'arrêt est obligatoire même si la voie est libre (roues immobilisées), puis je cède le passage à tous les usagers.",
-    "explanation_uk": "Біля знака STOP зупинка обов'язкова навіть на вільній дорозі (колеса повністю зупинені), після чого я поступаюся всім учасникам руху."
+    "explanation_uk": "Біля знака STOP зупинка обов'язкова навіть на вільній дорозі (колеса повністю зупинені), після чого я поступаюся всім учасникам руху.",
+    "tags": [
+      "signalisation",
+      "intersection",
+      "priorite"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q014",
@@ -201,13 +449,32 @@
     "question_fr": "Sur autoroute, je peux utiliser la bande d'arrêt d'urgence :",
     "question_uk": "На автомагістралі я можу користуватися смугою аварійної зупинки:",
     "answers": [
-      { "id": "A", "fr": "pour dépasser dans un embouteillage", "uk": "щоб об'їхати затор" },
-      { "id": "B", "fr": "en cas de panne ou d'urgence", "uk": "у разі поломки чи надзвичайної ситуації" },
-      { "id": "C", "fr": "pour passer un appel téléphonique", "uk": "щоб зателефонувати" }
+      {
+        "id": "A",
+        "fr": "pour dépasser dans un embouteillage",
+        "uk": "щоб об'їхати затор"
+      },
+      {
+        "id": "B",
+        "fr": "en cas de panne ou d'urgence",
+        "uk": "у разі поломки чи надзвичайної ситуації"
+      },
+      {
+        "id": "C",
+        "fr": "pour passer un appel téléphonique",
+        "uk": "щоб зателефонувати"
+      }
     ],
-    "correct": ["B"],
+    "correct": [
+      "B"
+    ],
     "explanation_fr": "La bande d'arrêt d'urgence est réservée aux arrêts en cas de nécessité absolue (panne, malaise, accident). Y circuler ou s'y arrêter pour téléphoner est interdit.",
-    "explanation_uk": "Смуга аварійної зупинки — лише для крайньої необхідності (поломка, погане самопочуття, ДТП). Їхати нею чи зупинятися, щоб поговорити по телефону, заборонено."
+    "explanation_uk": "Смуга аварійної зупинки — лише для крайньої необхідності (поломка, погане самопочуття, ДТП). Їхати нею чи зупинятися, щоб поговорити по телефону, заборонено.",
+    "tags": [
+      "autoroute",
+      "accident"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q015",
@@ -216,12 +483,881 @@
     "question_fr": "Un véhicule de pompiers arrive derrière moi, gyrophare et sirène en marche :",
     "question_uk": "Позаду мене їде пожежна машина з увімкненими маячком і сиреною:",
     "answers": [
-      { "id": "A", "fr": "je facilite son passage en serrant à droite", "uk": "я полегшую їй проїзд, притискаючись праворуч" },
-      { "id": "B", "fr": "je garde ma trajectoire et ma vitesse", "uk": "я зберігаю свою траєкторію і швидкість" },
-      { "id": "C", "fr": "je freine brusquement au milieu de la voie", "uk": "я різко гальмую посеред смуги" }
+      {
+        "id": "A",
+        "fr": "je facilite son passage en serrant à droite",
+        "uk": "я полегшую їй проїзд, притискаючись праворуч"
+      },
+      {
+        "id": "B",
+        "fr": "je garde ma trajectoire et ma vitesse",
+        "uk": "я зберігаю свою траєкторію і швидкість"
+      },
+      {
+        "id": "C",
+        "fr": "je freine brusquement au milieu de la voie",
+        "uk": "я різко гальмую посеред смуги"
+      }
     ],
-    "correct": ["A"],
+    "correct": [
+      "A"
+    ],
     "explanation_fr": "Les véhicules d'intérêt général prioritaires (pompiers, police, SAMU) en intervention ont la priorité : je dois faciliter leur passage, sans manœuvre brusque.",
-    "explanation_uk": "Пріоритетні спецмашини (пожежники, поліція, SAMU) під час виклику мають перевагу: я маю звільнити їм дорогу, без різких маневрів."
+    "explanation_uk": "Пріоритетні спецмашини (пожежники, поліція, SAMU) під час виклику мають перевагу: я маю звільнити їм дорогу, без різких маневрів.",
+    "tags": [
+      "priorite"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q151",
+    "theme": "circulation",
+    "image": "signs/AB6.svg",
+    "question_fr": "Ce panneau losange jaune signifie :",
+    "question_uk": "Цей жовтий ромб означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je suis sur une route prioritaire",
+        "uk": "я на головній дорозі"
+      },
+      {
+        "id": "B",
+        "fr": "la priorité ne vaut qu'à la prochaine intersection",
+        "uk": "перевага діє лише на найближчому перехресті"
+      },
+      {
+        "id": "C",
+        "fr": "je dois céder le passage à droite",
+        "uk": "я маю поступатися справа"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau AB6 indique une route à caractère prioritaire : je suis prioritaire à toutes les intersections jusqu'au panneau AB7 (fin de route prioritaire).",
+    "explanation_uk": "Знак AB6 позначає головну дорогу: я маю перевагу на всіх перехрестях до знака AB7 (кінець головної дороги).",
+    "tags": [
+      "priorite",
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q152",
+    "theme": "circulation",
+    "image": "signs/AB7.svg",
+    "question_fr": "Après ce panneau :",
+    "question_uk": "Після цього знака:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ne suis plus sur une route prioritaire",
+        "uk": "я вже не на головній дорозі"
+      },
+      {
+        "id": "B",
+        "fr": "je dois m'arrêter",
+        "uk": "я маю зупинитися"
+      },
+      {
+        "id": "C",
+        "fr": "les règles de priorité habituelles s'appliquent",
+        "uk": "діють звичайні правила пріоритету"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "AB7 marque la fin de la route prioritaire : aux intersections suivantes, ce sont les panneaux ou la priorité à droite qui s'appliquent.",
+    "explanation_uk": "AB7 — кінець головної дороги: на наступних перехрестях діють знаки або правило «перешкода справа».",
+    "tags": [
+      "priorite",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q153",
+    "theme": "circulation",
+    "image": "signs/AB1.svg",
+    "question_fr": "Ce panneau annonce :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une intersection où s'applique la priorité à droite",
+        "uk": "перехрестя з правилом «перешкода справа»"
+      },
+      {
+        "id": "B",
+        "fr": "une voie ferrée",
+        "uk": "залізницю"
+      },
+      {
+        "id": "C",
+        "fr": "une intersection où je suis prioritaire",
+        "uk": "перехрестя, де я маю перевагу"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le triangle avec une croix noire (AB1) signale une intersection où je dois céder le passage aux véhicules venant de droite.",
+    "explanation_uk": "Трикутник з чорним хрестом (AB1) — перехрестя, де треба поступатися транспорту справа.",
+    "tags": [
+      "priorite",
+      "signalisation",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q154",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Le feu est vert mais le carrefour est encombré de véhicules :",
+    "question_uk": "Горить зелений, але перехрестя забите машинами:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'engage, le feu est vert",
+        "uk": "я виїжджаю, адже зелений"
+      },
+      {
+        "id": "B",
+        "fr": "j'attends de pouvoir dégager le carrefour",
+        "uk": "я чекаю, поки зможу проїхати перехрестя повністю"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne pour libérer le passage",
+        "uk": "я сигналю, щоб звільнили дорогу"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Même au vert, je ne m'engage pas si je risque de rester bloqué au milieu du carrefour et de gêner la circulation transversale.",
+    "explanation_uk": "Навіть на зелений не виїжджаю, якщо можу застрягти посеред перехрестя й заблокувати поперечний рух.",
+    "tags": [
+      "signalisation",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q155",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un feu orange clignote à une intersection :",
+    "question_uk": "На перехресті блимає жовтий:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je dois m'arrêter obligatoirement",
+        "uk": "я мушу зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "je peux passer avec prudence en respectant les règles de priorité",
+        "uk": "я можу проїхати обережно, дотримуючись правил пріоритету"
+      },
+      {
+        "id": "C",
+        "fr": "je suis prioritaire",
+        "uk": "я маю перевагу"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Le feu orange clignotant autorise le passage avec prudence. Les panneaux ou, à défaut, la priorité à droite déterminent qui passe.",
+    "explanation_uk": "Жовтий миготливий дозволяє рух з обережністю. Хто проїжджає першим, визначають знаки або «перешкода справа».",
+    "tags": [
+      "signalisation",
+      "intersection",
+      "priorite"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q156",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un agent de circulation lève le bras verticalement :",
+    "question_uk": "Регулювальник піднімає руку вертикально вгору:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "tous les usagers doivent s'arrêter",
+        "uk": "усі учасники руху мають зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "seuls les piétons s'arrêtent",
+        "uk": "зупиняються лише пішоходи"
+      },
+      {
+        "id": "C",
+        "fr": "je peux passer si le feu est vert",
+        "uk": "я можу їхати, якщо горить зелений"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Bras levé verticalement : arrêt pour tous les usagers, sauf ceux déjà engagés dans l'intersection. Les gestes de l'agent priment sur les feux.",
+    "explanation_uk": "Рука вертикально вгору — стоп для всіх, крім тих, хто вже на перехресті. Жести регулювальника важливіші за світлофор.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q157",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un feu rouge est accompagné d'une flèche orange clignotante vers la droite :",
+    "question_uk": "Біля червоного сигналу блимає жовта стрілка праворуч:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux tourner à droite en cédant le passage",
+        "uk": "я можу повернути праворуч, поступившись дорогою"
+      },
+      {
+        "id": "B",
+        "fr": "je dois attendre le vert pour tourner",
+        "uk": "я маю чекати зеленого, щоб повернути"
+      },
+      {
+        "id": "C",
+        "fr": "je peux aller tout droit",
+        "uk": "я можу їхати прямо"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La flèche orange clignotante permet de franchir le feu dans la direction indiquée, en cédant le passage aux piétons et aux autres véhicules.",
+    "explanation_uk": "Жовта миготлива стрілка дозволяє проїхати у вказаному напрямку, поступившись пішоходам та іншому транспорту.",
+    "tags": [
+      "signalisation",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q158",
+    "theme": "circulation",
+    "image": "signs/B1.svg",
+    "question_fr": "Ce panneau signifie :",
+    "question_uk": "Цей знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sens interdit à tout véhicule",
+        "uk": "в'їзд заборонено для всього транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "stationnement interdit",
+        "uk": "стоянку заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "route barrée dans les deux sens",
+        "uk": "дорогу перекрито в обох напрямках"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau B1 interdit l'accès dans ce sens. Circuler en sens interdit coûte 4 points. Un panonceau peut autoriser certains usagers (cyclistes par exemple).",
+    "explanation_uk": "Знак B1 забороняє в'їзд у цьому напрямку. Рух під «цеглу» — мінус 4 бали. Табличка може дозволяти в'їзд окремим учасникам (наприклад, велосипедистам).",
+    "tags": [
+      "signalisation",
+      "sanctions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q159",
+    "theme": "circulation",
+    "image": "signs/B0.svg",
+    "question_fr": "Ce panneau rond blanc à bord rouge signifie :",
+    "question_uk": "Цей білий круглий знак з червоною облямівкою означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "circulation interdite à tout véhicule dans les deux sens",
+        "uk": "рух усього транспорту заборонено в обох напрямках"
+      },
+      {
+        "id": "B",
+        "fr": "fin de toutes les interdictions",
+        "uk": "кінець усіх заборон"
+      },
+      {
+        "id": "C",
+        "fr": "route prioritaire",
+        "uk": "головна дорога"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau B0 interdit la circulation de tous les véhicules dans les deux sens (les piétons peuvent passer).",
+    "explanation_uk": "Знак B0 забороняє рух усього транспорту в обох напрямках (пішоходи можуть проходити).",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q160",
+    "theme": "circulation",
+    "image": "signs/C12.svg",
+    "question_fr": "Ce panneau carré bleu indique :",
+    "question_uk": "Цей синій квадратний знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une voie à sens unique",
+        "uk": "дорогу з одностороннім рухом"
+      },
+      {
+        "id": "B",
+        "fr": "une obligation d'aller tout droit",
+        "uk": "обов'язок їхати тільки прямо"
+      },
+      {
+        "id": "C",
+        "fr": "une voie réservée aux bus",
+        "uk": "смугу для автобусів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "C12 est un panneau d'indication : la rue est à sens unique. Dans une rue à sens unique, je peux stationner des deux côtés sauf interdiction.",
+    "explanation_uk": "C12 — інформаційний знак: вулиця з одностороннім рухом. На такій вулиці можна паркуватися з обох боків, якщо не заборонено.",
+    "tags": [
+      "signalisation",
+      "stationnement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q161",
+    "theme": "circulation",
+    "image": "signs/B21-1.svg",
+    "question_fr": "Ce panneau rond bleu signifie :",
+    "question_uk": "Цей синій круглий знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "obligation de tourner à droite avant le panneau",
+        "uk": "обов'язковий поворот праворуч перед знаком"
+      },
+      {
+        "id": "B",
+        "fr": "direction conseillée",
+        "uk": "рекомендований напрямок"
+      },
+      {
+        "id": "C",
+        "fr": "interdiction de tourner à gauche seulement",
+        "uk": "заборону лише повороту ліворуч"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un panneau rond bleu est une obligation. B21-1 impose de tourner à droite avant le panneau.",
+    "explanation_uk": "Синій круглий знак — наказовий. B21-1 зобов'язує повернути праворуч перед знаком.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q162",
+    "theme": "circulation",
+    "image": "signs/B2c.svg",
+    "question_fr": "Ce panneau m'interdit :",
+    "question_uk": "Цей знак забороняє мені:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de faire demi-tour",
+        "uk": "розвертатися"
+      },
+      {
+        "id": "B",
+        "fr": "de tourner à gauche",
+        "uk": "повертати ліворуч"
+      },
+      {
+        "id": "C",
+        "fr": "de faire marche arrière",
+        "uk": "їхати заднім ходом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau B2c interdit le demi-tour sur la route suivie jusqu'à la prochaine intersection.",
+    "explanation_uk": "Знак B2c забороняє розворот на цій дорозі до найближчого перехрестя.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q163",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "En général, une interdiction signalée par un panneau (sauf limitation de vitesse) prend fin :",
+    "question_uk": "Зазвичай заборона, встановлена знаком (крім обмеження швидкості), закінчується:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à la prochaine intersection",
+        "uk": "на найближчому перехресті"
+      },
+      {
+        "id": "B",
+        "fr": "au bout de 1 km",
+        "uk": "через 1 км"
+      },
+      {
+        "id": "C",
+        "fr": "à la sortie de la commune",
+        "uk": "на виїзді з населеного пункту"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Une interdiction cesse en principe à la prochaine intersection, sauf panonceau de distance ou panneau de fin. La limitation de vitesse dure jusqu'au panneau de fin ou une nouvelle limite.",
+    "explanation_uk": "Заборона зазвичай діє до найближчого перехрестя, якщо немає таблички з відстанню або знака кінця. Обмеження швидкості діє до знака кінця або нового обмеження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q164",
+    "theme": "circulation",
+    "image": "signs/B31.svg",
+    "question_fr": "Ce panneau signifie :",
+    "question_uk": "Цей знак означає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "fin de toutes les interdictions précédemment signalées",
+        "uk": "кінець усіх попередніх заборон"
+      },
+      {
+        "id": "B",
+        "fr": "fin de la route prioritaire",
+        "uk": "кінець головної дороги"
+      },
+      {
+        "id": "C",
+        "fr": "fin de l'agglomération",
+        "uk": "кінець населеного пункту"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "B31 met fin aux interdictions signalées pour les véhicules en mouvement (dépassement, vitesse…).",
+    "explanation_uk": "B31 скасовує заборони, встановлені для транспорту в русі (обгін, швидкість…).",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q165",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Les panneaux de travaux temporaires à fond jaune :",
+    "question_uk": "Тимчасові знаки з жовтим фоном (ремонт):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ont priorité sur les panneaux permanents",
+        "uk": "мають пріоритет над постійними знаками"
+      },
+      {
+        "id": "B",
+        "fr": "sont seulement des conseils",
+        "uk": "лише рекомендації"
+      },
+      {
+        "id": "C",
+        "fr": "ne s'appliquent que la nuit",
+        "uk": "діють тільки вночі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La signalisation temporaire (fond jaune) prime sur la signalisation permanente : elle est adaptée à la situation de chantier.",
+    "explanation_uk": "Тимчасові знаки (жовтий фон) важливіші за постійні: вони відповідають ситуації на ділянці ремонту.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q166",
+    "theme": "circulation",
+    "image": "signs/B6d.svg",
+    "question_fr": "Avec ce panneau, je peux :",
+    "question_uk": "З цим знаком я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "m'arrêter pour déposer un passager",
+        "uk": "зупинитися, щоб висадити пасажира"
+      },
+      {
+        "id": "B",
+        "fr": "stationner quelques minutes",
+        "uk": "постояти кілька хвилин"
+      },
+      {
+        "id": "C",
+        "fr": "ni m'arrêter, ni stationner",
+        "uk": "ні зупинятися, ні ставати на стоянку"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "B6d (croix rouge sur fond bleu) interdit à la fois l'arrêt et le stationnement. B6a1 (une seule barre) n'interdit que le stationnement.",
+    "explanation_uk": "B6d (червоний хрест на синьому) забороняє і зупинку, і стоянку. B6a1 (одна смуга) забороняє лише стоянку.",
+    "tags": [
+      "signalisation",
+      "stationnement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q167",
+    "theme": "circulation",
+    "image": "signs/B6a1.svg",
+    "question_fr": "Avec ce panneau, je peux :",
+    "question_uk": "З цим знаком я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "m'arrêter quelques instants, conducteur présent",
+        "uk": "коротко зупинитися, залишаючись біля авто"
+      },
+      {
+        "id": "B",
+        "fr": "stationner",
+        "uk": "стати на стоянку"
+      },
+      {
+        "id": "C",
+        "fr": "laisser mon véhicule pour faire des courses",
+        "uk": "залишити авто й піти в магазин"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le panneau B6a1 interdit le stationnement mais autorise l'arrêt (montée ou descente de passagers, chargement rapide).",
+    "explanation_uk": "Знак B6a1 забороняє стоянку, але дозволяє зупинку (посадка/висадка, швидке завантаження).",
+    "tags": [
+      "signalisation",
+      "stationnement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q168",
+    "theme": "circulation",
+    "image": "signs/B6a2.svg",
+    "question_fr": "Ce panneau indique un stationnement interdit :",
+    "question_uk": "Цей знак означає, що стоянку заборонено:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "du 1er au 15 du mois",
+        "uk": "з 1 по 15 число місяця"
+      },
+      {
+        "id": "B",
+        "fr": "du 16 à la fin du mois",
+        "uk": "з 16 числа до кінця місяця"
+      },
+      {
+        "id": "C",
+        "fr": "tous les jours",
+        "uk": "щодня"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "B6a2 (une barre blanche « I ») : stationnement interdit du 1er au 15. B6a3 (« II ») : du 16 à la fin du mois. Le changement de côté se fait le dernier jour entre 20 h 30 et 21 h.",
+    "explanation_uk": "B6a2 (одна риска «I»): стоянка заборонена з 1 по 15. B6a3 («II»): з 16-го до кінця місяця. Бік змінюють в останній день з 20:30 до 21:00.",
+    "tags": [
+      "signalisation",
+      "stationnement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q169",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je stationne sur une place réservée aux personnes handicapées sans en avoir le droit :",
+    "question_uk": "Я поставив авто на місце для людей з інвалідністю без права на це:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je risque une amende de 135 €",
+        "uk": "мені загрожує штраф 135 €"
+      },
+      {
+        "id": "B",
+        "fr": "mon véhicule peut être mis en fourrière",
+        "uk": "моє авто можуть евакуювати"
+      },
+      {
+        "id": "C",
+        "fr": "c'est toléré pour moins de 10 minutes",
+        "uk": "це допускається на менш ніж 10 хвилин"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ce stationnement est « très gênant » : 135 € d'amende et possible mise en fourrière, même pour quelques minutes.",
+    "explanation_uk": "Така стоянка — «дуже заважаюча»: 135 € штрафу й можлива евакуація, навіть на кілька хвилин.",
+    "tags": [
+      "stationnement",
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q170",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Sur une chaussée à double sens, je stationne :",
+    "question_uk": "На дорозі з двостороннім рухом я паркуюся:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur le côté droit, dans le sens de la circulation",
+        "uk": "праворуч, за напрямком руху"
+      },
+      {
+        "id": "B",
+        "fr": "indifféremment à gauche ou à droite",
+        "uk": "ліворуч чи праворуч — однаково"
+      },
+      {
+        "id": "C",
+        "fr": "sur le côté gauche si la place est plus grande",
+        "uk": "ліворуч, якщо там більше місця"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Sur une route à double sens, on stationne à droite dans le sens de circulation. Des deux côtés seulement dans les rues à sens unique (sauf interdiction).",
+    "explanation_uk": "На дорозі з двостороннім рухом паркуються праворуч, за напрямком руху. З обох боків — лише на односторонніх вулицях (якщо не заборонено).",
+    "tags": [
+      "stationnement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q171",
+    "theme": "circulation",
+    "image": "signs/B52.svg",
+    "question_fr": "Dans cette zone :",
+    "question_uk": "У цій зоні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la vitesse est limitée à 20 km/h",
+        "uk": "швидкість обмежена 20 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "les piétons sont prioritaires et peuvent circuler sur la chaussée",
+        "uk": "пішоходи мають перевагу й можуть ходити проїжджою частиною"
+      },
+      {
+        "id": "C",
+        "fr": "le stationnement est autorisé partout",
+        "uk": "паркуватися можна всюди"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Zone de rencontre (B52) : 20 km/h, priorité aux piétons qui peuvent marcher sur la chaussée. Stationnement seulement sur les emplacements prévus.",
+    "explanation_uk": "Зона зустрічі (B52): 20 км/год, перевага пішоходів, які можуть іти проїжджою частиною. Паркування — лише на позначених місцях.",
+    "tags": [
+      "vitesse",
+      "pietons",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q172",
+    "theme": "circulation",
+    "image": "signs/B30.svg",
+    "question_fr": "J'entre dans une zone où :",
+    "question_uk": "Я в'їжджаю в зону, де:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la vitesse est limitée à 30 km/h",
+        "uk": "швидкість обмежена 30 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "les cyclistes peuvent souvent circuler dans les deux sens",
+        "uk": "велосипедисти часто можуть їхати в обох напрямках"
+      },
+      {
+        "id": "C",
+        "fr": "je suis prioritaire sur les piétons",
+        "uk": "я маю перевагу над пішоходами"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Zone 30 : vitesse limitée à 30 km/h jusqu'au panneau de sortie. Les rues y sont en général à double sens pour les cyclistes, sauf décision contraire.",
+    "explanation_uk": "Зона 30: обмеження 30 км/год до знака виїзду. На вулицях зони велосипедисти зазвичай можуть їхати в обох напрямках, якщо не вирішено інакше.",
+    "tags": [
+      "vitesse",
+      "cyclistes",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q173",
+    "theme": "circulation",
+    "image": "signs/B27a.svg",
+    "question_fr": "Ce panneau signale :",
+    "question_uk": "Цей знак позначає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une voie réservée aux transports en commun",
+        "uk": "смугу для громадського транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "un arrêt de bus où je peux stationner",
+        "uk": "зупинку автобуса, де можна стояти"
+      },
+      {
+        "id": "C",
+        "fr": "une voie conseillée aux voitures",
+        "uk": "рекомендовану смугу для авто"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "B27a : voie réservée aux bus. Je ne peux ni y circuler ni m'y arrêter, sauf exception signalée.",
+    "explanation_uk": "B27a: смуга лише для автобусів. Там не можна їхати чи зупинятися, якщо немає дозволеного винятку.",
+    "tags": [
+      "signalisation",
+      "lourds"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q174",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Une ligne mixte (continue d'un côté, discontinue de l'autre) sépare les voies. La ligne discontinue est de mon côté :",
+    "question_uk": "Комбінована лінія (з одного боку суцільна, з іншого переривчаста). Переривчаста — з мого боку:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux la franchir pour dépasser",
+        "uk": "я можу перетнути її для обгону"
+      },
+      {
+        "id": "B",
+        "fr": "je ne peux jamais la franchir",
+        "uk": "я ніколи не можу її перетинати"
+      },
+      {
+        "id": "C",
+        "fr": "je peux la franchir uniquement pour faire demi-tour",
+        "uk": "я можу перетинати її лише для розвороту"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Avec une ligne mixte, chacun respecte la ligne qui est de son côté : discontinue = franchissement autorisé, continue = interdit.",
+    "explanation_uk": "При комбінованій лінії кожен дотримується лінії зі свого боку: переривчаста — можна перетинати, суцільна — ні.",
+    "tags": [
+      "marquage",
+      "depassement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q175",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je dois faire demi-tour. Où est-ce interdit ?",
+    "question_uk": "Мені треба розвернутися. Де це заборонено?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur autoroute",
+        "uk": "на автомагістралі"
+      },
+      {
+        "id": "B",
+        "fr": "dans un virage sans visibilité",
+        "uk": "у повороті без огляду"
+      },
+      {
+        "id": "C",
+        "fr": "sur une petite route droite et dégagée",
+        "uk": "на прямій вільній невеликій дорозі"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le demi-tour est interdit sur autoroute et dangereux là où la visibilité est insuffisante (virage, sommet de côte). Sur une route dégagée, il est possible avec prudence, sauf panneau B2c ou ligne continue.",
+    "explanation_uk": "Розворот заборонений на автомагістралі й небезпечний там, де поганий огляд (поворот, вершина підйому). На вільній дорозі — можна обережно, якщо немає знака B2c чи суцільної.",
+    "tags": [
+      "manoeuvres",
+      "autoroute"
+    ],
+    "difficulty": 2
   }
 ]

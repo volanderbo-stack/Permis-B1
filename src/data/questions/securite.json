@@ -26,7 +26,11 @@
       "B"
     ],
     "explanation_fr": "Tous les occupants doivent être attachés, à l'avant comme à l'arrière, quel que soit le trajet, même très court.",
-    "explanation_uk": "Пристебнутися мають усі, хто в авто, — спереду й ззаду, на будь-якій, навіть дуже короткій поїздці."
+    "explanation_uk": "Пристебнутися мають усі, хто в авто, — спереду й ззаду, на будь-якій, навіть дуже короткій поїздці.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q122",
@@ -55,7 +59,12 @@
       "A"
     ],
     "explanation_fr": "Le conducteur est responsable du port de la ceinture (ou du siège adapté) par les passagers mineurs.",
-    "explanation_uk": "Водій відповідає за те, щоб неповнолітні пасажири були пристебнуті (або сиділи в автокріслі)."
+    "explanation_uk": "Водій відповідає за те, щоб неповнолітні пасажири були пристебнуті (або сиділи в автокріслі).",
+    "tags": [
+      "ceinture",
+      "sanctions"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q123",
@@ -84,7 +93,12 @@
       "A"
     ],
     "explanation_fr": "Jusqu'à 10 ans, l'enfant doit être attaché dans un siège ou réhausseur homologué, adapté à sa morphologie.",
-    "explanation_uk": "До 10 років дитина має бути пристебнута в сертифікованому кріслі чи бустері, що підходить під її зріст і вагу."
+    "explanation_uk": "До 10 років дитина має бути пристебнута в сертифікованому кріслі чи бустері, що підходить під її зріст і вагу.",
+    "tags": [
+      "enfants",
+      "ceinture"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q124",
@@ -113,7 +127,12 @@
       "A"
     ],
     "explanation_fr": "Un airbag frontal qui se déclenche contre un siège dos à la route peut gravement blesser le bébé : il doit être désactivé.",
-    "explanation_uk": "Фронтальна подушка, що спрацює в крісло, встановлене проти руху, може тяжко травмувати немовля, тому її треба вимкнути."
+    "explanation_uk": "Фронтальна подушка, що спрацює в крісло, встановлене проти руху, може тяжко травмувати немовля, тому її треба вимкнути.",
+    "tags": [
+      "enfants",
+      "ceinture"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q125",
@@ -142,7 +161,11 @@
       "A"
     ],
     "explanation_fr": "Bien réglé (haut de l'appui-tête au niveau du sommet du crâne, proche de la tête), il limite le « coup du lapin » en cas de choc arrière.",
-    "explanation_uk": "Правильно налаштований підголівник (верх на рівні маківки, близько до голови) зменшує хлистову травму шиї при ударі ззаду."
+    "explanation_uk": "Правильно налаштований підголівник (верх на рівні маківки, близько до голови) зменшує хлистову травму шиї при ударі ззаду.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q126",
@@ -172,7 +195,11 @@
       "B"
     ],
     "explanation_fr": "La ceinture reste obligatoire pendant la grossesse. La sangle basse passe sous le ventre, la sangle haute entre les seins.",
-    "explanation_uk": "Пасок обов'язковий і під час вагітності. Нижня стрічка проходить під животом, верхня — між грудьми."
+    "explanation_uk": "Пасок обов'язковий і під час вагітності. Нижня стрічка проходить під животом, верхня — між грудьми.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q127",
@@ -202,7 +229,11 @@
       "C"
     ],
     "explanation_fr": "Lors d'un choc, un objet pèse plusieurs dizaines de fois son poids. Le chargement doit être rangé et arrimé.",
-    "explanation_uk": "Під час зіткнення предмет «важить» у десятки разів більше. Вантаж треба покласти в багажник і закріпити."
+    "explanation_uk": "Під час зіткнення предмет «важить» у десятки разів більше. Вантаж треба покласти в багажник і закріпити.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q128",
@@ -233,7 +264,13 @@
       "C"
     ],
     "explanation_fr": "Une forte charge allonge le freinage, modifie la tenue de route et relève l'avant : on adapte la pression des pneus et la hauteur des faisceaux.",
-    "explanation_uk": "Важкий вантаж подовжує гальмівний шлях, погіршує стійкість і піднімає передню частину: треба відкоригувати тиск у шинах і нахил фар."
+    "explanation_uk": "Важкий вантаж подовжує гальмівний шлях, погіршує стійкість і піднімає передню частину: треба відкоригувати тиск у шинах і нахил фар.",
+    "tags": [
+      "chargement",
+      "distances",
+      "pneus"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q129",
@@ -262,7 +299,11 @@
       "A"
     ],
     "explanation_fr": "La plaque et les feux doivent toujours rester visibles : un porte-vélos qui les masque doit les reproduire.",
-    "explanation_uk": "Номерний знак і ліхтарі завжди мають бути видимими: якщо велобагажник їх закриває, на ньому мають бути дублікати."
+    "explanation_uk": "Номерний знак і ліхтарі завжди мають бути видимими: якщо велобагажник їх закриває, на ньому мають бути дублікати.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q130",
@@ -292,7 +333,12 @@
       "C"
     ],
     "explanation_fr": "Un animal libre peut gêner le conducteur et être projeté lors d'un freinage. Harnais, grille ou caisse de transport sont recommandés.",
-    "explanation_uk": "Вільна тварина може заважати водієві й полетіти вперед під час гальмування. Радять шлейку, сітку або переноску."
+    "explanation_uk": "Вільна тварина може заважати водієві й полетіти вперед під час гальмування. Радять шлейку, сітку або переноску.",
+    "tags": [
+      "chargement",
+      "animaux"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q131",
@@ -321,7 +367,12 @@
       "B"
     ],
     "explanation_fr": "À 50 km/h, un choc équivaut à une chute d'environ 10 m (3 étages). Les bras ne suffisent pas à retenir le corps.",
-    "explanation_uk": "На 50 км/год удар дорівнює падінню приблизно з 10 м (3-й поверх). Утримати тіло руками неможливо."
+    "explanation_uk": "На 50 км/год удар дорівнює падінню приблизно з 10 м (3-й поверх). Утримати тіло руками неможливо.",
+    "tags": [
+      "ceinture",
+      "vitesse"
+    ],
+    "difficulty": 3
   },
   {
     "id": "q132",
@@ -351,7 +402,11 @@
       "C"
     ],
     "explanation_fr": "La sangle diagonale passe sur la clavicule, la sangle basse sur les hanches, sans jeu. Un manteau épais réduit son efficacité.",
-    "explanation_uk": "Діагональна стрічка — через ключицю, нижня — по стегнах, без провисання. Товста куртка знижує ефективність паса."
+    "explanation_uk": "Діагональна стрічка — через ключицю, нижня — по стегнах, без провисання. Товста куртка знижує ефективність паса.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q133",
@@ -381,7 +436,11 @@
       "C"
     ],
     "explanation_fr": "On ne transporte pas plus de passagers que de places assises équipées de ceintures. Le permis B est limité aux véhicules de 9 places au plus, conducteur compris.",
-    "explanation_uk": "Пасажирів не може бути більше, ніж обладнаних пасками місць. Категорія B обмежена авто до 9 місць разом із водієм."
+    "explanation_uk": "Пасажирів не може бути більше, ніж обладнаних пасками місць. Категорія B обмежена авто до 9 місць разом із водієм.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 3
   },
   {
     "id": "q134",
@@ -411,7 +470,11 @@
       "B"
     ],
     "explanation_fr": "Portes verrouillées, vitres fermées, rien de visible à l'intérieur. Laisser la carte grise dans la voiture facilite la revente d'un véhicule volé.",
-    "explanation_uk": "Двері замкнені, вікна зачинені, нічого цінного на видноті. Свідоцтво про реєстрацію в салоні полегшує злодіям перепродаж авто."
+    "explanation_uk": "Двері замкнені, вікна зачинені, нічого цінного на видноті. Свідоцтво про реєстрацію в салоні полегшує злодіям перепродаж авто.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q135",
@@ -440,6 +503,857 @@
       "A"
     ],
     "explanation_fr": "Avant 10 ans, un enfant voyage à l'arrière, sauf exceptions (bébé dos à la route airbag désactivé, absence de places arrière, places arrière occupées par d'autres enfants…).",
-    "explanation_uk": "До 10 років дитина їде ззаду, крім винятків (немовля в кріслі проти руху з вимкненою подушкою, відсутні або зайняті іншими дітьми задні місця тощо)."
+    "explanation_uk": "До 10 років дитина їде ззаду, крім винятків (немовля в кріслі проти руху з вимкненою подушкою, відсутні або зайняті іншими дітьми задні місця тощо).",
+    "tags": [
+      "enfants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q351",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un passager adulte à l'arrière n'a pas mis sa ceinture :",
+    "question_uk": "Дорослий пасажир ззаду не пристебнувся:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "c'est lui qui est sanctionné",
+        "uk": "покарають його самого"
+      },
+      {
+        "id": "B",
+        "fr": "c'est le conducteur qui perd des points",
+        "uk": "бали знімуть з водія"
+      },
+      {
+        "id": "C",
+        "fr": "ce n'est pas obligatoire à l'arrière",
+        "uk": "ззаду це не обов'язково"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un passager majeur non attaché est lui-même verbalisé (135 €). Le conducteur est responsable des passagers mineurs. Le conducteur ne perd pas de points pour un passager.",
+    "explanation_uk": "Повнолітнього пасажира без паса штрафують самого (135 €). Водій відповідає за неповнолітніх. Бали водієві за пасажира не знімають.",
+    "tags": [
+      "ceinture",
+      "sanctions"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q352",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Sans ceinture, lors d'un choc frontal, un passager arrière :",
+    "question_uk": "Без паса під час лобового удару пасажир ззаду:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut être projeté contre les sièges avant et blesser leurs occupants",
+        "uk": "може влетіти в передні сидіння й травмувати тих, хто попереду"
+      },
+      {
+        "id": "B",
+        "fr": "ne risque rien grâce aux airbags",
+        "uk": "у безпеці завдяки подушкам"
+      },
+      {
+        "id": "C",
+        "fr": "est protégé par le dossier",
+        "uk": "захищений спинкою"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un passager arrière non attaché devient un projectile qui peut tuer la personne assise devant lui.",
+    "explanation_uk": "Непристебнутий пасажир ззаду стає «снарядом», який може вбити того, хто сидить перед ним.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q353",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un airbag frontal :",
+    "question_uk": "Фронтальна подушка безпеки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "complète l'action de la ceinture",
+        "uk": "доповнює дію паса"
+      },
+      {
+        "id": "B",
+        "fr": "remplace la ceinture",
+        "uk": "замінює пас"
+      },
+      {
+        "id": "C",
+        "fr": "se déclenche en cas de choc important",
+        "uk": "спрацьовує при сильному ударі"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "L'airbag est conçu pour fonctionner avec la ceinture. Sans ceinture, il peut même aggraver les blessures.",
+    "explanation_uk": "Подушку розраховано на роботу разом із пасом. Без паса вона може навіть погіршити травми.",
+    "tags": [
+      "ceinture",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q354",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un manteau épais sous la ceinture :",
+    "question_uk": "Товста куртка під пасом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "réduit l'efficacité de la ceinture",
+        "uk": "знижує ефективність паса"
+      },
+      {
+        "id": "B",
+        "fr": "protège mieux",
+        "uk": "захищає краще"
+      },
+      {
+        "id": "C",
+        "fr": "n'a aucun effet",
+        "uk": "ні на що не впливає"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un vêtement épais crée du jeu entre la ceinture et le corps : en cas de choc, le corps glisse davantage. Pour un enfant, on retire le manteau dans le siège auto.",
+    "explanation_uk": "Товстий одяг створює зазор між пасом і тілом: при ударі тіло зміщується сильніше. Дитині в автокріслі куртку знімають.",
+    "tags": [
+      "ceinture",
+      "enfants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q355",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un bébé voyage dans un siège dos à la route à l'avant. L'airbag passager :",
+    "question_uk": "Немовля їде в кріслі проти руху на передньому сидінні. Подушка пасажира:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "doit être désactivé",
+        "uk": "має бути вимкнена"
+      },
+      {
+        "id": "B",
+        "fr": "doit rester activé",
+        "uk": "має бути ввімкнена"
+      },
+      {
+        "id": "C",
+        "fr": "n'a pas d'importance",
+        "uk": "не має значення"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un airbag qui se déploie contre un siège dos à la route peut blesser mortellement le bébé : il doit être désactivé.",
+    "explanation_uk": "Подушка, що розкривається в крісло проти руху, може смертельно травмувати немовля: її треба вимкнути.",
+    "tags": [
+      "enfants",
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q356",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le siège dos à la route est recommandé pour les bébés car :",
+    "question_uk": "Крісло проти руху рекомендують для немовлят, бо:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il protège mieux la tête et la nuque en cas de choc frontal",
+        "uk": "краще захищає голову й шию при лобовому ударі"
+      },
+      {
+        "id": "B",
+        "fr": "le bébé voit mieux la route",
+        "uk": "немовля краще бачить дорогу"
+      },
+      {
+        "id": "C",
+        "fr": "il est obligatoire jusqu'à 10 ans",
+        "uk": "воно обов'язкове до 10 років"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le cou d'un bébé est fragile : dos à la route, le choc est réparti sur tout le dos. On recommande de le garder le plus longtemps possible.",
+    "explanation_uk": "Шия немовляти слабка: у кріслі проти руху удар розподіляється на всю спину. Його радять використовувати якомога довше.",
+    "tags": [
+      "enfants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q357",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un rehausseur sert à :",
+    "question_uk": "Бустер (rehausseur) потрібен, щоб:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "placer correctement la ceinture adulte sur l'enfant",
+        "uk": "правильно розмістити дорослий пас на дитині"
+      },
+      {
+        "id": "B",
+        "fr": "permettre à l'enfant de voir dehors",
+        "uk": "дитина бачила, що за вікном"
+      },
+      {
+        "id": "C",
+        "fr": "remplacer la ceinture",
+        "uk": "замінити пас"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le rehausseur élève l'enfant pour que la sangle passe sur l'épaule et sur les hanches, et non sur le cou et le ventre.",
+    "explanation_uk": "Бустер піднімає дитину, щоб пас проходив через плече й стегна, а не по шиї й животу.",
+    "tags": [
+      "enfants",
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q358",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le siège enfant doit être :",
+    "question_uk": "Дитяче автокрісло має бути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "homologué",
+        "uk": "сертифікованим"
+      },
+      {
+        "id": "B",
+        "fr": "adapté à la taille et au poids de l'enfant",
+        "uk": "відповідати зросту й вазі дитини"
+      },
+      {
+        "id": "C",
+        "fr": "fixé solidement dans le véhicule",
+        "uk": "надійно закріпленим в авто"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "Un dispositif homologué (norme R129 ou R44), adapté à la morphologie de l'enfant et correctement installé (Isofix ou ceinture).",
+    "explanation_uk": "Сертифікований пристрій (норма R129 або R44), що відповідає будові дитини й правильно встановлений (Isofix або пас).",
+    "tags": [
+      "enfants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q359",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le système Isofix permet :",
+    "question_uk": "Система Isofix дає змогу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de fixer un siège enfant directement à la structure du véhicule",
+        "uk": "кріпити дитяче крісло безпосередньо до кузова авто"
+      },
+      {
+        "id": "B",
+        "fr": "de désactiver l'airbag",
+        "uk": "вимкнути подушку безпеки"
+      },
+      {
+        "id": "C",
+        "fr": "de régler les rétroviseurs",
+        "uk": "налаштувати дзеркала"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les points d'ancrage Isofix limitent les erreurs d'installation du siège enfant.",
+    "explanation_uk": "Точки кріплення Isofix зменшують помилки під час встановлення дитячого крісла.",
+    "tags": [
+      "enfants",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q360",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Pour transporter un objet long qui dépasse à l'arrière du véhicule de plus d'un mètre :",
+    "question_uk": "Щоб перевезти довгий предмет, що виступає ззаду більш ніж на метр:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je le signale de façon visible (panneau, nuit : feu)",
+        "uk": "я його помітно позначаю (табличка, уночі — ліхтар)"
+      },
+      {
+        "id": "B",
+        "fr": "aucune précaution n'est nécessaire",
+        "uk": "нічого не треба робити"
+      },
+      {
+        "id": "C",
+        "fr": "je roule avec le coffre ouvert sans signalisation",
+        "uk": "їду з відкритим багажником без позначення"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un chargement qui dépasse de plus de 1 m à l'arrière doit être signalé : de jour par un panneau ou un dispositif réfléchissant, de nuit par un feu.",
+    "explanation_uk": "Вантаж, що виступає ззаду більш ніж на 1 м, треба позначити: вдень — табличкою чи світловідбивачем, уночі — ліхтарем.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q361",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un véhicule surchargé :",
+    "question_uk": "Перевантажене авто:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "freine moins bien",
+        "uk": "гірше гальмує"
+      },
+      {
+        "id": "B",
+        "fr": "est moins stable en virage",
+        "uk": "менш стійке в поворотах"
+      },
+      {
+        "id": "C",
+        "fr": "consomme moins",
+        "uk": "витрачає менше пального"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La surcharge allonge le freinage, dégrade la tenue de route, use pneus et suspensions et augmente la consommation.",
+    "explanation_uk": "Перевантаження подовжує гальмування, погіршує стійкість, зношує шини й підвіску та збільшує витрату пального.",
+    "tags": [
+      "chargement",
+      "distances"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q362",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un coffre de toit chargé :",
+    "question_uk": "Завантажений багажник на даху:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente la prise au vent",
+        "uk": "збільшує парусність"
+      },
+      {
+        "id": "B",
+        "fr": "modifie le comportement du véhicule en virage",
+        "uk": "змінює поведінку авто в поворотах"
+      },
+      {
+        "id": "C",
+        "fr": "permet de rouler plus vite",
+        "uk": "дає змогу їхати швидше"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le centre de gravité monte et la prise au vent augmente : je réduis ma vitesse, surtout par vent latéral.",
+    "explanation_uk": "Центр ваги піднімається, парусність росте: знижую швидкість, особливо при боковому вітрі.",
+    "tags": [
+      "chargement",
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q363",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Dans le coffre, les objets lourds se placent :",
+    "question_uk": "У багажнику важкі речі кладуть:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en bas et contre le dossier de la banquette arrière",
+        "uk": "донизу й до спинки заднього сидіння"
+      },
+      {
+        "id": "B",
+        "fr": "au-dessus des objets légers",
+        "uk": "зверху на легкі речі"
+      },
+      {
+        "id": "C",
+        "fr": "sur la plage arrière",
+        "uk": "на задню полицю"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Placés en bas et contre le dossier, les objets lourds ne peuvent pas être projetés vers l'avant en cas de choc.",
+    "explanation_uk": "Унизу й біля спинки важкі речі не полетять уперед під час удару.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q364",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Mon chien voyage à l'arrière. Il est conseillé de :",
+    "question_uk": "Мій собака їде ззаду. Радять:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'attacher avec un harnais relié à la ceinture",
+        "uk": "пристебнути шлейкою до паса"
+      },
+      {
+        "id": "B",
+        "fr": "le laisser se promener dans l'habitacle",
+        "uk": "дозволити йому вільно ходити салоном"
+      },
+      {
+        "id": "C",
+        "fr": "le placer dans une caisse de transport",
+        "uk": "посадити в переноску"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Harnais ou caisse évitent que l'animal gêne le conducteur ou soit projeté lors d'un freinage.",
+    "explanation_uk": "Шлейка чи переноска не дають тварині заважати водієві або полетіти вперед під час гальмування.",
+    "tags": [
+      "animaux",
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q365",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le dossier du siège conducteur est trop incliné :",
+    "question_uk": "Спинка сидіння водія надто відкинута:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je risque de glisser sous la ceinture en cas de choc",
+        "uk": "при ударі я можу вислизнути з-під паса"
+      },
+      {
+        "id": "B",
+        "fr": "mes bras doivent être trop tendus",
+        "uk": "мої руки надто випрямлені"
+      },
+      {
+        "id": "C",
+        "fr": "c'est la position idéale",
+        "uk": "це ідеальне положення"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un dossier trop incliné réduit le contrôle du volant et l'efficacité de la ceinture (effet « sous-marin »).",
+    "explanation_uk": "Надто відкинута спинка погіршує контроль керма й ефективність паса (ефект «підпірнання»).",
+    "tags": [
+      "ceinture",
+      "manoeuvres"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q366",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "L'appui-tête trop bas :",
+    "question_uk": "Підголівник, опущений надто низько:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente le risque de blessure au cou lors d'un choc arrière",
+        "uk": "збільшує ризик травми шиї при ударі ззаду"
+      },
+      {
+        "id": "B",
+        "fr": "améliore le confort",
+        "uk": "покращує комфорт"
+      },
+      {
+        "id": "C",
+        "fr": "n'a aucune importance",
+        "uk": "не має значення"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Trop bas, l'appui-tête agit comme un point de pivot et aggrave le « coup du lapin ». Son haut doit être au niveau du sommet du crâne.",
+    "explanation_uk": "Надто низький підголівник стає точкою перегину й погіршує хлистову травму. Його верх має бути на рівні маківки.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q367",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Pour lutter contre le vol de mon véhicule, je ne laisse pas dans l'habitacle :",
+    "question_uk": "Щоб авто не викрали, я не залишаю в салоні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les papiers du véhicule",
+        "uk": "документи на авто"
+      },
+      {
+        "id": "B",
+        "fr": "des objets de valeur visibles",
+        "uk": "цінні речі на видноті"
+      },
+      {
+        "id": "C",
+        "fr": "les tapis de sol",
+        "uk": "килимки"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Des objets visibles attirent les voleurs, et les papiers facilitent la revente d'un véhicule volé.",
+    "explanation_uk": "Речі на видноті приваблюють злодіїв, а документи полегшують перепродаж украденого авто.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q368",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un porte-vélos sur la boule d'attelage masque la plaque arrière. Je dois :",
+    "question_uk": "Велобагажник на фаркопі закриває задній номер. Я маю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "installer une plaque d'immatriculation sur le porte-vélos",
+        "uk": "встановити номерний знак на велобагажник"
+      },
+      {
+        "id": "B",
+        "fr": "vérifier que les feux restent visibles ou sont reproduits",
+        "uk": "перевірити, чи видно ліхтарі, або продублювати їх"
+      },
+      {
+        "id": "C",
+        "fr": "ne rien faire, c'est toléré",
+        "uk": "нічого не робити, це допускається"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Plaque et feux doivent rester visibles : le porte-vélos doit avoir sa propre plaque (même numéro) et ses feux si nécessaire.",
+    "explanation_uk": "Номер і ліхтарі мають бути видимими: на велобагажнику — власна табличка з тим самим номером і ліхтарі, якщо треба.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q369",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le nombre de passagers dans ma voiture est limité :",
+    "question_uk": "Кількість пасажирів у моєму авто обмежена:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "au nombre de places assises équipées de ceintures",
+        "uk": "кількістю сидячих місць із пасками"
+      },
+      {
+        "id": "B",
+        "fr": "à ce que je peux faire entrer",
+        "uk": "тим, скільки вміститься"
+      },
+      {
+        "id": "C",
+        "fr": "à 2 enfants par ceinture",
+        "uk": "двома дітьми на один пас"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Chaque passager doit avoir sa propre place avec ceinture ou dispositif adapté.",
+    "explanation_uk": "Кожен пасажир має мати власне місце з пасом або відповідним пристроєм.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q370",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Une femme enceinte porte la ceinture :",
+    "question_uk": "Вагітна жінка носить пас:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sangle basse sous le ventre, sur les hanches",
+        "uk": "нижня стрічка — під животом, на стегнах"
+      },
+      {
+        "id": "B",
+        "fr": "sangle basse sur le ventre",
+        "uk": "нижня стрічка — по животу"
+      },
+      {
+        "id": "C",
+        "fr": "elle en est dispensée à partir du 6e mois",
+        "uk": "з 6-го місяця вона звільнена"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La ceinture est obligatoire pendant toute la grossesse. La sangle basse passe sous le ventre, sur les os du bassin.",
+    "explanation_uk": "Пас обов'язковий протягом усієї вагітності. Нижня стрічка проходить під животом, по кістках таза.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q371",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "En cas de choc à 50 km/h, un objet de 1 kg posé sur la plage arrière :",
+    "question_uk": "Під час удару на 50 км/год предмет вагою 1 кг на задній полиці:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut peser plusieurs dizaines de kilos",
+        "uk": "може «важити» кілька десятків кілограмів"
+      },
+      {
+        "id": "B",
+        "fr": "reste en place",
+        "uk": "лишається на місці"
+      },
+      {
+        "id": "C",
+        "fr": "ne pèse que 1 kg",
+        "uk": "важить лише 1 кг"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Lors d'une décélération brutale, le poids apparent d'un objet est multiplié (de l'ordre de 30 à 50 fois) : il devient un projectile dangereux.",
+    "explanation_uk": "Під час різкого гальмування «вага» предмета зростає в десятки разів (приблизно в 30–50): він стає небезпечним снарядом.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q372",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Les portes de mon véhicule doivent être verrouillées en roulant ?",
+    "question_uk": "Чи треба замикати двері під час руху?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "c'est conseillé en ville contre les intrusions",
+        "uk": "у місті це радять від вторгнень"
+      },
+      {
+        "id": "B",
+        "fr": "c'est interdit",
+        "uk": "це заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "les secours peuvent quand même ouvrir en cas d'accident",
+        "uk": "рятувальники все одно зможуть відчинити при аварії"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Beaucoup de véhicules se verrouillent automatiquement en roulant et se déverrouillent en cas de choc : c'est une protection contre les vols à l'arraché.",
+    "explanation_uk": "Багато авто автоматично замикаються в русі й відмикаються при ударі: це захист від грабіжників.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q373",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Une remorque légère est attelée à ma voiture :",
+    "question_uk": "До мого авто причеплено легкий причіп:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ma distance de freinage augmente",
+        "uk": "мій гальмівний шлях збільшується"
+      },
+      {
+        "id": "B",
+        "fr": "je dois prévoir plus de place pour dépasser",
+        "uk": "мені треба більше місця для обгону"
+      },
+      {
+        "id": "C",
+        "fr": "rien ne change",
+        "uk": "нічого не змінюється"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Avec une remorque, le véhicule est plus long et plus lourd : freinage plus long, dépassements et manœuvres plus délicats.",
+    "explanation_uk": "З причепом авто довше й важче: довший гальмівний шлях, складніші обгін і маневри.",
+    "tags": [
+      "chargement",
+      "distances"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q374",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "L'éthylotest antidémarrage, les aides à la conduite et l'airbag sont des équipements de :",
+    "question_uk": "Алкоблокувальник, системи допомоги водієві та подушки безпеки — це обладнання для:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sécurité",
+        "uk": "безпеки"
+      },
+      {
+        "id": "B",
+        "fr": "confort uniquement",
+        "uk": "лише комфорту"
+      },
+      {
+        "id": "C",
+        "fr": "décoration",
+        "uk": "декору"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ces équipements visent à éviter l'accident (sécurité active) ou à en réduire les conséquences (sécurité passive).",
+    "explanation_uk": "Це обладнання допомагає уникнути аварії (активна безпека) або зменшити її наслідки (пасивна безпека).",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q375",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Je fais un trajet de 300 m pour aller à la boulangerie. La ceinture :",
+    "question_uk": "Я їду 300 м до пекарні. Пас безпеки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est obligatoire",
+        "uk": "обов'язковий"
+      },
+      {
+        "id": "B",
+        "fr": "est facultative pour un si court trajet",
+        "uk": "необов'язковий на такій короткій відстані"
+      },
+      {
+        "id": "C",
+        "fr": "est obligatoire seulement pour le conducteur",
+        "uk": "обов'язковий лише для водія"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La plupart des accidents ont lieu sur des trajets courts et connus : la ceinture est obligatoire partout, pour tous, tout le temps.",
+    "explanation_uk": "Більшість аварій стається на коротких і знайомих маршрутах: пас обов'язковий усюди, для всіх і завжди.",
+    "tags": [
+      "ceinture"
+    ],
+    "difficulty": 1
   }
 ]
