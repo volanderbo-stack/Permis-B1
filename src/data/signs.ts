@@ -1,6 +1,6 @@
 import data from './signs.json'
 
-export type SignCategory = 'danger' | 'intersection' | 'interdiction' | 'obligation' | 'fin' | 'indication'
+export type SignCategory = 'danger' | 'intersection' | 'interdiction' | 'obligation' | 'fin' | 'zone' | 'indication'
 
 export interface Sign {
   code: string
@@ -19,6 +19,7 @@ export const SIGN_CATEGORIES: { id: SignCategory; fr: string; uk: string }[] = [
   { id: 'interdiction', fr: 'Interdiction', uk: 'Заборонні' },
   { id: 'obligation', fr: 'Obligation', uk: 'Наказові' },
   { id: 'fin', fr: 'Fin d’interdiction', uk: 'Кінець заборони' },
+  { id: 'zone', fr: 'Zones', uk: 'Зони' },
   { id: 'indication', fr: 'Indication', uk: 'Інформаційні' },
 ]
 

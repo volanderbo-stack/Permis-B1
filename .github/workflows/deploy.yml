@@ -25,6 +25,9 @@ jobs:
       - run: npm ci
       - run: npm run check:data
       - run: npm run lint
+      - name: Describe road signs (Wikimedia metadata)
+        if: github.ref != 'refs/heads/main'
+        run: node scripts/describe-signs.mjs
       - name: Cache road signs
         uses: actions/cache@v4
         with:
