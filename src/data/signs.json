@@ -325,8 +325,8 @@
     "code": "B7b",
     "file": "France road sign B7b.svg",
     "category": "interdiction",
-    "fr": "Accès interdit aux véhicules à moteur, sauf cyclomoteurs",
-    "uk": "В'їзд механічним транспортним засобам заборонено, крім мопедів"
+    "fr": "Accès interdit à tous les véhicules à moteur",
+    "uk": "В'їзд усім механічним транспортним засобам заборонено"
   },
   {
     "code": "B8",
@@ -360,22 +360,22 @@
     "code": "B10a",
     "file": "France road sign B10a.svg",
     "category": "interdiction",
-    "fr": "Accès interdit aux véhicules agricoles à moteur",
-    "uk": "В'їзд сільгосптехніки заборонено"
+    "fr": "Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué",
+    "uk": "Обмеження довжини"
   },
   {
     "code": "B11",
     "file": "France road sign B11.svg",
     "category": "interdiction",
-    "fr": "Accès interdit aux véhicules tractant une remorque",
-    "uk": "В'їзд транспорту з причепом заборонено"
+    "fr": "Accès interdit aux véhicules dont la largeur dépasse le nombre indiqué",
+    "uk": "Обмеження ширини"
   },
   {
     "code": "B12",
     "file": "France road sign B12.svg",
     "category": "interdiction",
-    "fr": "Accès interdit aux véhicules dont la largeur dépasse le nombre indiqué",
-    "uk": "Обмеження ширини"
+    "fr": "Accès interdit aux véhicules dont la hauteur dépasse le nombre indiqué",
+    "uk": "Обмеження висоти"
   },
   {
     "code": "B13",
@@ -383,6 +383,20 @@
     "category": "interdiction",
     "fr": "Accès interdit aux véhicules dont le poids dépasse le nombre indiqué",
     "uk": "Обмеження маси"
+  },
+  {
+    "code": "B14-50",
+    "file": "France road sign B14 (50).svg",
+    "category": "interdiction",
+    "fr": "Limitation de vitesse (ici 50 km/h)",
+    "uk": "Обмеження швидкості (тут 50 км/год)"
+  },
+  {
+    "code": "B14-90",
+    "file": "France road sign B14 (90).svg",
+    "category": "interdiction",
+    "fr": "Limitation de vitesse (ici 90 km/h)",
+    "uk": "Обмеження швидкості (тут 90 км/год)"
   },
   {
     "code": "B15",
@@ -444,8 +458,8 @@
     "code": "B21c1",
     "file": "France road sign B21c1.svg",
     "category": "obligation",
-    "fr": "Directions obligatoires : tout droit ou à droite",
-    "uk": "Рух прямо або праворуч"
+    "fr": "Direction obligatoire à la prochaine intersection : à droite",
+    "uk": "Рух тільки праворуч на наступному перехресті"
   },
   {
     "code": "B21e",
@@ -477,10 +491,10 @@
   },
   {
     "code": "B25",
-    "file": "France road sign B25.svg",
+    "file": "France road sign B25 (30).svg",
     "category": "obligation",
-    "fr": "Vitesse minimale obligatoire",
-    "uk": "Обов'язкова мінімальна швидкість"
+    "fr": "Vitesse minimale obligatoire (ici 30 km/h)",
+    "uk": "Обов'язкова мінімальна швидкість (тут 30 км/год)"
   },
   {
     "code": "B26",
@@ -505,10 +519,10 @@
   },
   {
     "code": "B33",
-    "file": "France road sign B33.svg",
+    "file": "France road sign B33 (50).svg",
     "category": "fin",
-    "fr": "Fin de limitation de vitesse",
-    "uk": "Кінець обмеження швидкості"
+    "fr": "Fin de limitation de vitesse (ici 50 km/h)",
+    "uk": "Кінець обмеження швидкості (тут 50 км/год)"
   },
   {
     "code": "B34",
@@ -535,33 +549,33 @@
     "code": "B39",
     "file": "France road sign B39.svg",
     "category": "fin",
-    "fr": "Fin de vitesse minimale obligatoire",
-    "uk": "Кінець обов'язкової мінімальної швидкості"
+    "fr": "Fin de l'interdiction dont la nature est indiquée sur le panneau",
+    "uk": "Кінець заборони, зазначеної на знаку"
   },
   {
     "code": "B40",
     "file": "France road sign B40.svg",
     "category": "fin",
-    "fr": "Fin d'obligation des chaînes à neige",
-    "uk": "Кінець обов'язкового використання ланцюгів"
+    "fr": "Fin de piste ou bande obligatoire pour cycles",
+    "uk": "Кінець обов'язкової велодоріжки"
   },
   {
     "code": "B41",
     "file": "France road sign B41.svg",
     "category": "fin",
-    "fr": "Fin de piste ou bande obligatoire pour cycles",
-    "uk": "Кінець велодоріжки"
+    "fr": "Fin de chemin obligatoire pour piétons",
+    "uk": "Кінець пішохідної доріжки"
   },
   {
     "code": "B30",
-    "file": "France road sign B30.svg",
+    "file": "France road sign B30 (30).svg",
     "category": "zone",
     "fr": "Entrée d'une zone 30",
     "uk": "Початок зони 30"
   },
   {
     "code": "B51",
-    "file": "France road sign B51.svg",
+    "file": "France road sign B51 (30).svg",
     "category": "zone",
     "fr": "Sortie d'une zone 30",
     "uk": "Кінець зони 30"
@@ -603,10 +617,10 @@
   },
   {
     "code": "C4a",
-    "file": "France road sign C4a.svg",
+    "file": "France road sign C4a (50).svg",
     "category": "indication",
-    "fr": "Vitesse conseillée",
-    "uk": "Рекомендована швидкість"
+    "fr": "Vitesse conseillée (ici 50 km/h)",
+    "uk": "Рекомендована швидкість (тут 50 км/год)"
   },
   {
     "code": "C8",
