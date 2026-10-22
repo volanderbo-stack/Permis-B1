@@ -45,7 +45,7 @@ function buildTest(pool: Sign[]): TestItem[] {
     })
 }
 
-function SignTest({ pool, onExit }: { pool: Sign[]; onExit: () => void }) {
+function SignTest({ pool, onExit, reverse }: { pool: Sign[]; onExit: () => void; reverse: boolean }) {
   const [items, setItems] = useState(() => buildTest(pool))
   const [index, setIndex] = useState(0)
   const [picked, setPicked] = useState<Sign | null>(null)
@@ -89,6 +89,11 @@ function SignTest({ pool, onExit }: { pool: Sign[]; onExit: () => void }) {
     return 'dim'
   }
 
+  const choose = (o: Sign) => {
+    setPicked(o)
+    if (o === sign) setScore((s) => s + 1)
+  }
+
   return (
     <div className="qcard">
       <div className="qcard-top">
@@ -99,28 +104,51 @@ function SignTest({ pool, onExit }: { pool: Sign[]; onExit: () => void }) {
           🇺🇦 Переклад
         </button>
       </div>
-      <SignImage key={sign.code} sign={sign} className="sign-test-img" />
-      <h2 className="qtext center">Que signifie ce panneau ?</h2>
-      <div className="answers">
-        {options.map((o, i) => (
-          <button
-            key={o.code}
-            type="button"
-            className={`answer ${state(o)}`}
-            disabled={!!picked}
-            onClick={() => {
-              setPicked(o)
-              if (o === sign) setScore((s) => s + 1)
-            }}
-          >
-            <span className="letter">{'ABCD'[i]}</span>
-            <span className="answer-text">
-              {o.fr}
-              {showUk && <span className="uk">{o.uk}</span>}
-            </span>
-          </button>
-        ))}
-      </div>
+      {reverse ? (
+        <>
+          <h2 className="qtext center">Quel panneau signifie :</h2>
+          <p className="center reverse-meaning">
+            « {sign.fr} »{showUk && <span className="uk">{sign.uk}</span>}
+          </p>
+          <div className="sign-choices">
+            {options.map((o) => (
+              <button
+                key={o.code}
+                type="button"
+                className={`answer sign-choice ${state(o)}`}
+                disabled={!!picked}
+                onClick={() => choose(o)}
+                aria-label={picked ? o.fr : `Panneau ${o.code}`}
+              >
+                <SignImage sign={o} className="sign-choice-img" />
+                {picked && <span className="small">{o.fr}</span>}
+              </button>
+            ))}
+          </div>
+        </>
+      ) : (
+        <>
+          <SignImage key={sign.code} sign={sign} className="sign-test-img" />
+          <h2 className="qtext center">Que signifie ce panneau ?</h2>
+          <div className="answers">
+            {options.map((o, i) => (
+              <button
+                key={o.code}
+                type="button"
+                className={`answer ${state(o)}`}
+                disabled={!!picked}
+                onClick={() => choose(o)}
+              >
+                <span className="letter">{'ABCD'[i]}</span>
+                <span className="answer-text">
+                  {o.fr}
+                  {showUk && <span className="uk">{o.uk}</span>}
+                </span>
+              </button>
+            ))}
+          </div>
+        </>
+      )}
       {picked && (
         <div className="actions">
           <button
@@ -141,6 +169,7 @@ function SignTest({ pool, onExit }: { pool: Sign[]; onExit: () => void }) {
 
 export function Signs() {
   const [tab, setTab] = useState<Tab>('cards')
+  const [reverse, setReverse] = useState(false)
   const [category, setCategory] = useState<SignCategory | 'all'>('all')
   const pool = useMemo(
     () => (category === 'all' ? SIGNS : SIGNS.filter((s) => s.category === category)),
@@ -190,7 +219,17 @@ export function Signs() {
           </p>
         </>
       ) : (
-        <SignTest key={category} pool={pool} onExit={() => setTab('cards')} />
+        <>
+          <div className="chips-row">
+            <button type="button" className={`chip ${!reverse ? 'chip-on' : ''}`} onClick={() => setReverse(false)}>
+              Panneau → sens
+            </button>
+            <button type="button" className={`chip ${reverse ? 'chip-on' : ''}`} onClick={() => setReverse(true)}>
+              Sens → panneau
+            </button>
+          </div>
+          <SignTest key={`${category}-${reverse}`} pool={pool} reverse={reverse} onExit={() => setTab('cards')} />
+        </>
       )}
     </div>
   )

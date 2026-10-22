@@ -26,7 +26,11 @@
       "B"
     ],
     "explanation_fr": "En dessous de 1,6 mm, le pneu est usé et interdit. Des témoins d'usure dans les rainures indiquent cette limite.",
-    "explanation_uk": "Якщо менше 1,6 мм, шина зношена й заборонена. Цю межу показують індикатори зносу в канавках протектора."
+    "explanation_uk": "Якщо менше 1,6 мм, шина зношена й заборонена. Цю межу показують індикатори зносу в канавках протектора.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q107",
@@ -56,7 +60,11 @@
       "C"
     ],
     "explanation_fr": "Rouge : danger, arrêt immédiat en sécurité. Orange : anomalie, à faire vérifier rapidement. Vert ou bleu : simple information (feux allumés…).",
-    "explanation_uk": "Червоний — небезпека, треба негайно безпечно зупинитися. Помаранчевий — несправність, яку треба скоро перевірити. Зелений чи синій — просто інформація (увімкнене світло тощо)."
+    "explanation_uk": "Червоний — небезпека, треба негайно безпечно зупинитися. Помаранчевий — несправність, яку треба скоро перевірити. Зелений чи синій — просто інформація (увімкнене світло тощо).",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q108",
@@ -85,7 +93,12 @@
       "A"
     ],
     "explanation_fr": "Le témoin bleu signale les feux de route. Je dois penser à les éteindre pour ne pas éblouir les autres usagers.",
-    "explanation_uk": "Синій індикатор показує дальнє світло. Не забувай його вимикати, щоб не засліплювати інших."
+    "explanation_uk": "Синій індикатор показує дальнє світло. Не забувай його вимикати, щоб не засліплювати інших.",
+    "tags": [
+      "voyants",
+      "nuit"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q109",
@@ -114,7 +127,11 @@
       "A"
     ],
     "explanation_fr": "On contrôle la pression à froid, au moins une fois par mois et avant un long trajet. Des pneus chauds donnent une mesure trop élevée.",
-    "explanation_uk": "Тиск перевіряють на холодних шинах, щонайменше раз на місяць і перед довгою поїздкою. На гарячих шинах показник буде завищений."
+    "explanation_uk": "Тиск перевіряють на холодних шинах, щонайменше раз на місяць і перед довгою поїздкою. На гарячих шинах показник буде завищений.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q110",
@@ -144,7 +161,12 @@
       "B"
     ],
     "explanation_fr": "Un pneu sous-gonflé chauffe, s'use plus vite, augmente la consommation et allonge les distances de freinage. Il peut même éclater.",
-    "explanation_uk": "Недокачана шина нагрівається, швидше зношується, збільшує витрату пального й гальмівний шлях. Вона навіть може лопнути."
+    "explanation_uk": "Недокачана шина нагрівається, швидше зношується, збільшує витрату пального й гальмівний шлях. Вона навіть може лопнути.",
+    "tags": [
+      "pneus",
+      "eco"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q111",
@@ -174,7 +196,12 @@
       "C"
     ],
     "explanation_fr": "L'ABS empêche le blocage des roues. Il faut freiner fort sans relâcher : on peut alors continuer à diriger le véhicule pour éviter l'obstacle.",
-    "explanation_uk": "ABS не дає колесам заблокуватися. Треба гальмувати сильно, не відпускаючи педаль, — тоді можна ще й кермувати, щоб об'їхати перешкоду."
+    "explanation_uk": "ABS не дає колесам заблокуватися. Треба гальмувати сильно, не відпускаючи педаль, — тоді можна ще й кермувати, щоб об'їхати перешкоду.",
+    "tags": [
+      "equipements",
+      "distances"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q112",
@@ -204,7 +231,12 @@
       "B"
     ],
     "explanation_fr": "Les feux antibrouillard arrière sont réservés au brouillard et à la neige. Sous la pluie, ils éblouissent les conducteurs qui suivent.",
-    "explanation_uk": "Задні протитуманні фари — лише для туману й снігу. У дощ вони засліплюють водіїв позаду."
+    "explanation_uk": "Задні протитуманні фари — лише для туману й снігу. У дощ вони засліплюють водіїв позаду.",
+    "tags": [
+      "nuit",
+      "meteo"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q113",
@@ -233,7 +265,11 @@
       "B"
     ],
     "explanation_fr": "Les feux de croisement portent à environ 30 m, les feux de route à environ 100 m. La nuit, il faut adapter sa vitesse à la portée des feux.",
-    "explanation_uk": "Ближнє світло — приблизно 30 м, дальнє — приблизно 100 м. Уночі швидкість треба підбирати під дальність світла."
+    "explanation_uk": "Ближнє світло — приблизно 30 м, дальнє — приблизно 100 м. Уночі швидкість треба підбирати під дальність світла.",
+    "tags": [
+      "nuit"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q114",
@@ -262,7 +298,11 @@
       "A"
     ],
     "explanation_fr": "On vérifie l'huile avec la jauge, moteur arrêté depuis quelques minutes et voiture sur un sol plat, régulièrement et avant les longs trajets.",
-    "explanation_uk": "Оливу перевіряють щупом через кілька хвилин після вимкнення двигуна, на рівній поверхні — регулярно й перед далекими поїздками."
+    "explanation_uk": "Оливу перевіряють щупом через кілька хвилин після вимкнення двигуна, на рівній поверхні — регулярно й перед далекими поїздками.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q115",
@@ -291,7 +331,11 @@
       "A"
     ],
     "explanation_fr": "Moteur chaud, le liquide est sous pression : ouvrir le bouchon peut provoquer de graves brûlures. On attend que le moteur refroidisse.",
-    "explanation_uk": "На гарячому двигуні рідина під тиском: якщо відкрити кришку, можна сильно обпектися. Треба почекати, поки двигун охолоне."
+    "explanation_uk": "На гарячому двигуні рідина під тиском: якщо відкрити кришку, можна сильно обпектися. Треба почекати, поки двигун охолоне.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q116",
@@ -321,7 +365,11 @@
       "B"
     ],
     "explanation_fr": "Un niveau de liquide de frein trop bas est dangereux. Il faut faire vérifier le système de freinage sans attendre.",
-    "explanation_uk": "Занизький рівень гальмівної рідини небезпечний. Гальмівну систему треба негайно перевірити."
+    "explanation_uk": "Занизький рівень гальмівної рідини небезпечний. Гальмівну систему треба негайно перевірити.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q117",
@@ -351,7 +399,11 @@
       "C"
     ],
     "explanation_fr": "L'ESP corrige une perte de trajectoire en freinant certaines roues, mais il ne peut pas dépasser les lois de la physique.",
-    "explanation_uk": "ESP виправляє траєкторію, підгальмовуючи окремі колеса, але не може перемогти закони фізики."
+    "explanation_uk": "ESP виправляє траєкторію, підгальмовуючи окремі колеса, але не може перемогти закони фізики.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q118",
@@ -381,7 +433,11 @@
       "C"
     ],
     "explanation_fr": "Une bonne visibilité est essentielle. Un impact peut s'étendre et affaiblir le pare-brise ; c'est aussi un défaut relevé au contrôle technique.",
-    "explanation_uk": "Добрий огляд — це ключове. Скол може перерости в тріщину й послабити скло; це також дефект, який фіксують на техогляді."
+    "explanation_uk": "Добрий огляд — це ключове. Скол може перерости в тріщину й послабити скло; це також дефект, який фіксують на техогляді.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q119",
@@ -410,7 +466,12 @@
       "A"
     ],
     "explanation_fr": "Dans les communes concernées, les véhicules doivent être équipés de pneus hiver ou détenir des chaînes (ou chaussettes) à neige.",
-    "explanation_uk": "У визначених комунах авто мусить мати зимові шини або возити снігові ланцюги (чи текстильні «шкарпетки»)."
+    "explanation_uk": "У визначених комунах авто мусить мати зимові шини або возити снігові ланцюги (чи текстильні «шкарпетки»).",
+    "tags": [
+      "pneus",
+      "montagne"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q120",
@@ -440,6 +501,1385 @@
       "C"
     ],
     "explanation_fr": "Des balais usés réduisent fortement la visibilité sous la pluie ou la nuit. Ils se changent régulièrement, et le réservoir de lave-glace doit être rempli.",
-    "explanation_uk": "Зношені щітки сильно погіршують огляд у дощ чи вночі. Їх регулярно міняють, а бачок омивача має бути заповнений."
+    "explanation_uk": "Зношені щітки сильно погіршують огляд у дощ чи вночі. Їх регулярно міняють, а бачок омивача має бути заповнений.",
+    "tags": [
+      "equipements",
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q326",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Un voyant orange s'allume pendant que je roule :",
+    "question_uk": "Під час руху загорівся помаранчевий індикатор:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il signale une anomalie à faire vérifier rapidement",
+        "uk": "він сигналізує про несправність, яку треба скоро перевірити"
+      },
+      {
+        "id": "B",
+        "fr": "je dois m'arrêter immédiatement",
+        "uk": "я мушу негайно зупинитися"
+      },
+      {
+        "id": "C",
+        "fr": "il indique que les feux de route sont allumés",
+        "uk": "він означає, що ввімкнено дальнє світло"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Orange = anomalie ou alerte : je peux continuer prudemment mais je fais vérifier rapidement. Rouge = arrêt dès que possible.",
+    "explanation_uk": "Помаранчевий — несправність чи попередження: можна обережно їхати далі, але треба скоро перевірити. Червоний — зупинитися якнайшвидше.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q327",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de température du liquide de refroidissement s'allume en rouge :",
+    "question_uk": "Індикатор температури охолоджувальної рідини засвітився червоним:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'arrête dès que possible et je coupe le moteur",
+        "uk": "якнайшвидше зупиняюся й глушу двигун"
+      },
+      {
+        "id": "B",
+        "fr": "j'ouvre immédiatement le bouchon du radiateur",
+        "uk": "негайно відкриваю кришку радіатора"
+      },
+      {
+        "id": "C",
+        "fr": "je continue en roulant plus vite pour refroidir",
+        "uk": "їду швидше, щоб охолодити"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Moteur en surchauffe : arrêt et moteur coupé pour éviter une casse. Ne jamais ouvrir le circuit à chaud (liquide sous pression, brûlures).",
+    "explanation_uk": "Двигун перегрівся: зупинитися й заглушити, щоб не зламати. Ніколи не відкривати систему на гарячому (рідина під тиском, опіки).",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q328",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de charge de la batterie reste allumé en roulant :",
+    "question_uk": "Під час руху не гасне індикатор заряду акумулятора:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'alternateur ne recharge plus la batterie",
+        "uk": "генератор більше не заряджає акумулятор"
+      },
+      {
+        "id": "B",
+        "fr": "le véhicule risque de s'arrêter",
+        "uk": "авто може заглухнути"
+      },
+      {
+        "id": "C",
+        "fr": "la batterie est pleine",
+        "uk": "акумулятор повністю заряджений"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ce voyant indique un défaut de charge (souvent l'alternateur ou sa courroie) : la batterie se vide et le véhicule peut s'arrêter.",
+    "explanation_uk": "Цей індикатор означає відсутність заряду (часто генератор або його ремінь): акумулятор розряджається, і авто може зупинитися.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q329",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de pression des pneus s'allume :",
+    "question_uk": "Засвітився індикатор тиску в шинах:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un pneu est sous-gonflé ou crevé",
+        "uk": "одна шина недокачана або пробита"
+      },
+      {
+        "id": "B",
+        "fr": "je vérifie la pression dès que possible",
+        "uk": "якнайшвидше перевіряю тиск"
+      },
+      {
+        "id": "C",
+        "fr": "les pneus sont neufs",
+        "uk": "шини нові"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le capteur de pression signale une baisse anormale. Je ralentis, je vérifie la pression et l'état des pneus rapidement.",
+    "explanation_uk": "Датчик сигналізує про незвичне падіння тиску. Пригальмовую й якнайшвидше перевіряю тиск і стан шин.",
+    "tags": [
+      "voyants",
+      "pneus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q330",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de l'ABS reste allumé :",
+    "question_uk": "Не гасне індикатор ABS:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le freinage classique fonctionne, mais sans antiblocage",
+        "uk": "звичайні гальма працюють, але без антиблокування"
+      },
+      {
+        "id": "B",
+        "fr": "les freins ne fonctionnent plus du tout",
+        "uk": "гальма зовсім не працюють"
+      },
+      {
+        "id": "C",
+        "fr": "je dois faire vérifier le système",
+        "uk": "треба перевірити систему"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Un défaut ABS n'empêche pas de freiner, mais les roues peuvent se bloquer en freinage d'urgence. Faire réparer rapidement.",
+    "explanation_uk": "Несправність ABS не заважає гальмувати, але при екстреному гальмуванні колеса можуть заблокуватися. Треба швидко полагодити.",
+    "tags": [
+      "voyants",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q331",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le témoin d'usure des pneus apparaît au niveau des sculptures :",
+    "question_uk": "Індикатор зносу шин зрівнявся з протектором:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le pneu doit être changé",
+        "uk": "шину треба замінити"
+      },
+      {
+        "id": "B",
+        "fr": "le pneu est neuf",
+        "uk": "шина нова"
+      },
+      {
+        "id": "C",
+        "fr": "je peux encore rouler 2 ans",
+        "uk": "можна їздити ще 2 роки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les témoins d'usure indiquent la limite légale de 1,6 mm : le pneu doit être remplacé.",
+    "explanation_uk": "Індикатори зносу показують законний мінімум 1,6 мм: шину треба замінити.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q332",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Un pneu présente une hernie (bosse) sur le flanc :",
+    "question_uk": "На боковині шини є грижа (здуття):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je le fais remplacer rapidement",
+        "uk": "я швидко його міняю"
+      },
+      {
+        "id": "B",
+        "fr": "ce n'est pas dangereux",
+        "uk": "це не небезпечно"
+      },
+      {
+        "id": "C",
+        "fr": "il risque d'éclater",
+        "uk": "вона може лопнути"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Une hernie révèle une structure endommagée (choc contre un trottoir, nid-de-poule) : risque d'éclatement.",
+    "explanation_uk": "Грижа свідчить про пошкоджену структуру шини (удар об бордюр, вибоїну): ризик розриву.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q333",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Sur un même essieu, les pneus doivent être :",
+    "question_uk": "На одній осі шини мають бути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de même type et de même dimension",
+        "uk": "одного типу й розміру"
+      },
+      {
+        "id": "B",
+        "fr": "de marques différentes pour mieux adhérer",
+        "uk": "різних марок для кращого зчеплення"
+      },
+      {
+        "id": "C",
+        "fr": "l'un neuf et l'autre usé",
+        "uk": "одна нова, інша зношена"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Des pneus identiques sur un même essieu assurent un comportement équilibré au freinage et en virage.",
+    "explanation_uk": "Однакові шини на одній осі забезпечують рівномірну поведінку авто під час гальмування й у поворотах.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q334",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Un pneu crevé sur la route :",
+    "question_uk": "Пробита шина на дорозі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'arrête en sécurité et j'utilise la roue de secours ou le kit anticrevaison",
+        "uk": "я безпечно зупиняюся й ставлю запаску або використовую ремкомплект"
+      },
+      {
+        "id": "B",
+        "fr": "je continue jusqu'au garage le plus proche, même loin",
+        "uk": "їду до найближчого сервісу, навіть далекого"
+      },
+      {
+        "id": "C",
+        "fr": "j'allume mes feux de détresse",
+        "uk": "вмикаю аварійку"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Je m'arrête dans un endroit sûr, feux de détresse et gilet, puis je change la roue ou j'appelle l'assistance. Rouler à plat abîme le pneu et la jante.",
+    "explanation_uk": "Зупиняюся в безпечному місці, аварійка й жилет, далі міняю колесо або викликаю допомогу. Їзда на спущеній шині псує шину й диск.",
+    "tags": [
+      "pneus",
+      "accident"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q335",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les pneus hiver sont efficaces :",
+    "question_uk": "Зимові шини ефективні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "quand la température est basse, sous environ 7 °C",
+        "uk": "за низької температури, нижче приблизно 7 °C"
+      },
+      {
+        "id": "B",
+        "fr": "seulement sur la neige",
+        "uk": "лише на снігу"
+      },
+      {
+        "id": "C",
+        "fr": "en plein été",
+        "uk": "влітку"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La gomme des pneus hiver reste souple par temps froid : ils améliorent l'adhérence dès que la température baisse, même sans neige.",
+    "explanation_uk": "Гума зимових шин лишається м'якою на холоді: вони покращують зчеплення, щойно холодає, навіть без снігу.",
+    "tags": [
+      "pneus",
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q336",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "La pédale de frein devient molle et s'enfonce plus que d'habitude :",
+    "question_uk": "Педаль гальма стала «м'якою» й провалюється глибше, ніж зазвичай:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il peut y avoir une fuite de liquide de frein",
+        "uk": "можливий витік гальмівної рідини"
+      },
+      {
+        "id": "B",
+        "fr": "je fais contrôler le véhicule sans attendre",
+        "uk": "негайно перевіряю авто"
+      },
+      {
+        "id": "C",
+        "fr": "c'est normal en hiver",
+        "uk": "взимку це нормально"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Une pédale molle signale souvent de l'air ou une fuite dans le circuit de freinage : danger, contrôle immédiat.",
+    "explanation_uk": "«М'яка» педаль часто означає повітря чи витік у гальмівній системі: небезпечно, потрібна негайна перевірка.",
+    "tags": [
+      "voyants",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q337",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Après avoir traversé une grande flaque d'eau, mes freins :",
+    "question_uk": "Після глибокої калюжі мої гальма:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peuvent être moins efficaces pendant quelques instants",
+        "uk": "можуть кілька миттєвостей гальмувати гірше"
+      },
+      {
+        "id": "B",
+        "fr": "sont plus efficaces",
+        "uk": "гальмують краще"
+      },
+      {
+        "id": "C",
+        "fr": "se sèchent en freinant légèrement plusieurs fois",
+        "uk": "висихають, якщо кілька разів легенько пригальмувати"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Des freins mouillés perdent de l'efficacité. Quelques légers appuis sur la pédale permettent de les sécher.",
+    "explanation_uk": "Мокрі гальма менш ефективні. Кілька легких натискань на педаль допомагають їх просушити.",
+    "tags": [
+      "equipements",
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q338",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le régulateur de vitesse :",
+    "question_uk": "Круїз-контроль:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "maintient la vitesse choisie sans appuyer sur l'accélérateur",
+        "uk": "тримає вибрану швидкість без натискання на газ"
+      },
+      {
+        "id": "B",
+        "fr": "se désactive en appuyant sur le frein",
+        "uk": "вимикається натисканням на гальмо"
+      },
+      {
+        "id": "C",
+        "fr": "freine automatiquement face à tout obstacle",
+        "uk": "автоматично гальмує перед будь-якою перешкодою"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le régulateur maintient une vitesse constante ; un appui sur le frein le coupe. Sans fonction adaptative, il ne freine pas devant un obstacle.",
+    "explanation_uk": "Круїз-контроль тримає сталу швидкість; натискання на гальмо його вимикає. Без адаптивної функції він не гальмує перед перешкодою.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q339",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le limiteur de vitesse :",
+    "question_uk": "Обмежувач швидкості:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "empêche de dépasser la vitesse programmée",
+        "uk": "не дає перевищити задану швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "peut être dépassé en appuyant à fond sur l'accélérateur",
+        "uk": "можна «перебити», натиснувши газ до упору"
+      },
+      {
+        "id": "C",
+        "fr": "maintient la vitesse tout seul",
+        "uk": "сам тримає швидкість"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le limiteur bloque la vitesse à un maximum choisi ; en enfonçant fortement l'accélérateur (point dur), on peut le dépasser pour une urgence.",
+    "explanation_uk": "Обмежувач не дає перевищити вибраний максимум; різко натиснувши газ до упору («точка опору»), його можна обійти в екстреній ситуації.",
+    "tags": [
+      "equipements",
+      "vitesse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q340",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "L'ESP (contrôle de stabilité) agit :",
+    "question_uk": "ESP (система стабілізації) спрацьовує:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en freinant certaines roues pour éviter un dérapage",
+        "uk": "підгальмовуючи окремі колеса, щоб уникнути заносу"
+      },
+      {
+        "id": "B",
+        "fr": "en augmentant la vitesse",
+        "uk": "збільшуючи швидкість"
+      },
+      {
+        "id": "C",
+        "fr": "seulement à l'arrêt",
+        "uk": "лише на місці"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "L'ESP détecte une perte de trajectoire et freine roue par roue pour remettre le véhicule dans l'axe.",
+    "explanation_uk": "ESP помічає відхилення від траєкторії й підгальмовує окремі колеса, щоб повернути авто на курс.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q341",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les aides à la conduite (freinage automatique, alerte de franchissement de ligne…) :",
+    "question_uk": "Системи допомоги водієві (автоматичне гальмування, попередження про виїзд зі смуги…):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ne remplacent pas la vigilance du conducteur",
+        "uk": "не замінюють пильності водія"
+      },
+      {
+        "id": "B",
+        "fr": "permettent de lâcher le volant",
+        "uk": "дозволяють відпустити кермо"
+      },
+      {
+        "id": "C",
+        "fr": "autorisent à rouler plus vite",
+        "uk": "дозволяють їхати швидше"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ces systèmes assistent le conducteur mais ont des limites (météo, marquage effacé). Le conducteur reste responsable.",
+    "explanation_uk": "Ці системи допомагають, але мають обмеження (погода, стерта розмітка). Відповідальність лишається на водієві.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q342",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le niveau d'huile moteur est trop bas :",
+    "question_uk": "Рівень моторної оливи занизький:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je complète avec une huile adaptée",
+        "uk": "доливаю відповідну оливу"
+      },
+      {
+        "id": "B",
+        "fr": "le moteur risque d'être endommagé",
+        "uk": "двигун може пошкодитися"
+      },
+      {
+        "id": "C",
+        "fr": "ce n'est pas important",
+        "uk": "це не важливо"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un manque d'huile entraîne usure et risque de casse moteur. On complète avec l'huile préconisée par le constructeur.",
+    "explanation_uk": "Нестача оливи — знос і ризик поломки двигуна. Доливають оливу, рекомендовану виробником.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q343",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les feux stop s'allument :",
+    "question_uk": "Стоп-сигнали вмикаються:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "quand j'appuie sur la pédale de frein",
+        "uk": "коли я натискаю на гальмо"
+      },
+      {
+        "id": "B",
+        "fr": "quand j'allume les feux de position",
+        "uk": "коли вмикаю габарити"
+      },
+      {
+        "id": "C",
+        "fr": "quand je mets le clignotant",
+        "uk": "коли вмикаю поворотник"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les feux stop préviennent les usagers qui suivent que je ralentis. Une ampoule grillée doit être remplacée vite.",
+    "explanation_uk": "Стоп-сигнали попереджають тих, хто позаду, що я гальмую. Перегорілу лампу треба швидко замінити.",
+    "tags": [
+      "nuit",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q344",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Mon véhicule est chargé à l'arrière. Je règle :",
+    "question_uk": "Моє авто завантажене ззаду. Я налаштовую:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la hauteur des feux vers le bas",
+        "uk": "нахил фар униз"
+      },
+      {
+        "id": "B",
+        "fr": "la pression des pneus selon la charge",
+        "uk": "тиск у шинах відповідно до вантажу"
+      },
+      {
+        "id": "C",
+        "fr": "le rétroviseur pour voir le plafond",
+        "uk": "дзеркало, щоб бачити стелю"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Une charge à l'arrière relève l'avant et les phares éblouissent : j'abaisse le faisceau. La pression se règle selon la charge (indications du constructeur).",
+    "explanation_uk": "Вантаж ззаду піднімає передню частину, і фари засліплюють: опускаю промінь. Тиск ставлю відповідно до навантаження (дані виробника).",
+    "tags": [
+      "chargement",
+      "nuit",
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q345",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "La courroie de distribution :",
+    "question_uk": "Ремінь ГРМ:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "se change selon le kilométrage préconisé par le constructeur",
+        "uk": "міняють за пробігом, рекомендованим виробником"
+      },
+      {
+        "id": "B",
+        "fr": "peut casser et endommager gravement le moteur",
+        "uk": "може порватися й серйозно пошкодити двигун"
+      },
+      {
+        "id": "C",
+        "fr": "se vérifie avec un voyant bleu",
+        "uk": "перевіряють за синім індикатором"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Son remplacement suit le carnet d'entretien : une rupture peut détruire le moteur.",
+    "explanation_uk": "Його заміна — за сервісною книжкою: обрив може зруйнувати двигун.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q346",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "La batterie du véhicule est à plat :",
+    "question_uk": "Акумулятор авто розряджений:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux démarrer avec des câbles reliés à une autre batterie",
+        "uk": "можна завести від іншого акумулятора за допомогою дротів"
+      },
+      {
+        "id": "B",
+        "fr": "je jette la batterie dans la nature",
+        "uk": "викидаю акумулятор у природу"
+      },
+      {
+        "id": "C",
+        "fr": "je peux faire appel à une assistance",
+        "uk": "можна викликати допомогу"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "On peut démarrer avec des câbles (en respectant l'ordre de branchement) ou appeler l'assistance. Une batterie usagée se recycle.",
+    "explanation_uk": "Можна завести від іншого авто дротами (дотримуючись порядку підключення) або викликати допомогу. Старий акумулятор здають на переробку.",
+    "tags": [
+      "voyants",
+      "pollution"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q347",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les essuie-glaces doivent être remplacés quand :",
+    "question_uk": "Двірники треба замінити, коли:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ils laissent des traces ou font du bruit",
+        "uk": "вони лишають смуги або скриплять"
+      },
+      {
+        "id": "B",
+        "fr": "la gomme est fendillée",
+        "uk": "гума потріскана"
+      },
+      {
+        "id": "C",
+        "fr": "il ne pleut plus",
+        "uk": "дощ закінчився"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Des balais usés réduisent la visibilité par pluie et de nuit. On les change en général une fois par an.",
+    "explanation_uk": "Зношені щітки погіршують огляд у дощ і вночі. Зазвичай їх міняють раз на рік.",
+    "tags": [
+      "voyants",
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q348",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le liquide lave-glace en hiver doit être :",
+    "question_uk": "Рідина омивача взимку має бути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "antigel",
+        "uk": "незамерзаючою"
+      },
+      {
+        "id": "B",
+        "fr": "de l'eau du robinet",
+        "uk": "водопровідною водою"
+      },
+      {
+        "id": "C",
+        "fr": "de l'huile",
+        "uk": "оливою"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un liquide antigel évite le gel du réservoir et des gicleurs, et nettoie efficacement le sel et la boue.",
+    "explanation_uk": "Незамерзайка не дає бачку й форсункам замерзнути й добре очищає сіль та бруд.",
+    "tags": [
+      "voyants",
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q349",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Une ampoule de feu de croisement est grillée :",
+    "question_uk": "Перегоріла лампа ближнього світла:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la remplace rapidement",
+        "uk": "швидко її міняю"
+      },
+      {
+        "id": "B",
+        "fr": "je peux rouler la nuit avec les feux de route à la place",
+        "uk": "вночі можна їхати з дальнім замість ближнього"
+      },
+      {
+        "id": "C",
+        "fr": "je risque une amende",
+        "uk": "мені загрожує штраф"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Un éclairage défectueux est sanctionné et dangereux : je suis moins visible et je vois moins bien. Les feux de route éblouiraient les autres.",
+    "explanation_uk": "Несправне освітлення — небезпечно й карається штрафом: тебе гірше видно, і ти гірше бачиш. Дальнє засліплювало б інших.",
+    "tags": [
+      "nuit",
+      "sanctions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q350",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "L'aide au freinage d'urgence (AFU) :",
+    "question_uk": "Система допомоги при екстреному гальмуванні (AFU):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente la force de freinage quand je freine brusquement",
+        "uk": "посилює гальмування, коли я різко гальмую"
+      },
+      {
+        "id": "B",
+        "fr": "freine à ma place dans toutes les situations",
+        "uk": "гальмує замість мене в будь-якій ситуації"
+      },
+      {
+        "id": "C",
+        "fr": "allume souvent les feux de détresse automatiquement",
+        "uk": "часто автоматично вмикає аварійку"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "L'AFU détecte un freinage d'urgence et applique la pression maximale ; beaucoup de véhicules allument alors les feux de détresse pour prévenir les suivants.",
+    "explanation_uk": "AFU розпізнає екстрене гальмування й дає максимальний тиск; багато авто тоді автоматично вмикають аварійку, щоб попередити задніх.",
+    "tags": [
+      "equipements",
+      "distances"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q595",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les plaquettes de frein usées :",
+    "question_uk": "Зношені гальмівні колодки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peuvent faire un bruit de frottement métallique",
+        "uk": "можуть видавати металевий скрегіт"
+      },
+      {
+        "id": "B",
+        "fr": "allongent la distance de freinage",
+        "uk": "подовжують гальмівний шлях"
+      },
+      {
+        "id": "C",
+        "fr": "améliorent le freinage",
+        "uk": "покращують гальмування"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un bruit métallique au freinage ou un voyant d'usure doivent conduire à remplacer rapidement les plaquettes.",
+    "explanation_uk": "Металевий скрегіт під час гальмування чи індикатор зносу — сигнал швидко замінити колодки.",
+    "tags": [
+      "voyants",
+      "distances"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q596",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant « moteur » orange (contrôle moteur / dépollution) s'allume :",
+    "question_uk": "Засвітився помаранчевий індикатор «двигун» (контроль двигуна / екологія):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je fais contrôler le véhicule rapidement",
+        "uk": "швидко перевіряю авто"
+      },
+      {
+        "id": "B",
+        "fr": "je peux continuer prudemment",
+        "uk": "можу обережно їхати далі"
+      },
+      {
+        "id": "C",
+        "fr": "c'est un problème de feux",
+        "uk": "це проблема з фарами"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ce voyant signale une anomalie du moteur ou du système antipollution : on peut rouler prudemment jusqu'au garage, sauf s'il clignote ou si le moteur perd beaucoup de puissance.",
+    "explanation_uk": "Цей індикатор свідчить про проблему двигуна чи системи очищення викидів: можна обережно доїхати до сервісу, якщо він не блимає й двигун не втрачає потужність.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q597",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de l'airbag reste allumé :",
+    "question_uk": "Не гасне індикатор подушки безпеки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'airbag pourrait ne pas fonctionner en cas de choc",
+        "uk": "подушка може не спрацювати при ударі"
+      },
+      {
+        "id": "B",
+        "fr": "je fais vérifier le système",
+        "uk": "треба перевірити систему"
+      },
+      {
+        "id": "C",
+        "fr": "c'est normal",
+        "uk": "це нормально"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un voyant airbag allumé signale un défaut du système de retenue : à faire vérifier sans tarder.",
+    "explanation_uk": "Ввімкнений індикатор подушки означає несправність системи захисту: її треба швидко перевірити.",
+    "tags": [
+      "voyants",
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q598",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de ceinture non bouclée s'allume :",
+    "question_uk": "Засвітився індикатор незастебнутого паса:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un occupant n'a pas attaché sa ceinture",
+        "uk": "хтось у салоні не пристебнувся"
+      },
+      {
+        "id": "B",
+        "fr": "le moteur surchauffe",
+        "uk": "двигун перегрівся"
+      },
+      {
+        "id": "C",
+        "fr": "la batterie est faible",
+        "uk": "акумулятор розряджений"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce témoin (souvent accompagné d'un signal sonore) rappelle que la ceinture est obligatoire pour tous.",
+    "explanation_uk": "Цей індикатор (часто зі звуковим сигналом) нагадує, що пас обов'язковий для всіх.",
+    "tags": [
+      "voyants",
+      "ceinture"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q599",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de réserve de carburant s'allume :",
+    "question_uk": "Засвітився індикатор резерву пального:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je fais le plein rapidement",
+        "uk": "незабаром заправляюся"
+      },
+      {
+        "id": "B",
+        "fr": "je peux tomber en panne si j'attends trop",
+        "uk": "можу стати, якщо довго чекатиму"
+      },
+      {
+        "id": "C",
+        "fr": "je dois m'arrêter immédiatement",
+        "uk": "мушу негайно зупинитися"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La réserve donne quelques dizaines de kilomètres d'autonomie. Tomber en panne sèche sur autoroute est dangereux et sanctionnable.",
+    "explanation_uk": "Резерву вистачає на кілька десятків кілометрів. Залишитися без пального на автомагістралі небезпечно, за це можуть оштрафувати.",
+    "tags": [
+      "voyants",
+      "autoroute"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q600",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les feux de jour (feux diurnes) :",
+    "question_uk": "Денні ходові вогні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmentent la visibilité du véhicule de jour",
+        "uk": "роблять авто помітнішим удень"
+      },
+      {
+        "id": "B",
+        "fr": "éclairent suffisamment la route la nuit",
+        "uk": "достатньо освітлюють дорогу вночі"
+      },
+      {
+        "id": "C",
+        "fr": "ne remplacent pas les feux de croisement la nuit ou dans un tunnel",
+        "uk": "не замінюють ближнього світла вночі чи в тунелі"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Les feux diurnes servent à être vu de jour. La nuit, par mauvais temps et dans les tunnels, il faut allumer les feux de croisement (souvent l'arrière n'est pas éclairé en feux diurnes).",
+    "explanation_uk": "Денні вогні — щоб тебе бачили вдень. Уночі, у негоду й у тунелях треба вмикати ближнє світло (у денному режимі задні ліхтарі часто не світять).",
+    "tags": [
+      "nuit",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q601",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "La roue de secours « galette » (temporaire) :",
+    "question_uk": "Тимчасове запасне колесо («докатка»):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "limite la vitesse, souvent à 80 km/h",
+        "uk": "обмежує швидкість, часто до 80 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "s'utilise sur une longue période",
+        "uk": "використовується довго"
+      },
+      {
+        "id": "C",
+        "fr": "permet de rejoindre un garage",
+        "uk": "дає змогу доїхати до сервісу"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "La roue temporaire est plus étroite : elle limite la vitesse (indiquée sur la roue) et sert seulement à rejoindre un garage.",
+    "explanation_uk": "Тимчасове колесо вужче: воно обмежує швидкість (вказано на колесі) і потрібне лише, щоб доїхати до сервісу.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q602",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "L'éclatement d'un pneu à grande vitesse :",
+    "question_uk": "Розрив шини на великій швидкості:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je tiens fermement le volant",
+        "uk": "міцно тримаю кермо"
+      },
+      {
+        "id": "B",
+        "fr": "je freine fort immédiatement",
+        "uk": "одразу різко гальмую"
+      },
+      {
+        "id": "C",
+        "fr": "je ralentis progressivement et je m'arrête en sécurité",
+        "uk": "плавно сповільнююся й безпечно зупиняюся"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "On garde la trajectoire en tenant le volant, on lève le pied et on freine progressivement pour s'arrêter sur le bas-côté ou la BAU.",
+    "explanation_uk": "Тримай траєкторію, міцно стискаючи кермо, відпусти газ і плавно гальмуй, щоб зупинитися на узбіччі чи смузі аварійної зупинки.",
+    "tags": [
+      "pneus",
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q603",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le parallélisme mal réglé :",
+    "question_uk": "Неправильне сходження коліс:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "use les pneus de façon irrégulière",
+        "uk": "нерівномірно зношує шини"
+      },
+      {
+        "id": "B",
+        "fr": "peut faire tirer le véhicule d'un côté",
+        "uk": "може тягти авто вбік"
+      },
+      {
+        "id": "C",
+        "fr": "améliore la tenue de route",
+        "uk": "покращує стійкість"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Une usure anormale d'un côté du pneu ou un véhicule qui tire signalent un problème de géométrie à faire contrôler.",
+    "explanation_uk": "Нерівномірний знос з одного боку шини чи авто, що тягне вбік, свідчать про проблему з геометрією, яку треба перевірити.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q604",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les amortisseurs usés :",
+    "question_uk": "Зношені амортизатори:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "allongent la distance de freinage",
+        "uk": "подовжують гальмівний шлях"
+      },
+      {
+        "id": "B",
+        "fr": "dégradent la tenue de route en virage",
+        "uk": "погіршують стійкість у поворотах"
+      },
+      {
+        "id": "C",
+        "fr": "n'ont aucun effet sur la sécurité",
+        "uk": "не впливають на безпеку"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Des amortisseurs fatigués réduisent le contact des pneus avec le sol : freinage plus long, rebonds, instabilité.",
+    "explanation_uk": "Зношені амортизатори погіршують контакт шин з дорогою: довший гальмівний шлях, підскакування, нестабільність.",
+    "tags": [
+      "equipements",
+      "distances"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q605",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "L'aquaplaning est favorisé par :",
+    "question_uk": "Аквапланування виникає частіше через:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "des pneus usés",
+        "uk": "зношені шини"
+      },
+      {
+        "id": "B",
+        "fr": "une vitesse élevée",
+        "uk": "високу швидкість"
+      },
+      {
+        "id": "C",
+        "fr": "une faible quantité d'eau sur la route",
+        "uk": "малу кількість води на дорозі"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Plus le pneu est usé et la vitesse élevée, moins il évacue l'eau : le risque d'aquaplaning augmente.",
+    "explanation_uk": "Що більше зношена шина й вища швидкість, то гірше вона відводить воду: ризик аквапланування зростає.",
+    "tags": [
+      "pneus",
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q606",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le désembuage rapide du pare-brise se fait avec :",
+    "question_uk": "Швидко прибрати запотівання лобового скла допомагає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la ventilation dirigée vers le pare-brise",
+        "uk": "обдув, спрямований на скло"
+      },
+      {
+        "id": "B",
+        "fr": "la climatisation",
+        "uk": "кондиціонер"
+      },
+      {
+        "id": "C",
+        "fr": "un chiffon en roulant",
+        "uk": "ганчірка під час руху"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La climatisation assèche l'air et accélère le désembuage. Essuyer en roulant est dangereux.",
+    "explanation_uk": "Кондиціонер осушує повітря й пришвидшує видалення запотівання. Витирати скло в русі небезпечно.",
+    "tags": [
+      "equipements",
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q607",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le kit anticrevaison :",
+    "question_uk": "Ремкомплект для шин:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "permet une réparation provisoire de certaines crevaisons",
+        "uk": "дає змогу тимчасово заклеїти деякі проколи"
+      },
+      {
+        "id": "B",
+        "fr": "répare un pneu éclaté",
+        "uk": "ремонтує розірвану шину"
+      },
+      {
+        "id": "C",
+        "fr": "remplace définitivement la réparation au garage",
+        "uk": "назавжди замінює ремонт у сервісі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Il colmate une petite crevaison de la bande de roulement pour rejoindre un garage, à vitesse limitée.",
+    "explanation_uk": "Він заклеює невеликий прокол протектора, щоб із обмеженою швидкістю доїхати до сервісу.",
+    "tags": [
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q608",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Les phares mal réglés trop hauts :",
+    "question_uk": "Фари, налаштовані надто високо:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "éblouissent les autres usagers",
+        "uk": "засліплюють інших"
+      },
+      {
+        "id": "B",
+        "fr": "éclairent mieux sans gêner personne",
+        "uk": "краще світять і нікому не заважають"
+      },
+      {
+        "id": "C",
+        "fr": "doivent être réglés",
+        "uk": "треба відрегулювати"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Des feux trop hauts éblouissent ; trop bas, ils éclairent mal. Le réglage se contrôle au garage et au contrôle technique.",
+    "explanation_uk": "Надто високі фари засліплюють, надто низькі — погано світять. Регулювання перевіряють у сервісі й на техогляді.",
+    "tags": [
+      "nuit",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q609",
+    "theme": "mecanique",
+    "image": null,
+    "question_fr": "Le voyant de température du liquide de refroidissement est rouge. Je ne dois pas :",
+    "question_uk": "Індикатор температури охолоджувальної рідини червоний. Я не повинен:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ouvrir le bouchon du vase d'expansion moteur chaud",
+        "uk": "відкривати кришку розширювального бачка на гарячому двигуні"
+      },
+      {
+        "id": "B",
+        "fr": "continuer à rouler longtemps",
+        "uk": "довго їхати далі"
+      },
+      {
+        "id": "C",
+        "fr": "m'arrêter en sécurité",
+        "uk": "безпечно зупинятися"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Moteur chaud, le liquide est sous pression : ouvrir le bouchon peut brûler gravement. On s'arrête et on attend que le moteur refroidisse.",
+    "explanation_uk": "На гарячому двигуні рідина під тиском: відкривши кришку, можна сильно обпектися. Зупиняються й чекають, поки двигун охолоне.",
+    "tags": [
+      "voyants"
+    ],
+    "difficulty": 2
   }
 ]

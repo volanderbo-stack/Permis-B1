@@ -1,0 +1,112 @@
+[
+ {
+  "id": "environnement-1",
+  "theme": "environnement",
+  "order": 1,
+  "title_fr": "L'éco-conduite",
+  "title_uk": "Еко-водіння",
+  "minutes": 5,
+  "tags": [
+   "eco"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Une conduite **souple et anticipée** réduit la consommation jusqu'à **15 %**, l'usure du véhicule et le stress, sans allonger beaucoup le temps de trajet.",
+    "uk": "**Плавна й передбачлива** їзда зменшує витрату пального до **15 %**, знос авто й стрес майже без втрати часу."
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Passer les rapports tôt (vers **2 000 – 2 500 tr/min**) et rouler sur le rapport le plus élevé possible.",
+      "uk": "Рано перемикати передачі (близько **2 000–2 500 об/хв**) і їхати на найвищій можливій."
+     },
+     {
+      "fr": "**Anticiper** : lever le pied tôt, utiliser le **frein moteur**, éviter freinages et accélérations brusques.",
+      "uk": "**Передбачати**: рано відпускати газ, гальмувати **двигуном**, без різких гальмувань і прискорень."
+     },
+     {
+      "fr": "Réduire la vitesse : 120 au lieu de 130 km/h fait économiser du carburant pour quelques minutes perdues.",
+      "uk": "Знизити швидкість: 120 замість 130 км/год економить пальне ціною кількох хвилин."
+     },
+     {
+      "fr": "Couper le moteur lors d'un arrêt prolongé (ou laisser agir le **Stop & Start**).",
+      "uk": "Глушити двигун під час довгої зупинки (або довіритися **Stop & Start**)."
+     },
+     {
+      "fr": "Pneus bien gonflés, véhicule **allégé**, coffre de toit retiré quand il ne sert pas.",
+      "uk": "Правильний тиск у шинах, **полегшене** авто, знятий багажник на даху."
+     },
+     {
+      "fr": "Climatisation : modérée, quelques degrés de moins que l'extérieur.",
+      "uk": "Кондиціонер: помірно, на кілька градусів нижче, ніж надворі."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Un moteur froid consomme et pollue plus : inutile de le faire chauffer à l'arrêt, on démarre doucement. Pour les petits trajets, la marche ou le vélo sont idéaux.",
+    "uk": "Холодний двигун більше споживає й забруднює: прогрівати його на місці не треба — просто рушай плавно. На короткі відстані — пішки чи велосипедом."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Rapports tôt, anticipation, frein moteur.",
+    "uk": "Ранні перемикання, передбачення, гальмування двигуном."
+   },
+   {
+    "fr": "Pression des pneus + charge allégée = moins de consommation.",
+    "uk": "Тиск у шинах + менше вантажу = менша витрата."
+   }
+  ]
+ },
+ {
+  "id": "environnement-2",
+  "theme": "environnement",
+  "order": 2,
+  "title_fr": "Pollution, bruit et partage de la route",
+  "title_uk": "Забруднення, шум і спільне використання доріг",
+  "minutes": 4,
+  "tags": [
+   "pollution"
+  ],
+  "blocks": [
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "La vignette **Crit'Air** classe les véhicules selon leurs émissions (de 0 = électrique à 5). Elle peut conditionner l'accès à certaines zones ou lors des **pics de pollution**.",
+      "uk": "Наліпка **Crit'Air** поділяє авто за викидами (від 0 — електро до 5). Від неї може залежати доступ до певних зон або під час **пікового забруднення**."
+     },
+     {
+      "fr": "Pendant un pic de pollution, les préfets peuvent **abaisser les vitesses** ou mettre en place la **circulation différenciée**.",
+      "uk": "Під час піку забруднення префект може **знизити швидкості** або ввести **диференційований рух**."
+     },
+     {
+      "fr": "**Bruit** : klaxon en agglomération seulement en cas de danger immédiat ; échappement modifié interdit.",
+      "uk": "**Шум**: клаксон у місті — лише при безпосередній небезпеці; змінений вихлоп заборонено."
+     },
+     {
+      "fr": "**Déchets** : huile de vidange, batterie, pneus usagés vont en déchetterie ou au garage, jamais dans la nature.",
+      "uk": "**Відходи**: відпрацьована олива, акумулятор, старі шини — на пункт прийому чи в сервіс, ніколи в природу."
+     },
+     {
+      "fr": "**Covoiturage** et transports en commun réduisent les embouteillages et la pollution ; certaines voies sont réservées au covoiturage.",
+      "uk": "**Спільні поїздки** й громадський транспорт зменшують затори й забруднення; деякі смуги виділені для covoiturage."
+     }
+    ]
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Crit'Air : de 0 à 5 selon les émissions.",
+    "uk": "Crit'Air: від 0 до 5 залежно від викидів."
+   },
+   {
+    "fr": "Klaxon en ville : danger immédiat seulement.",
+    "uk": "Клаксон у місті — лише при безпосередній небезпеці."
+   }
+  ]
+ }
+]

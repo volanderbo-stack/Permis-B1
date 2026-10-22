@@ -1,0 +1,333 @@
+[
+ {
+  "id": "reglementation-1",
+  "theme": "reglementation",
+  "order": 1,
+  "title_fr": "Le permis : catégories et période probatoire",
+  "title_uk": "Посвідчення: категорії та пробний період",
+  "minutes": 6,
+  "tags": [
+   "documents",
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Catégorie",
+      "uk": "Категорія"
+     },
+     {
+      "fr": "Véhicules",
+      "uk": "Транспорт"
+     },
+     {
+      "fr": "Âge",
+      "uk": "Вік"
+     }
+    ],
+    "rows": [
+     [
+      "AM",
+      "Cyclomoteurs, voiturettes (quadricycles légers)",
+      "14 ans"
+     ],
+     [
+      "**B1**",
+      "**Quadricycles lourds à moteur**",
+      "**16 ans**"
+     ],
+     [
+      "B",
+      "Voitures ≤ 3,5 t, 9 places max (conducteur compris)",
+      "17 ans (depuis 2024)"
+     ],
+     [
+      "A1 / A2 / A",
+      "Motos selon la puissance",
+      "16 / 18 / 20–24 ans"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Le **permis B1** permet de conduire un **quadricycle lourd** (petit véhicule à 4 roues, masse et puissance limitées). Le **code** (ETG) est le **même** que pour le permis B.",
+    "uk": "Категорія **B1** дозволяє керувати **важким квадрициклом** (невелике 4-колісне авто з обмеженою масою й потужністю). **Теоретичний іспит** (ETG) — **той самий**, що й для B."
+   },
+   {
+    "t": "h",
+    "fr": "L'examen du code",
+    "uk": "Іспит з теорії"
+   },
+   {
+    "t": "p",
+    "fr": "**40 questions**, environ 20 secondes chacune, réussite à partir de **35 bonnes réponses**. Le code est valable **5 ans** (et pour 5 tentatives à l'épreuve pratique).",
+    "uk": "**40 питань**, близько 20 секунд на кожне, складено від **35 правильних**. Теорія дійсна **5 років** (і на 5 спроб практичного іспиту)."
+   },
+   {
+    "t": "h",
+    "fr": "Période probatoire",
+    "uk": "Пробний період"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Durée : **3 ans**, ou **2 ans** après une conduite accompagnée (AAC).",
+      "uk": "Тривалість: **3 роки**, або **2 роки** після супровідного водіння (AAC)."
+     },
+     {
+      "fr": "Capital de départ : **6 points**, +2 par an sans infraction (+3 après AAC), jusqu'à 12.",
+      "uk": "Початково **6 балів**, +2 щороку без порушень (+3 після AAC), до 12."
+     },
+     {
+      "fr": "Alcool : **0,2 g/l** ; vitesses réduites (110 / 100 / 80).",
+      "uk": "Алкоголь: **0,2 г/л**; знижені швидкості (110 / 100 / 80)."
+     },
+     {
+      "fr": "Infraction avec perte de **3 points ou plus** : stage de sensibilisation **obligatoire**.",
+      "uk": "Порушення з втратою **3 і більше балів** — **обов'язковий** курс безпеки."
+     },
+     {
+      "fr": "Le disque **« A »** à l'arrière signale un jeune conducteur.",
+      "uk": "Наліпка **«A»** ззаду позначає молодого водія."
+     }
+    ]
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "B1 = quadricycles lourds, dès 16 ans ; même code que le B.",
+    "uk": "B1 — важкі квадрицикли, з 16 років; теорія та сама, що для B."
+   },
+   {
+    "fr": "Code : 35/40, valable 5 ans.",
+    "uk": "Теорія: 35/40, дійсна 5 років."
+   },
+   {
+    "fr": "Probatoire : 3 ans (2 avec AAC), 6 points au départ.",
+    "uk": "Пробний період: 3 роки (2 з AAC), старт — 6 балів."
+   }
+  ]
+ },
+ {
+  "id": "reglementation-2",
+  "theme": "reglementation",
+  "order": 2,
+  "title_fr": "Le permis à points et les sanctions",
+  "title_uk": "Бальна система й покарання",
+  "minutes": 6,
+  "tags": [
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Le permis compte **12 points** au maximum. Chaque infraction en retire selon sa gravité. À **0 point**, le permis est invalidé : il faut attendre et repasser l'examen.",
+    "uk": "Посвідчення має максимум **12 балів**. Кожне порушення забирає бали залежно від тяжкості. При **0 балів** права анулюють: треба чекати й складати іспит знову."
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Infraction",
+      "uk": "Порушення"
+     },
+     {
+      "fr": "Points",
+      "uk": "Бали"
+     },
+     {
+      "fr": "Amende",
+      "uk": "Штраф"
+     }
+    ],
+    "rows": [
+     [
+      "Alcool, stupéfiants, délit de fuite",
+      "6",
+      "jusqu'à 4 500 € (délit)"
+     ],
+     [
+      "Excès de vitesse ≥ 50 km/h",
+      "6",
+      "jusqu'à 1 500 € + suspension"
+     ],
+     [
+      "Refus de priorité à un piéton",
+      "6",
+      "135 €"
+     ],
+     [
+      "Feu rouge, STOP, sens interdit",
+      "4",
+      "135 €"
+     ],
+     [
+      "Téléphone en main, ceinture, distance de sécurité, dépassement dangereux",
+      "3",
+      "135 €"
+     ],
+     [
+      "Franchissement de ligne continue",
+      "3",
+      "135 €"
+     ],
+     [
+      "Chevauchement de ligne continue",
+      "1",
+      "135 €"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Récupérer ses points",
+    "uk": "Як повернути бали"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Une infraction à **1 point** : point récupéré après **6 mois** sans nouvelle infraction.",
+      "uk": "Порушення на **1 бал**: бал повертається через **6 місяців** без нових порушень."
+     },
+     {
+      "fr": "Sinon : tous les points reviennent après **2 ans** sans infraction (**3 ans** pour un délit ou une contravention grave).",
+      "uk": "Інакше: усі бали повертаються через **2 роки** без порушень (**3 роки** — після délit чи тяжкого порушення)."
+     },
+     {
+      "fr": "**Stage** de sensibilisation volontaire : jusqu'à **4 points**, une fois par an.",
+      "uk": "Добровільний **курс** безпеки: до **4 балів**, раз на рік."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Contravention ou délit ?",
+    "uk": "Порушення чи délit?"
+   },
+   {
+    "t": "p",
+    "fr": "Les **contraventions** sont punies d'amendes (forfaitaire 135 € pour la 4e classe, minorée à 90 € si payée vite). Les **délits** (alcool ≥ 0,8 g/l, stupéfiants, défaut d'assurance, délit de fuite, refus d'obtempérer…) sont jugés au tribunal : prison possible, suspension ou annulation du permis, confiscation du véhicule.",
+    "uk": "**Порушення (contravention)** караються штрафами (фіксований 135 € за 4-й клас, зменшений до 90 € при швидкій оплаті). **Délits** (алкоголь ≥ 0,8 г/л, наркотики, без страховки, втеча з місця ДТП, непокора поліції…) розглядає суд: можливе ув'язнення, позбавлення чи анулювання прав, конфіскація авто."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "12 points max ; 6 au départ en probatoire.",
+    "uk": "Максимум 12 балів; на пробних — 6 на старті."
+   },
+   {
+    "fr": "Feu rouge / STOP : 4 points ; téléphone / ceinture : 3 points.",
+    "uk": "Червоне / STOP: мінус 4; телефон / пасок: мінус 3."
+   },
+   {
+    "fr": "Stage : + 4 points max, une fois par an.",
+    "uk": "Курс: до +4 балів, раз на рік."
+   }
+  ]
+ },
+ {
+  "id": "reglementation-3",
+  "theme": "reglementation",
+  "order": 3,
+  "title_fr": "Documents, assurance, contrôle technique, accident",
+  "title_uk": "Документи, страховка, техогляд, ДТП",
+  "minutes": 5,
+  "tags": [
+   "documents",
+   "accident"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Documents",
+    "uk": "Документи"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Permis de conduire** (ou sa version numérique dans l'application officielle) ;",
+      "uk": "**Посвідчення водія** (або цифрова версія в офіційному застосунку);"
+     },
+     {
+      "fr": "**Certificat d'immatriculation** (carte grise) ;",
+      "uk": "**Свідоцтво про реєстрацію** (carte grise);"
+     },
+     {
+      "fr": "**Assurance** obligatoire : rouler sans assurance est un **délit**. Depuis 2024, la carte verte n'est plus délivrée : l'assurance est vérifiée dans un fichier.",
+      "uk": "**Страховка** обов'язкова: їзда без неї — **délit**. З 2024 року «зелену картку» не видають — страховку перевіряють за базою."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Équipements obligatoires",
+    "uk": "Обов'язкове спорядження"
+   },
+   {
+    "t": "p",
+    "fr": "Un **gilet de haute visibilité** à portée de main et un **triangle de présignalisation**.",
+    "uk": "**Світловідбивний жилет** під рукою та **знак аварійної зупинки** (трикутник)."
+   },
+   {
+    "t": "h",
+    "fr": "Contrôle technique",
+    "uk": "Техогляд"
+   },
+   {
+    "t": "p",
+    "fr": "Premier contrôle dans les 6 mois avant les **4 ans** du véhicule, puis **tous les 2 ans**. En cas de défaillance majeure : **contre-visite** dans les 2 mois.",
+    "uk": "Перший — протягом 6 місяців до **4-річчя** авто, далі **кожні 2 роки**. При серйозних дефектах — **повторний огляд** протягом 2 місяців."
+   },
+   {
+    "t": "h",
+    "fr": "Accident matériel",
+    "uk": "ДТП без постраждалих"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Je sécurise (détresse, gilet, triangle) et je dégage si possible les véhicules.",
+      "uk": "Убезпечую місце (аварійка, жилет, трикутник) і за можливості прибираю авто з дороги."
+     },
+     {
+      "fr": "Je remplis un **constat amiable** avec l'autre conducteur (un seul exemplaire signé par les deux, chacun garde une copie).",
+      "uk": "Заповнюю **європротокол** з іншим водієм (один бланк, підписаний обома, у кожного копія)."
+     },
+     {
+      "fr": "Je l'envoie à mon assureur dans les **5 jours ouvrés**.",
+      "uk": "Надсилаю страховику протягом **5 робочих днів**."
+     },
+     {
+      "fr": "Partir sans s'arrêter = **délit de fuite**.",
+      "uk": "Поїхати з місця ДТП — **délit de fuite**."
+     }
+    ]
+   },
+   {
+    "t": "warn",
+    "fr": "En cas de blessé, j'alerte les secours (15, 18, 112) : on ne remplit pas seulement un constat.",
+    "uk": "Якщо є постраждалі — викликаю допомогу (15, 18, 112): одного європротоколу недостатньо."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Permis, carte grise, assurance ; gilet + triangle à bord.",
+    "uk": "Права, carte grise, страховка; жилет і трикутник в авто."
+   },
+   {
+    "fr": "CT : à 4 ans puis tous les 2 ans.",
+    "uk": "Техогляд: у 4 роки, далі кожні 2 роки."
+   },
+   {
+    "fr": "Constat amiable envoyé sous 5 jours ouvrés.",
+    "uk": "Європротокол — страховику протягом 5 робочих днів."
+   }
+  ]
+ }
+]

@@ -1,18 +1,21 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Question } from '../types'
 import { toggleIn } from '../lib/list'
+import { canSpeak, questionSpeech, speak, stopSpeaking } from '../lib/speech'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
 import { TranslateButton } from './TranslateButton'
 
 interface Props {
   question: Question
   seconds: number
+  /** озвучити питання автоматично */
+  audio?: boolean
   onSubmit: (selected: string[]) => void
 }
 
 /** Питання іспиту: без пояснень, з таймером. Коли час виходить — відповідь зараховується як є. */
-export function ExamQuestion({ question, seconds, onSubmit }: Props) {
+export function ExamQuestion({ question, seconds, audio, onSubmit }: Props) {
   const [selected, setSelected] = useState<string[]>([])
   const [left, setLeft] = useState(seconds)
   const [showUk, setShowUk] = useState(false)
@@ -25,6 +28,12 @@ export function ExamQuestion({ question, seconds, onSubmit }: Props) {
     submitted.current = true
     onSubmit(answer)
   }
+
+  useEffect(() => {
+    if (audio) speak(questionSpeech(question))
+    return () => stopSpeaking()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   useEffect(() => {
     const started = Date.now()
@@ -53,11 +62,18 @@ export function ExamQuestion({ question, seconds, onSubmit }: Props) {
       </div>
 
       <div className="qcard-top">
-        <span className="muted small">Une ou plusieurs réponses</span>
+        <span className="row">
+          <span className="muted small">Une ou plusieurs réponses</span>
+          {canSpeak() && (
+            <button type="button" className="tool" aria-label="Écouter" onClick={() => speak(questionSpeech(question))}>
+              🔊
+            </button>
+          )}
+        </span>
         <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
       </div>
 
-      {question.image && <QuestionImage src={question.image} />}
+      <QuestionMedia question={question} />
 
       <h2 className="qtext">{question.question_fr}</h2>
       {showUk && <p className="uk">{question.question_uk}</p>}
@@ -72,6 +88,14 @@ export function ExamQuestion({ question, seconds, onSubmit }: Props) {
       />
 
       <div className="actions">
+        <button
+          type="button"
+          className="btn corriger"
+          onClick={() => setSelected([])}
+          disabled={selected.length === 0}
+        >
+          Corriger
+        </button>
         <button
           type="button"
           className="btn primary"

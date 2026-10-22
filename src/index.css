@@ -883,3 +883,552 @@ button {
 .install {
   border-style: dashed;
 }
+
+/* ===== Нові розділи ===== */
+
+:root {
+  --tip-bg: #eef4ff;
+  --warn-bg: #fff6e5;
+  --warn: #b45309;
+}
+
+:root[data-theme='dark'] {
+  --tip-bg: #14213d;
+  --warn-bg: #33240d;
+  --warn: #fbbf24;
+}
+
+.input {
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+}
+
+textarea.input {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.chips-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.switch-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+.switch-row input {
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+  flex: none;
+  accent-color: var(--primary);
+}
+
+.segmented.three {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.segmented .count {
+  display: inline-block;
+  min-width: 20px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  font-size: 0.75rem;
+}
+
+/* інструменти питання */
+.qcard-tools {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -4px;
+}
+
+.tools {
+  display: inline-flex;
+  gap: 6px;
+}
+
+.tool {
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 1.05rem;
+  display: inline-grid;
+  place-items: center;
+}
+
+.tool.on {
+  color: #d97706;
+  border-color: #d97706;
+}
+
+.note {
+  margin: 0;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: var(--warn-bg);
+  font-size: 0.9rem;
+}
+
+.note-edit {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.note-edit textarea {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 10px;
+  font: inherit;
+}
+
+.diff {
+  font-size: 0.78rem;
+  color: var(--muted);
+  letter-spacing: 1px;
+}
+
+.diff-3 {
+  color: var(--ko);
+}
+
+.actions .btn.corriger {
+  flex: 0 0 auto;
+  min-width: 110px;
+}
+
+.mode-btn {
+  justify-content: space-between;
+  text-align: left;
+}
+
+.mode-sub {
+  opacity: 0.75;
+  font-weight: 500;
+}
+
+/* головна */
+.goal {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.goal-ring {
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+
+.goal-text {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.goal-text small {
+  font-weight: 500;
+  color: var(--muted);
+  font-size: 0.65rem;
+  margin-top: -18px;
+}
+
+.ring-bg {
+  stroke: var(--surface-2);
+}
+
+.ring-fg {
+  stroke: var(--ok);
+  transition: stroke-dashoffset 0.5s ease;
+}
+
+.readiness {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.readiness.ok {
+  border-color: var(--ok);
+  background: var(--ok-bg);
+}
+
+/* теплова карта */
+.heatmap {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.heat {
+  aspect-ratio: 1;
+  border-radius: 4px;
+  background: var(--primary);
+}
+
+.heat[data-empty='true'] {
+  background: var(--surface-2);
+}
+
+.heat.goal::after {
+  content: '✓';
+  display: grid;
+  place-items: center;
+  height: 100%;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+
+/* уроки */
+.lesson {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  line-height: 1.55;
+}
+
+.lesson p,
+.lesson ul {
+  margin: 0;
+}
+
+.lesson ul {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.lesson h3 {
+  margin: 8px 0 0;
+  font-size: 1.05rem;
+}
+
+.callout {
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: var(--tip-bg);
+  border-left: 4px solid var(--primary);
+}
+
+.callout.warn {
+  background: var(--warn-bg);
+  border-left-color: var(--warn);
+}
+
+.callout p {
+  margin: 4px 0 0;
+}
+
+.lesson-signs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  gap: 10px;
+}
+
+.lesson-signs figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-align: center;
+  font-size: 0.78rem;
+}
+
+.lesson-sign {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  margin: 0 -4px;
+}
+
+.table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.table-wrap th,
+.table-wrap td {
+  padding: 8px 6px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.table-wrap th {
+  background: var(--surface-2);
+  font-size: 0.8rem;
+}
+
+.retenir ul {
+  margin: 8px 0 0;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.retenir {
+  border-color: var(--ok);
+}
+
+/* шпаргалка */
+.memo {
+  margin: 0;
+}
+
+.memo-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.memo-row:last-child {
+  border-bottom: 0;
+}
+
+.memo dt {
+  flex: 1;
+}
+
+.memo dd {
+  margin: 0;
+  font-weight: 800;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* словник */
+.glossary {
+  padding: 4px 12px;
+}
+
+.gloss-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.gloss-row:last-child {
+  border-bottom: 0;
+}
+
+.gloss-fr {
+  font-weight: 650;
+}
+
+.gloss-uk {
+  color: var(--muted);
+}
+
+/* водіння */
+.qa summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style-position: outside;
+}
+
+.qa[open] summary {
+  margin-bottom: 8px;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.skill:last-child {
+  border-bottom: 0;
+}
+
+.skill-levels {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+}
+
+.lvl {
+  min-height: 36px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.lvl.on.lvl-0 {
+  background: var(--surface-2);
+  font-weight: 700;
+}
+
+.lvl.on.lvl-1 {
+  background: var(--warn-bg);
+  border-color: var(--warn);
+  font-weight: 700;
+}
+
+.lvl.on.lvl-2,
+.lvl.on.lvl-3 {
+  background: var(--ok-bg);
+  border-color: var(--ok);
+  font-weight: 700;
+}
+
+.lvl.on.lvl-3 {
+  background: var(--ok);
+  color: #fff;
+}
+
+.section-title .uk {
+  font-size: 0.85rem;
+}
+
+.reverse-meaning {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.sign-choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.sign-choice {
+  flex-direction: column;
+  justify-content: center;
+  min-height: 130px;
+  text-align: center;
+}
+
+.sign-choice-img {
+  width: 84px;
+  height: 84px;
+  object-fit: contain;
+}
+
+/* схеми ситуацій */
+.scene {
+  width: 100%;
+  max-width: 320px;
+  align-self: center;
+  border-radius: var(--radius);
+  display: block;
+  margin: 0 auto;
+}
+
+.scene-grass {
+  fill: #b7d7a8;
+}
+
+:root[data-theme='dark'] .scene-grass {
+  fill: #2f4a2a;
+}
+
+.scene-road {
+  fill: #6b7280;
+}
+
+.scene-line {
+  stroke: #f8fafc;
+  stroke-width: 2;
+  stroke-dasharray: 10 8;
+}
+
+.scene-zebra {
+  fill: #f8fafc;
+}
+
+.scene-ped {
+  fill: #fde68a;
+  stroke: #111827;
+}
+
+.scene-ped-text {
+  font-size: 11px;
+}
+
+.scene-path {
+  fill: none;
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-dasharray: 2 7;
+  opacity: 0.95;
+}
+
+.scene-arrowhead {
+  fill: #111827;
+}
+
+.scene-car {
+  stroke: #111827;
+  stroke-width: 1.5;
+}
+
+.scene-glass {
+  fill: #bfdbfe;
+}
+
+.scene-label-bg {
+  fill: #fff;
+  stroke: #111827;
+  stroke-width: 1.5;
+}
+
+.scene-label {
+  font-size: 12px;
+  font-weight: 800;
+  fill: #111827;
+}
+
+.scene-light {
+  fill: #111827;
+}

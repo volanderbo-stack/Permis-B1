@@ -5,7 +5,7 @@ import { ProgressBar } from '../components/ProgressBar'
 import { ReviewItem } from '../components/ReviewItem'
 import { isAnswerCorrect } from '../data/questions'
 import { buildExam, EXAM_PASS, EXAM_SIZE, SECONDS_PER_QUESTION } from '../lib/exam'
-import { recordAnswer, saveExam, useProgress, type ExamResult } from '../lib/storage'
+import { recordAnswer, saveExam, updateSettings, useProgress, type ExamResult } from '../lib/storage'
 import type { Question, ThemeId } from '../types'
 
 type Phase = 'intro' | 'running' | 'done'
@@ -19,7 +19,8 @@ export function Exam() {
   const startedAt = useRef(0)
 
   const start = () => {
-    setQuestions(buildExam())
+    const recent = new Set(progress.exams.slice(-5).flatMap((e) => e.questionIds ?? []))
+    setQuestions(buildExam(recent))
     setAnswers([])
     setOnlyErrors(false)
     startedAt.current = Date.now()
@@ -42,6 +43,7 @@ export function Exam() {
       total: questions.length,
       durationSec: Math.round((Date.now() - startedAt.current) / 1000),
       themes,
+      questionIds: questions.map((q) => q.id),
     })
     setPhase('done')
   }
@@ -61,6 +63,17 @@ export function Exam() {
             {EXAM_PASS} правильних. Пояснення — лише в кінці. Повернутися до попереднього питання не можна,
             як і на справжньому іспиті.
           </p>
+          <label className="switch-row">
+            <input
+              type="checkbox"
+              checked={progress.settings.examAudio}
+              onChange={(e) => updateSettings({ examAudio: e.target.checked })}
+            />
+            <span>
+              🔊 Lecture audio des questions (comme à l’examen)
+              <span className="uk">Озвучувати питання вголос</span>
+            </span>
+          </label>
           {last && (
             <p className="muted small">
               Dernier résultat : {last.score}/{last.total} {last.score >= EXAM_PASS ? '✅' : '❌'}
@@ -101,6 +114,7 @@ export function Exam() {
           key={i}
           question={q}
           seconds={SECONDS_PER_QUESTION}
+          audio={progress.settings.examAudio}
           onSubmit={(sel) => {
             const next = [...answers, sel]
             setAnswers(next)

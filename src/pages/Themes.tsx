@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { ProgressBar } from '../components/ProgressBar'
+import { lessonsByTheme } from '../data/courses'
 import { questionsByTheme } from '../data/questions'
 import { THEMES } from '../data/themes'
 import { useProgress } from '../lib/storage'
@@ -9,9 +10,21 @@ export function Themes() {
   const progress = useProgress()
   return (
     <div className="stack-sm">
-      <h1 className="page-title">Les 10 thèmes</h1>
+      <h1 className="page-title">Code de la route</h1>
+      <p className="uk" style={{ marginTop: -4 }}>
+        10 офіційних тем іспиту ETG: у кожній — короткі уроки й питання.
+      </p>
+      <div className="row">
+        <Link to="/entrainement" className="btn grow">
+          🎯 Entraînement
+        </Link>
+        <Link to="/memo" className="btn grow">
+          🔢 Chiffres clés
+        </Link>
+      </div>
       {THEMES.map((t) => {
         const count = questionsByTheme(t.id).length
+        const lessons = lessonsByTheme(t.id).length
         const pct = themePercent(progress, t.id)
         return (
           <Link key={t.id} to={`/themes/${t.id}`} className="theme-row">
@@ -21,7 +34,7 @@ export function Themes() {
             <span className="theme-main">
               <span className="theme-name">{t.fr}</span>
               <span className="muted small">
-                {t.uk} · {count} questions
+                {t.uk} · {lessons} cours · {count} questions
               </span>
               <ProgressBar value={pct} />
             </span>

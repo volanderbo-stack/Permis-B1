@@ -1,0 +1,270 @@
+[
+ {
+  "id": "usagers-1",
+  "theme": "usagers",
+  "order": 1,
+  "title_fr": "Piétons, enfants, personnes âgées",
+  "title_uk": "Пішоходи, діти, літні люди",
+  "minutes": 5,
+  "tags": [
+   "pietons",
+   "enfants",
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Les piétons sont les usagers **les plus vulnérables**. Je dois **céder le passage** au piéton qui s'engage sur la chaussée ou qui **manifeste clairement l'intention** de traverser. Ne pas le faire : 135 € et **6 points**.",
+    "uk": "Пішоходи — **найвразливіші** учасники руху. Я маю **поступитися** пішоходу, який виходить на дорогу або **явно збирається** переходити. Порушення: 135 € і **мінус 6 балів**."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A13b",
+     "C20a",
+     "A13a"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "À l'approche d'un **passage piéton**, je ralentis et je ne dépasse pas un véhicule qui s'arrête.",
+      "uk": "Біля **пішохідного переходу** пригальмовую і не обганяю авто, яке там зупиняється."
+     },
+     {
+      "fr": "Même au **feu vert**, je laisse finir la traversée des piétons déjà engagés.",
+      "uk": "Навіть на **зелений** даю закінчити перехід тим, хто вже йде."
+     },
+     {
+      "fr": "En **zone de rencontre** (20 km/h), les piétons peuvent marcher sur la chaussée et sont prioritaires.",
+      "uk": "У **зоні зустрічі** (20 км/год) пішоходи можуть іти проїжджою частиною й мають перевагу."
+     },
+     {
+      "fr": "En **aire piétonne**, seuls quelques véhicules autorisés circulent, **au pas**.",
+      "uk": "У **пішохідній зоні** їздить лише дозволений транспорт — **кроком**."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Enfants",
+    "uk": "Діти"
+   },
+   {
+    "t": "p",
+    "fr": "Les enfants sont **imprévisibles**, petits (donc peu visibles) et évaluent mal la vitesse. Près des écoles, des aires de jeux, des cars scolaires arrêtés (feux de détresse) : je **ralentis fortement**.",
+    "uk": "Діти **непередбачувані**, маленькі (їх погано видно) і погано оцінюють швидкість. Біля шкіл, майданчиків, шкільних автобусів з аварійкою — **сильно пригальмовую**."
+   },
+   {
+    "t": "h",
+    "fr": "Personnes âgées ou handicapées",
+    "uk": "Літні люди й люди з інвалідністю"
+   },
+   {
+    "t": "p",
+    "fr": "Elles traversent lentement, entendent ou voient parfois moins bien. Je suis patient et je ne klaxonne pas. Une **canne blanche** signale une personne aveugle ou malvoyante : je m'arrête pour la laisser passer.",
+    "uk": "Вони переходять повільно, можуть гірше чути чи бачити. Будь терплячим і не сигналь. **Біла тростина** означає людину з порушенням зору: зупинись і пропусти."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Piéton engagé ou qui veut traverser : je cède (6 points sinon).",
+    "uk": "Пішохід іде або хоче йти — поступаюся (інакше мінус 6 балів)."
+   },
+   {
+    "fr": "Zone de rencontre : 20 km/h, piétons prioritaires.",
+    "uk": "Зона зустрічі: 20 км/год, пішоходи мають перевагу."
+   }
+  ]
+ },
+ {
+  "id": "usagers-2",
+  "theme": "usagers",
+  "order": 2,
+  "title_fr": "Cyclistes et trottinettes",
+  "title_uk": "Велосипедисти й самокати",
+  "minutes": 5,
+  "tags": [
+   "cyclistes",
+   "depassement"
+  ],
+  "blocks": [
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Pour dépasser un cycliste : **1 m** en ville, **1,5 m** hors ville. Si impossible, je reste derrière.",
+      "uk": "Обгін велосипедиста: **1 м** у місті, **1,5 м** поза ним. Якщо неможливо — їду позаду."
+     },
+     {
+      "fr": "Le cycliste peut s'écarter du bord (obstacles, portières) : j'anticipe.",
+      "uk": "Велосипедист може відхилятися від краю (перешкоди, двері): передбачай це."
+     },
+     {
+      "fr": "Avant de tourner à droite, je vérifie qu'aucun cycliste n'arrive à ma droite (**angle mort**).",
+      "uk": "Перед поворотом праворуч перевіряю, чи нема справа велосипедиста (**сліпа зона**)."
+     },
+     {
+      "fr": "Avant d'ouvrir ma portière : rétroviseur et coup d'œil (ouverture avec la main opposée).",
+      "uk": "Перед тим як відчинити двері: дзеркало й погляд через плече (відчиняй дальньою рукою)."
+     }
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B22a",
+     "C113",
+     "A21",
+     "B9b"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Sas vélo** au feu : réservé aux cyclistes, je m'arrête avant.",
+      "uk": "**Велозона** біля світлофора — лише для велосипедистів, зупиняюся перед нею."
+     },
+     {
+      "fr": "**Double-sens cyclable** : dans beaucoup de rues à sens unique, les vélos peuvent venir en face.",
+      "uk": "**Зустрічний велорух**: на багатьох односторонніх вулицях велосипеди можуть їхати назустріч."
+     },
+     {
+      "fr": "**Cédez-le-passage cycliste au feu** (M12) : le cycliste peut passer au rouge dans la direction indiquée.",
+      "uk": "Табличка **M12**: велосипедист може проїхати на червоне у вказаному напрямку."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Trottinettes électriques (EDPM)",
+    "uk": "Електросамокати (EDPM)"
+   },
+   {
+    "t": "p",
+    "fr": "Vitesse limitée à **25 km/h**, interdites sur le **trottoir** (sauf autorisation locale), sur les pistes cyclables ou la chaussée en ville. Une seule personne, pas de téléphone ni d'écouteurs. Âge minimum : 14 ans.",
+    "uk": "Швидкість — до **25 км/год**, на **тротуарі** заборонені (якщо місцева влада не дозволила), їздять велодоріжкою або дорогою в місті. Одна людина, без телефону й навушників. Мінімальний вік — 14 років."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Cycliste : 1 m / 1,5 m d'écart.",
+    "uk": "Велосипедист: інтервал 1 м / 1,5 м."
+   },
+   {
+    "fr": "Sas vélo : je m'arrête avant.",
+    "uk": "Велозона: зупиняюся перед нею."
+   },
+   {
+    "fr": "Trottinette : 25 km/h, pas de trottoir.",
+    "uk": "Самокат: 25 км/год, не по тротуару."
+   }
+  ]
+ },
+ {
+  "id": "usagers-3",
+  "theme": "usagers",
+  "order": 3,
+  "title_fr": "Deux-roues motorisés, poids lourds, bus et tramways",
+  "title_uk": "Мотоцикли, вантажівки, автобуси й трамваї",
+  "minutes": 5,
+  "tags": [
+   "deuxroues",
+   "lourds",
+   "priorite"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Motos et scooters",
+    "uk": "Мотоцикли й скутери"
+   },
+   {
+    "t": "p",
+    "fr": "Ils sont **étroits** (souvent cachés dans les angles morts), **rapides** et sans carrosserie. Je contrôle mes rétroviseurs **et** mon angle mort avant tout changement de direction. J'évalue mal leur vitesse : je leur laisse de la marge.",
+    "uk": "Вони **вузькі** (часто ховаються в сліпих зонах), **швидкі** й без кузова. Перед будь-яким маневром перевіряю дзеркала **й** сліпу зону. Їхню швидкість важко оцінити — залишай запас."
+   },
+   {
+    "t": "h",
+    "fr": "Poids lourds et bus",
+    "uk": "Вантажівки й автобуси"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Angles morts** très grands (autocollant obligatoire) : si je ne vois pas les rétroviseurs du camion, le chauffeur ne me voit pas.",
+      "uk": "Дуже великі **сліпі зони** (обов'язкова наліпка): якщо я не бачу дзеркал вантажівки, водій не бачить мене."
+     },
+     {
+      "fr": "Ils ont besoin de place pour tourner et peuvent se décaler du côté opposé : je ne me glisse pas à côté.",
+      "uk": "Їм треба багато місця для повороту, і вони можуть зміщуватися в інший бік: не втискуйся поруч."
+     },
+     {
+      "fr": "Leur distance de freinage est plus longue : je ne me rabats pas juste devant eux.",
+      "uk": "Гальмівний шлях у них довший: не перестроюйся одразу перед ними."
+     },
+     {
+      "fr": "Par vent ou pluie, leur dépassement crée des remous et des projections d'eau.",
+      "uk": "У вітер чи дощ при обгоні виникають завихрення й бризки."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "En agglomération, je laisse **les bus quitter leur arrêt**.",
+    "uk": "У місті даю **автобусу від'їхати від зупинки**."
+   },
+   {
+    "t": "h",
+    "fr": "Tramway",
+    "uk": "Трамвай"
+   },
+   {
+    "t": "p",
+    "fr": "Le tramway est **prioritaire** (il ne peut ni dévier ni freiner court), sauf feux contraires. Je ne m'arrête jamais sur ses rails. Je le dépasse **par la droite** quand il roule et que l'espace suffit.",
+    "uk": "Трамвай має **перевагу** (не може об'їхати й швидко загальмувати), якщо світлофор не каже інакше. Ніколи не зупиняюся на рейках. Обганяю його **справа**, коли він рухається й місця досить."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A9",
+     "B27a"
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Animaux et véhicules lents",
+    "uk": "Тварини й повільний транспорт"
+   },
+   {
+    "t": "p",
+    "fr": "Troupeau : je ralentis, je ne klaxonne pas et je suis les gestes du conducteur. Animal sauvage sur la route (A15b) : je freine sans donner de coup de volant. Tracteurs et engins agricoles : patience, dépassement seulement avec visibilité.",
+    "uk": "Стадо: пригальмовую, не сигналю, слухаюся погонича. Дика тварина на дорозі (A15b): гальмую без різкого повороту керма. Трактори: терпіння, обгін — лише з хорошим оглядом."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A15a1",
+     "A15b"
+    ]
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Moto : toujours vérifier l'angle mort.",
+    "uk": "Мотоцикл: завжди перевіряй сліпу зону."
+   },
+   {
+    "fr": "Camion : si je ne vois pas ses rétros, il ne me voit pas.",
+    "uk": "Вантажівка: не бачиш її дзеркал — водій не бачить тебе."
+   },
+   {
+    "fr": "Tramway prioritaire ; bus prioritaire à la sortie d'arrêt en ville.",
+    "uk": "Трамвай має перевагу; автобус — при від'їзді від зупинки в місті."
+   }
+  ]
+ }
+]

@@ -1,0 +1,157 @@
+[
+ {
+  "id": "vehicule-1",
+  "theme": "vehicule",
+  "order": 1,
+  "title_fr": "S'installer au poste de conduite",
+  "title_uk": "Посадка за кермом",
+  "minutes": 5,
+  "tags": [
+   "manoeuvres",
+   "ceinture"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Une bonne installation permet de **bien voir**, d'**agir vite** et d'être **mieux protégé** en cas de choc. Ordre conseillé : siège → volant → appui-tête → rétroviseurs → ceinture.",
+    "uk": "Правильна посадка дає змогу **добре бачити**, **швидко діяти** й бути **краще захищеним** при ударі. Порядок: сидіння → кермо → підголівник → дзеркала → пасок."
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Siège** : dos bien appuyé, je peux enfoncer l'embrayage à fond avec la jambe encore légèrement pliée.",
+      "uk": "**Сидіння**: спина щільно до спинки, педаль зчеплення вижимається до кінця, а нога ще трохи зігнута."
+     },
+     {
+      "fr": "**Volant** : bras tendus, les poignets reposent sur le haut du volant ; mains à **9 h 15**.",
+      "uk": "**Кермо**: на прямих руках зап'ястя лягають на верх керма; руки на **9:15**."
+     },
+     {
+      "fr": "**Appui-tête** : le haut au niveau du sommet du crâne, proche de la tête.",
+      "uk": "**Підголівник**: верх на рівні маківки, близько до голови."
+     },
+     {
+      "fr": "**Rétroviseur intérieur** : toute la lunette arrière ; **extérieurs** : un peu de carrosserie sur le bord, l'horizon au milieu.",
+      "uk": "**Внутрішнє дзеркало**: усе заднє скло; **бокові**: трохи кузова з краю, горизонт посередині."
+     },
+     {
+      "fr": "**Ceinture** : sangle sur l'épaule (pas sur le cou), sangle basse sur les hanches, sans jeu.",
+      "uk": "**Пасок**: через плече (не по шиї), нижня частина на стегнах, без провисання."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Les rétroviseurs ne montrent pas tout : il reste des **angles morts** sur les côtés arrière. Avant chaque changement de voie : rétroviseur + coup d'œil par-dessus l'épaule.",
+    "uk": "Дзеркала не показують усього: збоку ззаду лишаються **сліпі зони**. Перед кожним перестроюванням — дзеркало + погляд через плече."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Siège, volant, appui-tête, rétroviseurs, ceinture.",
+    "uk": "Сидіння, кермо, підголівник, дзеркала, пасок."
+   },
+   {
+    "fr": "Mains à 9 h 15 ; angle mort = tourner la tête.",
+    "uk": "Руки на 9:15; сліпа зона — поверни голову."
+   }
+  ]
+ },
+ {
+  "id": "vehicule-2",
+  "theme": "vehicule",
+  "order": 2,
+  "title_fr": "Démarrer, s'insérer, s'arrêter et quitter le véhicule",
+  "title_uk": "Рушити, влитися, зупинитися й вийти",
+  "minutes": 6,
+  "tags": [
+   "manoeuvres",
+   "stationnement"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Avant de partir",
+    "uk": "Перед виїздом"
+   },
+   {
+    "t": "p",
+    "fr": "Je fais le **tour du véhicule** (enfant, animal, objet, pneus, feux), je règle mon installation, j'attache ma ceinture et je vérifie celles des passagers.",
+    "uk": "Обходжу **авто довкола** (діти, тварини, предмети, шини, фари), налаштовую посадку, пристібаюся й перевіряю пасажирів."
+   },
+   {
+    "t": "h",
+    "fr": "Démarrer et s'insérer",
+    "uk": "Рушити й влитися в потік"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Rétroviseur intérieur, rétroviseur gauche, **angle mort**.",
+      "uk": "Внутрішнє дзеркало, ліве дзеркало, **сліпа зона**."
+     },
+     {
+      "fr": "**Clignotant**, puis départ progressif quand la voie est libre.",
+      "uk": "**Поворотник**, далі плавний старт, коли смуга вільна."
+     },
+     {
+      "fr": "En quittant une place ou un accès privé, je **cède le passage** à tous.",
+      "uk": "Виїжджаючи з місця стоянки чи двору, **поступаюся** всім."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Stationner",
+    "uk": "Паркування"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Frein de stationnement serré, une vitesse engagée (1re en montée, marche arrière en descente).",
+      "uk": "Затягнуте ручне гальмо, ввімкнена передача (1-ша на підйомі, задня на спуску)."
+     },
+     {
+      "fr": "En descente, **roues tournées vers le trottoir** ; en montée, **vers la chaussée** (la roue bute contre la bordure si la voiture recule).",
+      "uk": "На спуску **колеса до тротуару**; на підйомі — **в бік дороги** (колесо впреться в бордюр, якщо авто покотиться назад)."
+     },
+     {
+      "fr": "Moteur coupé : laisser tourner le moteur à l'arrêt est interdit et pollue.",
+      "uk": "Двигун вимкнений: працюючий двигун на стоянці заборонений і забруднює повітря."
+     },
+     {
+      "fr": "Vitres fermées, portes verrouillées, rien de valeur visible, **clé retirée**.",
+      "uk": "Вікна зачинені, двері замкнені, нічого цінного на видноті, **ключ вийнятий**."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Quitter le véhicule",
+    "uk": "Вихід з авто"
+   },
+   {
+    "t": "p",
+    "fr": "Avant d'ouvrir : **rétroviseur et coup d'œil** (cyclistes, motos). Astuce : ouvrir avec la **main opposée** à la portière, ce qui oblige à tourner le buste. Les passagers, surtout les enfants, descendent **côté trottoir**. On ne laisse **jamais un enfant ou un animal seul** dans la voiture.",
+    "uk": "Перед тим як відчинити: **дзеркало й погляд** (велосипедисти, мотоцикли). Порада: відчиняй **дальньою рукою** — так мимоволі повертаєш корпус. Пасажири, особливо діти, виходять **з боку тротуару**. **Ніколи не залишай дитину чи тварину саму** в машині."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Avant de partir : tour du véhicule.",
+    "uk": "Перед виїздом: обхід авто."
+   },
+   {
+    "fr": "S'insérer : rétro, angle mort, clignotant, céder le passage.",
+    "uk": "Влитися: дзеркала, сліпа зона, поворотник, поступитися."
+   },
+   {
+    "fr": "Quitter : regarder avant d'ouvrir, enfants côté trottoir.",
+    "uk": "Вихід: подивитися перед тим, як відчинити; діти — з боку тротуару."
+   }
+  ]
+ }
+]

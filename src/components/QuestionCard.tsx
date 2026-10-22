@@ -3,7 +3,8 @@ import { isAnswerCorrect } from '../data/questions'
 import type { Question } from '../types'
 import { toggleIn } from '../lib/list'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
+import { QuestionTools } from './QuestionTools'
 import { TranslateButton } from './TranslateButton'
 
 interface Props {
@@ -37,10 +38,16 @@ export function QuestionCard({ question, counter, badge, onAnswered, onNext, nex
         <span className="muted">
           {counter} {badge}
         </span>
-        <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
+        <span className="row">
+          <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
+        </span>
+      </div>
+      <div className="qcard-tools">
+        <DifficultyBadge question={question} />
+        <QuestionTools question={question} />
       </div>
 
-      {question.image && <QuestionImage src={question.image} />}
+      <QuestionMedia question={question} />
 
       <h2 className="qtext">{question.question_fr}</h2>
       {showUk && <p className="uk">{question.question_uk}</p>}
@@ -97,6 +104,18 @@ export function Explanation({
       </strong>
       <p>{question.explanation_fr}</p>
       {showUk && <p className="uk">{question.explanation_uk}</p>}
+      {question.source && <p className="muted small">📖 {question.source}</p>}
     </div>
+  )
+}
+
+export function DifficultyBadge({ question }: { question: Question }) {
+  if (!question.difficulty) return <span />
+  const label = ['', 'Facile', 'Moyen', 'Difficile'][question.difficulty]
+  return (
+    <span className={`diff diff-${question.difficulty}`} title={label}>
+      {'●'.repeat(question.difficulty)}
+      {'○'.repeat(3 - question.difficulty)} {label}
+    </span>
   )
 }

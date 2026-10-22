@@ -3,7 +3,7 @@ import { isAnswerCorrect } from '../data/questions'
 import { themeById } from '../data/themes'
 import type { Question } from '../types'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
 import { Explanation } from './QuestionCard'
 import { TranslateButton } from './TranslateButton'
 
@@ -31,7 +31,7 @@ export function ReviewItem({ n, question, selected }: { n: number; question: Que
             <span />
             <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
           </div>
-          {question.image && <QuestionImage src={question.image} />}
+          <QuestionMedia question={question} />
           {showUk && <p className="uk">{question.question_uk}</p>}
           <AnswerList answers={question.answers} selected={selected} correct={question.correct} revealed showUk={showUk} />
           <Explanation question={question} correct={ok} showUk={showUk} />

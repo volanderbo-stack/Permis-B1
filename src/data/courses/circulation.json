@@ -1,0 +1,754 @@
+[
+ {
+  "id": "circulation-1",
+  "theme": "circulation",
+  "order": 1,
+  "title_fr": "Les règles de priorité",
+  "title_uk": "Правила пріоритету (переваги)",
+  "minutes": 7,
+  "tags": [
+   "priorite",
+   "intersection",
+   "signalisation"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "À une intersection, la priorité décide **qui passe en premier**. Sans aucune signalisation, c'est la **priorité à droite** : je cède le passage aux véhicules qui arrivent de ma droite.",
+    "uk": "На перехресті пріоритет визначає, **хто проїжджає першим**. Якщо знаків немає, діє **«перешкода справа»**: я поступаюся транспорту, що під'їжджає справа."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "AB1",
+     "AB2",
+     "AB6",
+     "AB7"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**AB1** (triangle avec croix noire) : intersection avec priorité à droite.",
+      "uk": "**AB1** (трикутник із чорним хрестом): перехрестя з правилом «перешкода справа»."
+     },
+     {
+      "fr": "**AB2** : je suis prioritaire à la prochaine intersection seulement.",
+      "uk": "**AB2**: я маю перевагу лише на найближчому перехресті."
+     },
+     {
+      "fr": "**AB6** (losange jaune) : je suis sur une route prioritaire à toutes les intersections, jusqu'au panneau **AB7**.",
+      "uk": "**AB6** (жовтий ромб): я на головній дорозі на всіх перехрестях, доки не побачу **AB7**."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Céder le passage et STOP",
+    "uk": "«Дати дорогу» і STOP"
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "AB3a",
+     "AB4"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Cédez le passage (AB3a)** : je ralentis, je m'arrête si nécessaire et je laisse passer les véhicules de la route abordée.",
+      "uk": "**Дати дорогу (AB3a)**: пригальмовую, за потреби зупиняюся й пропускаю транспорт на дорозі, яку перетинаю."
+     },
+     {
+      "fr": "**STOP (AB4)** : arrêt **obligatoire et complet** (roues immobiles) à la ligne d'arrêt, même si personne ne vient, puis je cède le passage.",
+      "uk": "**STOP (AB4)**: **обов'язкова повна** зупинка (колеса нерухомі) біля стоп-лінії, навіть якщо нікого немає, після чого поступаюся."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Giratoires",
+    "uk": "Кільцеві перехрестя"
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "AB25"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "À l'entrée d'un **giratoire** signalé par AB25 et un panneau « Cédez le passage », les véhicules **déjà sur l'anneau sont prioritaires**. Pour sortir, je mets le **clignotant droit**. Attention : un simple « rond-point » sans panneau Cédez le passage applique la priorité à droite (cas rare).",
+    "uk": "На в'їзді на **кільце** зі знаками AB25 і «Дати дорогу» **перевагу має той, хто вже на кільці**. Перед виїздом вмикаю **правий поворотник**. Увага: на «круглій площі» без знака «Дати дорогу» діє «перешкода справа» (рідкісний випадок)."
+   },
+   {
+    "t": "h",
+    "fr": "Toujours céder le passage à…",
+    "uk": "Завжди поступатися…"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "aux **véhicules prioritaires** (pompiers, police, SAMU) en intervention, avec gyrophare et sirène ;",
+      "uk": "**спецтранспорту** (пожежники, поліція, SAMU) з увімкненими маячком і сиреною;"
+     },
+     {
+      "fr": "au **tramway**, sauf signalisation contraire ;",
+      "uk": "**трамваю**, якщо сигнали не вказують інше;"
+     },
+     {
+      "fr": "aux **piétons** qui traversent ou montrent clairement qu'ils vont traverser ;",
+      "uk": "**пішоходам**, які переходять або явно збираються переходити;"
+     },
+     {
+      "fr": "aux usagers quand je **sors d'un parking, d'un chemin de terre ou d'une propriété** ;",
+      "uk": "усім учасникам руху, коли я **виїжджаю з парковки, ґрунтової дороги чи двору**;"
+     },
+     {
+      "fr": "en agglomération, aux **bus qui quittent leur arrêt**.",
+      "uk": "у населеному пункті — **автобусу, що від'їжджає від зупинки**."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "La priorité ne se prend pas, elle se **donne** : même prioritaire, je reste prêt à freiner si l'autre ne s'arrête pas.",
+    "uk": "Перевагу не «беруть», її **дають**: навіть маючи пріоритет, будь готовий загальмувати, якщо інший не зупиниться."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Sans panneau : priorité à droite.",
+    "uk": "Без знаків — перешкода справа."
+   },
+   {
+    "fr": "AB2 = prioritaire à la prochaine intersection ; AB6 = route prioritaire jusqu'à AB7.",
+    "uk": "AB2 — перевага на найближчому перехресті; AB6 — головна дорога до знака AB7."
+   },
+   {
+    "fr": "STOP = arrêt complet obligatoire, même sans personne.",
+    "uk": "STOP — повна зупинка обов'язкова, навіть якщо нікого немає."
+   },
+   {
+    "fr": "Giratoire : priorité aux véhicules sur l'anneau.",
+    "uk": "Кільце: перевага в тих, хто вже на кільці."
+   }
+  ]
+ },
+ {
+  "id": "circulation-2",
+  "theme": "circulation",
+  "order": 2,
+  "title_fr": "Feux de signalisation et agents",
+  "title_uk": "Світлофори й регулювальник",
+  "minutes": 5,
+  "tags": [
+   "signalisation",
+   "intersection"
+  ],
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Feu",
+      "uk": "Сигнал"
+     },
+     {
+      "fr": "Signification",
+      "uk": "Значення"
+     }
+    ],
+    "rows": [
+     [
+      "🟢 Vert",
+      "Je peux passer, si le carrefour est dégagé (ne pas s'engager si je risque de bloquer)."
+     ],
+     [
+      "🟠 Orange fixe",
+      "**Arrêt obligatoire**, sauf si je suis trop près pour m'arrêter en sécurité."
+     ],
+     [
+      "🔴 Rouge fixe",
+      "Arrêt absolu à la ligne d'arrêt. Franchir : 135 € et **4 points**."
+     ],
+     [
+      "🟠 Orange clignotant",
+      "Prudence : je passe en respectant les priorités (souvent la priorité à droite ou les panneaux)."
+     ],
+     [
+      "🔴 Rouge clignotant",
+      "Arrêt absolu (passage à niveau, sortie de pompiers, pont mobile)."
+     ],
+     [
+      "Flèche orange clignotante",
+      "Je peux tourner dans le sens de la flèche, en cédant le passage aux piétons et véhicules."
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "**Feu vert mais carrefour encombré** : je ne m'engage pas si je risque de rester bloqué au milieu (« ne pas bloquer le carrefour »).",
+    "uk": "**Зелений, але перехрестя забите**: не виїжджаю, якщо можу застрягти посередині й заблокувати рух."
+   },
+   {
+    "t": "p",
+    "fr": "Le panonceau **« Cédez-le-passage cycliste au feu »** (M12) autorise les cyclistes à franchir le feu rouge dans la direction indiquée, en cédant le passage.",
+    "uk": "Табличка **M12** дозволяє велосипедистам проїжджати на червоне в зазначеному напрямку, поступаючись іншим."
+   },
+   {
+    "t": "h",
+    "fr": "Les agents de circulation",
+    "uk": "Регулювальник"
+   },
+   {
+    "t": "p",
+    "fr": "Les **indications d'un agent** passent **avant les feux et les panneaux**. Bras levé verticalement : arrêt pour tous. Bras tendus à l'horizontale : arrêt pour les usagers venant de face ou de dos, passage pour ceux venant des côtés.",
+    "uk": "**Вказівки регулювальника** важливіші **за світлофори й знаки**. Рука піднята вертикально — стоп для всіх. Руки витягнуті в сторони — стоять ті, хто їде назустріч або ззаду; проїжджають ті, хто з боків."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A17"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Le panneau **A17** annonce des feux tricolores, souvent après un virage ou en sortie d'agglomération.",
+    "uk": "Знак **A17** попереджає про світлофор попереду, часто після повороту."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Orange fixe = je m'arrête, sauf impossibilité de s'arrêter en sécurité.",
+    "uk": "Постійний жовтий — зупиняюся, якщо можу зробити це безпечно."
+   },
+   {
+    "fr": "Rouge clignotant = arrêt absolu.",
+    "uk": "Червоний миготливий — обов'язкова зупинка."
+   },
+   {
+    "fr": "Agent > feux > panneaux > règles générales.",
+    "uk": "Регулювальник > світлофор > знаки > загальні правила."
+   }
+  ]
+ },
+ {
+  "id": "circulation-3",
+  "theme": "circulation",
+  "order": 3,
+  "title_fr": "Les limitations de vitesse",
+  "title_uk": "Обмеження швидкості",
+  "minutes": 6,
+  "tags": [
+   "vitesse",
+   "meteo",
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Les vitesses ci-dessous sont des **maximums** : je dois toujours adapter ma vitesse à la visibilité, à la météo, au trafic et à l'état de la route.",
+    "uk": "Наведені швидкості — це **максимум**. Завжди підлаштовуй швидкість під видимість, погоду, потік і стан дороги."
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Route",
+      "uk": "Дорога"
+     },
+     {
+      "fr": "Temps sec",
+      "uk": "Суха погода"
+     },
+     {
+      "fr": "Pluie",
+      "uk": "Дощ"
+     },
+     {
+      "fr": "Permis probatoire",
+      "uk": "Пробні права"
+     }
+    ],
+    "rows": [
+     [
+      "Autoroute",
+      "**130**",
+      "110",
+      "110"
+     ],
+     [
+      "Route à chaussées séparées",
+      "**110**",
+      "100",
+      "100"
+     ],
+     [
+      "Autre route hors agglomération",
+      "**80** (90 si panneau)",
+      "70 (80 si 90)",
+      "80"
+     ],
+     [
+      "Agglomération",
+      "**50**",
+      "50",
+      "50"
+     ],
+     [
+      "Brouillard, visibilité < 50 m",
+      "**50 partout**",
+      "",
+      ""
+     ]
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Zone 30** et **zone de rencontre (20 km/h)** : vitesses plus basses en ville, piétons très présents.",
+      "uk": "**Зона 30** і **зона зустрічі (20 км/год)**: нижча швидкість у місті, багато пішоходів."
+     },
+     {
+      "fr": "Sur l'autoroute, voie de gauche : vitesse **minimale 80 km/h** par bonne visibilité.",
+      "uk": "На автомагістралі в лівій смузі **мінімум 80 км/год** за доброї видимості."
+     },
+     {
+      "fr": "Le panneau **B14** fixe une limite, **B33** marque sa fin.",
+      "uk": "Знак **B14** встановлює обмеження, **B33** — його кінець."
+     }
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B14-50",
+     "B33",
+     "B30",
+     "B52"
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Sanctions pour excès de vitesse",
+    "uk": "Покарання за перевищення швидкості"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Dépassement",
+      "uk": "Перевищення"
+     },
+     {
+      "fr": "Points retirés",
+      "uk": "Мінус балів"
+     }
+    ],
+    "rows": [
+     [
+      "moins de 20 km/h",
+      "1"
+     ],
+     [
+      "20 à 29 km/h",
+      "2"
+     ],
+     [
+      "30 à 39 km/h",
+      "3"
+     ],
+     [
+      "40 à 49 km/h",
+      "4"
+     ],
+     [
+      "50 km/h et plus",
+      "6"
+     ]
+    ]
+   },
+   {
+    "t": "warn",
+    "fr": "Plus la vitesse augmente, plus la distance d'arrêt s'allonge et plus le choc est violent : à 50 km/h, un choc équivaut à une chute de 3 étages.",
+    "uk": "Що вища швидкість, то довший шлях зупинки й сильніший удар: на 50 км/год зіткнення — як падіння з 3-го поверху."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "130 / 110 / 80 / 50 km/h ; pluie : 110 / 100 / 70.",
+    "uk": "130 / 110 / 80 / 50 км/год; у дощ: 110 / 100 / 70."
+   },
+   {
+    "fr": "Probatoire : 110 sur autoroute, 100 sur chaussées séparées, 80 ailleurs.",
+    "uk": "Пробні права: 110 на автомагістралі, 100 на розділених дорогах, 80 на інших."
+   },
+   {
+    "fr": "Visibilité < 50 m : 50 km/h partout.",
+    "uk": "Видимість < 50 м — 50 км/год усюди."
+   }
+  ]
+ },
+ {
+  "id": "circulation-4",
+  "theme": "circulation",
+  "order": 4,
+  "title_fr": "Dépasser et croiser",
+  "title_uk": "Обгін і роз'їзд",
+  "minutes": 6,
+  "tags": [
+   "depassement",
+   "marquage",
+   "cyclistes"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Avant de dépasser, je vérifie : **visibilité suffisante**, voie libre, **rétroviseurs et angle mort**, clignotant. Je dépasse **par la gauche**, rapidement, avec un **écart latéral** suffisant, puis je me rabats sans gêner le véhicule dépassé.",
+    "uk": "Перед обгоном перевіряю: **достатня видимість**, вільна смуга, **дзеркала й сліпа зона**, поворотник. Обганяю **зліва**, швидко, з достатнім **бічним інтервалом**, і повертаюся в смугу, не заважаючи тому, кого обігнав."
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Cycliste ou piéton : **1 m** en agglomération, **1,5 m** hors agglomération.",
+      "uk": "Велосипедист чи пішохід: **1 м** у місті, **1,5 м** поза містом."
+     },
+     {
+      "fr": "Le conducteur dépassé **ne doit pas accélérer**.",
+      "uk": "Той, кого обганяють, **не повинен прискорюватися**."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Dépassement interdit",
+    "uk": "Обгін заборонено"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "quand une **ligne continue** m'en empêche ou au panneau **B3** ;",
+      "uk": "коли заважає **суцільна лінія** або є знак **B3**;"
+     },
+     {
+      "fr": "dans un **virage** ou au **sommet d'une côte** sans visibilité ;",
+      "uk": "у **повороті** або на **вершині підйому** без огляду;"
+     },
+     {
+      "fr": "à l'approche d'une **intersection** (sauf si je suis prioritaire) ;",
+      "uk": "перед **перехрестям** (якщо я не на головній);"
+     },
+     {
+      "fr": "à l'approche d'un **passage piéton** si un véhicule ralentit ou s'arrête ;",
+      "uk": "перед **пішохідним переходом**, якщо інше авто сповільнюється чи зупиняється;"
+     },
+     {
+      "fr": "à un **passage à niveau sans barrières**.",
+      "uk": "на **залізничному переїзді без шлагбаума**."
+     }
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B3",
+     "B34"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "**Exceptions** : je dépasse **par la droite** un véhicule qui a signalé qu'il tourne à gauche, et un **tramway** en mouvement quand l'espace le permet.",
+    "uk": "**Винятки**: обганяю **справа** авто, яке показало поворот ліворуч, і **трамвай**, що рухається, якщо досить місця."
+   },
+   {
+    "t": "h",
+    "fr": "Le marquage au sol",
+    "uk": "Розмітка"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Ligne continue** : interdit de la franchir ou de la chevaucher.",
+      "uk": "**Суцільна**: не можна перетинати чи наїжджати."
+     },
+     {
+      "fr": "**Ligne discontinue** (traits espacés) : on peut la franchir pour dépasser.",
+      "uk": "**Переривчаста** (рідкі штрихи): можна перетинати для обгону."
+     },
+     {
+      "fr": "**Ligne d'avertissement** (traits longs, intervalles courts) : une ligne continue approche.",
+      "uk": "**Попереджувальна** (довгі штрихи, короткі проміжки): попереду суцільна."
+     },
+     {
+      "fr": "**Ligne mixte** : je respecte la ligne qui est de mon côté.",
+      "uk": "**Комбінована**: дію згідно з лінією зі свого боку."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Croiser",
+    "uk": "Роз'їзд на вузькій дорозі"
+   },
+   {
+    "t": "p",
+    "fr": "Sur une route étroite, celui qui a un **obstacle de son côté** laisse passer l'autre. En montagne, c'est le **véhicule qui descend** qui cède. Les panneaux **B15** / **C18** règlent les passages étroits.",
+    "uk": "На вузькій дорозі поступається той, **з чийого боку перешкода**. У горах поступається **той, хто їде вниз**. Знаки **B15** / **C18** регулюють вузькі ділянки."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B15",
+     "C18"
+    ]
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Dépasser : visibilité, rétro + angle mort, clignotant, écart latéral, rabattement.",
+    "uk": "Обгін: огляд, дзеркала + сліпа зона, поворотник, інтервал, повернення в смугу."
+   },
+   {
+    "fr": "Jamais de dépassement en virage, sommet de côte, intersection, ligne continue.",
+    "uk": "Ніколи не обганяй у повороті, на вершині, перед перехрестям, через суцільну."
+   },
+   {
+    "fr": "Cycliste : 1 m en ville, 1,5 m hors ville.",
+    "uk": "Велосипедист: 1 м у місті, 1,5 м поза ним."
+   }
+  ]
+ },
+ {
+  "id": "circulation-5",
+  "theme": "circulation",
+  "order": 5,
+  "title_fr": "Arrêt et stationnement",
+  "title_uk": "Зупинка й стоянка",
+  "minutes": 6,
+  "tags": [
+   "stationnement",
+   "signalisation"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "**Arrêt** = immobilisation courte, conducteur au volant ou à proximité (déposer quelqu'un, charger). **Stationnement** = au-delà, ou conducteur absent.",
+    "uk": "**Зупинка** — коротка, водій за кермом чи поруч (висадити людину, завантажити речі). **Стоянка** — довше або коли водія немає."
+   },
+   {
+    "t": "h",
+    "fr": "Arrêt et stationnement interdits (exemples)",
+    "uk": "Зупинка й стоянка заборонені (приклади)"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "sur les **passages piétons**, trottoirs, pistes cyclables, voies de bus ;",
+      "uk": "на **пішохідних переходах**, тротуарах, велодоріжках, смугах для автобусів;"
+     },
+     {
+      "fr": "sur les **ponts**, dans les **tunnels**, sur les **passages à niveau** ;",
+      "uk": "на **мостах**, у **тунелях**, на **залізничних переїздах**;"
+     },
+     {
+      "fr": "dans un **virage** ou un sommet de côte sans visibilité ;",
+      "uk": "у **повороті** чи на вершині підйому без огляду;"
+     },
+     {
+      "fr": "devant une **entrée carrossable** (garage) ;",
+      "uk": "перед **виїздом з гаража чи двору**;"
+     },
+     {
+      "fr": "sur une **place réservée aux personnes handicapées** sans carte (135 €) ;",
+      "uk": "на **місці для людей з інвалідністю** без картки (135 €);"
+     },
+     {
+      "fr": "sur la **bande d'arrêt d'urgence** et la chaussée des autoroutes (sauf urgence).",
+      "uk": "на **смузі аварійної зупинки** й проїжджій частині автомагістралі (крім аварії)."
+     }
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B6a1",
+     "B6d",
+     "B6a2",
+     "B6a3",
+     "C1a"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**B6a1** : stationnement interdit (arrêt autorisé).",
+      "uk": "**B6a1**: стоянка заборонена (зупинка дозволена)."
+     },
+     {
+      "fr": "**B6d** : arrêt **et** stationnement interdits.",
+      "uk": "**B6d**: заборонені **і** зупинка, **і** стоянка."
+     },
+     {
+      "fr": "**B6a2 / B6a3** : stationnement alterné semi-mensuel ; on change de côté le dernier jour de la période, entre 20 h 30 et 21 h.",
+      "uk": "**B6a2 / B6a3**: стоянка почергово по півмісяця; бік змінюють в останній день періоду з 20:30 до 21:00."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Je stationne **dans le sens de la circulation**, sur le côté droit (des deux côtés dans une rue à sens unique, sauf interdiction). Un stationnement de plus de **7 jours** au même endroit est abusif.",
+    "uk": "Паркуюся **за напрямком руху**, праворуч (на односторонній — з обох боків, якщо не заборонено). Стоянка понад **7 днів** на одному місці — порушення."
+   },
+   {
+    "t": "tip",
+    "fr": "Stationnement **dangereux** (près d'un virage, d'une intersection, la nuit sans éclairage) : 135 € et 3 points, et possible mise en fourrière.",
+    "uk": "**Небезпечна** стоянка (біля повороту, перехрестя, уночі без світла): 135 € і 3 бали, можлива евакуація."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Arrêt = court, conducteur présent ; stationnement = plus long.",
+    "uk": "Зупинка — коротко й водій поруч; стоянка — довше."
+   },
+   {
+    "fr": "B6a1 interdit le stationnement, B6d interdit aussi l'arrêt.",
+    "uk": "B6a1 забороняє стоянку, B6d — ще й зупинку."
+   },
+   {
+    "fr": "Trottoir, passage piéton, place handicapé : interdits.",
+    "uk": "Тротуар, перехід, місце для людей з інвалідністю — заборонено."
+   }
+  ]
+ },
+ {
+  "id": "circulation-6",
+  "theme": "circulation",
+  "order": 6,
+  "title_fr": "Reconnaître les panneaux",
+  "title_uk": "Як розпізнавати знаки",
+  "minutes": 5,
+  "tags": [
+   "signalisation"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "La **forme** et la **couleur** d'un panneau indiquent sa famille, même de loin :",
+    "uk": "**Форма** й **колір** знака одразу показують його групу, навіть здалеку:"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Forme",
+      "uk": "Форма"
+     },
+     {
+      "fr": "Famille",
+      "uk": "Група"
+     },
+     {
+      "fr": "Exemple",
+      "uk": "Приклад"
+     }
+    ],
+    "rows": [
+     [
+      "Triangle rouge, pointe en haut",
+      "**Danger** : je ralentis, je suis prudent",
+      "A4, A13a"
+     ],
+     [
+      "Rond à bord rouge",
+      "**Interdiction**",
+      "B1, B3, B14"
+     ],
+     [
+      "Rond bleu",
+      "**Obligation**",
+      "B21-1, B22a"
+     ],
+     [
+      "Rond avec barre noire ou grise",
+      "**Fin d'interdiction**",
+      "B31, B33, B34"
+     ],
+     [
+      "Carré ou rectangle bleu",
+      "**Indication**",
+      "C12, C20a"
+     ],
+     [
+      "Losange jaune / triangle pointe en bas / octogone",
+      "**Intersection et priorité**",
+      "AB6, AB3a, AB4"
+     ]
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A14",
+     "B0",
+     "B21b",
+     "B31",
+     "C12"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Les **panonceaux** (petits panneaux sous le principal, catégorie M) précisent : distance, longueur de la section, véhicules concernés, heures…",
+    "uk": "**Таблички** (маленькі знаки під основним, категорія M) уточнюють: відстань, довжину ділянки, тип транспорту, години дії…"
+   },
+   {
+    "t": "p",
+    "fr": "Une **interdiction** s'applique en général jusqu'à la **prochaine intersection**, sauf si un panonceau ou un panneau de fin dit autre chose. La limitation de vitesse fait exception : elle dure jusqu'au panneau de fin ou au nouveau panneau.",
+    "uk": "**Заборона** зазвичай діє до **найближчого перехрестя**, якщо табличка чи знак кінця не кажуть інакше. Виняток — обмеження швидкості: діє до знака кінця або нового обмеження."
+   },
+   {
+    "t": "p",
+    "fr": "En **zone** (zone 30, zone de rencontre, aire piétonne), les règles valent dans toute la zone jusqu'au panneau de sortie.",
+    "uk": "У **зоні** (зона 30, зона зустрічі, пішохідна зона) правила діють на всій території до знака виїзду."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "B30",
+     "B51",
+     "B52",
+     "B54"
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Les panneaux **temporaires** (travaux) ont un fond **jaune** et sont prioritaires sur les panneaux permanents.",
+    "uk": "**Тимчасові** знаки (ремонт) мають **жовтий** фон і важливіші за постійні."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Triangle = danger ; rond rouge = interdiction ; rond bleu = obligation ; carré bleu = indication.",
+    "uk": "Трикутник — небезпека; червоне коло — заборона; синє коло — наказ; синій квадрат — інформація."
+   },
+   {
+    "fr": "Une interdiction cesse à la prochaine intersection, sauf vitesse.",
+    "uk": "Заборона діє до перехрестя, крім обмеження швидкості."
+   },
+   {
+    "fr": "Panneaux jaunes de travaux > panneaux permanents.",
+    "uk": "Жовті тимчасові знаки важливіші за постійні."
+   }
+  ]
+ }
+]

@@ -26,7 +26,12 @@
       "A"
     ],
     "explanation_fr": "Le panneau AB2 annonce une intersection où les usagers de la route que je vais croiser doivent me céder le passage. La priorité ne vaut que pour cette intersection.",
-    "explanation_uk": "Знак AB2 попереджає про перехрестя, де учасники руху з другорядної дороги мають поступитися мені. Перевага діє лише на цьому перехресті."
+    "explanation_uk": "Знак AB2 попереджає про перехрестя, де учасники руху з другорядної дороги мають поступитися мені. Перевага діє лише на цьому перехресті.",
+    "tags": [
+      "signalisation",
+      "intersection"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q032",
@@ -56,7 +61,12 @@
       "C"
     ],
     "explanation_fr": "Le panneau A4 annonce une chaussée particulièrement glissante : je réduis ma vitesse et j'évite les freinages brusques.",
-    "explanation_uk": "Знак A4 попереджає про особливо слизьку дорогу: я знижую швидкість і уникаю різкого гальмування."
+    "explanation_uk": "Знак A4 попереджає про особливо слизьку дорогу: я знижую швидкість і уникаю різкого гальмування.",
+    "tags": [
+      "signalisation",
+      "meteo"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q033",
@@ -86,7 +96,11 @@
       "B"
     ],
     "explanation_fr": "Demi-tour et marche arrière sont strictement interdits sur autoroute, y compris sur la bande d'arrêt d'urgence. Le dépassement se fait par la gauche.",
-    "explanation_uk": "Розворот і рух заднім ходом на автомагістралі суворо заборонені, навіть на смузі аварійної зупинки. Обганяють зліва."
+    "explanation_uk": "Розворот і рух заднім ходом на автомагістралі суворо заборонені, навіть на смузі аварійної зупинки. Обганяють зліва.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q034",
@@ -116,7 +130,11 @@
       "B"
     ],
     "explanation_fr": "La voie d'accélération sert à atteindre une vitesse proche de celle du trafic. Je m'insère sans gêner les véhicules déjà présents, qui sont prioritaires.",
-    "explanation_uk": "Смуга розгону потрібна, щоб набрати швидкість, близьку до швидкості потоку. Я вливаюся, не заважаючи тим, хто вже їде: вони мають перевагу."
+    "explanation_uk": "Смуга розгону потрібна, щоб набрати швидкість, близьку до швидкості потоку. Я вливаюся, не заважаючи тим, хто вже їде: вони мають перевагу.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q035",
@@ -145,7 +163,12 @@
       "B"
     ],
     "explanation_fr": "Sur route mouillée, l'adhérence baisse : la distance de freinage augmente fortement (environ 1,5 fois et plus). Il faut ralentir et augmenter les distances.",
-    "explanation_uk": "На мокрій дорозі зчеплення гірше: гальмівний шлях сильно зростає (приблизно в 1,5 раза і більше). Треба знизити швидкість і збільшити дистанцію."
+    "explanation_uk": "На мокрій дорозі зчеплення гірше: гальмівний шлях сильно зростає (приблизно в 1,5 раза і більше). Треба знизити швидкість і збільшити дистанцію.",
+    "tags": [
+      "meteo",
+      "distances"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q036",
@@ -175,7 +198,11 @@
       "C"
     ],
     "explanation_fr": "En aquaplaning, les pneus ne touchent plus la route : on ne freine pas, on relâche l'accélérateur et on garde les roues droites jusqu'à retrouver l'adhérence.",
-    "explanation_uk": "Під час аквапланування шини не торкаються дороги: не гальмуємо, відпускаємо газ і тримаємо колеса прямо, поки зчеплення не відновиться."
+    "explanation_uk": "Під час аквапланування шини не торкаються дороги: не гальмуємо, відпускаємо газ і тримаємо колеса прямо, поки зчеплення не відновиться.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q037",
@@ -205,7 +232,11 @@
       "C"
     ],
     "explanation_fr": "On adapte sa vitesse avant le virage, en ligne droite. Freiner fort en plein virage peut faire perdre le contrôle. On reste bien à droite, surtout sans visibilité.",
-    "explanation_uk": "Швидкість знижують ще на прямій, до повороту. Різке гальмування в повороті може призвести до втрати керування. Тримаються правіше, особливо коли погано видно."
+    "explanation_uk": "Швидкість знижують ще на прямій, до повороту. Різке гальмування в повороті може призвести до втрати керування. Тримаються правіше, особливо коли погано видно.",
+    "tags": [
+      "vitesse"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q038",
@@ -235,7 +266,12 @@
       "B"
     ],
     "explanation_fr": "Dans un tunnel, les feux de croisement sont obligatoires, même éclairé. Le demi-tour et la marche arrière y sont interdits.",
-    "explanation_uk": "У тунелі ближнє світло обов'язкове, навіть якщо він освітлений. Розворот і задній хід там заборонені."
+    "explanation_uk": "У тунелі ближнє світло обов'язкове, навіть якщо він освітлений. Розворот і задній хід там заборонені.",
+    "tags": [
+      "montagne",
+      "nuit"
+    ],
+    "difficulty": 2
   },
   {
     "id": "q039",
@@ -264,7 +300,11 @@
       "A"
     ],
     "explanation_fr": "La ligne d'avertissement prévient qu'une ligne continue arrive : il faut éviter de commencer un dépassement.",
-    "explanation_uk": "Попереджувальна лінія повідомляє, що скоро буде суцільна: не варто починати обгін."
+    "explanation_uk": "Попереджувальна лінія повідомляє, що скоро буде суцільна: не варто починати обгін.",
+    "tags": [
+      "marquage"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q040",
@@ -293,7 +333,11 @@
       "A"
     ],
     "explanation_fr": "En montagne, c'est le véhicule descendant qui doit se ranger et, si nécessaire, reculer, car redémarrer en montée est plus difficile.",
-    "explanation_uk": "У горах поступається авто, що їде вниз, і за потреби здає назад, бо рушати вгору складніше."
+    "explanation_uk": "У горах поступається авто, що їде вниз, і за потреби здає назад, бо рушати вгору складніше.",
+    "tags": [
+      "montagne"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q041",
@@ -322,7 +366,13 @@
       "A"
     ],
     "explanation_fr": "Panneau rond bleu B26 : les chaînes à neige (ou équipements équivalents autorisés) sont obligatoires sur au moins deux roues motrices.",
-    "explanation_uk": "Круглий синій знак B26: снігові ланцюги (або дозволені аналоги) обов'язкові щонайменше на двох ведучих колесах."
+    "explanation_uk": "Круглий синій знак B26: снігові ланцюги (або дозволені аналоги) обов'язкові щонайменше на двох ведучих колесах.",
+    "tags": [
+      "signalisation",
+      "meteo",
+      "montagne"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q042",
@@ -351,7 +401,12 @@
       "B"
     ],
     "explanation_fr": "En zone de rencontre, la vitesse est limitée à 20 km/h et les piétons sont prioritaires ; ils peuvent circuler sur la chaussée.",
-    "explanation_uk": "У зоні зустрічі швидкість обмежена 20 км/год, пішоходи мають перевагу й можуть ходити проїжджою частиною."
+    "explanation_uk": "У зоні зустрічі швидкість обмежена 20 км/год, пішоходи мають перевагу й можуть ходити проїжджою частиною.",
+    "tags": [
+      "vitesse",
+      "pietons"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q043",
@@ -380,7 +435,11 @@
       "B"
     ],
     "explanation_fr": "Les routes à chaussées séparées (hors autoroutes) sont limitées à 110 km/h, ramenées à 100 km/h par temps de pluie.",
-    "explanation_uk": "Дороги з розділеними проїжджими частинами (крім автомагістралей) обмежені 110 км/год, у дощ — 100 км/год."
+    "explanation_uk": "Дороги з розділеними проїжджими частинами (крім автомагістралей) обмежені 110 км/год, у дощ — 100 км/год.",
+    "tags": [
+      "vitesse"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q044",
@@ -409,7 +468,11 @@
       "A"
     ],
     "explanation_fr": "Les feux de route éclairent à environ 100 m. Je repasse en feux de croisement dès que je croise ou suis un autre véhicule, pour ne pas l'éblouir.",
-    "explanation_uk": "Дальнє світло освітлює приблизно на 100 м. Я перемикаюся на ближнє, щойно хтось їде назустріч або попереду, щоб не засліпити."
+    "explanation_uk": "Дальнє світло освітлює приблизно на 100 м. Я перемикаюся на ближнє, щойно хтось їде назустріч або попереду, щоб не засліпити.",
+    "tags": [
+      "nuit"
+    ],
+    "difficulty": 1
   },
   {
     "id": "q045",
@@ -438,6 +501,2397 @@
       "A"
     ],
     "explanation_fr": "Le panneau A3 annonce un rétrécissement de la chaussée. Je ralentis et je serre à droite, en restant attentif aux véhicules venant en face.",
-    "explanation_uk": "Знак A3 попереджає про звуження дороги. Я пригальмовую й тримаюся правіше, стежачи за зустрічним транспортом."
+    "explanation_uk": "Знак A3 попереджає про звуження дороги. Я пригальмовую й тримаюся правіше, стежачи за зустрічним транспортом.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q201",
+    "theme": "route",
+    "image": "signs/C207.svg",
+    "question_fr": "Ce panneau indique :",
+    "question_uk": "Цей знак позначає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le début d'une autoroute",
+        "uk": "початок автомагістралі"
+      },
+      {
+        "id": "B",
+        "fr": "une route à chaussées séparées sans règles particulières",
+        "uk": "розділену дорогу без особливих правил"
+      },
+      {
+        "id": "C",
+        "fr": "une voie réservée aux poids lourds",
+        "uk": "смугу для вантажівок"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "C207 signale l'entrée sur autoroute : vitesse 130 km/h (temps sec), interdictions d'arrêt, de demi-tour et de marche arrière.",
+    "explanation_uk": "C207 — початок автомагістралі: 130 км/год (суха погода), заборонені зупинка, розворот і задній хід.",
+    "tags": [
+      "autoroute",
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q202",
+    "theme": "route",
+    "image": "signs/C107.svg",
+    "question_fr": "Sur une route signalée par ce panneau (voie express) :",
+    "question_uk": "На дорозі з цим знаком (швидкісна дорога):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les piétons, cycles et véhicules lents sont interdits",
+        "uk": "пішоходам, велосипедам і повільному транспорту рух заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "l'arrêt et le stationnement sont interdits sur la chaussée",
+        "uk": "зупинка й стоянка на проїжджій частині заборонені"
+      },
+      {
+        "id": "C",
+        "fr": "la vitesse minimale est de 130 km/h",
+        "uk": "мінімальна швидкість — 130 км/год"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les routes à accès réglementé (C107) obéissent à des règles proches de l'autoroute : accès interdit aux usagers lents, arrêt interdit. La vitesse max dépend du type de route (souvent 110 km/h).",
+    "explanation_uk": "Дороги з регульованим доступом (C107) мають правила, близькі до автомагістралі: повільним учасникам в'їзд заборонено, зупинка заборонена. Ліміт залежить від типу дороги (часто 110 км/год).",
+    "tags": [
+      "autoroute",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q203",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur autoroute, je roule normalement :",
+    "question_uk": "На автомагістралі я зазвичай їду:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur la voie de droite",
+        "uk": "правою смугою"
+      },
+      {
+        "id": "B",
+        "fr": "sur la voie du milieu",
+        "uk": "середньою смугою"
+      },
+      {
+        "id": "C",
+        "fr": "sur la voie de gauche",
+        "uk": "лівою смугою"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le principe est de rouler à droite ; les voies de gauche servent au dépassement. Rester sur la voie du milieu sans raison gêne la circulation.",
+    "explanation_uk": "Принцип — їхати праворуч; ліві смуги для обгону. Без потреби займати середню смугу — заважати руху.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q204",
+    "theme": "route",
+    "image": null,
+    "question_fr": "J'ai manqué ma sortie sur l'autoroute :",
+    "question_uk": "Я проминув свій з'їзд на автомагістралі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je fais marche arrière sur la bande d'arrêt d'urgence",
+        "uk": "здаю назад смугою аварійної зупинки"
+      },
+      {
+        "id": "B",
+        "fr": "je continue jusqu'à la sortie suivante",
+        "uk": "їду до наступного з'їзду"
+      },
+      {
+        "id": "C",
+        "fr": "je fais demi-tour par le terre-plein",
+        "uk": "розвертаюся через розділювальну смугу"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Marche arrière et demi-tour sont strictement interdits et très dangereux sur autoroute. Je prends la sortie suivante.",
+    "explanation_uk": "Задній хід і розворот на автомагістралі суворо заборонені й дуже небезпечні. Їду до наступного з'їзду.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q205",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur autoroute, pour quitter la voie de circulation, je ralentis :",
+    "question_uk": "На автомагістралі, щоб з'їхати, я гальмую:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur la voie de décélération",
+        "uk": "на смузі гальмування"
+      },
+      {
+        "id": "B",
+        "fr": "sur la voie de droite avant la sortie",
+        "uk": "у правій смузі перед з'їздом"
+      },
+      {
+        "id": "C",
+        "fr": "après la sortie, sur la bretelle",
+        "uk": "після з'їзду, на рампі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je mets mon clignotant tôt, je m'engage sur la voie de décélération sans freiner sur l'autoroute, puis je ralentis sur cette voie.",
+    "explanation_uk": "Заздалегідь вмикаю поворотник, заїжджаю на смугу гальмування, не гальмуючи на магістралі, і вже там знижую швидкість.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q206",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Un bouchon se forme brusquement devant moi sur l'autoroute :",
+    "question_uk": "Попереду на автомагістралі раптом утворився затор:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'allume mes feux de détresse pour prévenir",
+        "uk": "вмикаю аварійку, щоб попередити тих, хто позаду"
+      },
+      {
+        "id": "B",
+        "fr": "je freine progressivement en surveillant mon rétroviseur",
+        "uk": "гальмую поступово, стежачи за дзеркалом"
+      },
+      {
+        "id": "C",
+        "fr": "je me range sur la bande d'arrêt d'urgence",
+        "uk": "з'їжджаю на смугу аварійної зупинки"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les feux de détresse avertissent les véhicules qui suivent d'un ralentissement brusque. La BAU reste réservée aux urgences.",
+    "explanation_uk": "Аварійка попереджає задніх про різке сповільнення. Смуга аварійної зупинки — лише для аварійних ситуацій.",
+    "tags": [
+      "autoroute",
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q207",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Le « corridor de sécurité » consiste à :",
+    "question_uk": "«Коридор безпеки» — це:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "s'écarter pour laisser passer les véhicules de secours entre les files",
+        "uk": "з'їхати вбік, щоб між рядами пройшли рятувальники"
+      },
+      {
+        "id": "B",
+        "fr": "rouler sur la BAU dans les bouchons",
+        "uk": "їхати смугою аварійної зупинки в заторі"
+      },
+      {
+        "id": "C",
+        "fr": "garder 2 secondes avec le véhicule devant",
+        "uk": "тримати 2 секунди до авто попереду"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Dans un bouchon ou à l'approche d'une intervention, on se décale pour créer un passage aux véhicules de secours et d'intervention.",
+    "explanation_uk": "У заторі чи біля місця роботи служб треба зміститися, щоб звільнити проїзд для рятувальників.",
+    "tags": [
+      "autoroute",
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q208",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur une autoroute à 3 voies, la voie de gauche est :",
+    "question_uk": "На автомагістралі з 3 смугами ліва смуга:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "interdite aux poids lourds de plus de 3,5 t",
+        "uk": "заборонена для вантажівок понад 3,5 т"
+      },
+      {
+        "id": "B",
+        "fr": "réservée aux véhicules de secours",
+        "uk": "лише для рятувальників"
+      },
+      {
+        "id": "C",
+        "fr": "utilisée pour dépasser",
+        "uk": "використовується для обгону"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Sur les routes à 3 voies ou plus dans un sens, les poids lourds de plus de 3,5 t ne peuvent pas utiliser la voie la plus à gauche. Elle sert au dépassement.",
+    "explanation_uk": "На дорогах з 3 і більше смугами в одному напрямку вантажівки понад 3,5 т не можуть їхати крайньою лівою. Вона для обгону.",
+    "tags": [
+      "autoroute",
+      "lourds"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q209",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Par fortes pluies, mes essuie-glaces ne suffisent plus à assurer la visibilité :",
+    "question_uk": "У сильну зливу двірники вже не справляються:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ralentis fortement",
+        "uk": "сильно знижую швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "je m'arrête dans un endroit sûr si nécessaire",
+        "uk": "за потреби зупиняюся в безпечному місці"
+      },
+      {
+        "id": "C",
+        "fr": "j'allume les feux de route",
+        "uk": "вмикаю дальнє світло"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Si la visibilité devient très réduite, je ralentis et, si besoin, je m'arrête hors de la chaussée en attendant que l'averse diminue. Les feux de route aggravent la situation (reflets).",
+    "explanation_uk": "Якщо видимість дуже погана — знижую швидкість, а за потреби зупиняюся поза дорогою й чекаю. Дальнє світло лише погіршить ситуацію (відблиски).",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q210",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les premières gouttes de pluie après une période sèche rendent la route :",
+    "question_uk": "Перші краплі дощу після сухої погоди роблять дорогу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "particulièrement glissante",
+        "uk": "особливо слизькою"
+      },
+      {
+        "id": "B",
+        "fr": "plus adhérente",
+        "uk": "більш зчіпною"
+      },
+      {
+        "id": "C",
+        "fr": "sans changement",
+        "uk": "такою ж"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "L'eau se mélange à la poussière, à l'huile et à la gomme déposées : une pellicule très glissante se forme.",
+    "explanation_uk": "Вода змішується з пилом, оливою та гумою на асфальті: утворюється дуже слизька плівка.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q211",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Par brouillard, j'utilise :",
+    "question_uk": "У туман я вмикаю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les feux de croisement",
+        "uk": "ближнє світло"
+      },
+      {
+        "id": "B",
+        "fr": "les feux de brouillard avant",
+        "uk": "передні протитуманні фари"
+      },
+      {
+        "id": "C",
+        "fr": "les feux de route",
+        "uk": "дальнє світло"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Feux de croisement + antibrouillards avant. Les feux de route se réfléchissent dans le brouillard et éblouissent. L'antibrouillard arrière peut aussi être allumé.",
+    "explanation_uk": "Ближнє світло + передні протитуманні. Дальнє відбивається в тумані й засліплює. Задній протитуманний теж можна ввімкнути.",
+    "tags": [
+      "meteo",
+      "nuit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q212",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Le verglas se forme en priorité :",
+    "question_uk": "Ожеледь утворюється насамперед:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur les ponts",
+        "uk": "на мостах"
+      },
+      {
+        "id": "B",
+        "fr": "dans les zones à l'ombre et les sous-bois",
+        "uk": "у затінку та в лісі"
+      },
+      {
+        "id": "C",
+        "fr": "en plein soleil",
+        "uk": "на сонці"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les ponts refroidissent plus vite (air dessus et dessous) et l'ombre empêche le dégel : le verglas y persiste.",
+    "explanation_uk": "Мости швидше охолоджуються (повітря зверху й знизу), а в затінку не тане: там ожеледь тримається довше.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q213",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur la neige, pour démarrer et rouler, je :",
+    "question_uk": "На снігу, щоб рушити й їхати, я:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "démarre en 2e et j'accélère doucement",
+        "uk": "рушаю з 2-ї передачі й плавно додаю газ"
+      },
+      {
+        "id": "B",
+        "fr": "freine fort pour tester l'adhérence",
+        "uk": "різко гальмую, щоб перевірити зчеплення"
+      },
+      {
+        "id": "C",
+        "fr": "évite les gestes brusques",
+        "uk": "уникаю різких рухів"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Sur neige ou verglas : démarrage doux (souvent en 2e), accélérations, freinages et coups de volant progressifs, grandes distances de sécurité.",
+    "explanation_uk": "На снігу чи ожеледі: м'який старт (часто з 2-ї), плавні прискорення, гальмування й повороти керма, велика дистанція.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q214",
+    "theme": "route",
+    "image": null,
+    "question_fr": "La nuit, je dois repasser en feux de croisement :",
+    "question_uk": "Уночі я маю перемкнутися на ближнє світло:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "quand je croise un véhicule",
+        "uk": "коли зустрічаю авто"
+      },
+      {
+        "id": "B",
+        "fr": "quand je suis un véhicule de près",
+        "uk": "коли їду близько за іншим авто"
+      },
+      {
+        "id": "C",
+        "fr": "en agglomération éclairée",
+        "uk": "в освітленому населеному пункті"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "Les feux de route éblouissent ceux que je croise ou que je suis. En agglomération éclairée, ils sont inutiles et gênants.",
+    "explanation_uk": "Дальнє засліплює зустрічних і тих, хто попереду. В освітленому місті воно непотрібне й заважає.",
+    "tags": [
+      "nuit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q215",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Un véhicule en panne la nuit sur une route non éclairée doit être signalé par :",
+    "question_uk": "Авто, що зламалося вночі на неосвітленій дорозі, позначають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ses feux de détresse",
+        "uk": "аварійною сигналізацією"
+      },
+      {
+        "id": "B",
+        "fr": "le triangle de présignalisation",
+        "uk": "знаком аварійної зупинки"
+      },
+      {
+        "id": "C",
+        "fr": "ses feux de route",
+        "uk": "дальнім світлом"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Feux de détresse et triangle (à au moins 30 m) signalent le danger. Les occupants portent leur gilet et se mettent en sécurité.",
+    "explanation_uk": "Аварійка й трикутник (щонайменше за 30 м) попереджають про небезпеку. Люди одягають жилети й відходять у безпечне місце.",
+    "tags": [
+      "nuit",
+      "accident"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q216",
+    "theme": "route",
+    "image": null,
+    "question_fr": "En arrivant au sommet d'une côte sans visibilité :",
+    "question_uk": "Під'їжджаючи до вершини підйому без огляду:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je serre à droite",
+        "uk": "тримаюся правіше"
+      },
+      {
+        "id": "B",
+        "fr": "je dépasse rapidement",
+        "uk": "швидко обганяю"
+      },
+      {
+        "id": "C",
+        "fr": "je reste prêt à freiner",
+        "uk": "я готовий загальмувати"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Au sommet d'une côte, je ne vois pas ce qui arrive en face : je serre à droite, je ne dépasse pas et je modère ma vitesse.",
+    "explanation_uk": "На вершині підйому не видно, хто їде назустріч: тримаюся правіше, не обганяю й помірно знижую швидкість.",
+    "tags": [
+      "depassement",
+      "vitesse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q217",
+    "theme": "route",
+    "image": "signs/A16.svg",
+    "question_fr": "Ce panneau annonce :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une descente dangereuse",
+        "uk": "крутий спуск"
+      },
+      {
+        "id": "B",
+        "fr": "une montée raide",
+        "uk": "крутий підйом"
+      },
+      {
+        "id": "C",
+        "fr": "un passage pour camions",
+        "uk": "проїзд вантажівок"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A16 : descente dangereuse. J'adapte ma vitesse avant la pente et j'utilise le frein moteur pour ne pas surchauffer les freins.",
+    "explanation_uk": "A16: крутий спуск. Знижую швидкість до спуску й гальмую двигуном, щоб не перегріти гальма.",
+    "tags": [
+      "signalisation",
+      "montagne"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q218",
+    "theme": "route",
+    "image": "signs/A19.svg",
+    "question_fr": "Ce panneau signale :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un risque de chute de pierres",
+        "uk": "ризик падіння каміння"
+      },
+      {
+        "id": "B",
+        "fr": "des travaux",
+        "uk": "дорожні роботи"
+      },
+      {
+        "id": "C",
+        "fr": "une route en mauvais état",
+        "uk": "погану дорогу"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A19 : chute de pierres possible. Je reste attentif à la chaussée et j'évite de m'arrêter dans cette zone.",
+    "explanation_uk": "A19: можливе падіння каміння. Уважно стежу за дорогою й не зупиняюся на цій ділянці.",
+    "tags": [
+      "signalisation",
+      "montagne"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q219",
+    "theme": "route",
+    "image": "signs/A24.svg",
+    "question_fr": "Ce panneau signale :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un vent latéral",
+        "uk": "боковий вітер"
+      },
+      {
+        "id": "B",
+        "fr": "un aéroport",
+        "uk": "аеропорт"
+      },
+      {
+        "id": "C",
+        "fr": "une zone de stationnement",
+        "uk": "зону стоянки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A24 : vent latéral (manche à air). Je tiens fermement le volant et je suis prudent en dépassant ou en étant dépassé par un poids lourd.",
+    "explanation_uk": "A24: боковий вітер (вітровказ). Міцно тримаю кермо й обережно обганяю вантажівки або коли вони обганяють мене.",
+    "tags": [
+      "signalisation",
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q220",
+    "theme": "route",
+    "image": "signs/A7.svg",
+    "question_fr": "Ce panneau annonce :",
+    "question_uk": "Цей знак попереджає про:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un passage à niveau avec barrières",
+        "uk": "залізничний переїзд зі шлагбаумом"
+      },
+      {
+        "id": "B",
+        "fr": "un passage à niveau sans barrière",
+        "uk": "переїзд без шлагбаума"
+      },
+      {
+        "id": "C",
+        "fr": "un parking",
+        "uk": "парковку"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A7 (barrière) : passage à niveau muni de barrières ou demi-barrières. A8 (locomotive) : sans barrière.",
+    "explanation_uk": "A7 (шлагбаум): переїзд зі шлагбаумом або напівшлагбаумом. A8 (паровоз): без шлагбаума.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q221",
+    "theme": "route",
+    "image": null,
+    "question_fr": "À un passage à niveau, la circulation est ralentie et je risque de m'arrêter sur les voies :",
+    "question_uk": "Перед переїздом затор, і я можу зупинитися на коліях:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'engage quand même",
+        "uk": "все одно заїжджаю"
+      },
+      {
+        "id": "B",
+        "fr": "j'attends de pouvoir dégager entièrement les voies",
+        "uk": "чекаю, доки зможу повністю проїхати колії"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne",
+        "uk": "сигналю"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Je ne m'engage sur un passage à niveau que si je suis sûr de pouvoir le franchir sans m'y arrêter.",
+    "explanation_uk": "Заїжджаю на переїзд, лише якщо впевнений, що проїду його без зупинки.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q222",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Dans un tunnel, en cas d'incendie de mon véhicule, je dois :",
+    "question_uk": "У тунелі загорілося моє авто. Я маю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "m'arrêter, couper le moteur et sortir",
+        "uk": "зупинитися, заглушити двигун і вийти"
+      },
+      {
+        "id": "B",
+        "fr": "rejoindre à pied une issue de secours",
+        "uk": "пішки дійти до аварійного виходу"
+      },
+      {
+        "id": "C",
+        "fr": "continuer pour sortir du tunnel si possible",
+        "uk": "якщо можливо, виїхати з тунелю"
+      }
+    ],
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation_fr": "Si possible, je sors du tunnel avec le véhicule. Sinon, je m'arrête, coupe le moteur, laisse la clé et rejoins l'issue de secours la plus proche, puis j'alerte.",
+    "explanation_uk": "Якщо можна — виїжджаю з тунелю. Якщо ні — зупиняюся, глушу двигун, лишаю ключ, іду до найближчого аварійного виходу й викликаю допомогу.",
+    "tags": [
+      "montagne",
+      "accident"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q223",
+    "theme": "route",
+    "image": null,
+    "question_fr": "En descente de montagne, pour ne pas surchauffer les freins, j'utilise :",
+    "question_uk": "На гірському спуску, щоб не перегріти гальма, я використовую:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le frein moteur",
+        "uk": "гальмування двигуном"
+      },
+      {
+        "id": "B",
+        "fr": "le point mort",
+        "uk": "нейтральну передачу"
+      },
+      {
+        "id": "C",
+        "fr": "uniquement le frein à main",
+        "uk": "лише ручне гальмо"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je garde un rapport engagé (souvent celui de la montée). Le point mort supprime le frein moteur et oblige à freiner en permanence.",
+    "explanation_uk": "Тримаю передачу ввімкненою (часто ту саму, що на підйомі). На нейтралі немає гальмування двигуном, і доводиться весь час тиснути на гальмо.",
+    "tags": [
+      "montagne",
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q224",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur route mouillée, la distance de freinage :",
+    "question_uk": "На мокрій дорозі гальмівний шлях:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente d'environ la moitié ou plus",
+        "uk": "збільшується приблизно в 1,5 раза або більше"
+      },
+      {
+        "id": "B",
+        "fr": "est divisée par deux",
+        "uk": "зменшується вдвічі"
+      },
+      {
+        "id": "C",
+        "fr": "ne change pas avec l'ABS",
+        "uk": "з ABS не змінюється"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Sur sol mouillé, l'adhérence diminue : la distance de freinage s'allonge d'environ 50 %, même avec l'ABS.",
+    "explanation_uk": "На мокрому зчеплення гірше: гальмівний шлях довший приблизно на 50 %, навіть з ABS.",
+    "tags": [
+      "meteo",
+      "distances"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q225",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les gravillons sur la chaussée :",
+    "question_uk": "Гравій на дорозі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "réduisent l'adhérence",
+        "uk": "погіршує зчеплення"
+      },
+      {
+        "id": "B",
+        "fr": "peuvent être projetés sur les autres véhicules",
+        "uk": "може вилітати на інші авто"
+      },
+      {
+        "id": "C",
+        "fr": "permettent de freiner plus court",
+        "uk": "дає змогу гальмувати коротше"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Sur gravillons, je ralentis, je garde mes distances et j'évite les freinages et accélérations brusques.",
+    "explanation_uk": "На гравії знижую швидкість, тримаю дистанцію й не гальмую та не прискорююся різко.",
+    "tags": [
+      "meteo",
+      "distances"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q417",
+    "theme": "route",
+    "image": "signs/A1a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Traversée de voies de tramways",
+        "uk": "Перетин трамвайної колії"
+      },
+      {
+        "id": "B",
+        "fr": "Passage d'animaux domestiques",
+        "uk": "Перегін домашніх тварин"
+      },
+      {
+        "id": "C",
+        "fr": "Virage à droite",
+        "uk": "Небезпечний поворот праворуч"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (A1a) signifie : « Virage à droite ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A1a) означає: «Небезпечний поворот праворуч». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q418",
+    "theme": "route",
+    "image": "signs/A1b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Virage à gauche",
+        "uk": "Небезпечний поворот ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Passage de cavaliers",
+        "uk": "Вершники на дорозі"
+      },
+      {
+        "id": "C",
+        "fr": "Passage à niveau muni de barrières",
+        "uk": "Залізничний переїзд зі шлагбаумом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A1b) signifie : « Virage à gauche ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A1b) означає: «Небезпечний поворот ліворуч». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q419",
+    "theme": "route",
+    "image": "signs/A1c.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Succession de virages dont le premier à droite",
+        "uk": "Кілька поворотів, перший — праворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Chaussée particulièrement glissante",
+        "uk": "Слизька дорога"
+      },
+      {
+        "id": "C",
+        "fr": "Chaussée rétrécie par la droite",
+        "uk": "Звуження дороги справа"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A1c) signifie : « Succession de virages dont le premier à droite ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A1c) означає: «Кілька поворотів, перший — праворуч». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q420",
+    "theme": "route",
+    "image": "signs/A1d.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Traversée de voies de tramways",
+        "uk": "Перетин трамвайної колії"
+      },
+      {
+        "id": "B",
+        "fr": "Succession de virages dont le premier à gauche",
+        "uk": "Кілька поворотів, перший — ліворуч"
+      },
+      {
+        "id": "C",
+        "fr": "Débouché de cyclistes",
+        "uk": "Виїзд велосипедистів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A1d) signifie : « Succession de virages dont le premier à gauche ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A1d) означає: «Кілька поворотів, перший — ліворуч». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q421",
+    "theme": "route",
+    "image": "signs/A2a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Cassis ou dos-d'âne",
+        "uk": "Вибоїна або горб на дорозі"
+      },
+      {
+        "id": "B",
+        "fr": "Passage d'animaux domestiques",
+        "uk": "Перегін домашніх тварин"
+      },
+      {
+        "id": "C",
+        "fr": "Succession de virages dont le premier à droite",
+        "uk": "Кілька поворотів, перший — праворуч"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A2a) signifie : « Cassis ou dos-d'âne ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A2a) означає: «Вибоїна або горб на дорозі». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q422",
+    "theme": "route",
+    "image": "signs/A2b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Ralentisseur de type dos-d'âne",
+        "uk": "Штучна нерівність (лежачий поліцейський)"
+      },
+      {
+        "id": "B",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід (попередження)"
+      },
+      {
+        "id": "C",
+        "fr": "Chaussée rétrécie par la gauche",
+        "uk": "Звуження дороги зліва"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A2b) signifie : « Ralentisseur de type dos-d'âne ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A2b) означає: «Штучна нерівність (лежачий поліцейський)». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q423",
+    "theme": "route",
+    "image": "signs/A3a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Autres dangers",
+        "uk": "Інша небезпека"
+      },
+      {
+        "id": "B",
+        "fr": "Chaussée rétrécie par la droite",
+        "uk": "Звуження дороги справа"
+      },
+      {
+        "id": "C",
+        "fr": "Débouché de cyclistes",
+        "uk": "Виїзд велосипедистів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A3a) signifie : « Chaussée rétrécie par la droite ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A3a) означає: «Звуження дороги справа». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q424",
+    "theme": "route",
+    "image": "signs/A3b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Passage d'animaux sauvages",
+        "uk": "Дикі тварини"
+      },
+      {
+        "id": "B",
+        "fr": "Chaussée rétrécie par la droite",
+        "uk": "Звуження дороги справа"
+      },
+      {
+        "id": "C",
+        "fr": "Chaussée rétrécie par la gauche",
+        "uk": "Звуження дороги зліва"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (A3b) signifie : « Chaussée rétrécie par la gauche ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A3b) означає: «Звуження дороги зліва». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q425",
+    "theme": "route",
+    "image": "signs/A6.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Débouché de cyclistes",
+        "uk": "Виїзд велосипедистів"
+      },
+      {
+        "id": "B",
+        "fr": "Pont mobile",
+        "uk": "Розвідний міст"
+      },
+      {
+        "id": "C",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід (попередження)"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A6) signifie : « Pont mobile ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A6) означає: «Розвідний міст». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q426",
+    "theme": "route",
+    "image": "signs/A8.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Risque de chute de pierres",
+        "uk": "Падіння каміння"
+      },
+      {
+        "id": "B",
+        "fr": "Passage à niveau sans barrière",
+        "uk": "Залізничний переїзд без шлагбаума"
+      },
+      {
+        "id": "C",
+        "fr": "Annonce de feux tricolores",
+        "uk": "Попереду світлофор"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A8) signifie : « Passage à niveau sans barrière ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A8) означає: «Залізничний переїзд без шлагбаума». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q427",
+    "theme": "route",
+    "image": "signs/A13a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Chaussée particulièrement glissante",
+        "uk": "Слизька дорога"
+      },
+      {
+        "id": "B",
+        "fr": "Passage à niveau sans barrière",
+        "uk": "Залізничний переїзд без шлагбаума"
+      },
+      {
+        "id": "C",
+        "fr": "Endroit fréquenté par les enfants",
+        "uk": "Місце, де часто бувають діти"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (A13a) signifie : « Endroit fréquenté par les enfants ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A13a) означає: «Місце, де часто бувають діти». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q428",
+    "theme": "route",
+    "image": "signs/A13b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Succession de virages dont le premier à gauche",
+        "uk": "Кілька поворотів, перший — ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід (попередження)"
+      },
+      {
+        "id": "C",
+        "fr": "Passage d'animaux domestiques",
+        "uk": "Перегін домашніх тварин"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A13b) signifie : « Passage pour piétons ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A13b) означає: «Пішохідний перехід (попередження)». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q429",
+    "theme": "route",
+    "image": "signs/A14.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Autres dangers",
+        "uk": "Інша небезпека"
+      },
+      {
+        "id": "B",
+        "fr": "Circulation dans les deux sens",
+        "uk": "Двосторонній рух"
+      },
+      {
+        "id": "C",
+        "fr": "Traversée de voies de tramways",
+        "uk": "Перетин трамвайної колії"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A14) signifie : « Autres dangers ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A14) означає: «Інша небезпека». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q430",
+    "theme": "route",
+    "image": "signs/A15a1.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Passage d'animaux domestiques",
+        "uk": "Перегін домашніх тварин"
+      },
+      {
+        "id": "B",
+        "fr": "Vent latéral",
+        "uk": "Боковий вітер"
+      },
+      {
+        "id": "C",
+        "fr": "Succession de virages dont le premier à droite",
+        "uk": "Кілька поворотів, перший — праворуч"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (A15a1) signifie : « Passage d'animaux domestiques ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A15a1) означає: «Перегін домашніх тварин». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q431",
+    "theme": "route",
+    "image": "signs/A15c.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Circulation dans les deux sens",
+        "uk": "Двосторонній рух"
+      },
+      {
+        "id": "B",
+        "fr": "Chaussée particulièrement glissante",
+        "uk": "Слизька дорога"
+      },
+      {
+        "id": "C",
+        "fr": "Passage de cavaliers",
+        "uk": "Вершники на дорозі"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (A15c) signifie : « Passage de cavaliers ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A15c) означає: «Вершники на дорозі». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q432",
+    "theme": "route",
+    "image": "signs/A17.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Virage à droite",
+        "uk": "Небезпечний поворот праворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Annonce de feux tricolores",
+        "uk": "Попереду світлофор"
+      },
+      {
+        "id": "C",
+        "fr": "Chaussée rétrécie par la droite",
+        "uk": "Звуження дороги справа"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A17) signifie : « Annonce de feux tricolores ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A17) означає: «Попереду світлофор». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q433",
+    "theme": "route",
+    "image": "signs/A18.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Descente dangereuse",
+        "uk": "Крутий спуск"
+      },
+      {
+        "id": "B",
+        "fr": "Circulation dans les deux sens",
+        "uk": "Двосторонній рух"
+      },
+      {
+        "id": "C",
+        "fr": "Passage d'animaux sauvages",
+        "uk": "Дикі тварини"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A18) signifie : « Circulation dans les deux sens ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A18) означає: «Двосторонній рух». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q434",
+    "theme": "route",
+    "image": "signs/A20.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Chaussée rétrécie par la droite",
+        "uk": "Звуження дороги справа"
+      },
+      {
+        "id": "B",
+        "fr": "Débouché sur un quai ou une berge",
+        "uk": "Виїзд на набережну або берег"
+      },
+      {
+        "id": "C",
+        "fr": "Succession de virages dont le premier à gauche",
+        "uk": "Кілька поворотів, перший — ліворуч"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A20) signifie : « Débouché sur un quai ou une berge ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A20) означає: «Виїзд на набережну або берег». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q435",
+    "theme": "route",
+    "image": "signs/A21.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Chaussée particulièrement glissante",
+        "uk": "Слизька дорога"
+      },
+      {
+        "id": "B",
+        "fr": "Débouché de cyclistes",
+        "uk": "Виїзд велосипедистів"
+      },
+      {
+        "id": "C",
+        "fr": "Pont mobile",
+        "uk": "Розвідний міст"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (A21) signifie : « Débouché de cyclistes ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A21) означає: «Виїзд велосипедистів». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q436",
+    "theme": "route",
+    "image": "signs/A23.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Succession de virages dont le premier à gauche",
+        "uk": "Кілька поворотів, перший — ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Descente dangereuse",
+        "uk": "Крутий спуск"
+      },
+      {
+        "id": "C",
+        "fr": "Traversée d'une aire de danger aérien",
+        "uk": "Низько літаючі літаки"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (A23) signifie : « Traversée d'une aire de danger aérien ». Panneau de danger (triangle à bord rouge) : il annonce un danger, généralement à environ 150 m hors agglomération et 50 m en agglomération. Je ralentis et redouble de prudence.",
+    "explanation_uk": "Цей знак (A23) означає: «Низько літаючі літаки». Попереджувальний знак (трикутник із червоною облямівкою): попереджає про небезпеку, зазвичай приблизно за 150 м поза містом і за 50 м у місті. Пригальмовую й будь особливо уважним.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q437",
+    "theme": "route",
+    "image": "signs/C1a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Section d'autoroute",
+        "uk": "Автомагістраль"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de route à accès réglementé",
+        "uk": "Кінець швидкісної дороги"
+      },
+      {
+        "id": "C",
+        "fr": "Lieu aménagé pour le stationnement",
+        "uk": "Місце для стоянки (парковка)"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (C1a) signifie : « Lieu aménagé pour le stationnement ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C1a) означає: «Місце для стоянки (парковка)». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q438",
+    "theme": "route",
+    "image": "signs/C4a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Vitesse conseillée (ici 50 km/h)",
+        "uk": "Рекомендована швидкість (тут 50 км/год)"
+      },
+      {
+        "id": "B",
+        "fr": "Piste ou bande cyclable conseillée",
+        "uk": "Рекомендована велодоріжка"
+      },
+      {
+        "id": "C",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (C4a) signifie : « Vitesse conseillée (ici 50 km/h) ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C4a) означає: «Рекомендована швидкість (тут 50 км/год)». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q439",
+    "theme": "route",
+    "image": "signs/C8.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin de section d'autoroute",
+        "uk": "Кінець автомагістралі"
+      },
+      {
+        "id": "B",
+        "fr": "Vitesse conseillée (ici 50 km/h)",
+        "uk": "Рекомендована швидкість (тут 50 км/год)"
+      },
+      {
+        "id": "C",
+        "fr": "Emplacement d'arrêt d'urgence",
+        "uk": "Місце для аварійної зупинки"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (C8) signifie : « Emplacement d'arrêt d'urgence ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C8) означає: «Місце для аварійної зупинки». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q440",
+    "theme": "route",
+    "image": "signs/C13a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Impasse",
+        "uk": "Глухий кут"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de route à accès réglementé",
+        "uk": "Кінець швидкісної дороги"
+      },
+      {
+        "id": "C",
+        "fr": "Circulation à sens unique",
+        "uk": "Односторонній рух"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (C13a) signifie : « Impasse ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C13a) означає: «Глухий кут». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q441",
+    "theme": "route",
+    "image": "signs/C18.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Surélévation de chaussée",
+        "uk": "Піднята ділянка дороги (ралентисер)"
+      },
+      {
+        "id": "B",
+        "fr": "Lieu aménagé pour le stationnement",
+        "uk": "Місце для стоянки (парковка)"
+      },
+      {
+        "id": "C",
+        "fr": "Priorité par rapport à la circulation venant en sens inverse",
+        "uk": "Перевага над зустрічним рухом"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (C18) signifie : « Priorité par rapport à la circulation venant en sens inverse ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C18) означає: «Перевага над зустрічним рухом». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q442",
+    "theme": "route",
+    "image": "signs/C20a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід"
+      },
+      {
+        "id": "B",
+        "fr": "Route à accès réglementé (voie express)",
+        "uk": "Швидкісна дорога з регульованим доступом"
+      },
+      {
+        "id": "C",
+        "fr": "Voie verte",
+        "uk": "«Зелена дорога» (тільки для немоторизованих)"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (C20a) signifie : « Passage pour piétons ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C20a) означає: «Пішохідний перехід». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q443",
+    "theme": "route",
+    "image": "signs/C27.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Emplacement d'arrêt d'urgence",
+        "uk": "Місце для аварійної зупинки"
+      },
+      {
+        "id": "B",
+        "fr": "Surélévation de chaussée",
+        "uk": "Піднята ділянка дороги (ралентисер)"
+      },
+      {
+        "id": "C",
+        "fr": "Section d'autoroute",
+        "uk": "Автомагістраль"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (C27) signifie : « Surélévation de chaussée ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C27) означає: «Піднята ділянка дороги (ралентисер)». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q444",
+    "theme": "route",
+    "image": "signs/C108.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Route à accès réglementé (voie express)",
+        "uk": "Швидкісна дорога з регульованим доступом"
+      },
+      {
+        "id": "B",
+        "fr": "Impasse",
+        "uk": "Глухий кут"
+      },
+      {
+        "id": "C",
+        "fr": "Fin de route à accès réglementé",
+        "uk": "Кінець швидкісної дороги"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (C108) signifie : « Fin de route à accès réglementé ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C108) означає: «Кінець швидкісної дороги». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q445",
+    "theme": "route",
+    "image": "signs/C113.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Circulation à sens unique",
+        "uk": "Односторонній рух"
+      },
+      {
+        "id": "B",
+        "fr": "Piste ou bande cyclable conseillée",
+        "uk": "Рекомендована велодоріжка"
+      },
+      {
+        "id": "C",
+        "fr": "Lieu aménagé pour le stationnement",
+        "uk": "Місце для стоянки (парковка)"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (C113) signifie : « Piste ou bande cyclable conseillée ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C113) означає: «Рекомендована велодоріжка». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q446",
+    "theme": "route",
+    "image": "signs/C115.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Voie verte",
+        "uk": "«Зелена дорога» (тільки для немоторизованих)"
+      },
+      {
+        "id": "B",
+        "fr": "Emplacement d'arrêt d'urgence",
+        "uk": "Місце для аварійної зупинки"
+      },
+      {
+        "id": "C",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (C115) signifie : « Voie verte ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C115) означає: ««Зелена дорога» (тільки для немоторизованих)». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q447",
+    "theme": "route",
+    "image": "signs/C208.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Passage pour piétons",
+        "uk": "Пішохідний перехід"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de section d'autoroute",
+        "uk": "Кінець автомагістралі"
+      },
+      {
+        "id": "C",
+        "fr": "Section d'autoroute",
+        "uk": "Автомагістраль"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (C208) signifie : « Fin de section d'autoroute ». Panneau d'indication (carré ou rectangle bleu) : il informe sur la route ou les services.",
+    "explanation_uk": "Цей знак (C208) означає: «Кінець автомагістралі». Інформаційний знак (синій квадрат чи прямокутник): повідомляє про дорогу або послуги.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q520",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur une route à 3 voies (une voie centrale pour les deux sens) :",
+    "question_uk": "На дорозі з 3 смугами (середня — для обох напрямків):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la voie centrale sert au dépassement des deux sens",
+        "uk": "середня смуга — для обгону в обох напрямках"
+      },
+      {
+        "id": "B",
+        "fr": "je dépasse seulement si la voie centrale est libre",
+        "uk": "обганяю, лише якщо середня смуга вільна"
+      },
+      {
+        "id": "C",
+        "fr": "je peux y rouler en permanence",
+        "uk": "можна постійно нею їхати"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ces routes sont dangereuses : la voie du milieu peut être utilisée par les deux sens. Je ne m'y engage qu'avec une visibilité parfaite.",
+    "explanation_uk": "Такі дороги небезпечні: середньою смугою можуть користуватися обидва напрямки. Виїжджаю на неї лише з ідеальним оглядом.",
+    "tags": [
+      "depassement"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q521",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Une voie de détresse (lit d'arrêt) en descente sert à :",
+    "question_uk": "Аварійна смуга (з піском/гравієм) на спуску потрібна, щоб:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "arrêter un véhicule dont les freins ne fonctionnent plus",
+        "uk": "зупинити авто з відмовою гальм"
+      },
+      {
+        "id": "B",
+        "fr": "stationner pour une pause",
+        "uk": "зупинитися на відпочинок"
+      },
+      {
+        "id": "C",
+        "fr": "dépasser les camions",
+        "uk": "обганяти вантажівки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En cas de défaillance des freins dans une longue descente, la voie de détresse permet d'arrêter le véhicule en sécurité.",
+    "explanation_uk": "Якщо на довгому спуску відмовили гальма, аварійна смуга дає змогу безпечно зупинити авто.",
+    "tags": [
+      "montagne"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q522",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur autoroute, je m'insère et la voie d'accélération est courte, avec beaucoup de trafic :",
+    "question_uk": "На автомагістралі смуга розгону коротка, а машин багато:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je cherche un espace libre et j'adapte ma vitesse",
+        "uk": "шукаю вільний проміжок і підлаштовую швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "je m'arrête au bout de la voie et je force le passage",
+        "uk": "зупиняюся в кінці смуги й протискуюся"
+      },
+      {
+        "id": "C",
+        "fr": "je roule sur la BAU",
+        "uk": "їду смугою аварійної зупинки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je règle ma vitesse sur celle du trafic et je profite d'un espace. S'arrêter au bout de la voie d'accélération est très dangereux, mais parfois inévitable en dernier recours.",
+    "explanation_uk": "Підлаштовую швидкість під потік і користуюся проміжком. Зупинка в кінці смуги розгону дуже небезпечна — лише в крайньому разі.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q523",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les aires de repos sur autoroute permettent :",
+    "question_uk": "Зони відпочинку на автомагістралі потрібні, щоб:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de faire une pause",
+        "uk": "зробити перерву"
+      },
+      {
+        "id": "B",
+        "fr": "de dormir un peu si je suis fatigué",
+        "uk": "трохи поспати, якщо втомився"
+      },
+      {
+        "id": "C",
+        "fr": "de faire demi-tour",
+        "uk": "розвернутися"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les aires (repos, services) sont faites pour s'arrêter en sécurité, se reposer et se restaurer. Le demi-tour y reste interdit.",
+    "explanation_uk": "Зони (відпочинку, сервісу) — щоб безпечно зупинитися, відпочити й поїсти. Розворот там також заборонений.",
+    "tags": [
+      "autoroute",
+      "fatigue"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q524",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Au péage, je choisis ma voie :",
+    "question_uk": "На пункті оплати я обираю смугу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "selon mon moyen de paiement (télépéage, carte…)",
+        "uk": "за способом оплати (телепеаж, картка…)"
+      },
+      {
+        "id": "B",
+        "fr": "au dernier moment en coupant les files",
+        "uk": "в останній момент, перетинаючи ряди"
+      },
+      {
+        "id": "C",
+        "fr": "en marche arrière si je me trompe",
+        "uk": "заднім ходом, якщо помилився"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je repère tôt les voies (pictogrammes) et je me place en anticipant, sans changement brusque.",
+    "explanation_uk": "Заздалегідь знаходжу потрібні смуги (піктограми) й перестроююся плавно, без різких маневрів.",
+    "tags": [
+      "autoroute"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q525",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les bandes rugueuses sonores sur le bord de l'autoroute :",
+    "question_uk": "Шумові смуги на краю автомагістралі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "avertissent que je m'écarte de ma voie",
+        "uk": "попереджають, що я виїжджаю зі смуги"
+      },
+      {
+        "id": "B",
+        "fr": "sont un signe possible d'inattention ou de fatigue",
+        "uk": "можуть свідчити про неуважність чи втому"
+      },
+      {
+        "id": "C",
+        "fr": "indiquent une sortie",
+        "uk": "позначають з'їзд"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Si je roule sur ces bandes, c'est que ma trajectoire dérive : je me reconcentre et je fais une pause si la fatigue se fait sentir.",
+    "explanation_uk": "Якщо колеса заїхали на ці смуги, траєкторія «пливе»: зосереджуюся й роблю перерву, якщо відчуваю втому.",
+    "tags": [
+      "autoroute",
+      "fatigue"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q526",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les balises de virage (chevrons rouges et blancs) indiquent :",
+    "question_uk": "Червоно-білі шеврони в повороті показують:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la direction et la difficulté du virage",
+        "uk": "напрямок і складність повороту"
+      },
+      {
+        "id": "B",
+        "fr": "un parking",
+        "uk": "парковку"
+      },
+      {
+        "id": "C",
+        "fr": "une interdiction de stationner",
+        "uk": "заборону стоянки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les balises guident la trajectoire dans les virages serrés : plus il y en a, plus le virage est prononcé.",
+    "explanation_uk": "Шеврони допомагають тримати траєкторію в крутих поворотах: що їх більше, то крутіший поворот.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q527",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Un virage sur ma droite. Pour mieux voir, je me place :",
+    "question_uk": "Поворот праворуч. Щоб краще бачити, я тримаюся:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à droite de ma voie, sans mordre sur l'accotement",
+        "uk": "правіше у своїй смузі, не заїжджаючи на узбіччя"
+      },
+      {
+        "id": "B",
+        "fr": "au milieu de la route",
+        "uk": "посередині дороги"
+      },
+      {
+        "id": "C",
+        "fr": "sur la voie de gauche",
+        "uk": "на лівій смузі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je reste dans ma voie, bien à droite. Couper le virage expose à un choc frontal avec un véhicule arrivant en face.",
+    "explanation_uk": "Лишаюся у своїй смузі, правіше. «Зрізати» поворот — ризик лобового зіткнення із зустрічним авто.",
+    "tags": [
+      "vitesse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q528",
+    "theme": "route",
+    "image": null,
+    "question_fr": "La nuit, la portée des feux de croisement est d'environ 30 m. À 90 km/h :",
+    "question_uk": "Уночі ближнє світло освітлює приблизно 30 м. На 90 км/год:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ma distance d'arrêt dépasse ce que j'éclaire",
+        "uk": "мій шлях зупинки довший за освітлену ділянку"
+      },
+      {
+        "id": "B",
+        "fr": "je peux m'arrêter avant tout obstacle éclairé",
+        "uk": "я встигну зупинитися перед будь-якою освітленою перешкодою"
+      },
+      {
+        "id": "C",
+        "fr": "je dois réduire ma vitesse si je suis en feux de croisement",
+        "uk": "з ближнім світлом треба знизити швидкість"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "À 90 km/h, la distance d'arrêt dépasse 100 m : en feux de croisement, un obstacle découvert à 30 m ne peut pas être évité. On adapte sa vitesse.",
+    "explanation_uk": "На 90 км/год шлях зупинки понад 100 м: з ближнім світлом перешкоду, помічену за 30 м, не оминеш. Треба знижувати швидкість.",
+    "tags": [
+      "nuit",
+      "distances",
+      "vitesse"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q529",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Par grand vent, je dois être particulièrement prudent :",
+    "question_uk": "У сильний вітер треба бути особливо обережним:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en sortie de tunnel ou de forêt",
+        "uk": "на виїзді з тунелю чи лісу"
+      },
+      {
+        "id": "B",
+        "fr": "en dépassant un poids lourd",
+        "uk": "під час обгону вантажівки"
+      },
+      {
+        "id": "C",
+        "fr": "à l'arrêt dans un parking",
+        "uk": "на стоянці в паркінгу"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les rafales surprennent là où l'abri cesse (sortie de tunnel, de bois, viaduc) et lors du dépassement d'un camion.",
+    "explanation_uk": "Пориви вітру заскакують там, де закінчується укриття (виїзд з тунелю, лісу, віадук), і під час обгону вантажівки.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q530",
+    "theme": "route",
+    "image": null,
+    "question_fr": "La chaussée est inondée et je ne vois pas la profondeur de l'eau :",
+    "question_uk": "Дорогу затопило, і я не бачу глибини води:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ne m'engage pas",
+        "uk": "я не їду туди"
+      },
+      {
+        "id": "B",
+        "fr": "je traverse vite pour ne pas caler",
+        "uk": "проїжджаю швидко, щоб не заглохнути"
+      },
+      {
+        "id": "C",
+        "fr": "je fais demi-tour en sécurité ou j'attends",
+        "uk": "безпечно розвертаюся або чекаю"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Quelques dizaines de centimètres d'eau suffisent à emporter une voiture. On ne traverse jamais une route inondée.",
+    "explanation_uk": "Кількох десятків сантиметрів води досить, щоб віднести авто. Затоплену дорогу ніколи не перетинають.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q531",
+    "theme": "route",
+    "image": null,
+    "question_fr": "En hiver, la route est blanche de givre le matin. Je :",
+    "question_uk": "Узимку зранку дорога біла від інею. Я:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "roule plus doucement",
+        "uk": "їду повільніше"
+      },
+      {
+        "id": "B",
+        "fr": "augmente mes distances",
+        "uk": "збільшую дистанцію"
+      },
+      {
+        "id": "C",
+        "fr": "freine brusquement pour tester",
+        "uk": "різко гальмую для перевірки"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Givre et verglas réduisent fortement l'adhérence : douceur et anticipation sont indispensables.",
+    "explanation_uk": "Іній і ожеледь сильно знижують зчеплення: потрібні плавність і передбачення.",
+    "tags": [
+      "meteo",
+      "distances"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q532",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Les feux de croisement sont obligatoires de jour :",
+    "question_uk": "Ближнє світло обов'язкове вдень:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "dans les tunnels",
+        "uk": "у тунелях"
+      },
+      {
+        "id": "B",
+        "fr": "par brouillard ou forte pluie",
+        "uk": "у туман або сильний дощ"
+      },
+      {
+        "id": "C",
+        "fr": "sur toutes les routes, toujours, pour les voitures",
+        "uk": "на всіх дорогах завжди для легкових авто"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les feux de croisement s'allument de jour quand la visibilité est réduite et dans les tunnels. Les feux diurnes s'allument automatiquement sur les voitures récentes.",
+    "explanation_uk": "Ближнє вмикають удень при поганій видимості й у тунелях. На нових авто денні ходові вогні вмикаються автоматично.",
+    "tags": [
+      "nuit",
+      "meteo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q533",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur une route de campagne étroite, sans visibilité, je klaxonne avant un virage :",
+    "question_uk": "На вузькій заміській дорозі без огляду я сигналю перед поворотом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "c'est possible hors agglomération pour prévenir d'un danger",
+        "uk": "поза містом так можна, щоб попередити про небезпеку"
+      },
+      {
+        "id": "B",
+        "fr": "c'est interdit partout",
+        "uk": "заборонено всюди"
+      },
+      {
+        "id": "C",
+        "fr": "c'est obligatoire",
+        "uk": "це обов'язково"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Hors agglomération, un bref coup d'avertisseur peut prévenir de son approche dans un passage dangereux. La nuit, on préfère les appels lumineux.",
+    "explanation_uk": "Поза містом короткий сигнал може попередити про твоє наближення на небезпечній ділянці. Уночі краще блимнути фарами.",
+    "tags": [
+      "signalisation",
+      "pollution"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q534",
+    "theme": "route",
+    "image": null,
+    "question_fr": "Sur une route bordée d'arbres, après la pluie, les feuilles mortes :",
+    "question_uk": "На дорозі з деревами після дощу опале листя:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "rendent la chaussée glissante",
+        "uk": "робить дорогу слизькою"
+      },
+      {
+        "id": "B",
+        "fr": "améliorent l'adhérence",
+        "uk": "покращує зчеплення"
+      },
+      {
+        "id": "C",
+        "fr": "n'ont aucun effet",
+        "uk": "ні на що не впливає"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Feuilles mouillées, boue et gravillons forment une couche glissante : je ralentis et j'évite les gestes brusques.",
+    "explanation_uk": "Мокре листя, бруд і гравій утворюють слизький шар: пригальмовую й уникаю різких рухів.",
+    "tags": [
+      "meteo"
+    ],
+    "difficulty": 1
   }
 ]
