@@ -1355,5 +1355,517 @@
       "pollution"
     ],
     "difficulty": 1
+  },
+  {
+    "id": "q625",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Adopter une conduite apaisée en ville permet :",
+    "question_uk": "Спокійна їзда в місті дає змогу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de réduire le bruit et la pollution",
+        "uk": "зменшити шум і забруднення"
+      },
+      {
+        "id": "B",
+        "fr": "de diminuer le risque d'accident",
+        "uk": "знизити ризик аварії"
+      },
+      {
+        "id": "C",
+        "fr": "d'arriver toujours beaucoup plus tard",
+        "uk": "завжди приїжджати набагато пізніше"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "En ville, les accélérations brutales font peu gagner de temps mais augmentent bruit, pollution et risques.",
+    "explanation_uk": "У місті різкі прискорення майже не економлять часу, але збільшують шум, забруднення й ризики.",
+    "tags": [
+      "eco",
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q626",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le régulateur de vitesse sur autoroute peut :",
+    "question_uk": "Круїз-контроль на автомагістралі може:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "aider à garder une vitesse régulière et économique",
+        "uk": "допомогти тримати рівну й економну швидкість"
+      },
+      {
+        "id": "B",
+        "fr": "permettre de dormir",
+        "uk": "дозволити поспати"
+      },
+      {
+        "id": "C",
+        "fr": "faire gagner du carburant en côte raide",
+        "uk": "економити пальне на крутому підйомі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Une vitesse stable évite les à-coups. En relief marqué, le régulateur peut cependant consommer plus qu'une conduite souple.",
+    "explanation_uk": "Стала швидкість без ривків економить пальне. Але на крутих підйомах круїз-контроль може витрачати більше, ніж плавна їзда водія.",
+    "tags": [
+      "eco",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q627",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Un véhicule hybride :",
+    "question_uk": "Гібридний автомобіль:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "combine un moteur thermique et un moteur électrique",
+        "uk": "поєднує двигун внутрішнього згоряння й електродвигун"
+      },
+      {
+        "id": "B",
+        "fr": "récupère de l'énergie au freinage",
+        "uk": "відновлює енергію під час гальмування"
+      },
+      {
+        "id": "C",
+        "fr": "ne consomme jamais de carburant",
+        "uk": "ніколи не витрачає пального"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "L'hybride utilise l'électricité à basse vitesse et récupère l'énergie au freinage : il consomme moins en ville.",
+    "explanation_uk": "Гібрид на малій швидкості їде на електриці й повертає енергію при гальмуванні: у місті витрачає менше.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q628",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le freinage régénératif d'un véhicule électrique :",
+    "question_uk": "Рекуперативне гальмування електромобіля:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "recharge un peu la batterie en ralentissant",
+        "uk": "трохи заряджає батарею під час сповільнення"
+      },
+      {
+        "id": "B",
+        "fr": "vide la batterie",
+        "uk": "розряджає батарею"
+      },
+      {
+        "id": "C",
+        "fr": "est interdit en ville",
+        "uk": "заборонене в місті"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le moteur électrique fonctionne en générateur au lever de pied : l'énergie récupérée allonge l'autonomie.",
+    "explanation_uk": "Коли відпускаєш «газ», електродвигун працює як генератор: відновлена енергія збільшує запас ходу.",
+    "tags": [
+      "eco",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q629",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le stationnement « moteur tournant » pour garder la climatisation :",
+    "question_uk": "Стояти з увімкненим двигуном, щоб працював кондиціонер:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est interdit et polluant",
+        "uk": "заборонено й забруднює повітря"
+      },
+      {
+        "id": "B",
+        "fr": "est autorisé l'été",
+        "uk": "дозволено влітку"
+      },
+      {
+        "id": "C",
+        "fr": "est conseillé",
+        "uk": "рекомендується"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Laisser tourner le moteur d'un véhicule en stationnement est interdit, quelle que soit la raison.",
+    "explanation_uk": "Працюючий двигун на стоянці заборонений з будь-якої причини.",
+    "tags": [
+      "pollution",
+      "stationnement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q630",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Pour limiter la pollution sonore la nuit en ville :",
+    "question_uk": "Щоб менше шуміти вночі в місті:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je ne claque pas les portières",
+        "uk": "не грюкаю дверима"
+      },
+      {
+        "id": "B",
+        "fr": "j'évite de klaxonner",
+        "uk": "не сигналю"
+      },
+      {
+        "id": "C",
+        "fr": "je laisse la musique très forte vitres ouvertes",
+        "uk": "вмикаю гучну музику з відчиненими вікнами"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Respecter le calme nocturne fait partie d'une conduite respectueuse de l'environnement et des riverains.",
+    "explanation_uk": "Повага до нічної тиші — частина відповідального ставлення до довкілля й мешканців.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q631",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Les embouteillages augmentent :",
+    "question_uk": "Затори збільшують:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la consommation de carburant",
+        "uk": "витрату пального"
+      },
+      {
+        "id": "B",
+        "fr": "les émissions polluantes",
+        "uk": "шкідливі викиди"
+      },
+      {
+        "id": "C",
+        "fr": "la vitesse moyenne",
+        "uk": "середню швидкість"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Arrêts et redémarrages répétés augmentent consommation et pollution : covoiturage, transports en commun et horaires décalés limitent les bouchons.",
+    "explanation_uk": "Постійні зупинки й рушання збільшують витрату й викиди: спільні поїздки, громадський транспорт і зміщений графік зменшують затори.",
+    "tags": [
+      "eco",
+      "pollution"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q632",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Rouler avec des pneus sous-gonflés de 0,5 bar :",
+    "question_uk": "Їздити з шинами, недокачаними на 0,5 бара:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "augmente la consommation",
+        "uk": "збільшує витрату"
+      },
+      {
+        "id": "B",
+        "fr": "use les pneus plus vite",
+        "uk": "швидше зношує шини"
+      },
+      {
+        "id": "C",
+        "fr": "réduit la consommation",
+        "uk": "зменшує витрату"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un sous-gonflage augmente la résistance au roulement : surconsommation, usure prématurée et freinage dégradé.",
+    "explanation_uk": "Недокачані шини мають більший опір коченню: перевитрата пального, швидкий знос і гірше гальмування.",
+    "tags": [
+      "eco",
+      "pneus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q633",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le malus écologique à l'achat concerne :",
+    "question_uk": "Екологічний «малус» при купівлі стосується:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les véhicules neufs qui émettent beaucoup de CO2",
+        "uk": "нових авто з великими викидами CO2"
+      },
+      {
+        "id": "B",
+        "fr": "tous les vélos",
+        "uk": "усіх велосипедів"
+      },
+      {
+        "id": "C",
+        "fr": "les véhicules électriques",
+        "uk": "електромобілів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le malus est une taxe sur les véhicules neufs les plus émetteurs de CO2, pour encourager les modèles moins polluants.",
+    "explanation_uk": "Малус — податок на нові авто з найбільшими викидами CO2, щоб заохотити менш забруднювальні моделі.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q634",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Avant un long voyage, pour consommer moins :",
+    "question_uk": "Перед далекою поїздкою, щоб менше витрачати пального:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je vérifie la pression des pneus (en tenant compte de la charge)",
+        "uk": "перевіряю тиск у шинах (з урахуванням вантажу)"
+      },
+      {
+        "id": "B",
+        "fr": "je retire les objets inutiles du coffre",
+        "uk": "прибираю непотрібні речі з багажника"
+      },
+      {
+        "id": "C",
+        "fr": "je remplis le coffre de toit même vide",
+        "uk": "лишаю багажник на даху, навіть порожній"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Pression adaptée et poids réduit diminuent la consommation ; un coffre de toit inutile l'augmente.",
+    "explanation_uk": "Правильний тиск і менша вага зменшують витрату; непотрібний багажник на даху — збільшує.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q635",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Le passage du rapport supérieur, pour une conduite économique, se fait :",
+    "question_uk": "Для економної їзди на вищу передачу перемикаються:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "assez tôt, sans faire hurler le moteur",
+        "uk": "досить рано, не розкручуючи двигун до реву"
+      },
+      {
+        "id": "B",
+        "fr": "seulement au régime maximum",
+        "uk": "лише на максимальних обертах"
+      },
+      {
+        "id": "C",
+        "fr": "jamais en ville",
+        "uk": "ніколи в місті"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Monter les rapports tôt (≈ 2 000 tr/min diesel, 2 500 tr/min essence) réduit consommation et bruit.",
+    "explanation_uk": "Ранні перемикання вгору (≈ 2 000 об/хв дизель, 2 500 об/хв бензин) зменшують витрату й шум.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q636",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Laver sa voiture dans la rue ou la nature :",
+    "question_uk": "Мити авто на вулиці чи на природі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut être interdit et polluer les eaux",
+        "uk": "може бути заборонено й забруднює воду"
+      },
+      {
+        "id": "B",
+        "fr": "est toujours conseillé",
+        "uk": "завжди радять"
+      },
+      {
+        "id": "C",
+        "fr": "se fait de préférence dans une station de lavage",
+        "uk": "краще на автомийці"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Les produits et hydrocarbures rejetés polluent les sols et les eaux. Les stations de lavage récupèrent et traitent les eaux usées.",
+    "explanation_uk": "Миючі засоби й нафтопродукти забруднюють ґрунт і воду. Автомийки збирають і очищають стічні води.",
+    "tags": [
+      "pollution"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q637",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Partager la route avec les cyclistes et piétons :",
+    "question_uk": "Ділити дорогу з велосипедистами й пішоходами:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "favorise les déplacements non polluants",
+        "uk": "сприяє екологічним способам пересування"
+      },
+      {
+        "id": "B",
+        "fr": "demande patience et respect des écarts",
+        "uk": "вимагає терпіння й дотримання інтервалів"
+      },
+      {
+        "id": "C",
+        "fr": "est réservé aux zones rurales",
+        "uk": "лише в сільській місцевості"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Faciliter la marche et le vélo réduit la pollution ; le conducteur doit rester attentif à ces usagers vulnérables.",
+    "explanation_uk": "Підтримка пішоходів і велосипедистів зменшує забруднення; водій має бути уважним до цих вразливих учасників руху.",
+    "tags": [
+      "pollution",
+      "cyclistes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q638",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Anticiper un feu qui va passer au rouge en levant le pied tôt :",
+    "question_uk": "Передбачити, що світлофор стане червоним, і рано відпустити газ:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "économise du carburant",
+        "uk": "економить пальне"
+      },
+      {
+        "id": "B",
+        "fr": "réduit l'usure des freins",
+        "uk": "зменшує знос гальм"
+      },
+      {
+        "id": "C",
+        "fr": "est dangereux",
+        "uk": "небезпечно"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Rouler en roue libre avec une vitesse engagée (frein moteur) consomme presque rien et ménage les freins.",
+    "explanation_uk": "Накат з увімкненою передачею (гальмування двигуном) майже не витрачає пального й береже гальма.",
+    "tags": [
+      "eco"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q639",
+    "theme": "environnement",
+    "image": null,
+    "question_fr": "Les émissions de CO2 d'un véhicule dépendent surtout :",
+    "question_uk": "Викиди CO2 автомобіля залежать насамперед від:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de la quantité de carburant brûlée",
+        "uk": "кількості спаленого пального"
+      },
+      {
+        "id": "B",
+        "fr": "de la couleur de la carrosserie",
+        "uk": "кольору кузова"
+      },
+      {
+        "id": "C",
+        "fr": "du nombre de portes",
+        "uk": "кількості дверей"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Chaque litre de carburant brûlé produit une quantité fixe de CO2 (environ 2,3 à 2,7 kg) : économiser du carburant réduit directement les émissions.",
+    "explanation_uk": "Кожен спалений літр пального дає приблизно 2,3–2,7 кг CO2: економія пального прямо зменшує викиди.",
+    "tags": [
+      "pollution",
+      "eco"
+    ],
+    "difficulty": 2
   }
 ]

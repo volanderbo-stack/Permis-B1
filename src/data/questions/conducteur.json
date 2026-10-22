@@ -1351,5 +1351,513 @@
       "distances"
     ],
     "difficulty": 1
+  },
+  {
+    "id": "q505",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "L'alcool est éliminé principalement par :",
+    "question_uk": "Алкоголь виводиться з організму переважно:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le foie, lentement",
+        "uk": "печінкою, повільно"
+      },
+      {
+        "id": "B",
+        "fr": "la transpiration rapide",
+        "uk": "швидко з потом"
+      },
+      {
+        "id": "C",
+        "fr": "l'eau que l'on boit",
+        "uk": "з випитою водою"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le foie élimine l'alcool à un rythme fixe (environ 0,10 à 0,15 g/l par heure). Rien ne permet d'accélérer ce processus.",
+    "explanation_uk": "Печінка виводить алкоголь зі сталою швидкістю (приблизно 0,10–0,15 г/л на годину). Пришвидшити цей процес неможливо.",
+    "tags": [
+      "alcool"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q506",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "J'ai un taux de 0,6 g/l à minuit. Je pourrai conduire légalement (conducteur expérimenté) environ :",
+    "question_uk": "Опівночі в мене 0,6 г/л. Я зможу законно керувати (досвідчений водій) приблизно:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "vers 1 h du matin",
+        "uk": "близько 1-ї ночі"
+      },
+      {
+        "id": "B",
+        "fr": "tout de suite",
+        "uk": "одразу"
+      },
+      {
+        "id": "C",
+        "fr": "seulement après 3 jours",
+        "uk": "лише через 3 дні"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "À 0,10 – 0,15 g/l par heure, il faut environ une heure pour passer sous 0,5 g/l. Mieux vaut attendre davantage ou ne pas conduire du tout.",
+    "explanation_uk": "При 0,10–0,15 г/л на годину знадобиться приблизно година, щоб опуститися нижче 0,5 г/л. Краще почекати довше або взагалі не сідати за кермо.",
+    "tags": [
+      "alcool"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q507",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Le lendemain d'une soirée arrosée :",
+    "question_uk": "Наступного ранку після вечірки з алкоголем:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux encore avoir de l'alcool dans le sang",
+        "uk": "в мене ще може бути алкоголь у крові"
+      },
+      {
+        "id": "B",
+        "fr": "le sommeil a forcément tout éliminé",
+        "uk": "сон точно все вивів"
+      },
+      {
+        "id": "C",
+        "fr": "la fatigue peut aussi gêner la conduite",
+        "uk": "втома теж може заважати керуванню"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Après une forte consommation, le taux peut rester élevé le matin, et la fatigue s'ajoute. Un éthylotest permet de vérifier.",
+    "explanation_uk": "Після великої кількості алкоголю рівень зранку може лишатися високим, а ще додається втома. Перевірити можна алкотестером.",
+    "tags": [
+      "alcool",
+      "fatigue"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q508",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Le conducteur désigné (« Sam ») :",
+    "question_uk": "Призначений водій («Сем»):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ne boit pas d'alcool pendant la soirée",
+        "uk": "не п'є алкоголю протягом вечора"
+      },
+      {
+        "id": "B",
+        "fr": "peut boire deux verres",
+        "uk": "може випити дві склянки"
+      },
+      {
+        "id": "C",
+        "fr": "ramène les autres en sécurité",
+        "uk": "безпечно розвозить інших"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Le principe : celui qui conduit ne boit pas, pour ramener tout le monde en sécurité.",
+    "explanation_uk": "Принцип простий: хто за кермом — не п'є, щоб безпечно розвезти всіх.",
+    "tags": [
+      "alcool"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q509",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Le cannabis au volant provoque :",
+    "question_uk": "Канабіс за кермом спричиняє:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "des réflexes ralentis",
+        "uk": "уповільнену реакцію"
+      },
+      {
+        "id": "B",
+        "fr": "des troubles de l'attention",
+        "uk": "порушення уваги"
+      },
+      {
+        "id": "C",
+        "fr": "une meilleure concentration",
+        "uk": "кращу концентрацію"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le cannabis perturbe la perception du temps et des distances, la coordination et la vigilance.",
+    "explanation_uk": "Канабіс порушує сприйняття часу й відстаней, координацію та пильність.",
+    "tags": [
+      "alcool"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q510",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Les jeunes conducteurs sont surreprésentés dans les accidents notamment à cause :",
+    "question_uk": "Молоді водії частіше потрапляють в аварії зокрема через:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "du manque d'expérience",
+        "uk": "брак досвіду"
+      },
+      {
+        "id": "B",
+        "fr": "de la sous-estimation des risques",
+        "uk": "недооцінку ризиків"
+      },
+      {
+        "id": "C",
+        "fr": "de leur bonne vue",
+        "uk": "добрий зір"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le manque d'expérience, la vitesse, la nuit, l'alcool et l'influence des passagers augmentent les risques chez les jeunes conducteurs.",
+    "explanation_uk": "Брак досвіду, швидкість, нічні поїздки, алкоголь і вплив пасажирів збільшують ризики для молодих водіїв.",
+    "tags": [
+      "fatigue",
+      "vitesse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q511",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Des passagers chahuteurs m'encouragent à rouler vite :",
+    "question_uk": "Галасливі пасажири підбурюють мене їхати швидко:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je garde ma conduite et je reste concentré",
+        "uk": "я їду як їхав і лишаюся зосередженим"
+      },
+      {
+        "id": "B",
+        "fr": "j'accélère pour leur faire plaisir",
+        "uk": "я прискорююся, щоб їм догодити"
+      },
+      {
+        "id": "C",
+        "fr": "je me retourne pour leur parler",
+        "uk": "я обертаюся, щоб поговорити з ними"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le conducteur est seul responsable : il ne cède pas à la pression des passagers et peut leur demander de se calmer, voire s'arrêter.",
+    "explanation_uk": "Відповідальність лише на водієві: не піддавайся тиску пасажирів, попроси їх заспокоїтися або навіть зупинись.",
+    "tags": [
+      "distraction"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q512",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Avec l'âge et la fatigue, la vision nocturne :",
+    "question_uk": "З віком і від утоми нічний зір:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "diminue",
+        "uk": "погіршується"
+      },
+      {
+        "id": "B",
+        "fr": "s'améliore",
+        "uk": "покращується"
+      },
+      {
+        "id": "C",
+        "fr": "ne change pas",
+        "uk": "не змінюється"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La sensibilité à l'éblouissement augmente et la vision de nuit diminue : on adapte sa vitesse et on fait contrôler sa vue régulièrement.",
+    "explanation_uk": "Чутливість до засліплення зростає, а нічний зір слабне: знижуй швидкість і регулярно перевіряй зір.",
+    "tags": [
+      "nuit",
+      "fatigue"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q513",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Fumer en conduisant :",
+    "question_uk": "Курити за кермом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut distraire le conducteur",
+        "uk": "може відволікати водія"
+      },
+      {
+        "id": "B",
+        "fr": "est interdit en présence d'un mineur dans le véhicule",
+        "uk": "заборонено, якщо в авто є неповнолітній"
+      },
+      {
+        "id": "C",
+        "fr": "améliore la vigilance",
+        "uk": "покращує пильність"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Allumer une cigarette occupe une main et le regard. Fumer dans un véhicule en présence d'un mineur est interdit.",
+    "explanation_uk": "Запалити цигарку — це зайнята рука й погляд. Курити в авто, де є неповнолітній, заборонено.",
+    "tags": [
+      "distraction"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q514",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Un trajet habituel (domicile – travail) :",
+    "question_uk": "Звичний маршрут (дім — робота):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut entraîner une baisse de vigilance par habitude",
+        "uk": "може знижувати пильність через звичку"
+      },
+      {
+        "id": "B",
+        "fr": "est sans risque car je le connais",
+        "uk": "безпечний, бо я його знаю"
+      },
+      {
+        "id": "C",
+        "fr": "concentre une grande partie des accidents",
+        "uk": "на нього припадає велика частка аварій"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "L'habitude endort l'attention : on anticipe moins les imprévus. Beaucoup d'accidents ont lieu près du domicile.",
+    "explanation_uk": "Звичка присипляє увагу: менше очікуєш несподіванок. Багато аварій стається неподалік від дому.",
+    "tags": [
+      "distraction"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q515",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Le « micro-sommeil » au volant :",
+    "question_uk": "«Мікросон» за кермом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "dure quelques secondes",
+        "uk": "триває кілька секунд"
+      },
+      {
+        "id": "B",
+        "fr": "est souvent ressenti à l'avance par des signes de fatigue",
+        "uk": "часто йому передують ознаки втоми"
+      },
+      {
+        "id": "C",
+        "fr": "est sans danger à faible vitesse",
+        "uk": "безпечний на малій швидкості"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un micro-sommeil de quelques secondes suffit à quitter la route. Bâillements et paupières lourdes doivent alerter.",
+    "explanation_uk": "Кількох секунд мікросну досить, щоб з'їхати з дороги. Позіхання й важкі повіки — сигнал зупинитися.",
+    "tags": [
+      "fatigue"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q516",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Une boisson énergisante ou un café :",
+    "question_uk": "Енергетик чи кава:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ne remplacent pas le sommeil",
+        "uk": "не замінюють сну"
+      },
+      {
+        "id": "B",
+        "fr": "éliminent la fatigue durablement",
+        "uk": "надовго знімають утому"
+      },
+      {
+        "id": "C",
+        "fr": "éliminent l'alcool",
+        "uk": "виводять алкоголь"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Café et boissons énergisantes masquent un peu la fatigue pendant peu de temps, sans la supprimer. Ils n'ont aucun effet sur l'alcool.",
+    "explanation_uk": "Кава й енергетики ненадовго маскують утому, але не прибирають її. На алкоголь вони не впливають.",
+    "tags": [
+      "fatigue",
+      "alcool"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q517",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Pour bien percevoir les dangers, il faut regarder :",
+    "question_uk": "Щоб вчасно помічати небезпеку, треба дивитися:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "loin devant et sur les côtés",
+        "uk": "далеко вперед і по боках"
+      },
+      {
+        "id": "B",
+        "fr": "uniquement le compteur de vitesse",
+        "uk": "лише на спідометр"
+      },
+      {
+        "id": "C",
+        "fr": "dans les rétroviseurs régulièrement",
+        "uk": "регулярно в дзеркала"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "La prise d'information doit être large et régulière : anticipation loin devant, côtés (piétons, sorties), arrière via les rétroviseurs.",
+    "explanation_uk": "Інформацію збирають широко й регулярно: далеко вперед, по боках (пішоходи, виїзди), позаду — через дзеркала.",
+    "tags": [
+      "distraction"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q518",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Je prends un médicament que je ne connais pas avant de conduire :",
+    "question_uk": "Перед поїздкою я приймаю незнайомі ліки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je lis la notice et je regarde le pictogramme",
+        "uk": "читаю інструкцію й дивлюся на піктограму"
+      },
+      {
+        "id": "B",
+        "fr": "je demande conseil à mon médecin ou pharmacien",
+        "uk": "раджуся з лікарем чи фармацевтом"
+      },
+      {
+        "id": "C",
+        "fr": "je conduis sans me poser de questions",
+        "uk": "сідаю за кермо, нічого не перевіряючи"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Certains médicaments sont incompatibles avec la conduite. La notice, le pictogramme et l'avis d'un professionnel de santé permettent de savoir.",
+    "explanation_uk": "Деякі ліки несумісні з керуванням. Дізнатися можна з інструкції, піктограми й поради медика.",
+    "tags": [
+      "fatigue"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q519",
+    "theme": "conducteur",
+    "image": null,
+    "question_fr": "Je reçois un appel important en roulant :",
+    "question_uk": "Під час руху мені дзвонять у важливій справі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'arrête dans un endroit autorisé pour rappeler",
+        "uk": "зупиняюся в дозволеному місці й передзвоню"
+      },
+      {
+        "id": "B",
+        "fr": "je réponds en tenant le téléphone",
+        "uk": "відповідаю, тримаючи телефон"
+      },
+      {
+        "id": "C",
+        "fr": "je réponds avec un écouteur",
+        "uk": "відповідаю через навушник"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le plus sûr est de s'arrêter dans un lieu autorisé pour téléphoner. Le téléphone en main et les écouteurs sont interdits.",
+    "explanation_uk": "Найбезпечніше — зупинитися в дозволеному місці й тоді говорити. Телефон у руці й навушники заборонені.",
+    "tags": [
+      "distraction"
+    ],
+    "difficulty": 1
   }
 ]

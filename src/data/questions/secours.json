@@ -1350,5 +1350,513 @@
       "pietons"
     ],
     "difficulty": 2
+  },
+  {
+    "id": "q565",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Après un accident, une victime est consciente et assise dans sa voiture, sans danger immédiat :",
+    "question_uk": "Після ДТП постраждалий при свідомості сидить в авто, безпосередньої небезпеки немає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la laisse dans sa position",
+        "uk": "залишаю його в тому ж положенні"
+      },
+      {
+        "id": "B",
+        "fr": "je la fais sortir pour l'allonger",
+        "uk": "витягаю, щоб покласти"
+      },
+      {
+        "id": "C",
+        "fr": "je lui parle en attendant les secours",
+        "uk": "розмовляю з ним до приїзду рятувальників"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Sans danger, on ne déplace pas la victime : on la rassure, on la surveille et on suit les consignes des secours.",
+    "explanation_uk": "Якщо небезпеки немає, постраждалого не переміщують: заспокоюють, спостерігають і виконують вказівки рятувальників.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q566",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "En arrivant sur un accident la nuit, je peux éclairer la zone avec :",
+    "question_uk": "Під'їхавши вночі до ДТП, я можу освітити місце:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "mes feux de croisement, sans éblouir",
+        "uk": "своїм ближнім світлом, не засліплюючи"
+      },
+      {
+        "id": "B",
+        "fr": "mes feux de route dirigés vers les autres usagers",
+        "uk": "дальнім світлом, спрямованим на інших водіїв"
+      },
+      {
+        "id": "C",
+        "fr": "rien, il faut rester dans le noir",
+        "uk": "нічим, треба лишатися в темряві"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Éclairer l'accident aide les témoins et les secours, à condition de ne pas éblouir les usagers qui arrivent.",
+    "explanation_uk": "Освітлення допомагає свідкам і рятувальникам, якщо не засліплює тих, хто під'їжджає.",
+    "tags": [
+      "accident",
+      "nuit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q567",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Plusieurs personnes sont présentes sur un accident. Il est utile de :",
+    "question_uk": "На місці ДТП кілька людей. Корисно:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "répartir les tâches (protéger, alerter, secourir)",
+        "uk": "розподілити завдання (захистити, повідомити, допомогти)"
+      },
+      {
+        "id": "B",
+        "fr": "que tout le monde appelle les secours en même temps",
+        "uk": "щоб усі водночас дзвонили рятувальникам"
+      },
+      {
+        "id": "C",
+        "fr": "que personne ne fasse rien",
+        "uk": "щоб ніхто нічого не робив"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "S'organiser est plus efficace : une personne protège, une autre alerte, d'autres secourent ou font ralentir les usagers.",
+    "explanation_uk": "Організованість ефективніша: одна людина захищає місце, інша дзвонить, інші допомагають чи попереджають водіїв.",
+    "tags": [
+      "accident"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q568",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime saigne du nez après un choc :",
+    "question_uk": "Після удару в постраждалого кров з носа:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la fais asseoir, tête penchée en avant",
+        "uk": "саджаю його, голова нахилена вперед"
+      },
+      {
+        "id": "B",
+        "fr": "je lui penche la tête en arrière",
+        "uk": "закидаю голову назад"
+      },
+      {
+        "id": "C",
+        "fr": "je lui demande de se moucher fort",
+        "uk": "прошу сильно висякатися"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Tête penchée en avant, on comprime la narine qui saigne quelques minutes. Pencher la tête en arrière fait avaler le sang.",
+    "explanation_uk": "Голова нахилена вперед, кілька хвилин притискають ніздрю, з якої тече кров. Якщо закинути голову, кров потрапить у шлунок.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q569",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Les signes d'une détresse vitale sont :",
+    "question_uk": "Ознаки загрози життю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "une victime qui ne répond pas",
+        "uk": "людина не реагує"
+      },
+      {
+        "id": "B",
+        "fr": "une victime qui ne respire pas",
+        "uk": "людина не дихає"
+      },
+      {
+        "id": "C",
+        "fr": "une victime qui parle et marche",
+        "uk": "людина говорить і ходить"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Inconscience, absence de respiration ou saignement abondant sont des détresses vitales : alerte immédiate et gestes adaptés.",
+    "explanation_uk": "Непритомність, відсутність дихання чи сильна кровотеча — загроза життю: негайний виклик і відповідні дії.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q570",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Le défibrillateur (DAE) se trouve souvent :",
+    "question_uk": "Дефібрилятор (DAE) часто є:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "dans les lieux publics (gares, mairies, centres commerciaux)",
+        "uk": "у громадських місцях (вокзали, мерії, торгові центри)"
+      },
+      {
+        "id": "B",
+        "fr": "dans tous les véhicules",
+        "uk": "в усіх автомобілях"
+      },
+      {
+        "id": "C",
+        "fr": "uniquement à l'hôpital",
+        "uk": "лише в лікарні"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "De nombreux lieux publics en sont équipés, signalés par un logo vert avec un cœur et un éclair.",
+    "explanation_uk": "Ними обладнано багато громадських місць; їх позначають зеленим значком із серцем і блискавкою.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q571",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une personne s'étouffe (elle ne peut plus parler ni respirer) :",
+    "question_uk": "Людина вдавилася (не може говорити й дихати):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je donne des claques vigoureuses dans le dos",
+        "uk": "сильно плескаю по спині між лопатками"
+      },
+      {
+        "id": "B",
+        "fr": "puis des compressions abdominales si besoin",
+        "uk": "потім, якщо треба, натискаю на живіт (прийом Геймліха)"
+      },
+      {
+        "id": "C",
+        "fr": "je lui donne de l'eau",
+        "uk": "даю їй води"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Obstruction totale des voies aériennes : jusqu'à 5 claques dans le dos, puis jusqu'à 5 compressions abdominales, en alternance, et on alerte.",
+    "explanation_uk": "Повне перекриття дихальних шляхів: до 5 ударів по спині, потім до 5 натискань на живіт по черзі; викликають допомогу.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q572",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Après avoir protégé et alerté, si je ne sais pas quoi faire pour une victime :",
+    "question_uk": "Після того як я захистив місце й викликав допомогу, а що робити з постраждалим, не знаю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je reste près d'elle, je lui parle et je la surveille",
+        "uk": "лишаюся поруч, розмовляю й спостерігаю"
+      },
+      {
+        "id": "B",
+        "fr": "je pars, les secours arrivent",
+        "uk": "їду, рятувальники вже в дорозі"
+      },
+      {
+        "id": "C",
+        "fr": "je lui donne un médicament",
+        "uk": "даю їй ліки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Rassurer, surveiller l'état de la victime et rappeler les secours si son état change, c'est déjà très utile.",
+    "explanation_uk": "Заспокоювати, стежити за станом і повторно дзвонити, якщо стан зміниться, — це вже дуже корисно.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q573",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Le gilet de haute visibilité sert à :",
+    "question_uk": "Світловідбивний жилет потрібен, щоб:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "être vu par les autres usagers",
+        "uk": "тебе бачили інші учасники руху"
+      },
+      {
+        "id": "B",
+        "fr": "éviter d'être percuté sur le bord de la route",
+        "uk": "уникнути наїзду на узбіччі"
+      },
+      {
+        "id": "C",
+        "fr": "remplacer le triangle",
+        "uk": "замінити трикутник"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le gilet rend visible de jour comme de nuit. Il complète le triangle et les feux de détresse.",
+    "explanation_uk": "Жилет робить тебе помітним і вдень, і вночі. Він доповнює трикутник та аварійку.",
+    "tags": [
+      "accident",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q574",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "En cas d'accident avec un véhicule transportant des matières dangereuses :",
+    "question_uk": "Якщо ДТП сталася з транспортом, що везе небезпечні вантажі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je m'éloigne et j'alerte en précisant les numéros des plaques orange",
+        "uk": "відходжу й викликаю допомогу, називаючи номери з помаранчевих табличок"
+      },
+      {
+        "id": "B",
+        "fr": "je m'approche pour aider",
+        "uk": "наближаюся, щоб допомогти"
+      },
+      {
+        "id": "C",
+        "fr": "je fume pour me calmer",
+        "uk": "курю, щоб заспокоїтися"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les panneaux orange indiquent le danger et la matière : je les signale aux secours et je reste à distance, en amont et dos au vent si possible.",
+    "explanation_uk": "Помаранчеві таблички вказують на небезпеку й речовину: повідомляю їх рятувальникам і тримаюся на відстані — перед місцем і проти вітру, якщо можливо.",
+    "tags": [
+      "accident",
+      "lourds"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q575",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Une victime présente une plaie au ventre ou à la poitrine :",
+    "question_uk": "У постраждалого рана живота чи грудей:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je la laisse dans la position où elle se sent le mieux",
+        "uk": "лишаю в положенні, в якому їй найзручніше"
+      },
+      {
+        "id": "B",
+        "fr": "j'alerte les secours",
+        "uk": "викликаю рятувальників"
+      },
+      {
+        "id": "C",
+        "fr": "je lui donne à boire",
+        "uk": "даю пити"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "On ne donne rien à boire, on laisse la victime dans la position qui la soulage (souvent demi-assise pour la poitrine) et on alerte.",
+    "explanation_uk": "Пити не дають, людину лишають у положенні, яке полегшує стан (при пораненні грудей — часто напівсидячи), і викликають допомогу.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q576",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Le malaise d'un conducteur (douleur dans la poitrine) au volant :",
+    "question_uk": "Водієві за кермом стало погано (біль у грудях):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il doit s'arrêter dès que possible en sécurité",
+        "uk": "він має якнайшвидше безпечно зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "il doit appeler le 15",
+        "uk": "він має подзвонити на 15"
+      },
+      {
+        "id": "C",
+        "fr": "il doit accélérer pour rentrer chez lui",
+        "uk": "він має прискоритися, щоб доїхати додому"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Une douleur thoracique peut annoncer un infarctus : on s'arrête, on appelle le 15 et on attend les consignes.",
+    "explanation_uk": "Біль у грудях може свідчити про інфаркт: зупиняються, дзвонять на 15 і чекають вказівок.",
+    "tags": [
+      "gestes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q577",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Je trouve une victime inconsciente au volant, moteur en marche :",
+    "question_uk": "Я бачу непритомного водія за кермом, двигун працює:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je coupe le contact si je peux le faire sans risque",
+        "uk": "вимикаю запалювання, якщо це безпечно"
+      },
+      {
+        "id": "B",
+        "fr": "je serre le frein à main",
+        "uk": "затягую ручне гальмо"
+      },
+      {
+        "id": "C",
+        "fr": "je la secoue fortement",
+        "uk": "сильно її трушу"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Couper le contact et immobiliser le véhicule évitent un sur-accident ou un incendie. On ne secoue pas une victime (risque de lésion).",
+    "explanation_uk": "Вимкнене запалювання й зафіксоване авто запобігають новій аварії чи пожежі. Постраждалого не трусять (ризик травми).",
+    "tags": [
+      "accident",
+      "gestes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q578",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Pour faire ralentir les usagers avant un accident, je peux :",
+    "question_uk": "Щоб водії пригальмували перед місцем ДТП, я можу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "demander à une personne en gilet de faire des signes à distance, en sécurité",
+        "uk": "попросити людину в жилеті подавати знаки на відстані, у безпечному місці"
+      },
+      {
+        "id": "B",
+        "fr": "me mettre au milieu de la route",
+        "uk": "стати посеред дороги"
+      },
+      {
+        "id": "C",
+        "fr": "allumer les feux de détresse",
+        "uk": "увімкнути аварійку"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "Signaler en amont, depuis le bas-côté et en gilet, et utiliser les feux de détresse : sans jamais se placer sur la chaussée.",
+    "explanation_uk": "Попереджати заздалегідь, з узбіччя й у жилеті, та вмикати аварійку — ніколи не стаючи на проїжджу частину.",
+    "tags": [
+      "accident"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q579",
+    "theme": "secours",
+    "image": null,
+    "question_fr": "Les secours me demandent de rester en ligne :",
+    "question_uk": "Рятувальники просять не класти слухавку:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je reste en ligne et je suis leurs instructions",
+        "uk": "лишаюся на лінії й виконую інструкції"
+      },
+      {
+        "id": "B",
+        "fr": "je raccroche pour libérer la ligne",
+        "uk": "кладу слухавку, щоб звільнити лінію"
+      },
+      {
+        "id": "C",
+        "fr": "je rappelle plus tard",
+        "uk": "передзвоню пізніше"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le régulateur peut guider les gestes de secours au téléphone (massage cardiaque…) : on reste en ligne.",
+    "explanation_uk": "Диспетчер може телефоном підказувати дії (масаж серця тощо): лишайся на лінії.",
+    "tags": [
+      "accident",
+      "gestes"
+    ],
+    "difficulty": 1
   }
 ]

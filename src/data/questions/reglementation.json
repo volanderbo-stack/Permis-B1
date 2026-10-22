@@ -1338,5 +1338,514 @@
       "documents"
     ],
     "difficulty": 2
+  },
+  {
+    "id": "q550",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le permis B permet de tracter une remorque :",
+    "question_uk": "Права B дозволяють буксирувати причіп:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de 750 kg maximum (PTAC)",
+        "uk": "з дозволеною максимальною масою до 750 кг"
+      },
+      {
+        "id": "B",
+        "fr": "de n'importe quel poids",
+        "uk": "будь-якої маси"
+      },
+      {
+        "id": "C",
+        "fr": "aucune remorque",
+        "uk": "жодного причепа"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Avec le permis B, on peut tracter une remorque de PTAC ≤ 750 kg (au-delà, sous conditions de PTAC total ou avec formation B96 / permis BE).",
+    "explanation_uk": "З правами B можна буксирувати причіп з дозволеною масою ≤ 750 кг (більше — за певних умов або з курсом B96 / категорією BE).",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q551",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Après une annulation ou une invalidation du permis, je dois :",
+    "question_uk": "Після анулювання прав я маю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "attendre la fin du délai fixé et repasser les examens",
+        "uk": "дочекатися кінця строку й знову скласти іспити"
+      },
+      {
+        "id": "B",
+        "fr": "seulement payer une amende",
+        "uk": "лише сплатити штраф"
+      },
+      {
+        "id": "C",
+        "fr": "conduire avec un permis provisoire",
+        "uk": "їздити з тимчасовими правами"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Il faut respecter le délai d'interdiction, souvent passer des examens médicaux et psychotechniques, puis repasser le code et/ou la conduite.",
+    "explanation_uk": "Треба дочекатися кінця заборони, часто пройти медичний і психотехнічний огляд, а потім знову скласти теорію та/або практику.",
+    "tags": [
+      "sanctions",
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q552",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "La suspension du permis peut être décidée :",
+    "question_uk": "Тимчасове позбавлення прав може призначити:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "par le préfet (suspension administrative)",
+        "uk": "префект (адміністративне позбавлення)"
+      },
+      {
+        "id": "B",
+        "fr": "par le juge",
+        "uk": "суд"
+      },
+      {
+        "id": "C",
+        "fr": "par un autre conducteur",
+        "uk": "інший водій"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le préfet peut suspendre le permis immédiatement après certaines infractions graves ; le juge peut prononcer une suspension comme peine.",
+    "explanation_uk": "Префект може негайно позбавити прав після деяких тяжких порушень; суд може призначити це як покарання.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q553",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "La rétention immédiate du permis est possible notamment en cas de :",
+    "question_uk": "Негайне вилучення прав можливе зокрема при:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "taux d'alcool supérieur ou égal à 0,8 g/l",
+        "uk": "рівні алкоголю від 0,8 г/л"
+      },
+      {
+        "id": "B",
+        "fr": "excès de vitesse de 40 km/h ou plus",
+        "uk": "перевищенні швидкості на 40 км/год і більше"
+      },
+      {
+        "id": "C",
+        "fr": "stationnement payant non payé",
+        "uk": "неоплаченій платній стоянці"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les forces de l'ordre retiennent le permis pour les infractions graves : alcool (≥ 0,8 g/l), stupéfiants, grand excès de vitesse…",
+    "explanation_uk": "Поліція вилучає права за тяжкі порушення: алкоголь (≥ 0,8 г/л), наркотики, значне перевищення швидкості…",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q554",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Un radar automatique flashe mon véhicule :",
+    "question_uk": "Мене сфотографувала автоматична камера:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'avis de contravention est envoyé au titulaire du certificat d'immatriculation",
+        "uk": "повідомлення про порушення надсилають власникові авто за реєстрацією"
+      },
+      {
+        "id": "B",
+        "fr": "je n'ai rien à faire si je n'étais pas au volant",
+        "uk": "нічого не роблю, якщо за кермом був не я"
+      },
+      {
+        "id": "C",
+        "fr": "je dois désigner le conducteur si j'étais une entreprise",
+        "uk": "якщо авто належить компанії, треба вказати водія"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "L'avis arrive au titulaire du certificat d'immatriculation. Si quelqu'un d'autre conduisait, on peut le désigner ; une entreprise doit obligatoirement désigner le conducteur.",
+    "explanation_uk": "Повідомлення приходить власникові за свідоцтвом про реєстрацію. Якщо керував інший, його можна вказати; компанія зобов'язана вказати водія.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q555",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "L'utilisation d'un détecteur de radars :",
+    "question_uk": "Використання антирадара:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est interdite",
+        "uk": "заборонене"
+      },
+      {
+        "id": "B",
+        "fr": "est autorisée",
+        "uk": "дозволене"
+      },
+      {
+        "id": "C",
+        "fr": "est autorisée seulement sur autoroute",
+        "uk": "дозволене лише на автомагістралі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les détecteurs de radars sont interdits (amende, retrait de 6 points, confiscation). Les avertisseurs de « zones de danger » des GPS sont tolérés.",
+    "explanation_uk": "Антирадари заборонені (штраф, мінус 6 балів, конфіскація). Попередження про «небезпечні зони» в навігаторах допускаються.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q556",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Changer de propriétaire d'un véhicule d'occasion nécessite :",
+    "question_uk": "При купівлі вживаного авто потрібні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un certificat de cession",
+        "uk": "договір/сертифікат передачі (certificat de cession)"
+      },
+      {
+        "id": "B",
+        "fr": "un contrôle technique de moins de 6 mois pour un véhicule de plus de 4 ans",
+        "uk": "техогляд, давніший не більш як 6 місяців, для авто старших за 4 роки"
+      },
+      {
+        "id": "C",
+        "fr": "aucun document",
+        "uk": "жодних документів"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le vendeur remet un certificat de cession et, pour un véhicule de plus de 4 ans, un contrôle technique de moins de 6 mois. L'acheteur fait la nouvelle immatriculation.",
+    "explanation_uk": "Продавець передає сертифікат передачі й, для авто старших за 4 роки, техогляд, давніший не більш як 6 місяців. Покупець переоформлює реєстрацію.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q557",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Une contravention de 4e classe correspond en général à une amende forfaitaire de :",
+    "question_uk": "Порушення 4-го класу зазвичай означає фіксований штраф:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "135 €",
+        "uk": "135 €"
+      },
+      {
+        "id": "B",
+        "fr": "35 €",
+        "uk": "35 €"
+      },
+      {
+        "id": "C",
+        "fr": "1 500 €",
+        "uk": "1 500 €"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Amende forfaitaire de 4e classe : 135 € (minorée 90 €, majorée 375 €). Exemples : feu rouge, téléphone, ceinture.",
+    "explanation_uk": "Фіксований штраф 4-го класу: 135 € (зменшений 90 €, збільшений 375 €). Приклади: червоне світло, телефон, пасок.",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q558",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Si je ne paie pas une amende forfaitaire à temps, elle devient :",
+    "question_uk": "Якщо вчасно не сплатити фіксований штраф, він стає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "majorée",
+        "uk": "збільшеним"
+      },
+      {
+        "id": "B",
+        "fr": "annulée",
+        "uk": "скасованим"
+      },
+      {
+        "id": "C",
+        "fr": "minorée",
+        "uk": "зменшеним"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Passé le délai (45 jours en général), l'amende forfaitaire est majorée (375 € pour 135 €).",
+    "explanation_uk": "Після строку (зазвичай 45 днів) штраф збільшується (375 € замість 135 €).",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q559",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Rouler sans permis :",
+    "question_uk": "Керувати без прав:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est un délit",
+        "uk": "є кримінальним правопорушенням (délit)"
+      },
+      {
+        "id": "B",
+        "fr": "est une simple contravention",
+        "uk": "звичайне порушення"
+      },
+      {
+        "id": "C",
+        "fr": "est toléré en campagne",
+        "uk": "допускається в сільській місцевості"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Conduire sans permis est un délit, sanctionné notamment d'une amende pouvant aller jusqu'à 15 000 € et d'une peine de prison.",
+    "explanation_uk": "Керування без прав — délit; зокрема, штраф може сягати 15 000 € і можливе ув'язнення.",
+    "tags": [
+      "sanctions",
+      "documents"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q560",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le contrôle d'alcoolémie peut être fait :",
+    "question_uk": "Перевірку на алкоголь можуть провести:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de façon aléatoire, même sans infraction",
+        "uk": "вибірково, навіть без порушення"
+      },
+      {
+        "id": "B",
+        "fr": "après un accident",
+        "uk": "після ДТП"
+      },
+      {
+        "id": "C",
+        "fr": "seulement si je conduis mal",
+        "uk": "лише якщо я погано їду"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les forces de l'ordre peuvent effectuer des dépistages préventifs, et le dépistage est systématique après un accident corporel.",
+    "explanation_uk": "Поліція може проводити профілактичні перевірки, а після ДТП з постраждалими перевірка обов'язкова.",
+    "tags": [
+      "alcool",
+      "sanctions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q561",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Refuser de se soumettre à un dépistage d'alcool :",
+    "question_uk": "Відмова від перевірки на алкоголь:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est sanctionné comme une conduite avec 0,8 g/l ou plus",
+        "uk": "карається як керування з 0,8 г/л і більше"
+      },
+      {
+        "id": "B",
+        "fr": "est sans conséquence",
+        "uk": "не має наслідків"
+      },
+      {
+        "id": "C",
+        "fr": "entraîne seulement 1 point",
+        "uk": "мінус лише 1 бал"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le refus de dépistage est un délit puni des mêmes peines que la conduite en état alcoolique (délit).",
+    "explanation_uk": "Відмова від перевірки — délit, який карається так само, як керування в стані сп'яніння.",
+    "tags": [
+      "alcool",
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q562",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "L'immobilisation du véhicule peut être décidée :",
+    "question_uk": "Затримання авто можуть призначити:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "si le conducteur est ivre",
+        "uk": "якщо водій п'яний"
+      },
+      {
+        "id": "B",
+        "fr": "si le véhicule est en très mauvais état",
+        "uk": "якщо авто в дуже поганому стані"
+      },
+      {
+        "id": "C",
+        "fr": "si le conducteur a oublié son gilet",
+        "uk": "якщо водій забув жилет"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "L'immobilisation empêche de repartir tant que le danger persiste (conducteur sous influence, véhicule dangereux, défaut de permis…).",
+    "explanation_uk": "Затримання не дає поїхати, поки зберігається небезпека (водій під впливом, небезпечне авто, відсутність прав…).",
+    "tags": [
+      "sanctions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q563",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Le gilet de haute visibilité obligatoire dans la voiture doit être :",
+    "question_uk": "Обов'язковий світловідбивний жилет в авто має бути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à portée de main du conducteur",
+        "uk": "під рукою у водія"
+      },
+      {
+        "id": "B",
+        "fr": "homologué (marquage CE)",
+        "uk": "сертифікованим (маркування CE)"
+      },
+      {
+        "id": "C",
+        "fr": "rangé sous la roue de secours",
+        "uk": "під запасним колесом"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le gilet doit être accessible sans sortir du véhicule et conforme aux normes. Son absence est sanctionnée.",
+    "explanation_uk": "Жилет має бути досяжним, не виходячи з авто, і відповідати нормам. За його відсутність штрафують.",
+    "tags": [
+      "equipements",
+      "documents"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q564",
+    "theme": "reglementation",
+    "image": null,
+    "question_fr": "Une infraction relevée par un radar de feu rouge entraîne :",
+    "question_uk": "Порушення, зафіксоване камерою на світлофорі, тягне:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "un retrait de 4 points",
+        "uk": "мінус 4 бали"
+      },
+      {
+        "id": "B",
+        "fr": "une amende de 135 €",
+        "uk": "штраф 135 €"
+      },
+      {
+        "id": "C",
+        "fr": "aucune sanction car il n'y a pas d'agent",
+        "uk": "жодного покарання, бо поліції немає"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le franchissement d'un feu rouge est sanctionné de la même façon, qu'il soit constaté par un agent ou par un radar.",
+    "explanation_uk": "Проїзд на червоне карається однаково — зафіксував його поліцейський чи камера.",
+    "tags": [
+      "sanctions",
+      "signalisation"
+    ],
+    "difficulty": 1
   }
 ]

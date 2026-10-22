@@ -1367,5 +1367,520 @@
       "equipements"
     ],
     "difficulty": 1
+  },
+  {
+    "id": "q580",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Quand je règle mon siège, je dois pouvoir :",
+    "question_uk": "Налаштовуючи сидіння, я маю могти:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "voir le tableau de bord et la route",
+        "uk": "бачити панель приладів і дорогу"
+      },
+      {
+        "id": "B",
+        "fr": "atteindre toutes les commandes sans décoller le dos",
+        "uk": "дотягнутися до всіх органів керування, не відриваючи спину"
+      },
+      {
+        "id": "C",
+        "fr": "allonger complètement les jambes",
+        "uk": "повністю випрямити ноги"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Bonne visibilité et accès aux commandes en gardant le dos contre le dossier. Les jambes restent légèrement pliées.",
+    "explanation_uk": "Добрий огляд і доступ до всіх кнопок і важелів зі спиною біля спинки. Ноги лишаються трохи зігнутими.",
+    "tags": [
+      "manoeuvres"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q581",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Avant d'ouvrir la portière côté rue, je vérifie surtout l'arrivée :",
+    "question_uk": "Перед тим як відчинити двері з боку вулиці, я перевіряю насамперед, чи не їдуть:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "de cyclistes et de deux-roues",
+        "uk": "велосипедисти й мотоциклісти"
+      },
+      {
+        "id": "B",
+        "fr": "des piétons sur le trottoir d'en face",
+        "uk": "пішоходи на протилежному тротуарі"
+      },
+      {
+        "id": "C",
+        "fr": "des avions",
+        "uk": "літаки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un cycliste qui longe les voitures garées peut être heurté par une portière qui s'ouvre (« emportiérage »).",
+    "explanation_uk": "Велосипедист, що їде вздовж припаркованих авто, може влетіти у двері, які раптом відчинилися.",
+    "tags": [
+      "cyclistes",
+      "manoeuvres"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q582",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Je veux démarrer en côte avec une boîte automatique :",
+    "question_uk": "Я хочу рушити на підйомі з автоматичною коробкою:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'aide au démarrage en côte ou le frein me retiennent",
+        "uk": "мене втримують система допомоги на підйомі або гальмо"
+      },
+      {
+        "id": "B",
+        "fr": "je dois utiliser l'embrayage",
+        "uk": "мушу використовувати зчеплення"
+      },
+      {
+        "id": "C",
+        "fr": "je passe en position P pour rouler",
+        "uk": "перемикаю на P, щоб їхати"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Une boîte automatique n'a pas de pédale d'embrayage. On passe de P à D, le pied sur le frein, puis on accélère progressivement.",
+    "explanation_uk": "В автоматичній коробці немає педалі зчеплення. Перемикають з P на D, тримаючи ногу на гальмі, потім плавно додають газ.",
+    "tags": [
+      "manoeuvres",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q583",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "En position « P » d'une boîte automatique :",
+    "question_uk": "Положення «P» автоматичної коробки:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le véhicule est verrouillé à l'arrêt (stationnement)",
+        "uk": "авто заблоковане на стоянці"
+      },
+      {
+        "id": "B",
+        "fr": "je peux rouler en marche avant",
+        "uk": "можна їхати вперед"
+      },
+      {
+        "id": "C",
+        "fr": "c'est la marche arrière",
+        "uk": "це задній хід"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "P = Parking, R = marche arrière, N = point mort, D = marche avant. On passe en P seulement véhicule arrêté.",
+    "explanation_uk": "P — стоянка, R — задній хід, N — нейтраль, D — рух уперед. На P перемикають лише коли авто стоїть.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q584",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Je veux me garer en épi (places en oblique). En général :",
+    "question_uk": "Я хочу стати на місце під кутом («ялинкою»). Зазвичай:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "j'entre en marche avant en suivant l'angle des places",
+        "uk": "заїжджаю передом за кутом розмітки"
+      },
+      {
+        "id": "B",
+        "fr": "je ne peux entrer qu'en marche arrière",
+        "uk": "можна заїхати лише заднім ходом"
+      },
+      {
+        "id": "C",
+        "fr": "je me gare perpendiculairement au trottoir",
+        "uk": "стаю перпендикулярно до тротуару"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les places en épi sont orientées pour entrer facilement en marche avant, dans le sens de circulation. Le marquage peut imposer l'inverse.",
+    "explanation_uk": "Місця «ялинкою» розраховані на заїзд передом за напрямком руху. Розмітка може вимагати іншого.",
+    "tags": [
+      "stationnement",
+      "manoeuvres"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q585",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Je vais faire une marche arrière longue :",
+    "question_uk": "Мені треба довго їхати заднім ходом:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je préfère faire demi-tour ou un détour si possible",
+        "uk": "краще розвернуся чи об'їду, якщо можна"
+      },
+      {
+        "id": "B",
+        "fr": "je recule vite pour gagner du temps",
+        "uk": "здаю назад швидко, щоб зекономити час"
+      },
+      {
+        "id": "C",
+        "fr": "c'est interdit sur autoroute",
+        "uk": "на автомагістралі це заборонено"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "La marche arrière doit être limitée au strict nécessaire, car on voit mal ; elle est interdite sur autoroute et dans les tunnels.",
+    "explanation_uk": "Задній хід обмежують мінімумом, бо огляд поганий; на автомагістралі й у тунелях він заборонений.",
+    "tags": [
+      "manoeuvres",
+      "autoroute"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q586",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "En stationnement, laisser les clés à l'intérieur du véhicule :",
+    "question_uk": "На стоянці залишати ключі в салоні:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "facilite le vol",
+        "uk": "полегшує крадіжку"
+      },
+      {
+        "id": "B",
+        "fr": "peut engager ma responsabilité",
+        "uk": "може обернутися моєю відповідальністю"
+      },
+      {
+        "id": "C",
+        "fr": "est conseillé pour les secours",
+        "uk": "радять для рятувальників"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Clés laissées = vol facilité, et l'assurance peut refuser d'indemniser. Je retire toujours la clé.",
+    "explanation_uk": "Залишені ключі полегшують крадіжку, а страховка може відмовити у виплаті. Ключ завжди виймаю.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q587",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Après avoir stationné le long d'un trottoir, je sors côté chaussée :",
+    "question_uk": "Припаркувавшись біля тротуару, я виходжу з боку дороги:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je vérifie la circulation avant d'ouvrir",
+        "uk": "перевіряю рух, перш ніж відчинити"
+      },
+      {
+        "id": "B",
+        "fr": "je referme rapidement la portière",
+        "uk": "швидко зачиняю двері"
+      },
+      {
+        "id": "C",
+        "fr": "je reste longtemps portière ouverte",
+        "uk": "довго стою з відчиненими дверима"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Ouvrir après avoir regardé, sortir rapidement, refermer : la portière ouverte ne doit pas gêner la circulation.",
+    "explanation_uk": "Відчиняти, подивившись, швидко виходити й зачиняти: відчинені двері не повинні заважати руху.",
+    "tags": [
+      "manoeuvres"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q588",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Les rétroviseurs extérieurs rabattables se replient :",
+    "question_uk": "Складані бокові дзеркала складають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à l'arrêt, pour éviter les chocs en stationnement",
+        "uk": "на стоянці, щоб їх не зачепили"
+      },
+      {
+        "id": "B",
+        "fr": "en roulant sur autoroute",
+        "uk": "під час руху автомагістраллю"
+      },
+      {
+        "id": "C",
+        "fr": "pour faire une marche arrière",
+        "uk": "для руху заднім ходом"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Rabattre les rétroviseurs n'a d'intérêt qu'en stationnement. En roulant, ils doivent être dépliés et bien réglés.",
+    "explanation_uk": "Складати дзеркала має сенс лише на стоянці. Під час руху вони мають бути розкриті й налаштовані.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q589",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Pour bien voir dans la voiture la nuit, je règle :",
+    "question_uk": "Щоб уночі добре бачити з авто, я налаштовую:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "l'intensité de l'éclairage du tableau de bord",
+        "uk": "яскравість підсвітки панелі"
+      },
+      {
+        "id": "B",
+        "fr": "le rétroviseur intérieur en position nuit si je suis ébloui",
+        "uk": "внутрішнє дзеркало в нічний режим, якщо засліплюють"
+      },
+      {
+        "id": "C",
+        "fr": "l'éclairage du plafonnier allumé en roulant",
+        "uk": "увімкнене освітлення салону під час руху"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un tableau de bord trop lumineux et le plafonnier allumé gênent la vision extérieure. La position nuit du rétroviseur limite l'éblouissement.",
+    "explanation_uk": "Надто яскрава панель і світло в салоні заважають бачити дорогу. Нічний режим дзеркала зменшує засліплення.",
+    "tags": [
+      "nuit",
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q590",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Je dois garer ma voiture dans un parking souterrain :",
+    "question_uk": "Мені треба поставити авто в підземному паркінгу:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je roule doucement et j'allume mes feux",
+        "uk": "їду повільно й вмикаю фари"
+      },
+      {
+        "id": "B",
+        "fr": "je fais attention aux piétons entre les voitures",
+        "uk": "стежу за пішоходами між машинами"
+      },
+      {
+        "id": "C",
+        "fr": "je roule vite pour trouver une place",
+        "uk": "їду швидко, щоб знайти місце"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Dans les parkings, la visibilité est réduite et les piétons nombreux : vitesse très réduite et feux allumés.",
+    "explanation_uk": "У паркінгах поганий огляд і багато пішоходів: дуже мала швидкість і ввімкнені фари.",
+    "tags": [
+      "stationnement",
+      "pietons"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q591",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Avant de partir avec une voiture que je ne connais pas, je :",
+    "question_uk": "Перш ніж їхати незнайомим авто, я:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "repère les commandes principales (feux, essuie-glaces, détresse)",
+        "uk": "знаходжу головні перемикачі (фари, двірники, аварійка)"
+      },
+      {
+        "id": "B",
+        "fr": "règle mon installation",
+        "uk": "налаштовую посадку"
+      },
+      {
+        "id": "C",
+        "fr": "découvre les commandes en roulant",
+        "uk": "розбираюся з перемикачами вже в русі"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Chercher une commande en roulant détourne l'attention. On prend le temps de découvrir le véhicule à l'arrêt.",
+    "explanation_uk": "Шукати перемикачі в русі — відволікатися. Знайомляться з авто на місці.",
+    "tags": [
+      "manoeuvres",
+      "distraction"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q592",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Le levier de vitesses est au point mort et le moteur tourne :",
+    "question_uk": "Важіль коробки на нейтралі, двигун працює:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le moteur n'entraîne pas les roues",
+        "uk": "двигун не передає обертання колесам"
+      },
+      {
+        "id": "B",
+        "fr": "je n'ai pas de frein moteur",
+        "uk": "гальмування двигуном немає"
+      },
+      {
+        "id": "C",
+        "fr": "le véhicule avance seul",
+        "uk": "авто саме їде вперед"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Au point mort, le moteur tourne sans entraîner les roues : pas de frein moteur, donc on ne descend pas une pente au point mort.",
+    "explanation_uk": "На нейтралі двигун працює, але не крутить колеса: гальмування двигуном немає, тому спускатися з гори на нейтралі не можна.",
+    "tags": [
+      "equipements",
+      "montagne"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q593",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Le frein à main est mal serré en stationnement en pente :",
+    "question_uk": "На схилі ручник затягнуто погано:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le véhicule peut se mettre à rouler",
+        "uk": "авто може покотитися"
+      },
+      {
+        "id": "B",
+        "fr": "engager une vitesse et braquer les roues limite le risque",
+        "uk": "увімкнена передача й повернуті колеса зменшують ризик"
+      },
+      {
+        "id": "C",
+        "fr": "ce n'est jamais grave",
+        "uk": "це ніколи не страшно"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "En pente, on combine frein de stationnement, vitesse engagée et roues braquées vers le trottoir (descente) ou la chaussée (montée).",
+    "explanation_uk": "На схилі поєднують ручне гальмо, увімкнену передачу й колеса, повернуті до тротуару (спуск) або до дороги (підйом).",
+    "tags": [
+      "stationnement",
+      "manoeuvres"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q594",
+    "theme": "vehicule",
+    "image": null,
+    "question_fr": "Les clignotants s'utilisent aussi :",
+    "question_uk": "Поворотник вмикають також:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "pour quitter une place de stationnement",
+        "uk": "щоб виїхати з місця стоянки"
+      },
+      {
+        "id": "B",
+        "fr": "pour changer de voie",
+        "uk": "щоб перестроїтися"
+      },
+      {
+        "id": "C",
+        "fr": "pour remercier un autre conducteur",
+        "uk": "щоб подякувати іншому водієві"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Le clignotant annonce tout déplacement latéral : départ, changement de voie, dépassement, rabattement, sortie de giratoire.",
+    "explanation_uk": "Поворотник попереджає про будь-яке бічне переміщення: старт, перестроювання, обгін, повернення в смугу, виїзд з кільця.",
+    "tags": [
+      "manoeuvres",
+      "signalisation"
+    ],
+    "difficulty": 1
   }
 ]

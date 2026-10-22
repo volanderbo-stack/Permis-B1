@@ -1355,5 +1355,515 @@
       "ceinture"
     ],
     "difficulty": 1
+  },
+  {
+    "id": "q610",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "La sécurité active, c'est l'ensemble des équipements qui :",
+    "question_uk": "Активна безпека — це обладнання, яке:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "aident à éviter l'accident (ABS, ESP, freins, pneus)",
+        "uk": "допомагає уникнути аварії (ABS, ESP, гальма, шини)"
+      },
+      {
+        "id": "B",
+        "fr": "réduisent les blessures pendant le choc (ceinture, airbag)",
+        "uk": "зменшує травми під час удару (пас, подушки)"
+      },
+      {
+        "id": "C",
+        "fr": "décorent le véhicule",
+        "uk": "прикрашає авто"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Sécurité active : éviter l'accident. Sécurité passive : limiter ses conséquences (ceinture, airbags, appuie-tête, carrosserie déformable).",
+    "explanation_uk": "Активна безпека — уникнути аварії. Пасивна — зменшити наслідки (пас, подушки, підголівник, кузов, що деформується).",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q611",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "La sécurité passive comprend :",
+    "question_uk": "Пасивна безпека включає:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la ceinture de sécurité",
+        "uk": "пас безпеки"
+      },
+      {
+        "id": "B",
+        "fr": "les airbags",
+        "uk": "подушки безпеки"
+      },
+      {
+        "id": "C",
+        "fr": "l'ABS",
+        "uk": "ABS"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La ceinture et les airbags protègent les occupants pendant le choc ; l'ABS aide à éviter l'accident (sécurité active).",
+    "explanation_uk": "Пас і подушки захищають людей під час удару; ABS допомагає уникнути аварії (активна безпека).",
+    "tags": [
+      "equipements",
+      "ceinture"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q612",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un enfant de 12 ans mesurant 1,40 m peut voyager :",
+    "question_uk": "12-річна дитина зростом 1,40 м може їхати:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "avec la ceinture adulte, bien ajustée",
+        "uk": "з дорослим пасом, правильно розміщеним"
+      },
+      {
+        "id": "B",
+        "fr": "sans ceinture à l'arrière",
+        "uk": "без паса ззаду"
+      },
+      {
+        "id": "C",
+        "fr": "sur les genoux d'un passager",
+        "uk": "на колінах у пасажира"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Après 10 ans, l'enfant utilise la ceinture adulte, mais un rehausseur reste conseillé tant que la sangle passe sur le cou (souvent jusqu'à 1,35–1,50 m).",
+    "explanation_uk": "Після 10 років дитина використовує дорослий пас, але бустер радять, доки пас проходить по шиї (часто до 1,35–1,50 м).",
+    "tags": [
+      "enfants",
+      "ceinture"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q613",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Je transporte un enfant dans un siège auto. La sangle du harnais doit être :",
+    "question_uk": "Я везу дитину в автокріслі. Ремені крісла мають бути:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "bien serrée, sans jeu",
+        "uk": "щільно затягнуті, без провисання"
+      },
+      {
+        "id": "B",
+        "fr": "lâche pour son confort",
+        "uk": "вільними для зручності"
+      },
+      {
+        "id": "C",
+        "fr": "passée derrière son dos",
+        "uk": "заведені за спину"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un harnais trop lâche réduit fortement la protection : on doit pouvoir glisser au plus un ou deux doigts entre la sangle et l'enfant.",
+    "explanation_uk": "Надто вільні ремені сильно знижують захист: між ременем і дитиною має проходити щонайбільше один-два пальці.",
+    "tags": [
+      "enfants"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q614",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Les sièges enfants de seconde main :",
+    "question_uk": "Вживані дитячі автокрісла:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sont déconseillés si on ignore leur passé (accident)",
+        "uk": "не радять, якщо невідома їхня історія (аварії)"
+      },
+      {
+        "id": "B",
+        "fr": "doivent être homologués et complets (notice, pièces)",
+        "uk": "мають бути сертифікованими й повними (інструкція, деталі)"
+      },
+      {
+        "id": "C",
+        "fr": "sont toujours aussi sûrs que des neufs",
+        "uk": "завжди такі ж безпечні, як нові"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Un siège ayant subi un choc peut être fragilisé sans que cela se voie. Il doit être homologué et complet.",
+    "explanation_uk": "Крісло після аварії може бути пошкоджене непомітно. Воно має бути сертифікованим і повним.",
+    "tags": [
+      "enfants"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q615",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le dispositif « sécurité enfants » des portes arrière :",
+    "question_uk": "«Дитячий замок» задніх дверей:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "empêche d'ouvrir la porte de l'intérieur",
+        "uk": "не дає відчинити двері зсередини"
+      },
+      {
+        "id": "B",
+        "fr": "empêche d'ouvrir la porte de l'extérieur",
+        "uk": "не дає відчинити двері ззовні"
+      },
+      {
+        "id": "C",
+        "fr": "verrouille la ceinture",
+        "uk": "блокує пас"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Activé, ce dispositif empêche l'enfant d'ouvrir sa portière en roulant ; un adulte peut toujours ouvrir de l'extérieur.",
+    "explanation_uk": "Увімкнений замок не дає дитині відчинити двері в русі; дорослий завжди може відчинити ззовні.",
+    "tags": [
+      "enfants",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q616",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un objet posé librement sur le tableau de bord :",
+    "question_uk": "Предмет, що лежить на панелі приладів:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "peut gêner la visibilité",
+        "uk": "може заважати огляду"
+      },
+      {
+        "id": "B",
+        "fr": "peut devenir dangereux en cas de choc ou de déploiement d'airbag",
+        "uk": "може стати небезпечним при ударі чи спрацюванні подушки"
+      },
+      {
+        "id": "C",
+        "fr": "est sans risque",
+        "uk": "безпечний"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Rien ne doit encombrer le tableau de bord : reflets, gêne visuelle et projectile en cas de choc.",
+    "explanation_uk": "Панель приладів має бути вільною: відблиски, заважання огляду й снаряд при ударі.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q617",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le chargement d'un véhicule doit :",
+    "question_uk": "Вантаж в авто має:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "être réparti et arrimé",
+        "uk": "бути розподілений і закріплений"
+      },
+      {
+        "id": "B",
+        "fr": "ne pas dépasser le poids total autorisé",
+        "uk": "не перевищувати дозволену масу"
+      },
+      {
+        "id": "C",
+        "fr": "masquer la plaque arrière si nécessaire",
+        "uk": "закривати задній номер, якщо треба"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "On respecte le PTAC, on répartit la charge et on l'attache. Plaque et feux doivent toujours rester visibles.",
+    "explanation_uk": "Дотримуються дозволеної маси, розподіляють вантаж і закріплюють його. Номер і ліхтарі завжди мають бути видимими.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q618",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le transport d'un passager dans le coffre :",
+    "question_uk": "Перевезення пасажира в багажнику:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est interdit",
+        "uk": "заборонене"
+      },
+      {
+        "id": "B",
+        "fr": "est autorisé sur un court trajet",
+        "uk": "дозволене на коротку відстань"
+      },
+      {
+        "id": "C",
+        "fr": "est autorisé pour un adulte",
+        "uk": "дозволене для дорослого"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Chaque passager doit occuper une place assise prévue, équipée d'une ceinture ou d'un dispositif adapté.",
+    "explanation_uk": "Кожен пасажир має сидіти на передбаченому місці з пасом чи відповідним пристроєм.",
+    "tags": [
+      "ceinture",
+      "chargement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q619",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Les vitres teintées à l'avant (pare-brise et vitres latérales avant) :",
+    "question_uk": "Тоновані передні вікна (лобове й передні бокові):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sont interdites si elles sont trop sombres",
+        "uk": "заборонені, якщо надто темні"
+      },
+      {
+        "id": "B",
+        "fr": "sont autorisées sans limite",
+        "uk": "дозволені без обмежень"
+      },
+      {
+        "id": "C",
+        "fr": "améliorent la sécurité la nuit",
+        "uk": "покращують безпеку вночі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le pare-brise et les vitres avant doivent laisser passer au moins 70 % de la lumière : la visibilité, surtout la nuit, en dépend.",
+    "explanation_uk": "Лобове й передні бокові скла мають пропускати щонайменше 70 % світла: від цього залежить огляд, особливо вночі.",
+    "tags": [
+      "equipements",
+      "sanctions"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q620",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Pour transporter des vélos sur le toit :",
+    "question_uk": "Щоб перевезти велосипеди на даху:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je vérifie leur fixation avant de partir et en route",
+        "uk": "перевіряю кріплення перед виїздом і в дорозі"
+      },
+      {
+        "id": "B",
+        "fr": "je fais attention à la hauteur (parkings, tunnels)",
+        "uk": "пам'ятаю про висоту (паркінги, тунелі)"
+      },
+      {
+        "id": "C",
+        "fr": "je roule plus vite pour stabiliser",
+        "uk": "їду швидше для стабільності"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Des vélos sur le toit augmentent la hauteur et la prise au vent : fixation contrôlée, vitesse modérée, attention aux gabarits.",
+    "explanation_uk": "Велосипеди на даху збільшують висоту й парусність: перевіряй кріплення, помірна швидкість, пам'ятай про габарити.",
+    "tags": [
+      "chargement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q621",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "L'airbag latéral protège surtout :",
+    "question_uk": "Бокова подушка безпеки захищає насамперед:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "le thorax et la tête en cas de choc sur le côté",
+        "uk": "груди й голову при боковому ударі"
+      },
+      {
+        "id": "B",
+        "fr": "les jambes en cas de choc arrière",
+        "uk": "ноги при ударі ззаду"
+      },
+      {
+        "id": "C",
+        "fr": "le moteur",
+        "uk": "двигун"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les airbags latéraux et rideaux protègent lors d'un choc latéral. Je ne colle pas d'objets ni de housses non compatibles sur les sièges.",
+    "explanation_uk": "Бокові подушки й «шторки» захищають при боковому ударі. Не кріпи на сидіння предмети чи несумісні чохли.",
+    "tags": [
+      "equipements"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q622",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Mon véhicule a été volé :",
+    "question_uk": "Моє авто викрали:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je porte plainte auprès de la police ou de la gendarmerie",
+        "uk": "подаю заяву в поліцію чи жандармерію"
+      },
+      {
+        "id": "B",
+        "fr": "je préviens mon assurance",
+        "uk": "повідомляю страхову компанію"
+      },
+      {
+        "id": "C",
+        "fr": "j'attends plusieurs mois sans rien faire",
+        "uk": "чекаю кілька місяців, нічого не роблячи"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "La plainte et la déclaration à l'assurance permettent l'indemnisation et protègent si le véhicule est utilisé pour une infraction.",
+    "explanation_uk": "Заява в поліцію й повідомлення страховику дають змогу отримати виплату й захищають, якщо авто використають для порушення.",
+    "tags": [
+      "documents"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q623",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Un passager à l'avant pose ses pieds sur le tableau de bord :",
+    "question_uk": "Пасажир спереду кладе ноги на панель приладів:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "il risque de graves blessures si l'airbag se déclenche",
+        "uk": "він ризикує тяжко травмуватися, якщо спрацює подушка"
+      },
+      {
+        "id": "B",
+        "fr": "c'est une position confortable et sûre",
+        "uk": "це зручне й безпечне положення"
+      },
+      {
+        "id": "C",
+        "fr": "la ceinture est alors moins efficace",
+        "uk": "пас тоді менш ефективний"
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation_fr": "L'airbag se déploie à grande vitesse : des jambes sur le tableau de bord peuvent être projetées contre le passager. La ceinture est mal positionnée.",
+    "explanation_uk": "Подушка розкривається дуже швидко: ноги на панелі можуть відкинутися на пасажира. Пас при цьому розміщений неправильно.",
+    "tags": [
+      "ceinture",
+      "equipements"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q624",
+    "theme": "securite",
+    "image": null,
+    "question_fr": "Le poids des passagers et des bagages modifie :",
+    "question_uk": "Вага пасажирів і багажу змінює:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la distance de freinage",
+        "uk": "гальмівний шлях"
+      },
+      {
+        "id": "B",
+        "fr": "le comportement en virage",
+        "uk": "поведінку в поворотах"
+      },
+      {
+        "id": "C",
+        "fr": "la couleur des feux",
+        "uk": "колір фар"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Plus le véhicule est lourd, plus il freine long et plus il est sensible en virage. J'adapte ma conduite.",
+    "explanation_uk": "Що важче авто, то довший гальмівний шлях і чутливіша поведінка в поворотах. Підлаштовую стиль їзди.",
+    "tags": [
+      "chargement",
+      "distances"
+    ],
+    "difficulty": 1
   }
 ]

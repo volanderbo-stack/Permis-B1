@@ -2183,5 +2183,1897 @@
       "intersection"
     ],
     "difficulty": 1
+  },
+  {
+    "id": "q448",
+    "theme": "circulation",
+    "image": "signs/AB3a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Intersection avec priorité à droite",
+        "uk": "Перехрестя з перевагою транспорту справа"
+      },
+      {
+        "id": "B",
+        "fr": "Route prioritaire",
+        "uk": "Головна дорога"
+      },
+      {
+        "id": "C",
+        "fr": "Cédez le passage",
+        "uk": "Дати дорогу"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (AB3a) signifie : « Cédez le passage ». Panneau d'intersection et de priorité : il indique qui doit céder le passage.",
+    "explanation_uk": "Цей знак (AB3a) означає: «Дати дорогу». Знак перехрестя й пріоритету: показує, хто має поступитися.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q449",
+    "theme": "circulation",
+    "image": "signs/AB4.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Intersection où je suis prioritaire",
+        "uk": "Перехрестя, де я маю перевагу"
+      },
+      {
+        "id": "B",
+        "fr": "Route prioritaire",
+        "uk": "Головна дорога"
+      },
+      {
+        "id": "C",
+        "fr": "Arrêt obligatoire (STOP)",
+        "uk": "Обов'язкова зупинка (STOP)"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (AB4) signifie : « Arrêt obligatoire (STOP) ». Panneau d'intersection et de priorité : il indique qui doit céder le passage.",
+    "explanation_uk": "Цей знак (AB4) означає: «Обов'язкова зупинка (STOP)». Знак перехрестя й пріоритету: показує, хто має поступитися.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q450",
+    "theme": "circulation",
+    "image": "signs/AB25.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Intersection où je suis prioritaire",
+        "uk": "Перехрестя, де я маю перевагу"
+      },
+      {
+        "id": "B",
+        "fr": "Carrefour à sens giratoire",
+        "uk": "Перехрестя з круговим рухом"
+      },
+      {
+        "id": "C",
+        "fr": "Cédez le passage",
+        "uk": "Дати дорогу"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (AB25) signifie : « Carrefour à sens giratoire ». Panneau d'intersection et de priorité : il indique qui doit céder le passage.",
+    "explanation_uk": "Цей знак (AB25) означає: «Перехрестя з круговим рухом». Знак перехрестя й пріоритету: показує, хто має поступитися.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q451",
+    "theme": "circulation",
+    "image": "signs/B2a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules dont la hauteur dépasse le nombre indiqué",
+        "uk": "Обмеження висоти"
+      },
+      {
+        "id": "C",
+        "fr": "Interdiction de tourner à gauche",
+        "uk": "Поворот ліворуч заборонено"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B2a) signifie : « Interdiction de tourner à gauche ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B2a) означає: «Поворот ліворуч заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q452",
+    "theme": "circulation",
+    "image": "signs/B2b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Interdiction de tourner à droite",
+        "uk": "Поворот праворуч заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules de transport de marchandises",
+        "uk": "В'їзд вантажного транспорту заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux piétons",
+        "uk": "Рух пішоходів заборонено"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B2b) signifie : « Interdiction de tourner à droite ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B2b) означає: «Поворот праворуч заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q453",
+    "theme": "circulation",
+    "image": "signs/B3.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
+        "uk": "В'їзд транспорту з небезпечними вантажами заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Circulation interdite à tout véhicule",
+        "uk": "Рух усіх транспортних засобів заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Interdiction de dépasser",
+        "uk": "Обгін заборонено"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B3) signifie : « Interdiction de dépasser ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B3) означає: «Обгін заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q454",
+    "theme": "circulation",
+    "image": "signs/B3a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Dépassement interdit aux poids lourds",
+        "uk": "Обгін вантажівкам заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules dont le poids dépasse le nombre indiqué",
+        "uk": "Обмеження маси"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B3a) signifie : « Dépassement interdit aux poids lourds ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B3a) означає: «Обгін вантажівкам заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q455",
+    "theme": "circulation",
+    "image": "signs/B6a3.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules dont la hauteur dépasse le nombre indiqué",
+        "uk": "Обмеження висоти"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Stationnement interdit du 16 à la fin du mois",
+        "uk": "Стоянку заборонено з 16 числа до кінця місяця"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B6a3) signifie : « Stationnement interdit du 16 à la fin du mois ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B6a3) означає: «Стоянку заборонено з 16 числа до кінця місяця». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q456",
+    "theme": "circulation",
+    "image": "signs/B7b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Interdiction de tourner à gauche",
+        "uk": "Поворот ліворуч заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Interdiction de dépasser",
+        "uk": "Обгін заборонено"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B7b) signifie : « Accès interdit à tous les véhicules à moteur ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B7b) означає: «В'їзд усім механічним транспортним засобам заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q457",
+    "theme": "circulation",
+    "image": "signs/B8.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Limitation de vitesse (ici 50 km/h)",
+        "uk": "Обмеження швидкості (тут 50 км/год)"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules de transport de marchandises",
+        "uk": "В'їзд вантажного транспорту заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Arrêt et stationnement interdits",
+        "uk": "Зупинку і стоянку заборонено"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B8) signifie : « Accès interdit aux véhicules de transport de marchandises ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B8) означає: «В'їзд вантажного транспорту заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q458",
+    "theme": "circulation",
+    "image": "signs/B9a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux piétons",
+        "uk": "Рух пішоходів заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Arrêt et stationnement interdits",
+        "uk": "Зупинку і стоянку заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux cycles",
+        "uk": "Рух велосипедів заборонено"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B9a) signifie : « Accès interdit aux piétons ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B9a) означає: «Рух пішоходів заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q459",
+    "theme": "circulation",
+    "image": "signs/B9b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
+        "uk": "В'їзд транспорту з небезпечними вантажами заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux cycles",
+        "uk": "Рух велосипедів заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Limitation de vitesse (ici 50 km/h)",
+        "uk": "Обмеження швидкості (тут 50 км/год)"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B9b) signifie : « Accès interdit aux cycles ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B9b) означає: «Рух велосипедів заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q460",
+    "theme": "circulation",
+    "image": "signs/B9g.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Circulation interdite à tout véhicule",
+        "uk": "Рух усіх транспортних засобів заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux cyclomoteurs",
+        "uk": "Рух мопедів заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué",
+        "uk": "Обмеження довжини"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B9g) signifie : « Accès interdit aux cyclomoteurs ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B9g) означає: «Рух мопедів заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q461",
+    "theme": "circulation",
+    "image": "signs/B10a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué",
+        "uk": "Обмеження довжини"
+      },
+      {
+        "id": "C",
+        "fr": "Stationnement interdit",
+        "uk": "Стоянку заборонено"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B10a) signifie : « Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B10a) означає: «Обмеження довжини». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q462",
+    "theme": "circulation",
+    "image": "signs/B11.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules dont la largeur dépasse le nombre indiqué",
+        "uk": "Обмеження ширини"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit à tous les véhicules à moteur",
+        "uk": "В'їзд усім механічним транспортним засобам заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué",
+        "uk": "Обмеження довжини"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B11) signifie : « Accès interdit aux véhicules dont la largeur dépasse le nombre indiqué ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B11) означає: «Обмеження ширини». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q463",
+    "theme": "circulation",
+    "image": "signs/B12.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Signaux sonores interdits",
+        "uk": "Звукові сигнали заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules dont la hauteur dépasse le nombre indiqué",
+        "uk": "Обмеження висоти"
+      },
+      {
+        "id": "C",
+        "fr": "Stationnement interdit",
+        "uk": "Стоянку заборонено"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B12) signifie : « Accès interdit aux véhicules dont la hauteur dépasse le nombre indiqué ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B12) означає: «Обмеження висоти». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q464",
+    "theme": "circulation",
+    "image": "signs/B13.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
+        "uk": "В'їзд транспорту з небезпечними вантажами заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Accès interdit aux véhicules dont le poids dépasse le nombre indiqué",
+        "uk": "Обмеження маси"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules de transport de marchandises",
+        "uk": "В'їзд вантажного транспорту заборонено"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B13) signifie : « Accès interdit aux véhicules dont le poids dépasse le nombre indiqué ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B13) означає: «Обмеження маси». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q465",
+    "theme": "circulation",
+    "image": "signs/B14-50.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Limitation de vitesse (ici 50 km/h)",
+        "uk": "Обмеження швидкості (тут 50 км/год)"
+      },
+      {
+        "id": "B",
+        "fr": "Interdiction de tourner à droite",
+        "uk": "Поворот праворуч заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Stationnement interdit du 16 à la fin du mois",
+        "uk": "Стоянку заборонено з 16 числа до кінця місяця"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B14-50) signifie : « Limitation de vitesse (ici 50 km/h) ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B14-50) означає: «Обмеження швидкості (тут 50 км/год)». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q466",
+    "theme": "circulation",
+    "image": "signs/B14-90.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Cédez le passage à la circulation venant en sens inverse",
+        "uk": "Поступитися зустрічному транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "Sens interdit",
+        "uk": "В'їзд заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "Limitation de vitesse (ici 90 km/h)",
+        "uk": "Обмеження швидкості (тут 90 км/год)"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B14-90) signifie : « Limitation de vitesse (ici 90 km/h) ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B14-90) означає: «Обмеження швидкості (тут 90 км/год)». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q467",
+    "theme": "circulation",
+    "image": "signs/B15.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Accès interdit aux véhicules dont la longueur dépasse le nombre indiqué",
+        "uk": "Обмеження довжини"
+      },
+      {
+        "id": "B",
+        "fr": "Cédez le passage à la circulation venant en sens inverse",
+        "uk": "Поступитися зустрічному транспорту"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules dont le poids dépasse le nombre indiqué",
+        "uk": "Обмеження маси"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B15) signifie : « Cédez le passage à la circulation venant en sens inverse ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B15) означає: «Поступитися зустрічному транспорту». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q468",
+    "theme": "circulation",
+    "image": "signs/B16.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Interdiction de tourner à droite",
+        "uk": "Поворот праворуч заборонено"
+      },
+      {
+        "id": "B",
+        "fr": "Limitation de vitesse (ici 50 km/h)",
+        "uk": "Обмеження швидкості (тут 50 км/год)"
+      },
+      {
+        "id": "C",
+        "fr": "Signaux sonores interdits",
+        "uk": "Звукові сигнали заборонено"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B16) signifie : « Signaux sonores interdits ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B16) означає: «Звукові сигнали заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q469",
+    "theme": "circulation",
+    "image": "signs/B18c.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Stationnement interdit du 1er au 15 du mois",
+        "uk": "Стоянку заборонено з 1 по 15 число"
+      },
+      {
+        "id": "B",
+        "fr": "Stationnement interdit du 16 à la fin du mois",
+        "uk": "Стоянку заборонено з 16 числа до кінця місяця"
+      },
+      {
+        "id": "C",
+        "fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
+        "uk": "В'їзд транспорту з небезпечними вантажами заборонено"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B18c) signifie : « Accès interdit aux véhicules transportant des marchandises dangereuses ». Panneau d'interdiction (rond à bord rouge) : l'interdiction s'applique en principe jusqu'à la prochaine intersection, sauf indication contraire.",
+    "explanation_uk": "Цей знак (B18c) означає: «В'їзд транспорту з небезпечними вантажами заборонено». Заборонний знак (коло з червоною облямівкою): заборона зазвичай діє до найближчого перехрестя, якщо не вказано інше.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q470",
+    "theme": "circulation",
+    "image": "signs/B21-2.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Voie réservée aux véhicules des transports en commun",
+        "uk": "Смуга для громадського транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "Obligation de tourner à gauche avant le panneau",
+        "uk": "Обов'язковий поворот ліворуч перед знаком"
+      },
+      {
+        "id": "C",
+        "fr": "Contournement obligatoire par la gauche",
+        "uk": "Об'їзд перешкоди ліворуч"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B21-2) signifie : « Obligation de tourner à gauche avant le panneau ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21-2) означає: «Обов'язковий поворот ліворуч перед знаком». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q471",
+    "theme": "circulation",
+    "image": "signs/B21a1.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Direction obligatoire tout droit à la prochaine intersection",
+        "uk": "Рух тільки прямо на наступному перехресті"
+      },
+      {
+        "id": "B",
+        "fr": "Chemin obligatoire pour piétons",
+        "uk": "Пішохідна доріжка"
+      },
+      {
+        "id": "C",
+        "fr": "Contournement obligatoire par la droite",
+        "uk": "Об'їзд перешкоди праворуч"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B21a1) signifie : « Contournement obligatoire par la droite ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21a1) означає: «Об'їзд перешкоди праворуч». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q472",
+    "theme": "circulation",
+    "image": "signs/B21a2.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Voie réservée aux véhicules des transports en commun",
+        "uk": "Смуга для громадського транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "Contournement obligatoire par la gauche",
+        "uk": "Об'їзд перешкоди ліворуч"
+      },
+      {
+        "id": "C",
+        "fr": "Obligation de tourner à droite avant le panneau",
+        "uk": "Обов'язковий поворот праворуч перед знаком"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B21a2) signifie : « Contournement obligatoire par la gauche ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21a2) означає: «Об'їзд перешкоди ліворуч». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q473",
+    "theme": "circulation",
+    "image": "signs/B21b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Direction obligatoire tout droit à la prochaine intersection",
+        "uk": "Рух тільки прямо на наступному перехресті"
+      },
+      {
+        "id": "B",
+        "fr": "Directions obligatoires : à droite ou à gauche",
+        "uk": "Рух праворуч або ліворуч"
+      },
+      {
+        "id": "C",
+        "fr": "Voie réservée aux véhicules des transports en commun",
+        "uk": "Смуга для громадського транспорту"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B21b) signifie : « Direction obligatoire tout droit à la prochaine intersection ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21b) означає: «Рух тільки прямо на наступному перехресті». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q474",
+    "theme": "circulation",
+    "image": "signs/B21c1.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Contournement obligatoire par la gauche",
+        "uk": "Об'їзд перешкоди ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Direction obligatoire à la prochaine intersection : à droite",
+        "uk": "Рух тільки праворуч на наступному перехресті"
+      },
+      {
+        "id": "C",
+        "fr": "Vitesse minimale obligatoire (ici 30 km/h)",
+        "uk": "Обов'язкова мінімальна швидкість (тут 30 км/год)"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B21c1) signifie : « Direction obligatoire à la prochaine intersection : à droite ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21c1) означає: «Рух тільки праворуч на наступному перехресті». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q475",
+    "theme": "circulation",
+    "image": "signs/B21e.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Direction obligatoire à la prochaine intersection : à droite",
+        "uk": "Рух тільки праворуч на наступному перехресті"
+      },
+      {
+        "id": "B",
+        "fr": "Contournement obligatoire par la droite",
+        "uk": "Об'їзд перешкоди праворуч"
+      },
+      {
+        "id": "C",
+        "fr": "Directions obligatoires : à droite ou à gauche",
+        "uk": "Рух праворуч або ліворуч"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B21e) signifie : « Directions obligatoires : à droite ou à gauche ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B21e) означає: «Рух праворуч або ліворуч». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q476",
+    "theme": "circulation",
+    "image": "signs/B22b.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Directions obligatoires : à droite ou à gauche",
+        "uk": "Рух праворуч або ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Contournement obligatoire par la gauche",
+        "uk": "Об'їзд перешкоди ліворуч"
+      },
+      {
+        "id": "C",
+        "fr": "Chemin obligatoire pour piétons",
+        "uk": "Пішохідна доріжка"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B22b) signifie : « Chemin obligatoire pour piétons ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B22b) означає: «Пішохідна доріжка». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q477",
+    "theme": "circulation",
+    "image": "signs/B22c.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Directions obligatoires : à droite ou à gauche",
+        "uk": "Рух праворуч або ліворуч"
+      },
+      {
+        "id": "B",
+        "fr": "Chemin obligatoire pour cavaliers",
+        "uk": "Доріжка для вершників"
+      },
+      {
+        "id": "C",
+        "fr": "Direction obligatoire tout droit à la prochaine intersection",
+        "uk": "Рух тільки прямо на наступному перехресті"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B22c) signifie : « Chemin obligatoire pour cavaliers ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B22c) означає: «Доріжка для вершників». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q478",
+    "theme": "circulation",
+    "image": "signs/B25.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Chaînes à neige obligatoires",
+        "uk": "Снігові ланцюги обов'язкові"
+      },
+      {
+        "id": "B",
+        "fr": "Vitesse minimale obligatoire (ici 30 km/h)",
+        "uk": "Обов'язкова мінімальна швидкість (тут 30 км/год)"
+      },
+      {
+        "id": "C",
+        "fr": "Voie réservée aux véhicules des transports en commun",
+        "uk": "Смуга для громадського транспорту"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B25) signifie : « Vitesse minimale obligatoire (ici 30 km/h) ». Panneau d'obligation (rond bleu) : il impose une direction, un comportement ou un équipement.",
+    "explanation_uk": "Цей знак (B25) означає: «Обов'язкова мінімальна швидкість (тут 30 км/год)». Наказовий знак (синє коло): зобов'язує рухатися в певному напрямку, діяти певним чином або мати певне спорядження.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q479",
+    "theme": "circulation",
+    "image": "signs/B33.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin d'interdiction des signaux sonores",
+        "uk": "Кінець заборони звукових сигналів"
+      },
+      {
+        "id": "B",
+        "fr": "Fin d'interdiction de dépasser",
+        "uk": "Кінець заборони обгону"
+      },
+      {
+        "id": "C",
+        "fr": "Fin de limitation de vitesse (ici 50 km/h)",
+        "uk": "Кінець обмеження швидкості (тут 50 км/год)"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B33) signifie : « Fin de limitation de vitesse (ici 50 km/h) ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B33) означає: «Кінець обмеження швидкості (тут 50 км/год)». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q480",
+    "theme": "circulation",
+    "image": "signs/B34.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin de chemin obligatoire pour piétons",
+        "uk": "Кінець пішохідної доріжки"
+      },
+      {
+        "id": "B",
+        "fr": "Fin d'interdiction des signaux sonores",
+        "uk": "Кінець заборони звукових сигналів"
+      },
+      {
+        "id": "C",
+        "fr": "Fin d'interdiction de dépasser",
+        "uk": "Кінець заборони обгону"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B34) signifie : « Fin d'interdiction de dépasser ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B34) означає: «Кінець заборони обгону». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q481",
+    "theme": "circulation",
+    "image": "signs/B34a.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin d'interdiction de dépasser pour les poids lourds",
+        "uk": "Кінець заборони обгону для вантажівок"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de l'interdiction dont la nature est indiquée sur le panneau",
+        "uk": "Кінець заборони, зазначеної на знаку"
+      },
+      {
+        "id": "C",
+        "fr": "Fin de piste ou bande obligatoire pour cycles",
+        "uk": "Кінець обов'язкової велодоріжки"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B34a) signifie : « Fin d'interdiction de dépasser pour les poids lourds ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B34a) означає: «Кінець заборони обгону для вантажівок». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q482",
+    "theme": "circulation",
+    "image": "signs/B35.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin de piste ou bande obligatoire pour cycles",
+        "uk": "Кінець обов'язкової велодоріжки"
+      },
+      {
+        "id": "B",
+        "fr": "Fin d'interdiction des signaux sonores",
+        "uk": "Кінець заборони звукових сигналів"
+      },
+      {
+        "id": "C",
+        "fr": "Fin d'interdiction de dépasser pour les poids lourds",
+        "uk": "Кінець заборони обгону для вантажівок"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B35) signifie : « Fin d'interdiction des signaux sonores ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B35) означає: «Кінець заборони звукових сигналів». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q483",
+    "theme": "circulation",
+    "image": "signs/B39.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin d'interdiction de dépasser pour les poids lourds",
+        "uk": "Кінець заборони обгону для вантажівок"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de l'interdiction dont la nature est indiquée sur le panneau",
+        "uk": "Кінець заборони, зазначеної на знаку"
+      },
+      {
+        "id": "C",
+        "fr": "Fin d'interdiction des signaux sonores",
+        "uk": "Кінець заборони звукових сигналів"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B39) signifie : « Fin de l'interdiction dont la nature est indiquée sur le panneau ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B39) означає: «Кінець заборони, зазначеної на знаку». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q484",
+    "theme": "circulation",
+    "image": "signs/B40.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin d'interdiction des signaux sonores",
+        "uk": "Кінець заборони звукових сигналів"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de toutes les interdictions signalées",
+        "uk": "Кінець усіх заборон"
+      },
+      {
+        "id": "C",
+        "fr": "Fin de piste ou bande obligatoire pour cycles",
+        "uk": "Кінець обов'язкової велодоріжки"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B40) signifie : « Fin de piste ou bande obligatoire pour cycles ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B40) означає: «Кінець обов'язкової велодоріжки». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q485",
+    "theme": "circulation",
+    "image": "signs/B41.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Fin de piste ou bande obligatoire pour cycles",
+        "uk": "Кінець обов'язкової велодоріжки"
+      },
+      {
+        "id": "B",
+        "fr": "Fin de limitation de vitesse (ici 50 km/h)",
+        "uk": "Кінець обмеження швидкості (тут 50 км/год)"
+      },
+      {
+        "id": "C",
+        "fr": "Fin de chemin obligatoire pour piétons",
+        "uk": "Кінець пішохідної доріжки"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Ce panneau (B41) signifie : « Fin de chemin obligatoire pour piétons ». Panneau de fin d'interdiction ou d'obligation (barre oblique) : la règle signalée auparavant ne s'applique plus.",
+    "explanation_uk": "Цей знак (B41) означає: «Кінець пішохідної доріжки». Знак кінця заборони чи обов'язку (з косою смугою): попереднє правило більше не діє.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q486",
+    "theme": "circulation",
+    "image": "signs/B51.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Sortie d'une zone 30",
+        "uk": "Кінець зони 30"
+      },
+      {
+        "id": "B",
+        "fr": "Entrée d'une zone 30",
+        "uk": "Початок зони 30"
+      },
+      {
+        "id": "C",
+        "fr": "Sortie d'une zone de rencontre",
+        "uk": "Кінець зони зустрічі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B51) signifie : « Sortie d'une zone 30 ». Panneau de zone : les règles s'appliquent dans toute la zone, jusqu'au panneau de sortie.",
+    "explanation_uk": "Цей знак (B51) означає: «Кінець зони 30». Знак зони: правила діють на всій території зони до знака виїзду.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q487",
+    "theme": "circulation",
+    "image": "signs/B53.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Sortie d'une zone de rencontre",
+        "uk": "Кінець зони зустрічі"
+      },
+      {
+        "id": "B",
+        "fr": "Entrée d'une zone de rencontre",
+        "uk": "Початок зони зустрічі (20 км/год)"
+      },
+      {
+        "id": "C",
+        "fr": "Entrée d'une aire piétonne",
+        "uk": "Початок пішохідної зони"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B53) signifie : « Sortie d'une zone de rencontre ». Panneau de zone : les règles s'appliquent dans toute la zone, jusqu'au panneau de sortie.",
+    "explanation_uk": "Цей знак (B53) означає: «Кінець зони зустрічі». Знак зони: правила діють на всій території зони до знака виїзду.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q488",
+    "theme": "circulation",
+    "image": "signs/B54.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Sortie d'une aire piétonne",
+        "uk": "Кінець пішохідної зони"
+      },
+      {
+        "id": "B",
+        "fr": "Entrée d'une aire piétonne",
+        "uk": "Початок пішохідної зони"
+      },
+      {
+        "id": "C",
+        "fr": "Sortie d'une zone 30",
+        "uk": "Кінець зони 30"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Ce panneau (B54) signifie : « Entrée d'une aire piétonne ». Panneau de zone : les règles s'appliquent dans toute la zone, jusqu'au panneau de sortie.",
+    "explanation_uk": "Цей знак (B54) означає: «Початок пішохідної зони». Знак зони: правила діють на всій території зони до знака виїзду.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q489",
+    "theme": "circulation",
+    "image": "signs/B55.svg",
+    "question_fr": "Que signifie ce panneau ?",
+    "question_uk": "Що означає цей знак?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "Sortie d'une aire piétonne",
+        "uk": "Кінець пішохідної зони"
+      },
+      {
+        "id": "B",
+        "fr": "Entrée d'une zone 30",
+        "uk": "Початок зони 30"
+      },
+      {
+        "id": "C",
+        "fr": "Sortie d'une zone de rencontre",
+        "uk": "Кінець зони зустрічі"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Ce panneau (B55) signifie : « Sortie d'une aire piétonne ». Panneau de zone : les règles s'appliquent dans toute la zone, jusqu'au panneau de sortie.",
+    "explanation_uk": "Цей знак (B55) означає: «Кінець пішохідної зони». Знак зони: правила діють на всій території зони до знака виїзду.",
+    "tags": [
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q490",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Sur une route étroite, un véhicule en stationnement se trouve sur ma voie. Un véhicule arrive en face :",
+    "question_uk": "На вузькій дорозі на моїй смузі стоїть припарковане авто. Назустріч їде машина:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je lui laisse le passage",
+        "uk": "я її пропускаю"
+      },
+      {
+        "id": "B",
+        "fr": "il doit me laisser passer car je suis à droite",
+        "uk": "вона має пропустити мене, бо я справа"
+      },
+      {
+        "id": "C",
+        "fr": "je passe en klaxonnant",
+        "uk": "я проїжджаю, сигналячи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "L'obstacle est de mon côté : c'est à moi de céder le passage au véhicule qui arrive en face.",
+    "explanation_uk": "Перешкода з мого боку — значить, я пропускаю зустрічне авто.",
+    "tags": [
+      "priorite"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q491",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "En circulation dense, les files de voitures roulent côte à côte sur une route à plusieurs voies. La file de droite va plus vite que celle de gauche :",
+    "question_uk": "У щільному потоці ряди машин їдуть поруч на багатосмуговій дорозі. Правий ряд рухається швидше за лівий:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ce n'est pas considéré comme un dépassement par la droite",
+        "uk": "це не вважається обгоном справа"
+      },
+      {
+        "id": "B",
+        "fr": "c'est interdit",
+        "uk": "це заборонено"
+      },
+      {
+        "id": "C",
+        "fr": "je dois changer de file pour aller à gauche",
+        "uk": "я мушу перестроїтися в лівий ряд"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Quand la circulation est en files ininterrompues, rouler plus vite dans une file de droite n'est pas un dépassement par la droite. En revanche, zigzaguer d'une file à l'autre pour gagner du temps est interdit.",
+    "explanation_uk": "Коли рух іде щільними рядами, швидший рух правого ряду не вважається обгоном справа. А от «шашкувати» між рядами заборонено.",
+    "tags": [
+      "depassement",
+      "autoroute"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q492",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je veux changer de direction. Je mets mon clignotant :",
+    "question_uk": "Я хочу змінити напрямок. Я вмикаю поворотник:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "suffisamment tôt pour prévenir les autres",
+        "uk": "заздалегідь, щоб попередити інших"
+      },
+      {
+        "id": "B",
+        "fr": "au dernier moment",
+        "uk": "в останню мить"
+      },
+      {
+        "id": "C",
+        "fr": "seulement s'il y a quelqu'un derrière",
+        "uk": "лише якщо хтось є позаду"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Le clignotant annonce la manœuvre aux autres usagers ; il doit être mis à temps, même si personne ne semble présent, et éteint ensuite.",
+    "explanation_uk": "Поворотник попереджає інших про маневр; вмикай його вчасно, навіть якщо нікого не видно, і вимикай після маневру.",
+    "tags": [
+      "manoeuvres",
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q493",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Le stationnement en double file :",
+    "question_uk": "Стоянка в другий ряд:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "est interdit",
+        "uk": "заборонена"
+      },
+      {
+        "id": "B",
+        "fr": "est autorisé si je mets mes feux de détresse",
+        "uk": "дозволена, якщо ввімкнути аварійку"
+      },
+      {
+        "id": "C",
+        "fr": "est autorisé pour moins de 5 minutes",
+        "uk": "дозволена менш ніж на 5 хвилин"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les feux de détresse ne rendent pas un stationnement en double file autorisé : il gêne la circulation et est sanctionné.",
+    "explanation_uk": "Аварійка не робить стоянку в другий ряд дозволеною: вона заважає руху й карається штрафом.",
+    "tags": [
+      "stationnement"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q494",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Dans un giratoire à deux voies, je prends la 3e sortie. Il est conseillé de :",
+    "question_uk": "На двосмуговому кільці я виїжджаю на 3-й з'їзд. Радять:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "emprunter la voie intérieure puis me rapprocher de l'extérieur avant ma sortie",
+        "uk": "їхати внутрішньою смугою, а перед з'їздом зміститися назовні"
+      },
+      {
+        "id": "B",
+        "fr": "rester sur la voie extérieure en clignotant à gauche",
+        "uk": "лишатися на зовнішній смузі з лівим поворотником"
+      },
+      {
+        "id": "C",
+        "fr": "m'arrêter sur l'anneau pour laisser passer",
+        "uk": "зупинитися на кільці, щоб пропустити інших"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Pour une sortie éloignée, on utilise généralement la voie intérieure, puis on rejoint la voie extérieure en surveillant les rétroviseurs, clignotant droit avant de sortir.",
+    "explanation_uk": "Для далекого з'їзду зазвичай їдуть внутрішньою смугою, потім, стежачи за дзеркалами, переходять на зовнішню й перед з'їздом вмикають правий поворотник.",
+    "tags": [
+      "intersection"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q495",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "En entrant dans un giratoire signalé par un « Cédez le passage », je regarde surtout :",
+    "question_uk": "В'їжджаючи на кільце зі знаком «Дати дорогу», я насамперед дивлюся:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "à gauche, d'où arrivent les véhicules sur l'anneau",
+        "uk": "ліворуч, звідки їдуть машини по кільцю"
+      },
+      {
+        "id": "B",
+        "fr": "à droite uniquement",
+        "uk": "лише праворуч"
+      },
+      {
+        "id": "C",
+        "fr": "derrière moi",
+        "uk": "назад"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En France, on tourne dans le giratoire dans le sens inverse des aiguilles d'une montre : les véhicules prioritaires arrivent par la gauche.",
+    "explanation_uk": "У Франції кільцем рухаються проти годинникової стрілки: ті, хто має перевагу, під'їжджають зліва.",
+    "tags": [
+      "intersection",
+      "priorite"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q496",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un feu tricolore est en panne (éteint) à une intersection sans panneau :",
+    "question_uk": "Світлофор на перехресті без знаків не працює (вимкнений):",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "la priorité à droite s'applique",
+        "uk": "діє «перешкода справа»"
+      },
+      {
+        "id": "B",
+        "fr": "je suis prioritaire",
+        "uk": "я маю перевагу"
+      },
+      {
+        "id": "C",
+        "fr": "je passe sans ralentir",
+        "uk": "я проїжджаю, не пригальмовуючи"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Si les feux sont éteints et qu'il n'y a aucun panneau, on applique la priorité à droite, avec prudence.",
+    "explanation_uk": "Якщо світлофор вимкнений і знаків немає, діє «перешкода справа», з обережністю.",
+    "tags": [
+      "priorite",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q497",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "En agglomération, les flèches blanches au sol sur ma voie indiquent :",
+    "question_uk": "У місті білі стрілки на дорожньому покритті моєї смуги показують:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "les directions autorisées depuis cette voie",
+        "uk": "дозволені напрямки руху з цієї смуги"
+      },
+      {
+        "id": "B",
+        "fr": "une simple décoration",
+        "uk": "просто прикрасу"
+      },
+      {
+        "id": "C",
+        "fr": "un sens interdit",
+        "uk": "заборону в'їзду"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les flèches de sélection imposent la direction à suivre depuis chaque voie : je me place tôt dans la bonne voie.",
+    "explanation_uk": "Стрілки на смугах визначають напрямок руху з кожної смуги: заздалегідь займай потрібну.",
+    "tags": [
+      "marquage"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q498",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un marquage zébré (hachures blanches) sur la chaussée :",
+    "question_uk": "Біла косокутна розмітка (заштрихована зона) на дорозі:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "ne doit pas être emprunté par les véhicules",
+        "uk": "заборонено заїжджати транспорту"
+      },
+      {
+        "id": "B",
+        "fr": "sert de place de stationnement",
+        "uk": "слугує місцем для стоянки"
+      },
+      {
+        "id": "C",
+        "fr": "est réservé aux dépassements",
+        "uk": "призначена для обгону"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les zébras délimitent une zone où il est interdit de circuler, de s'arrêter et de stationner (îlots, séparations de voies).",
+    "explanation_uk": "Заштриховані ділянки позначають зону, де заборонено їхати, зупинятися й стояти (острівці, розділення смуг).",
+    "tags": [
+      "marquage",
+      "stationnement"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q499",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "La ligne d'arrêt blanche continue au feu ou au STOP :",
+    "question_uk": "Суцільна біла стоп-лінія біля світлофора чи знака STOP:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "indique où je dois m'arrêter",
+        "uk": "показує, де треба зупинитися"
+      },
+      {
+        "id": "B",
+        "fr": "peut être franchie si je ralentis",
+        "uk": "можна переїхати, якщо пригальмував"
+      },
+      {
+        "id": "C",
+        "fr": "est réservée aux cyclistes",
+        "uk": "лише для велосипедистів"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Je m'arrête avant la ligne d'arrêt, sans empiéter sur le passage piéton ou le sas vélo.",
+    "explanation_uk": "Зупиняюся перед стоп-лінією, не заїжджаючи на перехід чи велозону.",
+    "tags": [
+      "marquage",
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q500",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un véhicule prioritaire arrive derrière moi alors que je suis arrêté au feu rouge :",
+    "question_uk": "Позаду мене під'їжджає спецмашина, а я стою на червоне:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux m'avancer prudemment pour libérer le passage",
+        "uk": "я можу обережно просунутися, щоб звільнити проїзд"
+      },
+      {
+        "id": "B",
+        "fr": "je reste immobile quoi qu'il arrive",
+        "uk": "я стою на місці за будь-яких умов"
+      },
+      {
+        "id": "C",
+        "fr": "je recule",
+        "uk": "я здаю назад"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Pour faciliter le passage d'un véhicule prioritaire, je peux me décaler ou avancer légèrement, sans mettre en danger les autres usagers.",
+    "explanation_uk": "Щоб пропустити спецтранспорт, я можу обережно зміститися чи трохи проїхати вперед, не створюючи небезпеки іншим.",
+    "tags": [
+      "priorite"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q501",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Les feux de détresse peuvent être utilisés :",
+    "question_uk": "Аварійну сигналізацію вмикають:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "en cas de panne ou d'accident",
+        "uk": "при поломці чи ДТП"
+      },
+      {
+        "id": "B",
+        "fr": "pour signaler un ralentissement brusque",
+        "uk": "щоб попередити про різке сповільнення"
+      },
+      {
+        "id": "C",
+        "fr": "pour stationner en double file",
+        "uk": "щоб стати в другий ряд"
+      }
+    ],
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation_fr": "Les feux de détresse signalent un danger : panne, accident, ralentissement brusque, remorquage. Ils n'autorisent aucun stationnement interdit.",
+    "explanation_uk": "Аварійка попереджає про небезпеку: поломка, ДТП, різке сповільнення, буксирування. Вона не дозволяє заборонену стоянку.",
+    "tags": [
+      "accident",
+      "signalisation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q502",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je circule dans une rue en sens unique. Pour tourner à gauche, je me place :",
+    "question_uk": "Я їду вулицею з одностороннім рухом. Щоб повернути ліворуч, я стаю:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "sur le côté gauche de la chaussée",
+        "uk": "з лівого боку проїжджої частини"
+      },
+      {
+        "id": "B",
+        "fr": "au milieu de la chaussée",
+        "uk": "посередині"
+      },
+      {
+        "id": "C",
+        "fr": "sur le côté droit",
+        "uk": "з правого боку"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En sens unique, pour tourner à gauche, je serre à gauche de la chaussée après avoir vérifié rétroviseurs et angle mort.",
+    "explanation_uk": "На односторонній вулиці для повороту ліворуч займаю лівий край проїжджої частини, перевіривши дзеркала й сліпу зону.",
+    "tags": [
+      "manoeuvres",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q503",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Un panneau de limitation de vitesse à 70 km/h est placé en agglomération :",
+    "question_uk": "У населеному пункті стоїть знак обмеження 70 км/год:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je peux rouler jusqu'à 70 km/h sur cette section",
+        "uk": "на цій ділянці можна їхати до 70 км/год"
+      },
+      {
+        "id": "B",
+        "fr": "la limite reste 50 km/h",
+        "uk": "ліміт лишається 50 км/год"
+      },
+      {
+        "id": "C",
+        "fr": "je dois rouler à 70 km/h minimum",
+        "uk": "треба їхати щонайменше 70 км/год"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un panneau peut relever la vitesse autorisée en agglomération sur certains axes. Il s'agit toujours d'un maximum, à adapter aux conditions.",
+    "explanation_uk": "Знак може підвищити дозволену швидкість на окремих вулицях міста. Це завжди максимум, який треба підлаштовувати під умови.",
+    "tags": [
+      "vitesse",
+      "signalisation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q504",
+    "theme": "circulation",
+    "image": null,
+    "question_fr": "Je suis arrêté au feu rouge et un piéton traverse alors que le feu passe au vert :",
+    "question_uk": "Я стою на червоне, і вмикається зелений, а пішохід ще переходить:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je le laisse finir de traverser",
+        "uk": "я даю йому закінчити перехід"
+      },
+      {
+        "id": "B",
+        "fr": "je démarre, j'ai le vert",
+        "uk": "рушаю, у мене зелений"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne",
+        "uk": "я сигналю"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Un piéton engagé doit pouvoir terminer sa traversée : le feu vert ne donne pas le droit de le mettre en danger.",
+    "explanation_uk": "Пішохід, який уже переходить, має закінчити перехід: зелений не дає права створювати йому небезпеку.",
+    "tags": [
+      "pietons",
+      "signalisation"
+    ],
+    "difficulty": 1
   }
 ]
