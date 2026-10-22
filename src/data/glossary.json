@@ -1,0 +1,927 @@
+[
+ {
+  "cat": "La route",
+  "fr": "la chaussée",
+  "uk": "проїжджа частина"
+ },
+ {
+  "cat": "La route",
+  "fr": "la voie",
+  "uk": "смуга руху"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'accotement",
+  "uk": "узбіччя"
+ },
+ {
+  "cat": "La route",
+  "fr": "le trottoir",
+  "uk": "тротуар"
+ },
+ {
+  "cat": "La route",
+  "fr": "le terre-plein central",
+  "uk": "розділювальна смуга"
+ },
+ {
+  "cat": "La route",
+  "fr": "la bande d'arrêt d'urgence (BAU)",
+  "uk": "смуга аварійної зупинки"
+ },
+ {
+  "cat": "La route",
+  "fr": "la glissière de sécurité",
+  "uk": "відбійник"
+ },
+ {
+  "cat": "La route",
+  "fr": "la voie d'accélération",
+  "uk": "смуга розгону"
+ },
+ {
+  "cat": "La route",
+  "fr": "la voie de décélération",
+  "uk": "смуга гальмування"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'agglomération",
+  "uk": "населений пункт"
+ },
+ {
+  "cat": "La route",
+  "fr": "le carrefour / l'intersection",
+  "uk": "перехрестя"
+ },
+ {
+  "cat": "La route",
+  "fr": "le giratoire / le rond-point",
+  "uk": "кільцеве перехрестя"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'anneau",
+  "uk": "кільце (смуга навколо)"
+ },
+ {
+  "cat": "La route",
+  "fr": "le virage",
+  "uk": "поворот (дороги)"
+ },
+ {
+  "cat": "La route",
+  "fr": "le sommet de côte",
+  "uk": "вершина підйому"
+ },
+ {
+  "cat": "La route",
+  "fr": "la pente / la descente",
+  "uk": "схил / спуск"
+ },
+ {
+  "cat": "La route",
+  "fr": "le passage à niveau",
+  "uk": "залізничний переїзд"
+ },
+ {
+  "cat": "La route",
+  "fr": "le passage piéton",
+  "uk": "пішохідний перехід"
+ },
+ {
+  "cat": "La route",
+  "fr": "la piste cyclable",
+  "uk": "велодоріжка"
+ },
+ {
+  "cat": "La route",
+  "fr": "la bande cyclable",
+  "uk": "велосмуга"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'impasse",
+  "uk": "глухий кут"
+ },
+ {
+  "cat": "La route",
+  "fr": "le sens unique",
+  "uk": "односторонній рух"
+ },
+ {
+  "cat": "La route",
+  "fr": "le sens interdit",
+  "uk": "в'їзд заборонено"
+ },
+ {
+  "cat": "La route",
+  "fr": "la zone de rencontre",
+  "uk": "зона зустрічі (20 км/год)"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'aire piétonne",
+  "uk": "пішохідна зона"
+ },
+ {
+  "cat": "La route",
+  "fr": "le marquage au sol",
+  "uk": "дорожня розмітка"
+ },
+ {
+  "cat": "La route",
+  "fr": "la ligne continue",
+  "uk": "суцільна лінія"
+ },
+ {
+  "cat": "La route",
+  "fr": "la ligne discontinue",
+  "uk": "переривчаста лінія"
+ },
+ {
+  "cat": "La route",
+  "fr": "le péage",
+  "uk": "пункт оплати"
+ },
+ {
+  "cat": "La route",
+  "fr": "l'aire de repos",
+  "uk": "зона відпочинку"
+ },
+ {
+  "cat": "La route",
+  "fr": "la bretelle",
+  "uk": "з'їзд / в'їзд (на магістраль)"
+ },
+ {
+  "cat": "La route",
+  "fr": "le tunnel",
+  "uk": "тунель"
+ },
+ {
+  "cat": "La route",
+  "fr": "le pont",
+  "uk": "міст"
+ },
+ {
+  "cat": "La route",
+  "fr": "la chaussée glissante",
+  "uk": "слизька дорога"
+ },
+ {
+  "cat": "La route",
+  "fr": "le verglas",
+  "uk": "ожеледь"
+ },
+ {
+  "cat": "La route",
+  "fr": "les gravillons",
+  "uk": "гравій на дорозі"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "céder le passage",
+  "uk": "поступитися дорогою"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la priorité à droite",
+  "uk": "перешкода справа"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "être prioritaire",
+  "uk": "мати перевагу"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "s'arrêter / l'arrêt",
+  "uk": "зупинитися / зупинка"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "stationner / le stationnement",
+  "uk": "стати на стоянку / стоянка"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "dépasser / le dépassement",
+  "uk": "обганяти / обгін"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "se rabattre",
+  "uk": "повернутися у свою смугу після обгону"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "croiser",
+  "uk": "роз'їжджатися із зустрічним"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "s'insérer",
+  "uk": "влитися в потік"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "changer de voie",
+  "uk": "перестроїтися"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "tourner à gauche / à droite",
+  "uk": "повернути ліворуч / праворуч"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "faire demi-tour",
+  "uk": "розвернутися"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "faire marche arrière",
+  "uk": "їхати заднім ходом"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "ralentir",
+  "uk": "пригальмувати"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "freiner",
+  "uk": "гальмувати"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "accélérer",
+  "uk": "прискорюватися"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le feu tricolore",
+  "uk": "світлофор"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le feu clignotant",
+  "uk": "миготливий сигнал"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le panneau",
+  "uk": "дорожній знак"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le panonceau",
+  "uk": "табличка під знаком"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "l'agent de circulation",
+  "uk": "регулювальник"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la distance de sécurité",
+  "uk": "безпечна дистанція"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la distance de freinage",
+  "uk": "гальмівний шлях"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la distance d'arrêt",
+  "uk": "шлях зупинки"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le temps de réaction",
+  "uk": "час реакції"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "l'angle mort",
+  "uk": "сліпа зона"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le bouchon / l'embouteillage",
+  "uk": "затор"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la file",
+  "uk": "ряд (машин)"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "l'aquaplaning",
+  "uk": "аквапланування"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "le dérapage",
+  "uk": "занос"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "la visibilité",
+  "uk": "видимість"
+ },
+ {
+  "cat": "Circulation",
+  "fr": "éblouir",
+  "uk": "засліплювати"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le piéton",
+  "uk": "пішохід"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le cycliste",
+  "uk": "велосипедист"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le cyclomoteur",
+  "uk": "мопед"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le deux-roues motorisé",
+  "uk": "мотоцикл / скутер"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "la trottinette électrique (EDPM)",
+  "uk": "електросамокат"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le poids lourd",
+  "uk": "вантажівка"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "l'autocar / le bus",
+  "uk": "автобус"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le tramway",
+  "uk": "трамвай"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le véhicule prioritaire",
+  "uk": "спецтранспорт"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le véhicule d'intérêt général",
+  "uk": "службовий транспорт"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le gyrophare",
+  "uk": "проблисковий маячок"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "la sirène",
+  "uk": "сирена"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le car de ramassage scolaire",
+  "uk": "шкільний автобус"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "l'usager vulnérable",
+  "uk": "вразливий учасник руху"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le troupeau",
+  "uk": "стадо"
+ },
+ {
+  "cat": "Usagers",
+  "fr": "le cavalier",
+  "uk": "вершник"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le volant",
+  "uk": "кермо"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le siège",
+  "uk": "сидіння"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "l'appui-tête",
+  "uk": "підголівник"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le rétroviseur",
+  "uk": "дзеркало заднього виду"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la ceinture de sécurité",
+  "uk": "пасок безпеки"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "l'airbag / le coussin gonflable",
+  "uk": "подушка безпеки"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la pédale d'embrayage",
+  "uk": "педаль зчеплення"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la pédale de frein",
+  "uk": "педаль гальма"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "l'accélérateur",
+  "uk": "педаль газу"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le levier de vitesses",
+  "uk": "важіль коробки передач"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le point mort",
+  "uk": "нейтральна передача"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le rapport",
+  "uk": "передача"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le frein de stationnement / frein à main",
+  "uk": "стоянкове / ручне гальмо"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le frein moteur",
+  "uk": "гальмування двигуном"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le clignotant",
+  "uk": "поворотник"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les feux de détresse",
+  "uk": "аварійна сигналізація"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le klaxon / l'avertisseur sonore",
+  "uk": "клаксон / звуковий сигнал"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les feux de position",
+  "uk": "габаритні вогні"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les feux de croisement",
+  "uk": "ближнє світло"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les feux de route",
+  "uk": "дальнє світло"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les feux antibrouillard",
+  "uk": "протитуманні фари"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le feu stop",
+  "uk": "стоп-сигнал"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le tableau de bord",
+  "uk": "панель приладів"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le voyant",
+  "uk": "індикатор"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le pneu",
+  "uk": "шина"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la jante",
+  "uk": "колісний диск"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la roue de secours",
+  "uk": "запасне колесо"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la sculpture du pneu",
+  "uk": "протектор"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la pression des pneus",
+  "uk": "тиск у шинах"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le capot",
+  "uk": "капот"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le coffre",
+  "uk": "багажник"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la portière",
+  "uk": "дверцята"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le pare-brise",
+  "uk": "лобове скло"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la lunette arrière",
+  "uk": "заднє скло"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "l'essuie-glace",
+  "uk": "двірник"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le lave-glace",
+  "uk": "омивач скла"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "l'huile moteur",
+  "uk": "моторна олива"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le liquide de refroidissement",
+  "uk": "охолоджувальна рідина"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le liquide de frein",
+  "uk": "гальмівна рідина"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la batterie",
+  "uk": "акумулятор"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le pot d'échappement",
+  "uk": "вихлопна труба"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le régulateur de vitesse",
+  "uk": "круїз-контроль"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le limiteur de vitesse",
+  "uk": "обмежувач швидкості"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la plaque d'immatriculation",
+  "uk": "номерний знак"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le gilet de haute visibilité",
+  "uk": "світловідбивний жилет"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le triangle de présignalisation",
+  "uk": "знак аварійної зупинки"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "les chaînes à neige",
+  "uk": "снігові ланцюги"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "le siège auto / le rehausseur",
+  "uk": "автокрісло / бустер"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la galerie / le coffre de toit",
+  "uk": "багажник на даху"
+ },
+ {
+  "cat": "Le véhicule",
+  "fr": "la remorque",
+  "uk": "причіп"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le permis de conduire",
+  "uk": "посвідчення водія"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le permis probatoire",
+  "uk": "пробні права"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le permis à points",
+  "uk": "бальна система прав"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le retrait de points",
+  "uk": "зняття балів"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le stage de sensibilisation",
+  "uk": "курс безпеки дорожнього руху"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le certificat d'immatriculation (carte grise)",
+  "uk": "свідоцтво про реєстрацію авто"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'assurance",
+  "uk": "страховка"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le contrôle technique",
+  "uk": "техогляд"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "la contre-visite",
+  "uk": "повторний техогляд"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'amende",
+  "uk": "штраф"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'amende forfaitaire",
+  "uk": "фіксований штраф"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "la contravention",
+  "uk": "адміністративне порушення"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le délit",
+  "uk": "кримінальне правопорушення"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "la suspension du permis",
+  "uk": "тимчасове позбавлення прав"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'annulation du permis",
+  "uk": "анулювання прав"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "la fourrière",
+  "uk": "штрафмайданчик"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le délit de fuite",
+  "uk": "втеча з місця ДТП"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le refus d'obtempérer",
+  "uk": "непокора вимозі зупинитися"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le constat amiable",
+  "uk": "європротокол"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le dépistage",
+  "uk": "перевірка (на алкоголь, наркотики)"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'éthylotest",
+  "uk": "алкотестер"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "le taux d'alcoolémie",
+  "uk": "рівень алкоголю в крові"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "les stupéfiants",
+  "uk": "наркотики"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "la conduite accompagnée (AAC)",
+  "uk": "супровідне водіння"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'épreuve théorique générale (ETG)",
+  "uk": "теоретичний іспит"
+ },
+ {
+  "cat": "Réglementation",
+  "fr": "l'inspecteur",
+  "uk": "екзаменатор"
+ },
+ {
+  "cat": "Secours",
+  "fr": "protéger, alerter, secourir",
+  "uk": "захистити, повідомити, допомогти"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le blessé / la victime",
+  "uk": "постраждалий"
+ },
+ {
+  "cat": "Secours",
+  "fr": "inconscient",
+  "uk": "непритомний"
+ },
+ {
+  "cat": "Secours",
+  "fr": "respirer",
+  "uk": "дихати"
+ },
+ {
+  "cat": "Secours",
+  "fr": "saigner / l'hémorragie",
+  "uk": "кровоточити / кровотеча"
+ },
+ {
+  "cat": "Secours",
+  "fr": "la brûlure",
+  "uk": "опік"
+ },
+ {
+  "cat": "Secours",
+  "fr": "la position latérale de sécurité (PLS)",
+  "uk": "безпечне бокове положення"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le massage cardiaque",
+  "uk": "масаж серця"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le défibrillateur (DAE)",
+  "uk": "дефібрилятор"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le sur-accident",
+  "uk": "повторна аварія"
+ },
+ {
+  "cat": "Secours",
+  "fr": "les secours",
+  "uk": "рятувальники"
+ },
+ {
+  "cat": "Secours",
+  "fr": "les sapeurs-pompiers",
+  "uk": "пожежники"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le SAMU",
+  "uk": "швидка медична допомога"
+ },
+ {
+  "cat": "Secours",
+  "fr": "le malaise",
+  "uk": "раптове погіршення самопочуття"
+ },
+ {
+  "cat": "Secours",
+  "fr": "couvrir la victime",
+  "uk": "накрити постраждалого"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "l'éco-conduite",
+  "uk": "еко-водіння"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "la consommation de carburant",
+  "uk": "витрата пального"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "les émissions polluantes",
+  "uk": "шкідливі викиди"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "le pic de pollution",
+  "uk": "пікове забруднення"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "la circulation différenciée",
+  "uk": "диференційований рух"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "la vignette Crit'Air",
+  "uk": "наліпка Crit'Air"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "le covoiturage",
+  "uk": "спільні поїздки"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "le bruit",
+  "uk": "шум"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "la déchetterie",
+  "uk": "пункт приймання відходів"
+ },
+ {
+  "cat": "Environnement",
+  "fr": "le régime moteur (tr/min)",
+  "uk": "оберти двигуна"
+ }
+]

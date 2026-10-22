@@ -1,0 +1,221 @@
+[
+ {
+  "id": "secours-1",
+  "theme": "secours",
+  "order": 1,
+  "title_fr": "Protéger, Alerter, Secourir",
+  "title_uk": "Захистити, Повідомити, Допомогти",
+  "minutes": 6,
+  "tags": [
+   "accident",
+   "gestes"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Face à un accident, je suis la règle **P.A.S.** : **P**rotéger, **A**lerter, **S**ecourir — dans cet ordre.",
+    "uk": "На місці ДТП дій за правилом **P.A.S.**: **З**ахистити, **П**овідомити, **Д**опомогти — саме в такому порядку."
+   },
+   {
+    "t": "h",
+    "fr": "1. Protéger",
+    "uk": "1. Захистити"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Je me gare **après** l'accident, en sécurité, et j'allume mes **feux de détresse**.",
+      "uk": "Паркуюся **після** місця аварії, у безпечному місці, вмикаю **аварійку**."
+     },
+     {
+      "fr": "J'enfile le **gilet** avant de sortir ; je fais sortir les passagers côté sécurité.",
+      "uk": "**Жилет** одягаю до виходу; пасажирів виводжу з безпечного боку."
+     },
+     {
+      "fr": "Je place le **triangle** à au moins **30 m** (ou avant le virage) — sauf sur autoroute si c'est dangereux.",
+      "uk": "Ставлю **трикутник** щонайменше за **30 м** (або перед поворотом), крім автомагістралі, якщо небезпечно."
+     },
+     {
+      "fr": "Je coupe le contact des véhicules accidentés ; pas de cigarette (risque d'incendie).",
+      "uk": "Вимикаю запалювання в аварійних авто; не курити (ризик пожежі)."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "2. Alerter",
+    "uk": "2. Повідомити"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Numéro",
+      "uk": "Номер"
+     },
+     {
+      "fr": "Service",
+      "uk": "Служба"
+     }
+    ],
+    "rows": [
+     [
+      "**112**",
+      "Urgences, dans toute l'Union européenne"
+     ],
+     [
+      "**15**",
+      "SAMU (urgence médicale)"
+     ],
+     [
+      "**17**",
+      "Police / gendarmerie"
+     ],
+     [
+      "**18**",
+      "Sapeurs-pompiers"
+     ],
+     [
+      "**114**",
+      "Par SMS, pour les personnes sourdes ou malentendantes"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Mon message : **numéro** d'où j'appelle, **lieu précis** (route, sens, point kilométrique, repères), **nature** de l'accident, **nombre de victimes** et leur **état** (conscient ? respire ? saigne ?). Je **raccroche seulement quand on me le dit**.",
+    "uk": "Моє повідомлення: **номер**, з якого дзвоню, **точне місце** (дорога, напрямок, кілометр, орієнтири), **що сталося**, **кількість постраждалих** і їхній **стан** (при свідомості? дихає? кровотеча?). **Кладу слухавку лише тоді, коли скажуть.**"
+   },
+   {
+    "t": "h",
+    "fr": "3. Secourir",
+    "uk": "3. Допомогти"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Je **ne déplace pas** un blessé, sauf danger réel et immédiat (feu, risque d'être percuté).",
+      "uk": "**Не переміщую** постраждалого, крім реальної й негайної небезпеки (вогонь, ризик наїзду)."
+     },
+     {
+      "fr": "Je **ne retire pas le casque** d'un motard.",
+      "uk": "**Не знімаю шолом** з мотоцикліста."
+     },
+     {
+      "fr": "Je ne donne **ni à boire ni à manger**.",
+      "uk": "Не даю **ні пити, ні їсти**."
+     },
+     {
+      "fr": "Je **parle** à la victime, je la rassure, je la **couvre**.",
+      "uk": "**Розмовляю** з постраждалим, заспокоюю, **накриваю** його."
+     }
+    ]
+   },
+   {
+    "t": "warn",
+    "fr": "Ne pas porter secours alors qu'on le peut sans risque est un délit : **non-assistance à personne en danger**. Alerter, c'est déjà agir.",
+    "uk": "Не надати допомогу, коли це безпечно, — злочин: **ненадання допомоги людині в небезпеці**. Викликати допомогу — це вже дія."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "P.A.S. : Protéger, Alerter, Secourir.",
+    "uk": "P.A.S.: Захистити, Повідомити, Допомогти."
+   },
+   {
+    "fr": "15 SAMU, 17 police, 18 pompiers, 112 européen, 114 SMS.",
+    "uk": "15 SAMU, 17 поліція, 18 пожежники, 112 загальноєвропейський, 114 SMS."
+   },
+   {
+    "fr": "Ne pas déplacer, ne pas retirer le casque, ne pas donner à boire.",
+    "uk": "Не переміщувати, не знімати шолом, не давати пити."
+   }
+  ]
+ },
+ {
+  "id": "secours-2",
+  "theme": "secours",
+  "order": 2,
+  "title_fr": "Les gestes qui sauvent",
+  "title_uk": "Дії, що рятують життя",
+  "minutes": 7,
+  "tags": [
+   "gestes"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "La victime saigne abondamment",
+    "uk": "Сильна кровотеча"
+   },
+   {
+    "t": "p",
+    "fr": "J'appuie **fort et directement** sur la plaie (avec un tissu propre ou en protégeant ma main), j'allonge la victime et je fais alerter. Je maintiens la compression jusqu'à l'arrivée des secours.",
+    "uk": "**Сильно й безпосередньо** притискаю рану (чистою тканиною або захистивши руку), кладу постраждалого й прошу викликати допомогу. Тримаю тиск до приїзду рятувальників."
+   },
+   {
+    "t": "h",
+    "fr": "La victime est inconsciente mais respire",
+    "uk": "Непритомний, але дихає"
+   },
+   {
+    "t": "p",
+    "fr": "Je vérifie la respiration (je bascule doucement la tête en arrière, j'écoute et regarde le ventre pendant 10 secondes). Si elle respire, je la place en **Position Latérale de Sécurité (PLS)** pour libérer les voies aériennes, puis je surveille.",
+    "uk": "Перевіряю дихання (обережно закидаю голову назад, 10 секунд слухаю й дивлюся на живіт). Якщо дихає — кладу в **безпечне бокове положення (PLS)**, щоб звільнити дихальні шляхи, і стежу."
+   },
+   {
+    "t": "h",
+    "fr": "La victime ne respire pas (arrêt cardiaque)",
+    "uk": "Не дихає (зупинка серця)"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "J'**alerte** (ou je fais alerter) le 15, 18 ou 112.",
+      "uk": "**Викликаю** (або прошу когось) 15, 18 чи 112."
+     },
+     {
+      "fr": "Je **masse** : mains au centre de la poitrine, bras tendus, compressions de 5 à 6 cm, environ **100 à 120 par minute**, sans m'arrêter.",
+      "uk": "Роблю **масаж серця**: руки в центрі грудей, прямі руки, натискання на 5–6 см, приблизно **100–120 на хвилину**, без зупинок."
+     },
+     {
+      "fr": "J'utilise un **défibrillateur (DAE)** dès qu'il arrive : il donne les instructions à voix haute.",
+      "uk": "Використовую **дефібрилятор (DAE)**, щойно його принесуть: він сам дає голосові інструкції."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Brûlure",
+    "uk": "Опік"
+   },
+   {
+    "t": "p",
+    "fr": "J'arrose la brûlure avec de l'**eau tempérée** pendant plusieurs minutes. Pas de corps gras, pas de crème, je ne perce pas les cloques. Si les vêtements collent à la peau, je ne les retire pas.",
+    "uk": "Поливаю опік **прохолодною водою** кілька хвилин. Жодних жирних засобів і кремів, не проколюю пухирі. Якщо одяг прилип до шкіри — не знімаю."
+   },
+   {
+    "t": "tip",
+    "fr": "Une formation courte aux premiers secours (PSC1, quelques heures) permet d'apprendre ces gestes en pratique.",
+    "uk": "Короткий курс першої допомоги (PSC1, кілька годин) дає змогу відпрацювати ці дії на практиці."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Saignement : compression directe.",
+    "uk": "Кровотеча: пряме притискання."
+   },
+   {
+    "fr": "Inconscient qui respire : PLS.",
+    "uk": "Непритомний, але дихає: PLS."
+   },
+   {
+    "fr": "Ne respire pas : alerte + massage + défibrillateur.",
+    "uk": "Не дихає: виклик + масаж + дефібрилятор."
+   }
+  ]
+ }
+]

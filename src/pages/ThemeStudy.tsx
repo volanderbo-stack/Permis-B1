@@ -1,10 +1,14 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { PracticeSession } from '../components/PracticeSession'
 import { ProgressBar } from '../components/ProgressBar'
-import { QuestionCard } from '../components/QuestionCard'
+import { lessonsByTheme } from '../data/courses'
 import { questionsByTheme } from '../data/questions'
 import { themeById } from '../data/themes'
-import { recordAnswer, setLastTheme, useProgress } from '../lib/storage'
+import { shuffle } from '../lib/list'
+import { setLastTheme, useProgress } from '../lib/storage'
+import { themePercent } from '../lib/themeProgress'
+import type { Question } from '../types'
 
 export function ThemeStudy() {
   const { themeId = '' } = useParams()
@@ -16,14 +20,8 @@ function ThemeSession({ themeId }: { themeId: string }) {
   const theme = themeById(themeId)
   const progress = useProgress()
   const questions = useMemo(() => (theme ? questionsByTheme(theme.id) : []), [theme])
-
-  // Починаємо з першого питання, яке ще не засвоєне (остання відповідь не правильна)
-  const [index, setIndex] = useState(() => {
-    const i = questions.findIndex((q) => !progress.questions[q.id]?.lastCorrect)
-    return i === -1 ? 0 : i
-  })
-  const [sessionScore, setSessionScore] = useState({ ok: 0, total: 0 })
-  const [finished, setFinished] = useState(false)
+  const lessons = theme ? lessonsByTheme(theme.id) : []
+  const [session, setSession] = useState<{ title: string; list: Question[] } | null>(null)
 
   useEffect(() => {
     if (theme) setLastTheme(theme.id)
@@ -38,57 +36,25 @@ function ThemeSession({ themeId }: { themeId: string }) {
     )
   }
 
-  if (questions.length === 0) {
-    return (
-      <div className="stack">
-        <h1 className="page-title">
-          {theme.icon} {theme.fr}
-        </h1>
-        <div className="card">
-          <p>Les questions de ce thème arrivent bientôt.</p>
-          <p className="uk">Питання для цієї теми скоро з’являться.</p>
-        </div>
-        <Link to="/themes" className="btn">
-          ← Thèmes
-        </Link>
-      </div>
-    )
+  if (session) {
+    return <PracticeSession title={session.title} questions={session.list} onExit={() => setSession(null)} />
   }
 
-  if (finished) {
-    const pct = Math.round((sessionScore.ok / Math.max(1, sessionScore.total)) * 100)
-    return (
-      <div className="stack">
-        <h1 className="page-title">
-          {theme.icon} {theme.fr}
-        </h1>
-        <div className="card center">
-          <div className="big">
-            {sessionScore.ok}/{sessionScore.total}
-          </div>
-          <p className="muted">bonnes réponses · правильних відповідей</p>
-          <ProgressBar value={pct} />
-        </div>
-        <button
-          type="button"
-          className="btn primary big-btn"
-          onClick={() => {
-            setIndex(0)
-            setSessionScore({ ok: 0, total: 0 })
-            setFinished(false)
-          }}
-        >
-          ↻ Recommencer le thème
-        </button>
-        <Link to="/themes" className="btn">
-          ← Thèmes
-        </Link>
-      </div>
-    )
-  }
+  const stat = (q: Question) => progress.questions[q.id]
+  // «Продовжити»: спершу ще не засвоєні (остання відповідь не правильна), у порядку бази
+  const notMastered = questions.filter((q) => !stat(q)?.lastCorrect)
+  const unseen = questions.filter((q) => !stat(q))
+  const failed = questions.filter((q) => (stat(q)?.wrong ?? 0) > 0)
+  const pct = themePercent(progress, theme.id)
+  const readCount = lessons.filter((l) => progress.lessonsRead.includes(l.id)).length
 
-  const q = questions[index]
-  const isLast = index === questions.length - 1
+  const modes = [
+    { label: '▶ Continuer', sub: `${notMastered.length} à maîtriser`, list: notMastered, primary: true },
+    { label: '🔀 Série aléatoire (20)', sub: 'випадкові 20', list: shuffle(questions).slice(0, 20) },
+    { label: '🆕 Jamais vues', sub: `${unseen.length} нових`, list: shuffle(unseen) },
+    { label: '❗ Déjà ratées', sub: `${failed.length} з помилками`, list: shuffle(failed) },
+    { label: '📋 Toutes dans l’ordre', sub: `${questions.length}`, list: questions },
+  ]
 
   return (
     <div className="stack">
@@ -100,20 +66,49 @@ function ThemeSession({ themeId }: { themeId: string }) {
           <span className="theme-name">
             {theme.icon} {theme.fr}
           </span>
-          <ProgressBar value={Math.round((index / questions.length) * 100)} />
+          <span className="muted small">{theme.uk}</span>
         </div>
+        <span className="pct">{pct}%</span>
       </div>
-      <QuestionCard
-        key={q.id}
-        question={q}
-        counter={`Question ${index + 1} / ${questions.length}`}
-        onAnswered={(ok) => {
-          recordAnswer(q.id, ok)
-          setSessionScore((s) => ({ ok: s.ok + (ok ? 1 : 0), total: s.total + 1 }))
-        }}
-        onNext={() => (isLast ? setFinished(true) : setIndex(index + 1))}
-        nextLabel={isLast ? 'Terminer' : undefined}
-      />
+      <ProgressBar value={pct} />
+
+      {lessons.length > 0 && (
+        <section className="stack-sm">
+          <h2 className="section-title">
+            📖 Cours · {readCount}/{lessons.length} lus
+          </h2>
+          {lessons.map((l) => (
+            <Link key={l.id} to={`/cours/${l.id}`} className="theme-row">
+              <span className="theme-icon" aria-hidden>
+                {progress.lessonsRead.includes(l.id) ? '✅' : '📄'}
+              </span>
+              <span className="theme-main">
+                <span className="theme-name">{l.title_fr}</span>
+                <span className="muted small">
+                  {l.title_uk} · {l.minutes} min
+                </span>
+              </span>
+              <span aria-hidden>›</span>
+            </Link>
+          ))}
+        </section>
+      )}
+
+      <section className="stack-sm">
+        <h2 className="section-title">✍️ Questions · {questions.length}</h2>
+        {modes.map((m) => (
+          <button
+            key={m.label}
+            type="button"
+            className={`btn mode-btn ${m.primary ? 'primary' : ''}`}
+            disabled={m.list.length === 0}
+            onClick={() => setSession({ title: `${theme.icon} ${theme.fr}`, list: m.list })}
+          >
+            <span>{m.label}</span>
+            <span className="small mode-sub">{m.sub}</span>
+          </button>
+        ))}
+      </section>
     </div>
   )
 }

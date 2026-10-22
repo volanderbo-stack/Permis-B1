@@ -1,0 +1,222 @@
+[
+ {
+  "id": "mecanique-1",
+  "theme": "mecanique",
+  "order": 1,
+  "title_fr": "Le tableau de bord et les voyants",
+  "title_uk": "Панель приладів та індикатори",
+  "minutes": 5,
+  "tags": [
+   "voyants",
+   "nuit"
+  ],
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Couleur",
+      "uk": "Колір"
+     },
+     {
+      "fr": "Signification",
+      "uk": "Значення"
+     },
+     {
+      "fr": "Que faire",
+      "uk": "Що робити"
+     }
+    ],
+    "rows": [
+     [
+      "🔴 Rouge",
+      "**Danger / anomalie grave** (huile, température, freins, batterie, airbag)",
+      "**S'arrêter dès que possible** en sécurité"
+     ],
+     [
+      "🟠 Orange",
+      "**Anomalie** (moteur, ABS, pression des pneus, réserve de carburant)",
+      "Faire **vérifier rapidement**"
+     ],
+     [
+      "🟢 Vert",
+      "Fonction en marche (feux de croisement, clignotants)",
+      "Information"
+     ],
+     [
+      "🔵 Bleu",
+      "**Feux de route** allumés",
+      "Les éteindre face à un autre usager"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Au démarrage, tous les voyants s'allument brièvement (test) puis s'éteignent. Un voyant **qui reste allumé** signale un problème.",
+    "uk": "Під час запуску всі індикатори коротко світяться (самоперевірка) і гаснуть. Індикатор, **що лишається ввімкненим**, сигналізує про проблему."
+   },
+   {
+    "t": "h",
+    "fr": "Éclairage et signalisation",
+    "uk": "Освітлення й сигналізація"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Feux de croisement** : ≈ 30 m ; **feux de route** : ≈ 100 m.",
+      "uk": "**Ближнє** ≈ 30 м; **дальнє** ≈ 100 м."
+     },
+     {
+      "fr": "**Antibrouillard arrière** : brouillard et neige uniquement.",
+      "uk": "**Задній протитуманний**: лише туман і сніг."
+     },
+     {
+      "fr": "**Feux de détresse** : panne, accident, ralentissement brusque.",
+      "uk": "**Аварійка**: поломка, ДТП, різке сповільнення."
+     },
+     {
+      "fr": "**Appel lumineux** : pour avertir (la nuit, hors agglomération, à la place du klaxon).",
+      "uk": "**Блимання фарами**: попередження (уночі поза містом замість клаксона)."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Je vérifie régulièrement que tous mes feux fonctionnent (y compris les feux stop) et je garde des **ampoules de rechange** si possible.",
+    "uk": "Регулярно перевіряй, чи працюють усі фари (і стоп-сигнали), і май, якщо можна, **запасні лампи**."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Rouge = arrêt ; orange = vérifier ; vert/bleu = info.",
+    "uk": "Червоний — зупинка; помаранчевий — перевірити; зелений/синій — інформація."
+   },
+   {
+    "fr": "Croisement 30 m, route 100 m.",
+    "uk": "Ближнє 30 м, дальнє 100 м."
+   }
+  ]
+ },
+ {
+  "id": "mecanique-2",
+  "theme": "mecanique",
+  "order": 2,
+  "title_fr": "Pneus, freins et entretien",
+  "title_uk": "Шини, гальма й обслуговування",
+  "minutes": 6,
+  "tags": [
+   "pneus",
+   "voyants"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Pneus",
+    "uk": "Шини"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Profondeur minimale : **1,6 mm** (repérée par les témoins d'usure).",
+      "uk": "Мінімальна глибина протектора: **1,6 мм** (видно за індикаторами зносу)."
+     },
+     {
+      "fr": "**Pression** vérifiée **à froid**, au moins une fois par mois et avant un long trajet ; plus élevée si le véhicule est chargé.",
+      "uk": "**Тиск** перевіряють **на холодних шинах** щонайменше раз на місяць і перед далекою поїздкою; з вантажем — вищий."
+     },
+     {
+      "fr": "Sous-gonflé : usure rapide, surconsommation, freinage plus long, risque d'éclatement.",
+      "uk": "Недокачана шина: швидкий знос, вища витрата, довший гальмівний шлях, ризик розриву."
+     },
+     {
+      "fr": "Mêmes pneus (marque, type, usure) sur un **même essieu**.",
+      "uk": "Однакові шини (марка, тип, знос) на **одній осі**."
+     },
+     {
+      "fr": "**Pneus hiver** ou chaînes : obligatoires en zone de montagne du 1er novembre au 31 mars.",
+      "uk": "**Зимові шини** або ланцюги: обов'язкові в гірських районах з 1 листопада до 31 березня."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Liquides",
+    "uk": "Рідини"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Liquide",
+      "uk": "Рідина"
+     },
+     {
+      "fr": "Contrôle",
+      "uk": "Перевірка"
+     }
+    ],
+    "rows": [
+     [
+      "Huile moteur",
+      "Moteur arrêté, véhicule à plat, avec la jauge"
+     ],
+     [
+      "Liquide de refroidissement",
+      "**Moteur froid** (sous pression à chaud : risque de brûlure)"
+     ],
+     [
+      "Liquide de frein",
+      "Niveau entre min et max ; une baisse = fuite ou plaquettes usées"
+     ],
+     [
+      "Lave-glace",
+      "Rempli, avec antigel en hiver"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Freinage et aides à la conduite",
+    "uk": "Гальмування та системи допомоги"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**ABS** : empêche le blocage des roues ; je freine **fort et sans relâcher**, je peux encore diriger.",
+      "uk": "**ABS**: не дає колесам заблокуватися; гальмую **сильно й не відпускаючи**, ще можу кермувати."
+     },
+     {
+      "fr": "**ESP** : corrige les dérapages, mais ne repousse pas les lois de la physique.",
+      "uk": "**ESP**: виправляє занос, але не скасовує законів фізики."
+     },
+     {
+      "fr": "**Aide au freinage d'urgence**, **freinage automatique**, **régulateur** et **limiteur de vitesse**, **détecteur d'angle mort** : des aides, pas des remplaçants du conducteur.",
+      "uk": "**Допомога при екстреному гальмуванні**, **автоматичне гальмування**, **круїз-контроль** і **обмежувач швидкості**, **датчик сліпої зони** — це помічники, а не заміна водія."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Bruits anormaux au freinage, pédale molle ou véhicule qui tire d'un côté : faire contrôler sans attendre.",
+    "uk": "Дивні звуки при гальмуванні, «м'яка» педаль або авто тягне вбік — негайно на перевірку."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Pneus : 1,6 mm minimum ; pression à froid.",
+    "uk": "Шини: мінімум 1,6 мм; тиск — на холодних."
+   },
+   {
+    "fr": "Refroidissement : contrôler moteur froid.",
+    "uk": "Охолоджувальна рідина — на холодному двигуні."
+   },
+   {
+    "fr": "ABS : freiner fort sans relâcher.",
+    "uk": "ABS: гальмувати сильно, не відпускаючи."
+   }
+  ]
+ }
+]

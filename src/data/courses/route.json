@@ -1,0 +1,360 @@
+[
+ {
+  "id": "route-1",
+  "theme": "route",
+  "order": 1,
+  "title_fr": "L'autoroute",
+  "title_uk": "Автомагістраль",
+  "minutes": 6,
+  "tags": [
+   "autoroute",
+   "vitesse",
+   "accident"
+  ],
+  "blocks": [
+   {
+    "t": "signs",
+    "codes": [
+     "C207",
+     "C208",
+     "C107"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "L'autoroute (panneau **C207**) est la route la plus sûre, mais la vitesse rend les erreurs graves. Elle est **interdite** aux piétons, cycles, cyclomoteurs, véhicules agricoles et aux véhicules lents non autorisés.",
+    "uk": "Автомагістраль (знак **C207**) — найбезпечніша дорога, але через швидкість помилки дуже небезпечні. Вона **заборонена** для пішоходів, велосипедів, мопедів, сільгосптехніки й повільного транспорту."
+   },
+   {
+    "t": "h",
+    "fr": "S'insérer",
+    "uk": "Виїзд на магістраль"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Sur la **voie d'accélération**, je prends une vitesse proche de celle du trafic.",
+      "uk": "На **смузі розгону** набираю швидкість, близьку до швидкості потоку."
+     },
+     {
+      "fr": "Clignotant gauche, rétroviseur, **angle mort**, et je m'insère dans un espace libre.",
+      "uk": "Лівий поворотник, дзеркало, **сліпа зона** — і вливаюся у вільний проміжок."
+     },
+     {
+      "fr": "Les véhicules sur l'autoroute sont **prioritaires** : je ne force pas le passage.",
+      "uk": "Ті, хто вже на магістралі, мають **перевагу**: не протискуюся."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Circuler",
+    "uk": "Рух"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Je roule sur la **voie de droite** ; les autres voies servent à dépasser.",
+      "uk": "Їжджу **правою смугою**; інші — для обгону."
+     },
+     {
+      "fr": "**Interdits** : demi-tour, marche arrière, arrêt sur la chaussée.",
+      "uk": "**Заборонено**: розворот, задній хід, зупинка на проїжджій частині."
+     },
+     {
+      "fr": "Voie de gauche : vitesse minimale **80 km/h** (bonne visibilité).",
+      "uk": "Ліва смуга: мінімум **80 км/год** (за доброї видимості)."
+     },
+     {
+      "fr": "Pour sortir : je me place à droite tôt, clignotant, puis je ralentis sur la **voie de décélération**.",
+      "uk": "Щоб з'їхати: заздалегідь у праву смугу, поворотник, гальмую вже на **смузі гальмування**."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Panne ou accident",
+    "uk": "Поломка чи ДТП"
+   },
+   {
+    "t": "p",
+    "fr": "Je m'arrête **le plus à droite possible** sur la bande d'arrêt d'urgence, feux de détresse, **gilet enfilé avant de sortir**, je fais sortir les passagers **côté droit** et nous passons **derrière la glissière**. J'appelle avec une **borne orange** (tous les 2 km environ) ou le 112. Pas de triangle sur autoroute si c'est dangereux.",
+    "uk": "Зупиняюся **якнайправіше** на смузі аварійної зупинки, аварійка, **жилет одягаю до виходу**, пасажири виходять **праворуч** і всі стаємо **за відбійник**. Дзвоню з **помаранчевої колонки** (приблизно кожні 2 км) або на 112. Трикутник на автомагістралі не ставлять, якщо це небезпечно."
+   },
+   {
+    "t": "warn",
+    "fr": "Si j'ai raté ma sortie, je continue jusqu'à la suivante : jamais de marche arrière ni de demi-tour.",
+    "uk": "Пропустив з'їзд — їдь до наступного: ніколи не здавай назад і не розвертайся."
+   },
+   {
+    "t": "tip",
+    "fr": "Le **corridor de sécurité** : en cas d'intervention, je m'écarte pour laisser un passage aux secours entre les files.",
+    "uk": "**Коридор безпеки**: коли працюють рятувальники, зміщуюся, щоб між рядами лишився проїзд для них."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Insertion : voie d'accélération, angle mort, priorité au trafic.",
+    "uk": "Виїзд: смуга розгону, сліпа зона, перевага в потоку."
+   },
+   {
+    "fr": "Interdits : demi-tour, marche arrière, arrêt (sauf urgence).",
+    "uk": "Заборонено: розворот, задній хід, зупинка (крім аварії)."
+   },
+   {
+    "fr": "Panne : BAU, détresse, gilet, sortie à droite, derrière la glissière.",
+    "uk": "Поломка: смуга аварійної зупинки, аварійка, жилет, вихід праворуч, за відбійник."
+   }
+  ]
+ },
+ {
+  "id": "route-2",
+  "theme": "route",
+  "order": 2,
+  "title_fr": "Pluie, brouillard, neige, nuit",
+  "title_uk": "Дощ, туман, сніг, ніч",
+  "minutes": 7,
+  "tags": [
+   "meteo",
+   "nuit",
+   "vitesse",
+   "distances"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Pluie",
+    "uk": "Дощ"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Vitesses abaissées : 110 sur autoroute, 100 sur chaussées séparées, 70 sur route à 80.",
+      "uk": "Нижчі ліміти: 110 на магістралі, 100 на розділених дорогах, 70 на дорогах з лімітом 80."
+     },
+     {
+      "fr": "Distances de freinage plus longues : j'**augmente la distance de sécurité**.",
+      "uk": "Гальмівний шлях довший: **збільшую дистанцію**."
+     },
+     {
+      "fr": "Les premières gouttes rendent la route très glissante (poussière + gomme).",
+      "uk": "Перші краплі роблять дорогу дуже слизькою (пил + гума)."
+     },
+     {
+      "fr": "**Aquaplaning** : pas de freinage, je lève le pied et tiens le volant droit.",
+      "uk": "**Аквапланування**: не гальмую, відпускаю газ і тримаю кермо прямо."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Brouillard",
+    "uk": "Туман"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Feux de croisement + **feux de brouillard avant** ; **antibrouillard arrière** seulement par brouillard ou neige.",
+      "uk": "Ближнє світло + **передні протитуманні**; **задній протитуманний** — лише в туман чи снігопад."
+     },
+     {
+      "fr": "Visibilité < 50 m : **50 km/h** partout et grande distance de sécurité.",
+      "uk": "Видимість < 50 м: **50 км/год** усюди й велика дистанція."
+     },
+     {
+      "fr": "Jamais de feux de route : la lumière se réfléchit et éblouit.",
+      "uk": "Ніколи дальнє світло: воно відбивається й засліплює."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Neige et verglas",
+    "uk": "Сніг і ожеледь"
+   },
+   {
+    "t": "p",
+    "fr": "Je roule doucement, sans gestes brusques, en utilisant les rapports élevés. Le **verglas** se forme surtout sur les ponts, en sous-bois et dans les zones à l'ombre. Le panneau **B26** impose les chaînes.",
+    "uk": "Їду повільно, без різких рухів, на вищих передачах. **Ожеледь** найчастіше на мостах, у лісі й у затінку. Знак **B26** вимагає ланцюгів."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A4",
+     "B26",
+     "B40"
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "La nuit",
+    "uk": "Уночі"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Feux",
+      "uk": "Фари"
+     },
+     {
+      "fr": "Quand",
+      "uk": "Коли"
+     }
+    ],
+    "rows": [
+     [
+      "Position",
+      "Stationnement la nuit sur route non éclairée ; en roulant, seulement en agglomération bien éclairée"
+     ],
+     [
+      "Croisement (≈ 30 m)",
+      "Agglomération éclairée, croisement ou suivi d'un véhicule, tunnel, pluie"
+     ],
+     [
+      "Route (≈ 100 m)",
+      "Hors agglomération, route non éclairée, personne devant ni en face"
+     ],
+     [
+      "Brouillard avant",
+      "Brouillard, neige, forte pluie"
+     ],
+     [
+      "Brouillard arrière",
+      "Brouillard ou neige **uniquement**"
+     ],
+     [
+      "Détresse",
+      "Panne, accident, ralentissement brusque (bouchon sur autoroute)"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Je passe en feux de croisement dès que je **croise** ou **suis** un véhicule. Si je suis ébloui, je regarde le **bord droit** de la route et je ralentis.",
+    "uk": "Перемикаюся на ближнє, щойно хтось **їде назустріч** або **попереду**. Якщо засліпило — дивлюся на **правий край** дороги й пригальмовую."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Pluie : vitesses réduites et distances augmentées.",
+    "uk": "Дощ: нижчі швидкості й більші дистанції."
+   },
+   {
+    "fr": "Antibrouillard arrière : brouillard ou neige seulement.",
+    "uk": "Задній протитуманний — лише туман чи сніг."
+   },
+   {
+    "fr": "Feux de route ≈ 100 m, croisement ≈ 30 m.",
+    "uk": "Дальнє ≈ 100 м, ближнє ≈ 30 м."
+   }
+  ]
+ },
+ {
+  "id": "route-3",
+  "theme": "route",
+  "order": 3,
+  "title_fr": "Virages, montagne, tunnels, passages à niveau",
+  "title_uk": "Повороти, гори, тунелі, переїзди",
+  "minutes": 6,
+  "tags": [
+   "montagne",
+   "signalisation"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Virages",
+    "uk": "Повороти"
+   },
+   {
+    "t": "p",
+    "fr": "Je **ralentis avant** le virage, en ligne droite, et je reste bien **à droite** de ma voie. Dans le virage, j'accélère légèrement pour stabiliser le véhicule. Freiner fort en plein virage peut provoquer une perte de contrôle.",
+    "uk": "**Гальмуй до** повороту, ще на прямій, і тримайся **правіше** у своїй смузі. У повороті злегка додавай газ для стабільності. Різке гальмування в повороті може призвести до заносу."
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A1a",
+     "A1b",
+     "A1c",
+     "A16"
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Montagne",
+    "uk": "Гори"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "En descente, j'utilise le **frein moteur** (même rapport qu'en montée) pour ne pas surchauffer les freins.",
+      "uk": "На спуску гальмую **двигуном** (та сама передача, що й на підйомі), щоб гальма не перегрілися."
+     },
+     {
+      "fr": "Sur route étroite, le **véhicule qui descend** cède le passage à celui qui monte, au besoin en reculant.",
+      "uk": "На вузькій дорозі **той, хто їде вниз**, поступається тому, хто їде вгору, за потреби здаючи назад."
+     },
+     {
+      "fr": "**Loi Montagne** : du 1er novembre au 31 mars, pneus hiver ou chaînes dans certaines communes.",
+      "uk": "**Закон про гори**: з 1 листопада до 31 березня — зимові шини або ланцюги в певних комунах."
+     }
+    ]
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A19",
+     "A24"
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Tunnels",
+    "uk": "Тунелі"
+   },
+   {
+    "t": "p",
+    "fr": "**Feux de croisement** obligatoires, respect des distances indiquées, interdiction de faire demi-tour, de reculer et de s'arrêter (sauf urgence). En cas d'incendie : je m'arrête, coupe le moteur, laisse la clé et rejoins à pied une **issue de secours**.",
+    "uk": "**Ближнє світло** обов'язкове, дотримуйся вказаних дистанцій, не розвертайся, не здавай назад і не зупиняйся (крім аварії). У разі пожежі: зупинитися, заглушити двигун, залишити ключ і пішки йти до **аварійного виходу**."
+   },
+   {
+    "t": "h",
+    "fr": "Passages à niveau",
+    "uk": "Залізничні переїзди"
+   },
+   {
+    "t": "signs",
+    "codes": [
+     "A7",
+     "A8"
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "**A7** : passage à niveau avec barrières ; **A8** : sans barrière. Je ne m'engage que si je peux **dégager complètement** la voie ferrée. Feux rouges clignotants ou barrières qui se baissent : **arrêt absolu**. Bloqué sur les voies : je fais sortir tout le monde et j'appelle le numéro indiqué.",
+    "uk": "**A7** — переїзд зі шлагбаумом; **A8** — без шлагбаума. Виїжджаю на переїзд, лише якщо можу **повністю його звільнити**. Червоні миготливі вогні чи опускання шлагбаума — **обов'язкова зупинка**. Застряг на коліях — всі виходять, дзвоню за вказаним номером."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Ralentir avant le virage, pas dedans.",
+    "uk": "Гальмуй до повороту, а не в ньому."
+   },
+   {
+    "fr": "Montagne : frein moteur ; le descendant cède.",
+    "uk": "Гори: гальмування двигуном; поступається той, хто їде вниз."
+   },
+   {
+    "fr": "Passage à niveau : ne s'engager que si on peut le dégager.",
+    "uk": "Переїзд: заїжджай, лише якщо зможеш його звільнити."
+   }
+  ]
+ }
+]

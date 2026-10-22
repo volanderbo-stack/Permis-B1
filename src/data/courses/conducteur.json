@@ -1,0 +1,401 @@
+[
+ {
+  "id": "conducteur-1",
+  "theme": "conducteur",
+  "order": 1,
+  "title_fr": "Alcool et stupéfiants",
+  "title_uk": "Алкоголь і наркотики",
+  "minutes": 6,
+  "tags": [
+   "alcool",
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "L'alcool **ralentit les réflexes**, réduit le champ visuel, fausse l'évaluation des distances et donne un **excès de confiance**. Il est en cause dans environ un accident mortel sur trois.",
+    "uk": "Алкоголь **уповільнює реакцію**, звужує поле зору, спотворює оцінку відстаней і дає **надмірну впевненість**. Він причетний приблизно до кожної третьої смертельної аварії."
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Conducteur",
+      "uk": "Водій"
+     },
+     {
+      "fr": "Sang",
+      "uk": "Кров"
+     },
+     {
+      "fr": "Air expiré",
+      "uk": "Видихуване повітря"
+     }
+    ],
+    "rows": [
+     [
+      "Expérimenté",
+      "**0,5 g/l**",
+      "0,25 mg/l"
+     ],
+     [
+      "Permis probatoire",
+      "**0,2 g/l**",
+      "0,10 mg/l"
+     ],
+     [
+      "Conducteur de transport en commun",
+      "0,2 g/l",
+      "0,10 mg/l"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Sanctions",
+    "uk": "Покарання"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "De 0,5 à 0,8 g/l : **contravention** (135 €), **6 points**, suspension possible.",
+      "uk": "Від 0,5 до 0,8 г/л: **адміністративне порушення** (135 €), **мінус 6 балів**, можливе позбавлення прав."
+     },
+     {
+      "fr": "À partir de 0,8 g/l : **délit** — jusqu'à 4 500 € d'amende, 2 ans de prison, 6 points, suspension ou annulation du permis.",
+      "uk": "Від 0,8 г/л: **délit** — до 4 500 € штрафу, до 2 років ув'язнення, мінус 6 балів, позбавлення або анулювання прав."
+     },
+     {
+      "fr": "Le juge peut imposer un **éthylotest antidémarrage** (EAD).",
+      "uk": "Суд може зобов'язати встановити **алкоблокувальник** (EAD)."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Le verre standard",
+    "uk": "Стандартна порція"
+   },
+   {
+    "t": "p",
+    "fr": "Un **verre standard** (25 cl de bière, 10 cl de vin, 3 cl d'alcool fort servis au bar) contient environ **10 g d'alcool** et fait monter le taux d'environ **0,20 à 0,25 g/l**. L'organisme élimine seulement **0,10 à 0,15 g/l par heure**.",
+    "uk": "**Стандартна порція** (250 мл пива, 100 мл вина, 30 мл міцного — як у барі) містить близько **10 г алкоголю** і підвищує рівень приблизно на **0,20–0,25 г/л**. Організм виводить лише **0,10–0,15 г/л на годину**."
+   },
+   {
+    "t": "warn",
+    "fr": "Café, douche froide, chewing-gum ou repas ne font **pas** baisser le taux : seul le **temps** élimine l'alcool.",
+    "uk": "Кава, холодний душ, жуйка чи їжа **не** знижують рівень: алкоголь виводить лише **час**."
+   },
+   {
+    "t": "h",
+    "fr": "Stupéfiants",
+    "uk": "Наркотики"
+   },
+   {
+    "t": "p",
+    "fr": "Conduire après usage de **stupéfiants** (cannabis, cocaïne…) est un **délit**, quelle que soit la quantité : 2 ans de prison, 4 500 €, **6 points**. Le cannabis reste détectable plusieurs heures à plusieurs jours. Alcool + stupéfiants : peines aggravées.",
+    "uk": "Керування після вживання **наркотиків** (канабіс, кокаїн…) — **délit**, незалежно від кількості: 2 роки, 4 500 €, **мінус 6 балів**. Канабіс виявляють від кількох годин до кількох днів. Алкоголь + наркотики — суворіші покарання."
+   },
+   {
+    "t": "tip",
+    "fr": "Si je bois, je ne conduis pas : je désigne un « **Sam** » (celui qui ne boit pas), je prends un taxi ou je dors sur place.",
+    "uk": "Якщо п'ю — не керую: обираю «**Сема**» (того, хто не п'є), викликаю таксі або лишаюся ночувати."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "0,5 g/l (0,2 en probatoire) ; ≥ 0,8 g/l = délit.",
+    "uk": "0,5 г/л (0,2 на пробних правах); від 0,8 г/л — délit."
+   },
+   {
+    "fr": "1 verre standard ≈ 0,20–0,25 g/l ; élimination ≈ 0,10–0,15 g/l par heure.",
+    "uk": "1 порція ≈ 0,20–0,25 г/л; виведення ≈ 0,10–0,15 г/л на годину."
+   },
+   {
+    "fr": "Stupéfiants : délit, 6 points, même en petite quantité.",
+    "uk": "Наркотики: délit, мінус 6 балів, навіть у малій кількості."
+   }
+  ]
+ },
+ {
+  "id": "conducteur-2",
+  "theme": "conducteur",
+  "order": 2,
+  "title_fr": "Fatigue, médicaments, émotions",
+  "title_uk": "Втома, ліки, емоції",
+  "minutes": 5,
+  "tags": [
+   "fatigue"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "La **fatigue** et la **somnolence** sont en cause dans de nombreux accidents sur autoroute. Un **micro-sommeil** de 3 secondes à 130 km/h, c'est plus de 100 m parcourus les yeux fermés.",
+    "uk": "**Втома** й **сонливість** спричиняють багато аварій на автомагістралях. **Мікросон** на 3 секунди на 130 км/год — це понад 100 м із заплющеними очима."
+   },
+   {
+    "t": "h",
+    "fr": "Signes d'alerte",
+    "uk": "Тривожні ознаки"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "bâillements, paupières lourdes, yeux qui piquent ;",
+      "uk": "позіхання, важкі повіки, печіння в очах;"
+     },
+     {
+      "fr": "raideur de la nuque, besoin de bouger ;",
+      "uk": "затерплість шиї, бажання ворушитися;"
+     },
+     {
+      "fr": "difficulté à tenir sa trajectoire, oubli des derniers kilomètres.",
+      "uk": "важко тримати траєкторію, не пам'ятаєш останні кілометри."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "**Seule solution** : s'arrêter dans un endroit sûr et faire une **sieste de 15–20 minutes**. Musique forte et fenêtre ouverte ne suffisent pas. Préventivement : une **pause toutes les 2 heures**, bien dormir avant un long trajet, éviter de rouler entre 2 h et 5 h du matin.",
+    "uk": "**Єдине рішення** — зупинитися в безпечному місці й **поспати 15–20 хвилин**. Гучна музика й відчинене вікно не допомагають. Профілактика: **перерва кожні 2 години**, гарний сон перед поїздкою, не їздити з 2 до 5 ранку."
+   },
+   {
+    "t": "h",
+    "fr": "Médicaments",
+    "uk": "Ліки"
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Pictogramme",
+      "uk": "Піктограма"
+     },
+     {
+      "fr": "Message",
+      "uk": "Значення"
+     }
+    ],
+    "rows": [
+     [
+      "Niveau 1 · jaune",
+      "« Soyez prudent » — ne pas conduire sans lire la notice"
+     ],
+     [
+      "Niveau 2 · orange",
+      "« Soyez très prudent » — ne pas conduire sans l'avis d'un médecin"
+     ],
+     [
+      "Niveau 3 · rouge",
+      "« Attention, danger : **ne pas conduire** »"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "fr": "Certains médicaments (somnifères, anxiolytiques, antihistaminiques…) provoquent somnolence ou troubles de la vision. Leur effet s'**ajoute** à celui de l'alcool.",
+    "uk": "Деякі ліки (снодійні, заспокійливі, протиалергічні…) викликають сонливість чи порушення зору. Їхня дія **посилюється** алкоголем."
+   },
+   {
+    "t": "h",
+    "fr": "Émotions",
+    "uk": "Емоції"
+   },
+   {
+    "t": "p",
+    "fr": "Colère, stress, euphorie ou tristesse **réduisent l'attention** et poussent à prendre des risques. Je reporte le trajet ou je prends le temps de me calmer.",
+    "uk": "Злість, стрес, ейфорія чи смуток **знижують увагу** й штовхають на ризик. Відклади поїздку або спершу заспокойся."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Pause toutes les 2 h ; somnolence = arrêt + sieste.",
+    "uk": "Перерва кожні 2 год; сонливість — зупинка й сон."
+   },
+   {
+    "fr": "Pictogramme rouge (niveau 3) = ne pas conduire.",
+    "uk": "Червона піктограма (рівень 3) — не керувати."
+   },
+   {
+    "fr": "Médicament + alcool = effets cumulés.",
+    "uk": "Ліки + алкоголь — ефекти додаються."
+   }
+  ]
+ },
+ {
+  "id": "conducteur-3",
+  "theme": "conducteur",
+  "order": 3,
+  "title_fr": "Distractions et téléphone",
+  "title_uk": "Відволікання й телефон",
+  "minutes": 4,
+  "tags": [
+   "distraction",
+   "sanctions"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "Être **distrait**, c'est quitter la route des yeux, des mains ou de l'esprit. À 50 km/h, **2 secondes** de regard sur un écran = près de **30 m** parcourus à l'aveugle.",
+    "uk": "**Відволіктися** — це відірвати від дороги очі, руки чи думки. На 50 км/год **2 секунди** погляду на екран — майже **30 м** наосліп."
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "**Téléphone tenu en main** : interdit, 135 € et **3 points**. Combiné à une autre infraction (vitesse, feu…), le permis peut être **suspendu immédiatement**.",
+      "uk": "**Телефон у руці**: заборонено, 135 € і **мінус 3 бали**. Разом з іншим порушенням (швидкість, світлофор…) права можуть **одразу вилучити**."
+     },
+     {
+      "fr": "**Écouteurs, oreillettes, casque** : interdits aussi, même pour écouter de la musique.",
+      "uk": "**Навушники, гарнітура у вусі**: теж заборонені, навіть для музики."
+     },
+     {
+      "fr": "Kit **mains libres intégré** (haut-parleurs du véhicule) : autorisé, mais une conversation reste une distraction.",
+      "uk": "**Вбудована гучномовна система** авто: дозволена, але розмова все одно відволікає."
+     },
+     {
+      "fr": "**Écran** dans le champ de vision : seulement GPS et aides à la conduite ; pas de vidéo.",
+      "uk": "**Екран** у полі зору — лише навігатор і системи допомоги; відео заборонене."
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "fr": "Je règle le GPS **avant de partir** et je mets le téléphone en mode « conduite » ou hors de portée.",
+    "uk": "Налаштуй навігатор **до виїзду**, а телефон перемкни в режим «водіння» або поклади подалі."
+   },
+   {
+    "t": "p",
+    "fr": "Autres distractions : manger, fumer, régler la radio, s'occuper des enfants, regarder un accident. Je m'arrête si une action demande de l'attention.",
+    "uk": "Інші відволікання: їжа, куріння, налаштування радіо, діти на задньому сидінні, розглядання аварії. Якщо дія потребує уваги — зупинися."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Téléphone en main ou écouteurs : 135 € et 3 points.",
+    "uk": "Телефон у руці чи навушники: 135 € і мінус 3 бали."
+   },
+   {
+    "fr": "2 s sans regarder la route à 50 km/h ≈ 30 m à l'aveugle.",
+    "uk": "2 с без погляду на дорогу на 50 км/год ≈ 30 м наосліп."
+   }
+  ]
+ },
+ {
+  "id": "conducteur-4",
+  "theme": "conducteur",
+  "order": 4,
+  "title_fr": "Voir, réagir, s'arrêter",
+  "title_uk": "Бачити, реагувати, зупинитися",
+  "minutes": 6,
+  "tags": [
+   "distances",
+   "vitesse"
+  ],
+  "blocks": [
+   {
+    "t": "h",
+    "fr": "Le champ visuel",
+    "uk": "Поле зору"
+   },
+   {
+    "t": "p",
+    "fr": "Plus la vitesse augmente, plus le **champ visuel se rétrécit** : environ 180° à l'arrêt, 100° à 40 km/h, 30° à 130 km/h. Je bouge régulièrement les yeux : loin devant, rétroviseurs, côtés.",
+    "uk": "Що вища швидкість, то **вужче поле зору**: близько 180° на місці, 100° на 40 км/год, 30° на 130 км/год. Регулярно переводь погляд: далеко вперед, дзеркала, боки."
+   },
+   {
+    "t": "h",
+    "fr": "Temps de réaction",
+    "uk": "Час реакції"
+   },
+   {
+    "t": "p",
+    "fr": "Entre le moment où je vois un danger et celui où je freine, il s'écoule environ **1 seconde** (plus avec fatigue, alcool, téléphone). Distance parcourue en 1 s ≈ **chiffre des dizaines × 3** : à 90 km/h, ≈ 27 m.",
+    "uk": "Від моменту, коли я бачу небезпеку, до початку гальмування минає близько **1 секунди** (більше при втомі, алкоголі, телефоні). Відстань за 1 с ≈ **кількість десятків × 3**: на 90 км/год ≈ 27 м."
+   },
+   {
+    "t": "h",
+    "fr": "Distance de freinage et d'arrêt",
+    "uk": "Гальмівний шлях і шлях зупинки"
+   },
+   {
+    "t": "p",
+    "fr": "Distance d'arrêt = distance de réaction + distance de freinage. Sur route sèche, la distance de freinage ≈ **(chiffre des dizaines)²** ; sur route mouillée, elle augmente d'environ **la moitié**.",
+    "uk": "Шлях зупинки = шлях за час реакції + гальмівний шлях. На сухій дорозі гальмівний шлях ≈ **(кількість десятків)²**; на мокрій — приблизно **в 1,5 раза** більше."
+   },
+   {
+    "t": "table",
+    "head": [
+     {
+      "fr": "Vitesse",
+      "uk": "Швидкість"
+     },
+     {
+      "fr": "Réaction (1 s)",
+      "uk": "Реакція (1 с)"
+     },
+     {
+      "fr": "Freinage sec",
+      "uk": "Гальмування, сухо"
+     },
+     {
+      "fr": "Arrêt sec",
+      "uk": "Зупинка, сухо"
+     }
+    ],
+    "rows": [
+     [
+      "50 km/h",
+      "≈ 15 m",
+      "≈ 25 m",
+      "≈ 40 m"
+     ],
+     [
+      "90 km/h",
+      "≈ 27 m",
+      "≈ 81 m",
+      "≈ 108 m"
+     ],
+     [
+      "130 km/h",
+      "≈ 39 m",
+      "≈ 169 m",
+      "≈ 208 m"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Distance de sécurité",
+    "uk": "Безпечна дистанція"
+   },
+   {
+    "t": "p",
+    "fr": "Je garde au moins **2 secondes** avec le véhicule de devant. Sur autoroute, c'est **2 traits** de la bande d'arrêt d'urgence. Par pluie, je l'augmente. Distance insuffisante : 135 € et **3 points**.",
+    "uk": "Тримай щонайменше **2 секунди** до авто попереду. На автомагістралі це **2 риски** розмітки смуги аварійної зупинки. У дощ — більше. Замала дистанція: 135 € і **мінус 3 бали**."
+   },
+   {
+    "t": "tip",
+    "fr": "Méthode : quand l'arrière du véhicule devant passe un repère (poteau), je compte « un-cent-un, un-cent-deux ». Si j'atteins le repère avant, je suis trop près.",
+    "uk": "Метод: коли задня частина авто попереду проминає орієнтир (стовп), рахуй «сто один, сто два». Якщо доїхав до орієнтира раніше — ти надто близько."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Réaction ≈ 1 s ; distance en 1 s ≈ dizaines × 3.",
+    "uk": "Реакція ≈ 1 с; відстань за 1 с ≈ десятки × 3."
+   },
+   {
+    "fr": "Freinage sec ≈ dizaines² ; mouillé ≈ × 1,5.",
+    "uk": "Гальмування сухо ≈ десятки²; мокро ≈ × 1,5."
+   },
+   {
+    "fr": "Distance de sécurité ≥ 2 secondes.",
+    "uk": "Дистанція ≥ 2 секунди."
+   }
+  ]
+ }
+]

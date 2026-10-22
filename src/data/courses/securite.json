@@ -1,0 +1,143 @@
+[
+ {
+  "id": "securite-1",
+  "theme": "securite",
+  "order": 1,
+  "title_fr": "Ceinture, airbag et enfants",
+  "title_uk": "Пасок, подушки безпеки й діти",
+  "minutes": 6,
+  "tags": [
+   "ceinture",
+   "enfants"
+  ],
+  "blocks": [
+   {
+    "t": "p",
+    "fr": "La ceinture est **obligatoire pour tous**, à l'avant comme à l'arrière, même pour un trajet court. Sans ceinture, un choc à 50 km/h équivaut à une chute de 3 étages. Amende 135 € et **3 points** pour le conducteur non attaché.",
+    "uk": "Пасок **обов'язковий для всіх** — спереду й ззаду, навіть на коротку поїздку. Без паса удар на 50 км/год — як падіння з 3-го поверху. Водію без паса — 135 € і **мінус 3 бали**."
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Le **conducteur** est responsable des **passagers mineurs** non attachés.",
+      "uk": "**Водій** відповідає за непристебнутих **неповнолітніх пасажирів**."
+     },
+     {
+      "fr": "Femme enceinte : ceinture obligatoire, sangle basse **sous le ventre**.",
+      "uk": "Вагітна жінка: пасок обов'язковий, нижня стрічка **під животом**."
+     },
+     {
+      "fr": "L'**airbag** complète la ceinture, il ne la remplace pas.",
+      "uk": "**Подушка безпеки** доповнює пасок, а не замінює його."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Transport des enfants",
+    "uk": "Перевезення дітей"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Jusqu'à **10 ans**, un **dispositif de retenue** adapté à sa taille et à son poids (siège auto, rehausseur) est obligatoire.",
+      "uk": "До **10 років** обов'язковий **утримувальний пристрій** за зростом і вагою (автокрісло, бустер)."
+     },
+     {
+      "fr": "Avant 10 ans, l'enfant voyage **à l'arrière**, sauf exceptions (bébé dos à la route, pas de places arrière…).",
+      "uk": "До 10 років дитина їде **ззаду**, крім винятків (немовля проти руху, немає задніх місць…)."
+     },
+     {
+      "fr": "Siège **dos à la route à l'avant** : **airbag passager désactivé** obligatoirement.",
+      "uk": "Крісло **проти руху на передньому сидінні**: **подушку пасажира обов'язково вимкнути**."
+     },
+     {
+      "fr": "Activer la **sécurité enfants** des portes arrière.",
+      "uk": "Увімкнути **дитячий замок** задніх дверей."
+     }
+    ]
+   },
+   {
+    "t": "warn",
+    "fr": "Un enfant ne voyage jamais sur les genoux d'un adulte : lors d'un choc, il serait projeté ou écrasé.",
+    "uk": "Дитина ніколи не їде на колінах у дорослого: під час удару її відкине або придавить."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Ceinture pour tous ; conducteur responsable des mineurs.",
+    "uk": "Пасок для всіх; за неповнолітніх відповідає водій."
+   },
+   {
+    "fr": "Siège enfant jusqu'à 10 ans ; airbag coupé si dos à la route devant.",
+    "uk": "Автокрісло до 10 років; подушку вимкнути, якщо крісло спереду проти руху."
+   }
+  ]
+ },
+ {
+  "id": "securite-2",
+  "theme": "securite",
+  "order": 2,
+  "title_fr": "Chargement, animaux et sécurité du véhicule",
+  "title_uk": "Вантаж, тварини й безпека авто",
+  "minutes": 5,
+  "tags": [
+   "chargement"
+  ],
+  "blocks": [
+   {
+    "t": "ul",
+    "items": [
+     {
+      "fr": "Les objets lourds vont **dans le coffre**, en bas et contre le dossier ; jamais sur la plage arrière (projectiles en cas de choc).",
+      "uk": "Важкі речі — **в багажник**, донизу й до спинки; ніколи на задню полицю (при ударі стають снарядами)."
+     },
+     {
+      "fr": "Le chargement est **arrimé** et ne doit pas gêner la visibilité ni masquer feux et plaque.",
+      "uk": "Вантаж **закріплений**, не заважає огляду й не закриває ліхтарі та номер."
+     },
+     {
+      "fr": "Un véhicule chargé freine moins bien : j'augmente les distances, j'ajuste la **pression des pneus** et la **hauteur des phares**.",
+      "uk": "Завантажене авто гальмує гірше: більша дистанція, коригую **тиск у шинах** і **нахил фар**."
+     },
+     {
+      "fr": "Galerie, coffre de toit, porte-vélos : plus de prise au vent et de consommation ; un porte-vélos qui masque la plaque ou les feux doit les reproduire.",
+      "uk": "Багажник на даху, велобагажник: більше парусності й витрати; якщо велобагажник закриває номер чи ліхтарі — на ньому мають бути дублікати."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "fr": "Animaux",
+    "uk": "Тварини"
+   },
+   {
+    "t": "p",
+    "fr": "Un animal ne doit **pas gêner le conducteur** : harnais attaché à la ceinture, grille de séparation ou caisse de transport.",
+    "uk": "Тварина **не повинна заважати водієві**: шлейка, пристебнута до паса, сітка-перегородка або переноска."
+   },
+   {
+    "t": "h",
+    "fr": "Prévenir le vol",
+    "uk": "Захист від крадіжки"
+   },
+   {
+    "t": "p",
+    "fr": "Je verrouille les portes, je ferme les vitres, je ne laisse ni objet de valeur visible ni **papiers du véhicule** dans l'habitacle, et je retire la clé même pour un arrêt bref.",
+    "uk": "Замикаю двері, зачиняю вікна, не залишаю цінних речей на видноті та **документів на авто** в салоні, і виймаю ключ навіть під час короткої зупинки."
+   }
+  ],
+  "retenir": [
+   {
+    "fr": "Charge lourde dans le coffre, arrimée.",
+    "uk": "Важкий вантаж — у багажнику, закріплений."
+   },
+   {
+    "fr": "Chargé : distances +, pression +, phares réglés.",
+    "uk": "З вантажем: більша дистанція, вищий тиск, налаштовані фари."
+   }
+  ]
+ }
+]

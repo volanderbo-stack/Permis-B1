@@ -3,11 +3,11 @@ import { useColorScheme } from '../lib/settings'
 
 const NAV = [
   { to: '/', label: 'Accueil', icon: '🏠', end: true },
-  { to: '/themes', label: 'Thèmes', icon: '📚' },
+  { to: '/themes', label: 'Code', icon: '📚' },
   { to: '/examen', label: 'Examen', icon: '⏱️' },
-  { to: '/erreurs', label: 'Erreurs', icon: '❗' },
-  { to: '/panneaux', label: 'Panneaux', icon: '🛑' },
-  { to: '/stats', label: 'Stats', icon: '📈' },
+  { to: '/revision', label: 'Révision', icon: '🔁' },
+  { to: '/conduite', label: 'Conduite', icon: '🚗' },
+  { to: '/plus', label: 'Plus', icon: '☰' },
 ]
 
 export function Layout() {

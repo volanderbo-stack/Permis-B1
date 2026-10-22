@@ -1,0 +1,692 @@
+{
+ "content": {
+  "examen": {
+   "icon": "📋",
+   "fr": "L'examen pratique",
+   "uk": "Практичний іспит",
+   "blocks": [
+    {
+     "t": "warn",
+     "fr": "Le format décrit ici est celui de l'examen du **permis B**, sur lequel s'appuie la préparation. Pour le **B1** (quadricycle lourd), renseigne-toi auprès de ton auto-école ou sur service-public.fr : le déroulement peut être adapté au véhicule.",
+     "uk": "Тут описано формат іспиту **категорії B**, на який зазвичай орієнтуються. Для **B1** (важкий квадрицикл) уточни в автошколі або на service-public.fr: процедура може бути адаптована до транспорту."
+    },
+    {
+     "t": "h",
+     "fr": "Déroulement (≈ 32 minutes)",
+     "uk": "Як проходить (≈ 32 хвилини)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Accueil, vérification d'identité, **installation** au poste de conduite.",
+       "uk": "Зустріч, перевірка документів, **посадка** за кермо."
+      },
+      {
+       "fr": "**Conduite en circulation** (≈ 25 min) : ville, route, parfois voie rapide.",
+       "uk": "**Їзда в потоці** (≈ 25 хв): місто, дорога, іноді швидкісна траса."
+      },
+      {
+       "fr": "**Conduite autonome** (≈ 5 min) : suivre un itinéraire avec les panneaux de direction ou des consignes.",
+       "uk": "**Самостійне водіння** (≈ 5 хв): їхати за вказівниками чи інструкціями."
+      },
+      {
+       "fr": "Une **manœuvre** : créneau, bataille, épi, demi-tour ou marche arrière.",
+       "uk": "Один **маневр**: паралельне паркування, задом у бокс, «ялинка», розворот або рух заднім ходом."
+      },
+      {
+       "fr": "Une **vérification** intérieure ou extérieure + une **question de sécurité routière** liée.",
+       "uk": "Одна **перевірка** (в салоні чи зовні) + пов'язане **питання з безпеки**."
+      },
+      {
+       "fr": "Une **question de premiers secours**.",
+       "uk": "Одне **питання з першої допомоги**."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Notation",
+     "uk": "Оцінювання"
+    },
+    {
+     "t": "p",
+     "fr": "L'inspecteur évalue des **compétences** (maîtrise du véhicule, observation, partage de la route, conduite autonome et économique). Il faut au moins **20 points sur 31** et **aucune erreur éliminatoire**. Des points bonus peuvent récompenser par exemple la courtoisie ou une conduite économe.",
+     "uk": "Екзаменатор оцінює **навички** (керування авто, спостереження, взаємодія з іншими, самостійне й економне водіння). Треба щонайменше **20 балів із 31** і **жодної дискваліфікаційної помилки**. Бонуси можуть дати, наприклад, за ввічливість чи економне водіння."
+    },
+    {
+     "t": "h",
+     "fr": "Erreurs éliminatoires (exemples)",
+     "uk": "Дискваліфікаційні помилки (приклади)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Franchir un **feu rouge** ou ne pas marquer l'arrêt au **STOP**.",
+       "uk": "Проїхати на **червоне** або не зупинитися біля **STOP**."
+      },
+      {
+       "fr": "**Refus de priorité** (véhicule, piéton).",
+       "uk": "**Не поступитися** (транспорту, пішоходу)."
+      },
+      {
+       "fr": "**Intervention** de l'inspecteur ou de l'enseignant sur les pédales ou le volant pour éviter un danger.",
+       "uk": "**Втручання** екзаменатора чи інструктора (педалі, кермо), щоб уникнути небезпеки."
+      },
+      {
+       "fr": "Franchir une **ligne continue**, circuler en **sens interdit**.",
+       "uk": "Перетнути **суцільну**, заїхати під **«цеглу»**."
+      },
+      {
+       "fr": "Mise en danger : vitesse excessive, dépassement dangereux, défaut de contrôle de l'angle mort provoquant un risque.",
+       "uk": "Створення небезпеки: велика швидкість, небезпечний обгін, неперевірена сліпа зона з ризиком."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "fr": "L'inspecteur veut voir un conducteur **sûr et autonome**, pas parfait : une petite erreur rattrapée calmement n'élimine pas.",
+     "uk": "Екзаменатор хоче бачити **безпечного й самостійного** водія, а не ідеального: дрібна помилка, спокійно виправлена, не означає провалу."
+    }
+   ]
+  },
+  "manoeuvres": {
+   "icon": "🅿️",
+   "fr": "Les manœuvres",
+   "uk": "Маневри",
+   "blocks": [
+    {
+     "t": "warn",
+     "fr": "Les repères visuels dépendent du véhicule et de ta position : fais-les valider par ton moniteur.",
+     "uk": "Візуальні орієнтири залежать від авто й твоєї посадки: перевір їх з інструктором."
+    },
+    {
+     "t": "h",
+     "fr": "Règles communes",
+     "uk": "Спільні правила"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "**Lentement** : la manœuvre se fait au pas, en jouant sur l'embrayage ou en relâchant doucement le frein.",
+       "uk": "**Повільно**: маневр — кроком, на зчепленні або плавно відпускаючи гальмо."
+      },
+      {
+       "fr": "**Observer** sans arrêt : rétroviseurs, angle mort, et regard **vers l'arrière** en marche arrière.",
+       "uk": "**Постійно дивитися**: дзеркала, сліпа зона, під час руху назад — **погляд назад**."
+      },
+      {
+       "fr": "**Clignotant** pour annoncer la manœuvre ; je cède le passage aux autres usagers.",
+       "uk": "**Поворотник** перед маневром; поступаюся іншим."
+      },
+      {
+       "fr": "On peut **rectifier** (avancer et reculer) : ce n'est pas une faute si c'est fait calmement.",
+       "uk": "Можна **підправити** (вперед-назад): це не помилка, якщо зроблено спокійно."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Créneau (stationnement en marche arrière, le long du trottoir)",
+     "uk": "Паралельне паркування заднім ходом (créneau)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Je me place parallèlement à la voiture devant la place, à environ 50 cm–1 m, mon rétroviseur au niveau de son pare-chocs arrière ; clignotant.",
+       "uk": "Стаю паралельно авто перед місцем, на відстані ≈ 0,5–1 м, моє дзеркало — на рівні її заднього бампера; поворотник."
+      },
+      {
+       "fr": "Je recule droit jusqu'à ce que l'arrière de ma voiture dépasse l'arrière de l'autre, puis je **braque à fond** vers le trottoir.",
+       "uk": "Їду назад прямо, доки моя корма не мине корму сусіднього авто, і **викручую кермо до упору** до тротуару."
+      },
+      {
+       "fr": "Quand ma voiture forme un angle d'environ 45°, je **remets les roues droites** et je recule.",
+       "uk": "Коли авто стоїть під кутом ≈ 45°, **вирівнюю колеса** й їду назад."
+      },
+      {
+       "fr": "Quand l'avant dépasse l'arrière de la voiture de devant, je **braque à fond dans l'autre sens**, puis je me redresse et je centre la voiture.",
+       "uk": "Коли перед мого авто минає корму переднього, **викручую кермо до упору в інший бік**, потім вирівнююся й ставлю авто по центру."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Bataille (marche arrière en épi à 90°)",
+     "uk": "Паркування заднім ходом у бокс (bataille)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "J'avance au-delà de la place, en restant à environ 1 m des voitures garées.",
+       "uk": "Проїжджаю трохи далі місця, тримаючись ≈ 1 м від припаркованих авто."
+      },
+      {
+       "fr": "Je recule en braquant à fond vers la place quand mon épaule arrive au niveau de la place précédente (repère à valider).",
+       "uk": "Їду назад, викрутивши кермо до місця, коли моє плече на рівні попереднього місця (орієнтир перевір)."
+      },
+      {
+       "fr": "Je surveille les deux rétroviseurs ; je redresse quand la voiture est parallèle aux lignes.",
+       "uk": "Стежу за обома дзеркалами; вирівнюю, коли авто паралельне лініям."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Épi et demi-tour",
+     "uk": "«Ялинка» й розворот"
+    },
+    {
+     "t": "p",
+     "fr": "**Épi** : places en biais, on entre généralement en marche avant en suivant l'angle des lignes. **Demi-tour** : sur une voie peu fréquentée, sans visibilité réduite, en plusieurs manœuvres (avant – arrière – avant), en regardant des deux côtés à chaque changement de sens.",
+     "uk": "**«Ялинка»**: місця під кутом, зазвичай заїжджають передом за кутом розмітки. **Розворот**: на тихій вулиці з добрим оглядом, у кілька прийомів (вперед — назад — вперед), щоразу дивлячись в обидва боки."
+    },
+    {
+     "t": "h",
+     "fr": "Démarrage en côte (boîte manuelle)",
+     "uk": "Рушання на підйомі (механіка)"
+    },
+    {
+     "t": "p",
+     "fr": "Frein à main serré, 1re engagée, j'accélère légèrement et je relâche l'embrayage jusqu'au **point de patinage** (l'avant se soulève un peu), puis je desserre le frein à main en continuant à relâcher l'embrayage.",
+     "uk": "Ручне гальмо затягнуте, 1-ша передача, трохи газу, відпускаю зчеплення до **точки схоплювання** (перед трохи піднімається), далі опускаю ручник, продовжуючи відпускати зчеплення."
+    }
+   ]
+  },
+  "situations": {
+   "icon": "🛣️",
+   "fr": "Situations de conduite",
+   "uk": "Ситуації в русі",
+   "blocks": [
+    {
+     "t": "h",
+     "fr": "Tourner à droite",
+     "uk": "Поворот праворуч"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Rétroviseur droit + **angle mort** (cyclistes, trottinettes), clignotant.",
+       "uk": "Праве дзеркало + **сліпа зона** (велосипеди, самокати), поворотник."
+      },
+      {
+       "fr": "Je serre à droite et je ralentis avant le virage ; je cède aux piétons qui traversent la rue où j'entre.",
+       "uk": "Тримаюся правіше й пригальмовую до повороту; пропускаю пішоходів на вулиці, куди повертаю."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Tourner à gauche",
+     "uk": "Поворот ліворуч"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Rétroviseur gauche + angle mort, clignotant, je me place **près de l'axe** (ou dans la voie de gauche).",
+       "uk": "Ліве дзеркало + сліпа зона, поворотник, стаю **ближче до осі** (або в ліву смугу)."
+      },
+      {
+       "fr": "Je cède aux véhicules **en face** qui vont tout droit ou à droite, puis aux piétons.",
+       "uk": "Поступаюся **зустрічним**, що їдуть прямо чи праворуч, потім пішоходам."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Giratoire",
+     "uk": "Кільце"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Je ralentis, je regarde à **gauche** les véhicules sur l'anneau, je cède le passage.",
+       "uk": "Пригальмовую, дивлюся **ліворуч** на тих, хто на кільці, поступаюся."
+      },
+      {
+       "fr": "**1re sortie** : voie de droite, clignotant droit en entrant.",
+       "uk": "**1-й з'їзд**: права смуга, правий поворотник уже на в'їзді."
+      },
+      {
+       "fr": "**Sorties suivantes** : je peux utiliser la voie intérieure, puis je me rapproche de l'extérieur avant ma sortie.",
+       "uk": "**Далекі з'їзди**: можна внутрішньою смугою, а перед своїм з'їздом зміщуюся назовні."
+      },
+      {
+       "fr": "**Clignotant droit** juste après la sortie précédente la mienne ; attention aux deux-roues à droite.",
+       "uk": "**Правий поворотник** одразу після попереднього з'їзду; стеж за двоколісними справа."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "fr": "Approche d'une intersection",
+     "uk": "Наближення до перехрестя"
+    },
+    {
+     "t": "p",
+     "fr": "Je **ralentis**, j'identifie la règle (panneau, feu, priorité à droite), je **regarde à gauche, à droite puis encore à gauche**, et je décide. En cas de doute, je cède.",
+     "uk": "**Пригальмовую**, визначаю правило (знак, світлофор, «перешкода справа»), **дивлюся ліворуч, праворуч і знову ліворуч**, тоді вирішую. Сумніваєшся — поступися."
+    },
+    {
+     "t": "h",
+     "fr": "Conduite autonome",
+     "uk": "Самостійне водіння"
+    },
+    {
+     "t": "p",
+     "fr": "Repère tôt les **panneaux de direction** (blancs : villes, verts : grands axes, bleus : autoroutes). Si je me trompe de direction, ce n'est pas une faute : je continue en sécurité, l'inspecteur m'aidera à revenir.",
+     "uk": "Заздалегідь шукай **вказівники** (білі — міста, зелені — головні траси, сині — автомагістралі). Помилився з напрямком — це не помилка іспиту: їдь безпечно далі, екзаменатор допоможе повернутися."
+    },
+    {
+     "t": "h",
+     "fr": "Observer comme un pro",
+     "uk": "Спостерігати як профі"
+    },
+    {
+     "t": "ul",
+     "items": [
+      {
+       "fr": "Regard **loin devant** (12–15 secondes), pas seulement sur la voiture devant.",
+       "uk": "Погляд **далеко вперед** (12–15 секунд), а не лише на авто попереду."
+      },
+      {
+       "fr": "Rétroviseur intérieur toutes les 5–8 secondes, et avant tout freinage.",
+       "uk": "Внутрішнє дзеркало кожні 5–8 секунд і перед кожним гальмуванням."
+      },
+      {
+       "fr": "Anticiper : un ballon = un enfant ; une portière qui bouge = quelqu'un qui sort.",
+       "uk": "Передбачай: м'яч — значить дитина; рух дверей — хтось виходить."
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "cards": [
+  {
+   "cat": "interieur",
+   "q_fr": "Allumez les feux de croisement et montrez le voyant.",
+   "q_uk": "Увімкніть ближнє світло й покажіть індикатор.",
+   "a_fr": "Commande au commodo, voyant **vert**. Portée ≈ 30 m ; obligatoires la nuit et dans les tunnels.",
+   "a_uk": "Перемикач на підкермовому важелі, індикатор **зелений**. Дальність ≈ 30 м; обов'язкові вночі й у тунелях."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Allumez les feux de route.",
+   "q_uk": "Увімкніть дальнє світло.",
+   "a_fr": "Voyant **bleu**. Portée ≈ 100 m ; à éteindre dès qu'on croise ou suit un véhicule pour ne pas l'éblouir.",
+   "a_uk": "Індикатор **синій**. Дальність ≈ 100 м; вимикати, коли хтось їде назустріч або попереду."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Allumez le feu de brouillard arrière.",
+   "q_uk": "Увімкніть задній протитуманний ліхтар.",
+   "a_fr": "Voyant **orange**. Seulement par brouillard ou neige : par pluie, il éblouit les conducteurs qui suivent.",
+   "a_uk": "Індикатор **помаранчевий**. Лише в туман чи сніг: у дощ засліплює тих, хто позаду."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Mettez les feux de détresse.",
+   "q_uk": "Увімкніть аварійну сигналізацію.",
+   "a_fr": "Bouton triangle rouge. En cas de panne, d'accident ou de ralentissement brusque (bouchon sur autoroute).",
+   "a_uk": "Кнопка з червоним трикутником. При поломці, ДТП або різкому сповільненні (затор на магістралі)."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Actionnez l'avertisseur sonore.",
+   "q_uk": "Подайте звуковий сигнал.",
+   "a_fr": "Au centre du volant. En agglomération, uniquement en cas de danger immédiat ; la nuit hors agglomération, on préfère les appels lumineux.",
+   "a_uk": "У центрі керма. У місті — лише при безпосередній небезпеці; уночі поза містом краще блимнути фарами."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Mettez la ventilation en position désembuage du pare-brise.",
+   "q_uk": "Увімкніть обдув лобового скла.",
+   "a_fr": "Air dirigé vers le pare-brise, ventilation forte, climatisation si disponible : une bonne visibilité est indispensable.",
+   "a_uk": "Повітря на лобове скло, сильний обдув, кондиціонер, якщо є: добрий огляд — обов'язковий."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Actionnez le dégivrage de la lunette arrière.",
+   "q_uk": "Увімкніть обігрів заднього скла.",
+   "a_fr": "Bouton avec rectangle et flèches ondulées ; voyant orange. Il améliore la visibilité arrière par temps humide ou froid.",
+   "a_uk": "Кнопка з прямокутником і хвилястими стрілками; помаранчевий індикатор. Покращує огляд назад у вологу чи холодну погоду."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Faites fonctionner l'essuie-glace avant en mode intermittent.",
+   "q_uk": "Увімкніть передні двірники в переривчастому режимі.",
+   "a_fr": "Commodo de droite en général. Des balais usés laissent des traces : il faut les remplacer.",
+   "a_uk": "Зазвичай правий підкермовий важіль. Зношені щітки лишають смуги — їх треба міняти."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Montrez la commande de réglage de la hauteur des feux.",
+   "q_uk": "Покажіть регулятор нахилу фар.",
+   "a_fr": "Molette avec symbole de phare. On abaisse le faisceau quand le véhicule est chargé pour ne pas éblouir.",
+   "a_uk": "Коліщатко зі значком фари. Опускають промінь, коли авто завантажене, щоб не засліплювати."
+  },
+  {
+   "cat": "interieur",
+   "q_fr": "Montrez le voyant d'alerte de pression d'huile.",
+   "q_uk": "Покажіть індикатор тиску оливи.",
+   "a_fr": "Burette **rouge**. S'il s'allume en roulant : s'arrêter immédiatement en sécurité et couper le moteur.",
+   "a_uk": "**Червона** маслянка. Якщо загорілася в русі — негайно безпечно зупинитися й заглушити двигун."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Contrôlez le niveau d'huile moteur.",
+   "q_uk": "Перевірте рівень моторної оливи.",
+   "a_fr": "Moteur arrêté, sur sol plat : je sors la jauge, l'essuie, la replonge ; le niveau doit être entre **mini et maxi**.",
+   "a_uk": "Двигун вимкнений, авто на рівній поверхні: витягаю щуп, витираю, вставляю знову; рівень між **min і max**."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Contrôlez le niveau du liquide de refroidissement.",
+   "q_uk": "Перевірте рівень охолоджувальної рідини.",
+   "a_fr": "Vase d'expansion, **moteur froid** uniquement (risque de brûlure). Niveau entre mini et maxi.",
+   "a_uk": "Розширювальний бачок, лише на **холодному двигуні** (ризик опіку). Рівень між min і max."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Contrôlez le niveau du liquide de frein.",
+   "q_uk": "Перевірте рівень гальмівної рідини.",
+   "a_fr": "Petit réservoir avec repères mini/maxi. Une baisse anormale peut signaler une fuite ou des plaquettes usées.",
+   "a_uk": "Невеликий бачок з мітками min/max. Незвичне падіння — можливий витік або зношені колодки."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Contrôlez le niveau du liquide de lave-glace.",
+   "q_uk": "Перевірте рівень рідини омивача.",
+   "a_fr": "Réservoir avec symbole de pare-brise. En hiver, liquide antigel.",
+   "a_uk": "Бачок зі значком лобового скла. Узимку — незамерзайка."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Vérifiez l'état des pneus.",
+   "q_uk": "Перевірте стан шин.",
+   "a_fr": "Pas de coupure ni de hernie sur les flancs ; sculptures au-dessus des **témoins d'usure** (1,6 mm minimum).",
+   "a_uk": "Жодних порізів і грижі на боковинах; протектор вище **індикаторів зносу** (мінімум 1,6 мм)."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Vérifiez le fonctionnement des feux stop.",
+   "q_uk": "Перевірте роботу стоп-сигналів.",
+   "a_fr": "Avec l'aide d'une personne ou en regardant le reflet sur un mur. Ils préviennent les suivants que je freine.",
+   "a_uk": "З допомогою іншої людини або за відблиском на стіні. Вони попереджають задніх, що я гальмую."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Vérifiez la propreté des plaques et des feux.",
+   "q_uk": "Перевірте чистоту номерів і фар.",
+   "a_fr": "Plaques lisibles et feux propres : être vu et identifiable, surtout la nuit ou par mauvais temps.",
+   "a_uk": "Номери читаються, фари чисті: тебе мають бачити й ідентифікувати, особливо вночі й у негоду."
+  },
+  {
+   "cat": "exterieur",
+   "q_fr": "Montrez où se trouve la batterie.",
+   "q_uk": "Покажіть, де акумулятор.",
+   "a_fr": "Sous le capot (parfois dans le coffre). Une batterie usagée se dépose dans un point de collecte.",
+   "a_uk": "Під капотом (іноді в багажнику). Старий акумулятор здають у пункт збору."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Quels numéros d'urgence connaissez-vous ?",
+   "q_uk": "Які номери екстрених служб ви знаєте?",
+   "a_fr": "**15** SAMU, **17** police, **18** pompiers, **112** européen, **114** par SMS (personnes sourdes ou malentendantes).",
+   "a_uk": "**15** SAMU, **17** поліція, **18** пожежники, **112** загальноєвропейський, **114** SMS (для людей з порушеннями слуху)."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Comment protéger une zone de danger après un accident ?",
+   "q_uk": "Як убезпечити місце ДТП?",
+   "a_fr": "Feux de détresse, gilet avant de sortir, triangle à au moins 30 m, faire se mettre les personnes en sécurité.",
+   "a_uk": "Аварійка, жилет до виходу з авто, трикутник щонайменше за 30 м, відвести людей у безпечне місце."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Que dire lors de l'alerte ?",
+   "q_uk": "Що сказати під час виклику?",
+   "a_fr": "Lieu précis, nature de l'accident, nombre de victimes et leur état, numéro d'appel. Raccrocher seulement quand on y est invité.",
+   "a_uk": "Точне місце, що сталося, кількість постраждалих та їхній стан, номер телефону. Класти слухавку лише коли скажуть."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Comment arrêter une hémorragie ?",
+   "q_uk": "Як зупинити кровотечу?",
+   "a_fr": "Appuyer fortement sur la plaie (avec un tissu ou en protégeant sa main), allonger la victime, alerter.",
+   "a_uk": "Сильно притиснути рану (тканиною або захистивши руку), покласти постраждалого, викликати допомогу."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Quand mettre une victime en PLS ?",
+   "q_uk": "Коли класти в безпечне бокове положення (PLS)?",
+   "a_fr": "Si elle est **inconsciente et respire** : la PLS garde les voies aériennes libres.",
+   "a_uk": "Якщо людина **непритомна, але дихає**: PLS зберігає прохідність дихальних шляхів."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Quels sont les signes d'un arrêt cardiaque ?",
+   "q_uk": "Які ознаки зупинки серця?",
+   "a_fr": "La victime ne répond pas et **ne respire pas** (ou respire de façon anormale).",
+   "a_uk": "Людина не реагує й **не дихає** (або дихає ненормально)."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "À quoi sert un défibrillateur (DAE) ?",
+   "q_uk": "Для чого дефібрилятор (DAE)?",
+   "a_fr": "Il analyse le cœur et délivre un choc si nécessaire ; il guide l'utilisateur à voix haute. Tout le monde peut l'utiliser.",
+   "a_uk": "Аналізує роботу серця й дає розряд, якщо потрібно; голосом підказує, що робити. Користуватися може кожен."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Pourquoi ne pas retirer le casque d'un motard blessé ?",
+   "q_uk": "Чому не можна знімати шолом з мотоцикліста?",
+   "a_fr": "Cela peut aggraver une lésion de la colonne vertébrale ; seuls les secours le retirent si nécessaire.",
+   "a_uk": "Це може погіршити травму хребта; знімають лише рятувальники, якщо потрібно."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Quand peut-on déplacer une victime ?",
+   "q_uk": "Коли можна переміщувати постраждалого?",
+   "a_fr": "Seulement en cas de **danger réel, immédiat et non contrôlable** (incendie, risque d'être percuté).",
+   "a_uk": "Лише при **реальній, негайній і некерованій небезпеці** (пожежа, ризик наїзду)."
+  },
+  {
+   "cat": "secours",
+   "q_fr": "Que faire en cas de brûlure ?",
+   "q_uk": "Що робити при опіку?",
+   "a_fr": "Arroser à l'eau tempérée plusieurs minutes, ne rien appliquer, ne pas percer les cloques, alerter si grave.",
+   "a_uk": "Поливати прохолодною водою кілька хвилин, нічого не наносити, не проколювати пухирі, викликати допомогу, якщо серйозно."
+  }
+ ],
+ "skills": [
+  {
+   "id": "c1",
+   "fr": "Maîtriser le véhicule",
+   "uk": "Керування автомобілем",
+   "items": [
+    {
+     "id": "installation",
+     "fr": "S'installer et vérifier le véhicule",
+     "uk": "Посадка й перевірка авто"
+    },
+    {
+     "id": "commandes",
+     "fr": "Utiliser les commandes (volant, pédales, boîte)",
+     "uk": "Користування органами керування"
+    },
+    {
+     "id": "demarrer",
+     "fr": "Démarrer, s'arrêter, rouler doucement",
+     "uk": "Рушати, зупинятися, їхати повільно"
+    },
+    {
+     "id": "direction",
+     "fr": "Tenir sa trajectoire, tourner",
+     "uk": "Тримати траєкторію, повертати"
+    },
+    {
+     "id": "manoeuvres",
+     "fr": "Réaliser les manœuvres (créneau, bataille, demi-tour)",
+     "uk": "Виконувати маневри"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "fr": "Appréhender la route",
+   "uk": "Розуміти дорогу",
+   "items": [
+    {
+     "id": "observation",
+     "fr": "Observer et utiliser les rétroviseurs",
+     "uk": "Спостерігати й користуватися дзеркалами"
+    },
+    {
+     "id": "signalisation",
+     "fr": "Respecter la signalisation",
+     "uk": "Дотримуватися знаків і розмітки"
+    },
+    {
+     "id": "intersections",
+     "fr": "Aborder les intersections et céder le passage",
+     "uk": "Проїжджати перехрестя й поступатися"
+    },
+    {
+     "id": "giratoires",
+     "fr": "Franchir les giratoires",
+     "uk": "Проїжджати кільця"
+    },
+    {
+     "id": "vitesse",
+     "fr": "Adapter sa vitesse",
+     "uk": "Підбирати швидкість"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "fr": "Circuler dans des conditions difficiles et partager la route",
+   "uk": "Складні умови й взаємодія з іншими",
+   "items": [
+    {
+     "id": "insertion",
+     "fr": "S'insérer, changer de voie",
+     "uk": "Вливатися в потік, перестроюватися"
+    },
+    {
+     "id": "depasser",
+     "fr": "Dépasser et croiser",
+     "uk": "Обганяти й роз'їжджатися"
+    },
+    {
+     "id": "vulnerables",
+     "fr": "Partager la route avec piétons, cyclistes, deux-roues",
+     "uk": "Взаємодія з пішоходами, велосипедистами, мотоциклами"
+    },
+    {
+     "id": "voie-rapide",
+     "fr": "Rouler sur voie rapide / autoroute",
+     "uk": "Їзда швидкісною дорогою / магістраллю"
+    },
+    {
+     "id": "nuit-meteo",
+     "fr": "Conduire de nuit ou par mauvais temps",
+     "uk": "Їзда вночі чи в негоду"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "fr": "Conduite autonome, sûre et économique",
+   "uk": "Самостійне, безпечне й економне водіння",
+   "items": [
+    {
+     "id": "autonome",
+     "fr": "Suivre un itinéraire seul",
+     "uk": "Самостійно їхати за маршрутом"
+    },
+    {
+     "id": "anticiper",
+     "fr": "Anticiper les dangers",
+     "uk": "Передбачати небезпеку"
+    },
+    {
+     "id": "eco",
+     "fr": "Conduite souple et économique",
+     "uk": "Плавне й економне водіння"
+    },
+    {
+     "id": "courtoisie",
+     "fr": "Courtoisie et communication",
+     "uk": "Ввічливість і комунікація"
+    },
+    {
+     "id": "verifs",
+     "fr": "Vérifications et questions de l'examen",
+     "uk": "Перевірки та питання іспиту"
+    }
+   ]
+  }
+ ],
+ "jourj": [
+  {
+   "id": "veille",
+   "fr": "La veille : bien dormir, pas d'alcool, revoir les vérifications",
+   "uk": "Напередодні: виспатися, без алкоголю, повторити перевірки"
+  },
+  {
+   "id": "papiers",
+   "fr": "Pièce d'identité valide (et lunettes si nécessaire)",
+   "uk": "Дійсний документ (і окуляри, якщо треба)"
+  },
+  {
+   "id": "heure",
+   "fr": "Arriver en avance au lieu de rendez-vous",
+   "uk": "Прийти заздалегідь"
+  },
+  {
+   "id": "install",
+   "fr": "S'installer calmement : siège, rétroviseurs, ceinture",
+   "uk": "Спокійно сісти: сидіння, дзеркала, пасок"
+  },
+  {
+   "id": "regard",
+   "fr": "Montrer ses contrôles : tourner la tête (rétroviseurs, angle mort)",
+   "uk": "Показувати перевірки: повертати голову (дзеркала, сліпа зона)"
+  },
+  {
+   "id": "vitesse",
+   "fr": "Respecter les limitations, sans rouler trop lentement",
+   "uk": "Дотримуватися лімітів, але не їхати надто повільно"
+  },
+  {
+   "id": "doute",
+   "fr": "En cas de doute, céder le passage",
+   "uk": "Сумніваєшся — поступися"
+  },
+  {
+   "id": "erreur",
+   "fr": "Après une erreur, rester calme et continuer en sécurité",
+   "uk": "Після помилки — спокій і безпечна їзда далі"
+  },
+  {
+   "id": "consigne",
+   "fr": "Ne pas hésiter à faire répéter une consigne",
+   "uk": "Не соромитися перепитати інструкцію"
+  },
+  {
+   "id": "fin",
+   "fr": "À la fin : se garer correctement, frein à main, point mort",
+   "uk": "Наприкінці: правильно припаркуватися, ручник, нейтраль"
+  }
+ ]
+}
