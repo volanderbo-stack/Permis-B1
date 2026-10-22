@@ -3,7 +3,7 @@ import type { Question } from '../types'
 import { toggleIn } from '../lib/list'
 import { canSpeak, questionSpeech, speak, stopSpeaking } from '../lib/speech'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
 import { TranslateButton } from './TranslateButton'
 
 interface Props {
@@ -73,7 +73,7 @@ export function ExamQuestion({ question, seconds, audio, onSubmit }: Props) {
         <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
       </div>
 
-      {question.image && <QuestionImage src={question.image} />}
+      <QuestionMedia question={question} />
 
       <h2 className="qtext">{question.question_fr}</h2>
       {showUk && <p className="uk">{question.question_uk}</p>}

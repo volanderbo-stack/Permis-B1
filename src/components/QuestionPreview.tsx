@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { themeById } from '../data/themes'
 import type { Question } from '../types'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
 import { QuestionTools } from './QuestionTools'
 import { TranslateButton } from './TranslateButton'
 
@@ -28,7 +28,7 @@ export function QuestionPreview({ question, extra }: { question: Question; extra
             <QuestionTools question={question} />
             <TranslateButton on={showUk} onToggle={() => setShowUk((v) => !v)} />
           </div>
-          {question.image && <QuestionImage src={question.image} />}
+          <QuestionMedia question={question} />
           {showUk && <p className="uk">{question.question_uk}</p>}
           <AnswerList answers={question.answers} selected={question.correct} correct={question.correct} revealed showUk={showUk} />
           <div className="feedback ok">

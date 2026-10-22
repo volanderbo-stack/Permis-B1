@@ -5,6 +5,21 @@ import { VitePWA } from 'vite-plugin-pwa'
 // base: './' — щоб збірка працювала з будь-якого підшляху (GitHub Pages)
 export default defineConfig({
   base: './',
+  build: {
+    rolldownOptions: {
+      output: {
+        // питання, уроки й бібліотеки — окремими файлами: при оновленні коду
+        // телефону не треба заново завантажувати всю базу
+        codeSplitting: {
+          groups: [
+            { name: 'questions', test: /src[\\/]data[\\/]questions/ },
+            { name: 'content', test: /src[\\/]data[\\/](courses|driving|glossary|signs)/ },
+            { name: 'vendor', test: /node_modules/ },
+          ],
+        },
+      },
+    },
+  },
   plugins: [
     react(),
     VitePWA({

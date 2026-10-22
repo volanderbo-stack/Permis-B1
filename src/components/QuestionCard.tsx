@@ -3,7 +3,7 @@ import { isAnswerCorrect } from '../data/questions'
 import type { Question } from '../types'
 import { toggleIn } from '../lib/list'
 import { AnswerList } from './AnswerList'
-import { QuestionImage } from './QuestionImage'
+import { QuestionMedia } from './QuestionMedia'
 import { QuestionTools } from './QuestionTools'
 import { TranslateButton } from './TranslateButton'
 
@@ -47,7 +47,7 @@ export function QuestionCard({ question, counter, badge, onAnswered, onNext, nex
         <QuestionTools question={question} />
       </div>
 
-      {question.image && <QuestionImage src={question.image} />}
+      <QuestionMedia question={question} />
 
       <h2 className="qtext">{question.question_fr}</h2>
       {showUk && <p className="uk">{question.question_uk}</p>}

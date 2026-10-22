@@ -35,8 +35,19 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     if (q.answers.length > 4) errors.push(`${where} — більше 4 відповідей`)
     if (answerIds.join('') !== 'ABCD'.slice(0, answerIds.length)) errors.push(`${where} — відповіді мають іти A, B, C, D`)
     const text = q.question_fr.trim().toLowerCase()
-    if (texts.has(text) && !q.image) errors.push(`${where} — такий самий текст, як у ${texts.get(text)}`)
+    if (texts.has(text) && !q.image && !q.scene) errors.push(`${where} — такий самий текст, як у ${texts.get(text)}`)
     texts.set(text, q.id)
+    if (q.scene) {
+      const sides = ['N', 'S', 'E', 'W']
+      const labels = new Set()
+      for (const v of q.scene.vehicles) {
+        if (labels.has(v.label)) errors.push(`${where} — повторювана мітка ${v.label} на схемі`)
+        labels.add(v.label)
+        if (!sides.includes(v.from) || !sides.includes(v.to) || v.from === v.to) errors.push(`${where} — неправильний маршрут ${v.label}`)
+        if (q.scene.road === 'T' && (v.from === 'N' || v.to === 'N')) errors.push(`${where} — на T-перехресті немає півночі`)
+      }
+      for (const s of q.scene.signs ?? []) if (!signCodes.has(s.code)) errors.push(`${where} — знака ${s.code} немає`)
+    }
     const sign = q.image?.match(/^signs\/(.+)\.svg$/)?.[1]
     if (sign && !signCodes.has(sign)) errors.push(`${where} — знака ${sign} немає в signs.json`)
     perTheme[q.theme] = (perTheme[q.theme] ?? 0) + 1

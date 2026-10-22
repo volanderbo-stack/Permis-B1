@@ -1359,5 +1359,829 @@
       "autoroute"
     ],
     "difficulty": 2
+  },
+  {
+    "id": "q401",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Aucun panneau : priorité à droite. B arrive par la droite de A, donc A lui cède le passage.",
+    "explanation_uk": "Знаків немає — «перешкода справа». B під'їжджає справа від A, тому A його пропускає.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q402",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "W",
+          "to": "E"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Priorité à droite : pour B, le véhicule A arrive par la droite. B cède le passage à A.",
+    "explanation_uk": "«Перешкода справа»: для B машина A під'їжджає справа. B поступається A.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q403",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        },
+        {
+          "label": "C",
+          "from": "N",
+          "to": "S"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, B, puis C",
+        "uk": "A, B, потім C"
+      },
+      {
+        "id": "B",
+        "fr": "C, B, puis A",
+        "uk": "C, B, потім A"
+      },
+      {
+        "id": "C",
+        "fr": "B, A, puis C",
+        "uk": "B, A, потім C"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "explanation_fr": "Priorité à droite pour chacun : C n'a personne à sa droite, il passe. Ensuite B (C est parti), puis A qui devait céder à B.",
+    "explanation_uk": "Кожен пропускає того, хто справа: справа від C нікого — він їде першим. Далі B (C уже проїхав), потім A, який мав пропустити B.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q404",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "W",
+          "to": "E"
+        }
+      ],
+      "signs": [
+        {
+          "at": "S",
+          "code": "AB4"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "A a un STOP : il s'arrête et cède le passage à tous, même à B qui arrive par sa gauche.",
+    "explanation_uk": "Перед A знак STOP: він зупиняється й пропускає всіх, навіть B, який їде зліва.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q405",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        },
+        {
+          "label": "C",
+          "from": "W",
+          "to": "E"
+        }
+      ],
+      "signs": [
+        {
+          "at": "S",
+          "code": "AB3a"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "B et C, puis A",
+        "uk": "B і C, потім A"
+      },
+      {
+        "id": "B",
+        "fr": "A, puis B et C",
+        "uk": "A, потім B і C"
+      },
+      {
+        "id": "C",
+        "fr": "B, A, puis C",
+        "uk": "B, A, потім C"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A doit céder le passage aux véhicules de la route qu'il traverse : B et C passent (ils vont tout droit en sens inverse, sans se gêner), puis A.",
+    "explanation_uk": "A має поступитися всім на дорозі, яку перетинає: B і C проїжджають (вони їдуть прямо назустріч одне одному, не заважаючи), потім A.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q406",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "W"
+        },
+        {
+          "label": "B",
+          "from": "N",
+          "to": "S"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "A tourne à gauche : il doit céder le passage au véhicule qui arrive en sens inverse (B), qui va tout droit.",
+    "explanation_uk": "A повертає ліворуч: він має пропустити зустрічний автомобіль (B), що їде прямо.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q407",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        }
+      ],
+      "lights": [
+        {
+          "at": "S",
+          "color": "green"
+        },
+        {
+          "at": "E",
+          "color": "red"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les feux priment sur la priorité à droite : A a le vert et passe, B a le rouge et attend.",
+    "explanation_uk": "Світлофор важливіший за «перешкоду справа»: у A зелений — він їде, у B червоний — він чекає.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q408",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W",
+          "kind": "police"
+        }
+      ]
+    },
+    "question_fr": "Le véhicule B a sa sirène et son gyrophare en marche. Qui passe en premier ?",
+    "question_uk": "У машини B увімкнені сирена й маячок. Хто проїжджає першим?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, car il est prioritaire",
+        "uk": "A, бо має перевагу"
+      },
+      {
+        "id": "B",
+        "fr": "B, véhicule prioritaire en intervention",
+        "uk": "B — спецтранспорт на виклику"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "Un véhicule prioritaire qui utilise ses avertisseurs spéciaux passe avant tout le monde : je facilite son passage.",
+    "explanation_uk": "Спецтранспорт з увімкненими спецсигналами проїжджає першим: я полегшую йому проїзд.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q409",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "T",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "W"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        },
+        {
+          "label": "C",
+          "from": "W",
+          "to": "E"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "B, A, puis C",
+        "uk": "B, A, потім C"
+      },
+      {
+        "id": "B",
+        "fr": "C, B, puis A",
+        "uk": "C, B, потім A"
+      },
+      {
+        "id": "C",
+        "fr": "A, B, puis C",
+        "uk": "A, B, потім C"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Sans panneau, priorité à droite : B n'a personne à sa droite et passe. A cède à B (à sa droite) puis passe. C doit céder à A, qui arrive par sa droite.",
+    "explanation_uk": "Без знаків — «перешкода справа»: справа від B нікого, він їде першим. A пропускає B (справа від нього), потім їде. C поступається A, бо A під'їжджає справа від C.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q410",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "T",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "E"
+        },
+        {
+          "label": "B",
+          "from": "W",
+          "to": "E"
+        }
+      ],
+      "signs": [
+        {
+          "at": "S",
+          "code": "AB4"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "explanation_fr": "A a un STOP : arrêt complet et il cède le passage à B, qui circule sur la route abordée.",
+    "explanation_uk": "Перед A знак STOP: повна зупинка, він пропускає B, який їде дорогою, на яку виїжджає A.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q411",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "E"
+        }
+      ],
+      "pedestrians": [
+        {
+          "at": "E"
+        }
+      ]
+    },
+    "question_fr": "Je suis le véhicule A et je tourne à droite :",
+    "question_uk": "Я — автомобіль A і повертаю праворуч:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "je cède le passage au piéton qui traverse",
+        "uk": "я пропускаю пішохода, що переходить"
+      },
+      {
+        "id": "B",
+        "fr": "le piéton doit attendre que je sois passé",
+        "uk": "пішохід має почекати, поки я проїду"
+      },
+      {
+        "id": "C",
+        "fr": "je klaxonne pour le prévenir",
+        "uk": "я сигналю, щоб його попередити"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "En tournant, je cède le passage aux piétons qui traversent la chaussée dans laquelle je m'engage.",
+    "explanation_uk": "Повертаючи, я пропускаю пішоходів, які переходять дорогу, на яку я заїжджаю.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q412",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W"
+        },
+        {
+          "label": "C",
+          "from": "W",
+          "to": "E"
+        }
+      ],
+      "signs": [
+        {
+          "at": "E",
+          "code": "AB4"
+        },
+        {
+          "at": "W",
+          "code": "AB4"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B et C",
+        "uk": "A, потім B і C"
+      },
+      {
+        "id": "B",
+        "fr": "B et C, puis A",
+        "uk": "B і C, потім A"
+      },
+      {
+        "id": "C",
+        "fr": "C, A, puis B",
+        "uk": "C, A, потім B"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "B et C ont un STOP : ils cèdent le passage à A. Ensuite, ils traversent tout droit en sens inverse sans se gêner.",
+    "explanation_uk": "У B і C знак STOP: вони пропускають A. Потім вони проїжджають прямо назустріч одне одному, не заважаючи.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q413",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "N",
+          "to": "E"
+        }
+      ],
+      "lights": [
+        {
+          "at": "S",
+          "color": "green"
+        },
+        {
+          "at": "N",
+          "color": "green"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les deux ont le vert. B tourne à gauche : il doit céder le passage à A qui arrive en sens inverse et va tout droit.",
+    "explanation_uk": "В обох зелений. B повертає ліворуч: він має пропустити зустрічного A, який їде прямо.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q414",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "E"
+        },
+        {
+          "label": "B",
+          "from": "W",
+          "to": "E"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A, puis B",
+        "uk": "A, потім B"
+      },
+      {
+        "id": "B",
+        "fr": "B, puis A",
+        "uk": "B, потім A"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "Les deux veulent aller vers la même rue. Sans panneau, A arrive par la droite de B : B lui cède le passage.",
+    "explanation_uk": "Обидва їдуть на ту саму вулицю. Знаків немає: A під'їжджає справа від B, тому B його пропускає.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q415",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "N",
+          "to": "S"
+        },
+        {
+          "label": "C",
+          "from": "E",
+          "to": "W"
+        }
+      ],
+      "signs": [
+        {
+          "at": "S",
+          "code": "AB3a"
+        },
+        {
+          "at": "N",
+          "code": "AB3a"
+        }
+      ]
+    },
+    "question_fr": "Dans quel ordre les véhicules passent-ils ?",
+    "question_uk": "У якому порядку проїжджають транспортні засоби?",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "C, puis A et B",
+        "uk": "C, потім A і B"
+      },
+      {
+        "id": "B",
+        "fr": "A et B, puis C",
+        "uk": "A і B, потім C"
+      },
+      {
+        "id": "C",
+        "fr": "A, C, puis B",
+        "uk": "A, C, потім B"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "A et B ont un « Cédez le passage » : ils laissent passer C. Ensuite A et B, qui vont tout droit en sens inverse, passent ensemble.",
+    "explanation_uk": "У A і B знак «Дати дорогу»: вони пропускають C. Потім A і B, що їдуть прямо назустріч, проїжджають разом.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q416",
+    "theme": "circulation",
+    "image": null,
+    "scene": {
+      "road": "cross",
+      "vehicles": [
+        {
+          "label": "A",
+          "from": "S",
+          "to": "N"
+        },
+        {
+          "label": "B",
+          "from": "E",
+          "to": "W",
+          "kind": "bike"
+        }
+      ]
+    },
+    "question_fr": "Aucun panneau. Le cycliste B arrive de droite :",
+    "question_uk": "Знаків немає. Велосипедист B під'їжджає справа:",
+    "answers": [
+      {
+        "id": "A",
+        "fr": "A cède le passage au cycliste",
+        "uk": "A пропускає велосипедиста"
+      },
+      {
+        "id": "B",
+        "fr": "le cycliste doit céder à la voiture",
+        "uk": "велосипедист має пропустити авто"
+      },
+      {
+        "id": "C",
+        "fr": "A klaxonne et passe",
+        "uk": "A сигналить і проїжджає"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "explanation_fr": "La priorité à droite s'applique aussi aux cyclistes : B arrive par la droite de A, il passe en premier.",
+    "explanation_uk": "«Перешкода справа» діє і для велосипедистів: B під'їжджає справа від A, тож проїжджає першим.",
+    "tags": [
+      "priorite",
+      "intersection"
+    ],
+    "difficulty": 1
   }
 ]
